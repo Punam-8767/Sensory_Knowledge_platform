@@ -1,0 +1,78 @@
+target products. The target products are the locations on the preference map that are
+predicted to be most well-liked by either the total respondent base or any of the demo-
+graphic, attitudinal, or preference segments that are of interest to the researchers. The target
+products may fall at a place on the map where no actual products currently exist. In any
+event, through reverse engineering, the sensory proﬁle of the virtual target product can still
+be obtained. By knowing how their current products compare to the target product and by
+understanding the importance that each sensory attribute has on acceptance, researchers
+can prioritize their product-improvement opportunities to maximize returns.
+Identifying preference segments is an integral part of key driver analysis. Preference
+segments are groups of respondents who, internally, have similar patterns of liking for the
+products, but whose liking patterns differ from group to group. Identifying target
+products for each preference segment gives researchers a more realistic view of the possi-
+bilities that exist to satisfy the largest proportion of consumers and they will have a more
+realistic view of what they are giving up by selecting one set of product options
+over another.
+Key drivers analysis and other approaches to preference mapping are discussed in
+detail, along with a case study, in Chapter 14, Section 4.
+Example 12.8: Case Study: Internet Research
+As explained in Section 12.7, Internet research is a valuable tool to gather insights into
+consumers’ perceptions. Research of this type is ideally used throughout the product
+development cycle with added insights gained when used early in the process. Speciﬁc
+techniques/approaches can be implemented to decipher consumers’ needs and prefer-
+ences through an interactive process.
+In the case study presented, the Consumer’s Mind Internet research tool by Future Stra-
+tegies was used for data collection and analysis. One hundred and sixteen female chocolate
+consumers, aged 20–65 years,wererecruited via phone and Internet. Two phasesof research
+were conducted: In phase one, the consumer responded to a series of questions on chocolate
+attributes such as level of sweetness or creamy smooth texture, their reasons for eating
+chocolate, and their selection criteria, including brand and price. For each of the questions,
+consumers were asked how important the attribute is and how satisﬁed they are with their
+current product. In phase two, the respondents were provided with six chocolate samples,
+TABLE 12.2
+Chocolate Is Better Than.?
+Percent
+Answer
+Yes
+No
+A cocktail
+64
+36
+Exercise
+63
+37
+Sports event
+59
+41
+Most food
+59
+42
+Shopping
+56
+47
+Ice cream
+56
+43
+Nothing
+55
+44
+A massage
+52
+58
+A good book
+39
+61
+A good movie
+39
+61
+Jewelry
+35
+65
+Day at the beach
+32
+68
+Sex
+28
+72
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+292

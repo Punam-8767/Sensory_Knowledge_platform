@@ -1,0 +1,68 @@
+Moncrieff (1951) lists 14 conditions that any theory of olfaction must fulﬁll. Beets (1978)
+envisaged the existence of patterns and subpatterns of molecules on the surface of the
+epithelium. Odorous molecular compounds on the incoming air, in their many orien-
+tations and conformations, are attracted and brieﬂy interact with particular sites in the
+pattern. An attractive theory is that of Luca Turin (1996).
+Buck and Axel (1991) received the 2004 Nobel Prize (Altman 2004) for their discovery in
+mammalian olfactory mucosa of a family of approximately 1,000 genes, coding for as
+many different olfactory receptor proteins. This group then found (Axel 1995) that each
+olfactory neuron expresses one, and only one, receptor protein. They also found that the
+neurons that express a given protein all terminate in two and only two of the approxi-
+mately 2,000 glomeruli in the olfactory bulb. It seems to follow that the work of the brain is
+one of sorting and learning. For example, it may learn that if glomeruli numbers 205, 464,
+and 1,723 are strongly stimulated, then geraniol’s odor has been identiﬁed.
+Human sensitivity to various odors may be measured by dual ﬂow olfactometry, using
+n-butanol as a standard (Moskowitz et al. 1974). Subjects show varying sensitivity to odors
+depending on hunger, satiety, mood, concentration, presence or absence of respiratory
+infections, and, in women, menstrual cycle and pregnancy (Maruniak 1988).
+Given the complexity of the receptors and the enormous range shown by the thresholds
+for different compounds, it is not surprising that different people may receive very different
+perceptions from a given odorant. The largest study ever in this area was The National
+Geographic Smell Survey; see Gibbons and Boyd (1986), Gilbert and Wysocki (1987),
+TABLE 2.3
+Some Typical Threshold Values in Air
+Chemical Substance
+Molecules/mL Air
+Allyl mercaptan
+6!107
+Ionone
+1.6!108
+Vanillin
+2!109
+sec-Butyl mercaptan
+2!108
+Butyric acid
+1.4!1011
+6.9!109
+Acetaldehyde
+9.6!1012
+Camphor
+5!1012
+6.4!1012
+4!1014
+Trimethylamine
+2.2!1013
+Phenol
+7.7!1012
+2.6!1013
+1!1013
+1.3!1015
+Methanol
+1.1!1016
+1.9!1016
+Ethanol
+2.4!1015
+2.3!1015
+1.6!1017
+Phenyl ethanol
+1.7!1017
+Ethane
+1.3!1019
+Note:
+The ﬁgures quoted should be treated as orders of magnitude only
+because they may have been derived by different methods.
+Source:
+From R. Harper. 1972. Human Senses in Action, Churchill Livingstone,
+London, 253. With permission.
+Sensory Evaluation Techniques, 4th Ed., Ch. 2
+16

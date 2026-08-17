@@ -1,0 +1,51 @@
+Performing cluster analyses to discriminate patterns of liking may uncover groups of
+respondents that cross over demographic boundaries known to exist prior to running the
+study. As such, cluster analysis has an advantage over this classical approach to
+“segmentation.”
+Another important application of cluster analysis often arises in external preference
+mapping studies (see Section 14.3.2). The number of products that could be included in
+the study may exceed the resources available for consumer testing. If descriptive proﬁles
+are available for all of the potential products, the perceptual map of the products can be
+constructed using PCA. The resulting factor scores of the products can then be submitted
+to a cluster analysis to identify groups of similar products. If, for example, only 10 of the 18
+possible products can be tested with consumers, a 10-cluster solution would be selected.
+One product is selected from each cluster to represent the cluster in the consumer test.
+Using cluster analysis in this way ensures to as great a degree as possible that the range of
+sensory differences present in all 18 products is preserved among the 10 products that are
+tested with consumers.
+After clusters of respondents are identiﬁed, correlation analysis, PCA, and/or
+regression analyses (to be discussed in the next section) can be performed to determine
+the similarity and differences among the clusters in how the perceived attributes relate to
+liking. Multiple products/varieties, “niche” marketing, or line extensions may be indi-
+cated. Lastly, demographic summaries of each cluster could be performed to determine if
+the members form a targetable population for marketing purposes.
+14.2.2
+Dependent and Independent Variables
+For this set of methods, the values of some variable(s) are viewed as being dependent on
+the values of the other (independent) variables in the set. The statistical methods for such
+data either use the independent variables to predict the value of a continuous dependent
+variable, or they use the independent variables to group observations into particular
+categories of a discrete dependent variable. Even when both dependent and independent
+variables are present, a researcher should ﬁrst apply the methods described in the
+previous section to uncover fundamental relationships among all the variables (using
+both correlation and PCA) and to determine if all the observations can be analyzed as a
+single group or if clusters exist that display distinctly different patterns of relationships
+(via cluster analysis). These preliminary analyses help to ensure that a meaningful and
+complete summary of the information contained in the data is obtained.
+14.2.2.1
+Regression Analysis
+Predicting the value of one variable based on the values of one or more other variables has
+become commonplace. Consumer acceptability has been predicted by descriptive data or
+by formula and process values. Descriptive data values have been predicted by instru-
+mental results. The perceived intensity of various responses has been predicted based on
+the intensity (or concentration) of a stimulus using either psychophysical models (e.g.,
+Stevens’ law) or by kinetic models (e.g., the Michaelis–Menten/Beidler equation). All of
+these examples use regression analysis to relate the value of a continuous dependent
+variable to the values of one or more independent variables.
+Regression can be used simply to predict the value of a response or, not so simply, to
+determine what and how changes in one variable cause changes in another. By itself,
+regression analysis does not yield causal relationships. If a researcher comes prepared
+with hypotheses about the dynamics of a system, then regression analysis can be used to
+test the validity of the hypothesized relationships. In general, however, a highly accurate
+Advanced Statistical Methods
+365

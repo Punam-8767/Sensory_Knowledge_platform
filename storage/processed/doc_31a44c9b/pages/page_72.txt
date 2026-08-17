@@ -1,0 +1,43 @@
+However, grading suffers from the considerable drawback that statistical correlation with
+measurable physical or chemical properties is difﬁcult or impossible. Consequently, many
+of the time-honored grading scales are being replaced by the methods described in this
+book. Examples of good grading methods still in use are the Torry scale for freshness of
+ﬁsh (Sanders and Smith 1976), and the USDA scales for butter (USDA 1977) and meat
+(USDA undated).
+5.5
+Ranking
+In ranking, subjects receive three or more samples that are to be arranged in order of
+intensity or degree of some speciﬁed attribute. For example, four samples of yogurt are
+to be ranked for degree of sensory acidity, or ﬁve samples of breakfast cereal may be
+ranked for preference. A full description of ranking tests and their statistical treatment
+will be found in Chapter 7.
+For each subject, the sample ranked ﬁrst is accorded a “1,” that ranked second a
+“2,” and so on. The rank numbers received by each sample are summed, and
+the resulting rank sums indicate the overall rank order of the samples. Rank
+orders cannot meaningfully be used as a measure of intensity, but they are amenable
+to signiﬁcance tests such as the c2-test (see Chapter 13) and Friedman’s test
+(see Chapter 7).
+Ranking tests are rapid and demand relatively little training, although it should not be
+forgotten that the subjects must be thoroughly familiarized with the attribute under test.
+Ranking tests have wide application, but with sample sets above three, they do not
+discriminate as well as tests based on the use of scales.
+5.6
+Scaling
+Scaling techniques involve the use of numbers or words to express the intensity of a
+perceived attribute (sweetness, hardness, smoothness) or a reaction to such attribute
+(e.g., too soft, just right, too hard). If words are used, the analyst may assign numerical
+values to the words (e.g., like extremelyZ9, dislike extremelyZ1) so that the data can be
+treated statistically. As this is written, methods of scaling are under intensive study around
+the world (ISO 1999; Mun˜oz and Civille 1998) and the recommendations that follow
+should be seen as preliminary.
+The validity and reliability of a scaling technique are highly dependent upon:
+† The selection of a scaling technique that is broad enough to encompass the full
+range of parameter intensities and also has enough discrete points to pick up all
+the small differences in intensity between samples.
+† The degree to which the panel has or has not been taught to associate a particular
+sensation (and none other) with the attribute being scaled.
+† The degree to which the panel has or has not been trained to use the scale in
+the same way across all samples and across time (see Chapter 9 on panelist
+training).
+Measuring Responses
+55

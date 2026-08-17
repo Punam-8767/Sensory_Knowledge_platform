@@ -1,0 +1,56 @@
+where t, k, r, l, and p were deﬁned previously and Rj is the rank sum of the jth sample (i.e.,
+the value for sample j in the last row of Table 13.14) (see Durbin 1951). Tables of critical
+values of T in Equation 13.18 are available for selected combinations of tZ3–6, kZ2–5, and
+pZ1–7 (see Skillings and Mack 1981). However, in most sensory studies, the total number
+of blocks exceeds the values in the tables. For these situations, the test procedure is to reject
+the assumption of equivalency among the samples if T in Equation 13.18 exceeds the
+upper-a critical value of a c2-statistic with (tK1) degrees of freedom (see Table 17.5).
+If the c2-statistic is signiﬁcant, then a multiple comparison procedure is performed to
+determine which of the samples differ signiﬁcantly. The nonparametric analog to Fisher’s
+LSD for rank sums from a BIB design is
+LSDrank Z za=2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+pðk C1ÞðrkKr ClÞ=6
+p
+Z ta=2;N
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+pðk C1ÞðrkKr ClÞ=6
+p
+:
+(13.19)
+13.5.5
+Latin-Square Designs
+In randomized block and balanced incomplete block designs, a single source of variability
+(i.e., judges) is recognized and compensated for before the sensory panel study is
+conducted. When two sources of variability are known to exist before the panel is run,
+then a Latin-square design should be used. For example, it is commonly recognized that
+panelists can vary in how they perceive attributes from session to session (i.e., a session
+effect) and according to the order in which they evaluate the samples (i.e., a context effect).
+A Latin-square design can be used to compensate for these two sources of variability and,
+as a result, yield more sensitive comparisons of the differences among the samples.
+The number of samples must be small enough so that all of them can be evaluated in
+each session (t%5, typically). Furthermore, each panelist must be able to return repeatedly
+for a number of sessions equal to the number of samples in the study (i.e., t represents the
+number of samples and the number of sessions in a Latin-square design). For each pane-
+list, each sample is presented once in each session. Across the t-sessions, each sample is
+presented once in each serving position. As can be seen in Figure 13.14, the equal allo-
+cation of the samples to each serving order/session combination can be displayed in a
+square array, thus giving rise to the term “Latin-square.”
+A separate randomization of serving orders is used for each judge. This can be carried
+out, for example, by ﬁrst randomly assigning the codes S1, S2, S3, S4, and S5 in Figure 13.14
+to the samples for each judge separately. Then, again for each judge, a particular order
+(i.e., row of Figure 13.14) is randomly selected for each session.
+ANOVA is used to analyze data from a Latin-square design (see Table 13.16). The total
+variability is partitioned into the separate effects of judges, panel sessions, order of evalu-
+ations, samples, and error. If the F-statistic in Table 13.16 exceeds the critical value of an
+F with the corresponding degrees of freedom, then the null hypothesis assumption of
+equivalent mean ratings among the samples is rejected. Fisher’s LSD for Latin-square
+designs has the form:
+LSD Z ta=2;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2MSE=pt
+p
+;
+where p is the number of panelists.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+346

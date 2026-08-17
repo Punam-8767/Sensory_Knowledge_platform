@@ -1,0 +1,119 @@
+D. Intensity Scale Values (0–15) for Solid Oral Texture Attributes
+Scale Value
+Reference
+Brand/Type/Manufacturer
+Sample Size
+1. Standard Roughness Scalea
+0.0
+Gelatin dessert
+Jello
+2 tbsp
+5.0
+Orange peel
+Peel from fresh orange
+1⁄2 in. piece
+8.0
+Potato chips
+Pringles
+5 pieces
+12.0
+Hard granola bar
+Quaker Oats
+1⁄2 bar
+15.0
+Rye wafer
+Finn Crisp
+1⁄2 in. sq.
+Technique:
+Hold sample in mouth; feel the surface to be evaluated with the lips and tongue.
+Deﬁnition:
+The amount of particles in the surface.
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Rough]
+2. Standard Wetness Scale
+0.0
+Unsalted Premium
+cracker
+Nabisco
+1 cracker
+3.0
+Carrots
+Uncooked, fresh, unpeeled
+1⁄2 in. slice
+7.5
+Apples
+Red Delicious, uncooked, fresh,
+unpeeled
+1⁄2 in. slice
+10.0
+Ham
+Oscar Mayer
+1⁄2 in. piece
+15.0
+Water
+ﬁltered, room temp.
+1⁄2 tbsp
+Technique:
+Hold the sample in mouth; feel surface with lips and tongue.
+Deﬁnition:
+The amount of moisture, due to an aqueous system, on the surface.
+[Dry - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Wet]
+3. Standard Stickiness to Lips Scale
+0.0
+Cherry tomato
+Uncooked, fresh, unpeeled
+1⁄2 in. slice
+4.0
+Nougat (Remove
+chocolate ﬁrst)
+Three Musketeers/Mars
+1⁄2 in. cube
+7.5
+Breadstick
+Stella D’oro/Nabisco
+1⁄2 stick
+10.0
+Pretzel rod
+Bachman
+1 piece
+15.0
+Rice Krispies
+Kellogg’s
+1 tsp
+Technique:
+Hold sample near mouth; compress sample lightly between lips and release.
+Deﬁnition:
+The degree to which the surface of the sample adheres to the lips.
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Very]
+4. Standard Springiness Scale
+0.0
+Cream cheese
+Kraft Foods/
+Philadelphia
+1⁄2 in. cube
+5.0
+Frankfurter
+Cooked 10 min/Hebrew National
+1⁄2 in. slice
+9.5
+Marshmallow
+Miniature marshmallow/Kraft
+Foods
+3 pieces
+15.0
+Gelatin dessert
+Jello, Knox (see Note)
+1⁄2 in. cube
+Technique:
+Place sample between molars; compress partially without breaking the sample structure;
+release.
+Deﬁnition:
+(1) The degree to which sample returns to original shape or
+(2) The rate with which sample returns to original shape.
+[Not springy - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Very springy]
+Note:
+One package Jello and one package Knox gelatin are dissolved in 11⁄2 cups hot water and
+refrigerated for 24 h.
+a. The roughness scale measures the amount of irregular particles in the surface. These may be small
+(chalky, powdery), medium (grainy), or large (bumpy).
+The Spectrume Descriptive Analysis Method: Appendix 11.2
+217

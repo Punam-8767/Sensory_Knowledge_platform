@@ -1,0 +1,53 @@
+Example 6.15: Sequential Duo–Trio Tests—Warmed-Over Flavor in Beef Patties
+Project objective: The routine QC panel at an Army food engineering station has detected
+warmed-over ﬂavor (WOF) in beef patties refrigerated for ﬁve days and then reheated.
+The project leader, knowing that “an army marches on its stomach,” wishes to set a
+realistic maximum for the number of days beef patties can be refrigerated.
+Test objective: To determine, for samples stored 1 day, 3 days, and 5 days, whether a
+difference can be detected vs. a freshly grilled control.
+Test design: Preliminary tests show that in duo–trio tests, 5-day patties show strong WOF
+and 1-day patties none, hence a sequential test design is appropriate; a decision for these
+two samples could occur with few responses.
+The three sample pairs (control vs. 1-day; control vs. 3-day; control vs. 5-day) are
+presented in separate duo–trio tests, in which the control and storage samples are presented
+as the reference for every other subject. As each subject completes one test, the result is
+added to previous responses, and the cumulative results are plotted (see later). The test
+series continues until the storage sample is declared similar to or different from the control.
+Analyze results: The results obtained are shown in Table 6.5. Here a is the probability of
+declaring a sample different from the control, when no difference exists; b is the prob-
+ability of declaring a sample similar to the control, when it is really different.
+The sensory analyst and the project leader decide to set both aZ0.10 and bZ0.10. They
+set p0Z0.50, the null hypothesis p-value of a duo–trio test. Further, they decide that the
+maximum proportion of the population that can distinguish the fresh and stored samples
+should not exceed 40%. Therefore, the value of p1 is
+p1 Z ð0:40Þð1:0Þ Cð0:60Þð0:50Þ Z 0:70;
+(from: p1ZPr[distinguisher]Pr[correct response given by a distinguisher] C Pr[nondistin-
+guisher]Pr[correct response given by a nondistinguisher]).
+Samples stored for one day
+Samples stored for three days
+Samples stored for five days
+Samples are
+different
+Samples are
+similar
+Continue
+testing
+Number of trials
+1
+5
+10
+15
+20
+25
+30
+Number of correct responses
+25
+20
+15
+10
+5
+0
+FIGURE 6.21
+Test plot of results from Example 6.15: sequential duo–trio tests, warmed-over ﬂavor in beef patties.
+Overall Difference Tests: Sequential Tests
+103

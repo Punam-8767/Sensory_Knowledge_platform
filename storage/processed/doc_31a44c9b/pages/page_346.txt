@@ -1,0 +1,102 @@
+(or, equivalently, H0: m1Km2Z0). The alternative hypothesis is Ha: m1sm2 (i.e., a two-sided
+alternative).
+The test statistic used to test the hypothesis is a two-sample t-test. The form of the test
+statistic is
+t Z
+ðx1Kx2ÞKd0
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ðn1K1Þ s2
+1Cðn2K1Þ s2
+2
+n1Cn2K2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+1
+n1 C 1
+n2
+q
+r
+;
+(13.7)
+where d0 is the difference speciﬁed in the null hypothesis (d0Z0 in the present example).
+Substituting the values from Table 13.6 into Equation 13.7 yields:
+t Z
+ð6:557K6:778ÞK0
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð7K1Þð0:580Þ2Cð9K1Þð0:460Þ2
+7C9K2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+1
+7 C 1
+9
+q
+r
+Z
+K0:221
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+0:265
+p
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+0:254
+p
+ZK0:85:
+The value of tZK0.85 is compared to the critical value of a t-distribution at the a/2
+signiﬁcance level (because the alternative hypothesis is two-sided) with (n1Cn2K2)
+degrees of freedom. For the present example (using aZ0.05) t0.025,14Z2.145 from
+Table 17.3. The null hypothesis is rejected if the absolute value (i.e., disregard the sign)
+of t is greater than 2.145. Because the absolute value of tZK0.85 (i.e., jtjZ0.85) is less than
+t0.025,14Z2.145, the sensory analyst does not reject the null hypothesis and concludes that,
+on average, the two groups report similar ratings for this attribute.
+Example 13.4: Comparing Standard Deviations from Two Normal Populations
+The sensory analyst in Example 13.3 should also be concerned that the variabilities of the
+scores of the two groups are the same. To test that the variabilities of the two groups are
+equal, the analyst compares their standard deviations. The null hypothesis for this test is
+H0: s1Zs2. The alternative hypothesis is Ha: s1ss2 (i.e., a two-sided alternative). The test
+TABLE 13.6
+Data and Summary Statistics for the Two-Sample t-test
+in Example 13.3
+Group 1
+Group 2
+Judge
+Score
+Judge
+Score
+1
+6.2
+1
+6.7
+2
+7.5
+2
+7.6
+3
+5.9
+3
+6.3
+4
+6.8
+4
+7.2
+5
+6.5
+5
+6.7
+6
+6.0
+6
+6.5
+7
+7.0
+7
+7.0
+8
+6.9
+9
+6.1
+n1Z7
+n2Z9
+x1Z6.557
+x2Z6.778
+s1Z0.580
+s2Z0.460
+Basic Statistical Methods
+329

@@ -1,0 +1,67 @@
+Conduct the test: Code two groups each of 54 plates with three-digit random numbers
+from Table 17.1. Remove samples from package; cut off ends of each bar and discard; cut
+bar into bite-size pieces and place on coded plates. Keep plates containing samples that
+were paper-wrapped (P) separate from those containing samples that were foil-wrapped
+(F). For each subject, prepare a tray marked by his/her number and containing three plates
+that are P or F according to the worksheet in Figure 6.2. Record the three plate codes on the
+subject’s ballot (see Figure 6.3).
+Analyze results: Of the 30 subjects who showed up for the test, 17 correctly identiﬁed the
+odd sample
+Number of subjects
+30
+Number correct
+17
+Table 17.8 indicates that this difference is signiﬁcant at an a-risk of 1% (probability
+p%0.01).
+Test report: The full report should contain the project objective, the test objective, and the
+test design as previously described. Examples of worksheet and scoresheet may be
+Date
+Type of samples:
+Type of test:
+Sample identification
+Code serving containers as follows:
+Panelist #
+1,7,13,19,25,31
+P - F - F
+F - P - F
+F - F - P
+F - P - P
+P - F - P
+P - P - F
+1.
+2.
+3.
+4.
+5.
+Place stickers with panelist's number on tray.
+Write codes selected on panelist's scoresheet.
+Serve samples.
+Receive filled-in scoresheet and note on it the order of
+presentation used, and whether reply was correct (c) or
+incorrect (i).
+Select plates ''P'' of ''F'' from those previously coded and
+place on tray from left to right.
+2,8,14,20,26,32
+3,9,15,21,27,33
+4,10,16,22,28,34
+5,11,17,23,29,35
+6,12,18,24,30,36
+Order of presentation
+Code
+P
+F
+Candy bars
+Triangle test
+Pkg 4736 (paper)
+Pkg 3987 (foil)
+6-2-99
+Worksheet
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Test code
+587 FF03
+FIGURE 6.2
+Worksheet for a triangle test. Example 6.2: foil vs. paper wraps for candy bars.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+68

@@ -1,0 +1,36 @@
+11
+The Spectrume Descriptive Analysis Method
+11.1
+Designing a Descriptive Procedure
+The name Spectrum covers a procedure designed by Civille and developed over the years
+in collaboration with a number of companies that were looking for a way to obtain repro-
+ducible and repeatable sensory descriptive analysis of their products (Mun˜oz and Civille
+1992, 1998). The philosophy of Spectrum is pragmatic: it provides the tools with which to
+design a descriptive procedure for a given product category. The principal tools are the
+reference lists contained in Appendix 11.1 through Appendix 11.3, together with
+the scaling procedures and methods of panel training described in Chapter 5 and
+Chapter 9. The aim is to choose the most practical system, given the product in question,
+the overall sensory program, the speciﬁc project objective(s) in developing a panel, and the
+desired level of statistical treatment of the data.
+For example, panelists may be selected and trained to evaluate only one product or a
+variety of products. Products may be described in terms of only appearance, aroma, ﬂavor,
+texture, or sound characteristics, or panelists may be trained to evaluate all of these
+attributes. Spectrum is a “custom design” approach to panel development, selection,
+training, and maintenance. Courses teaching the basic elements of Spectrum are available
+and include a detailed manual. Examples of the application are given in Johnsen et al.
+(1988).
+11.2
+Myths about the Spectrum Descriptive Analysis Method
+Throughout the years, false rumors and murmurings concerning the Spectrum descriptive
+analysis method have challenged several aspects of this highly scientiﬁc approach to
+descriptive panel testing. At the June 2002 IFT meeting, Sensory Spectrum presented a
+paper debunking the myths surrounding the Spectrum method.
+11.2.1
+Myth 1: All Descriptive Methods Are the Same
+The truth is that all descriptive methods measure sensory attributes and their intensities.
+The Spectrum method differs from other descriptive methods in that it yields a more
+technical proﬁle. Other methods differ in the selection and training of panelists, the
+scale type and product focus. For more information on the comparison of descriptive
+methodology see the ASTM Manual on Descriptive Analysis Testing for Sensory Evaluation
+(edited by Robert C. Hootman).
+189

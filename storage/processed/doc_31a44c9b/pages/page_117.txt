@@ -1,0 +1,48 @@
+Interpretation: The analyst concludes that, even in the presence of variability among the
+control samples, the test sample is signiﬁcantly different from the average of the controls.
+He suggests, as a next step, to determine with consumers whether the test batch is different
+in preference or acceptance. Such determination allows the company to determine the degree
+to which the difference perceived by the panel is meaningful to consumers. Further study
+with the difference-from-control test paired with consumer tests permits the establishment
+of realistic speciﬁcations for QA.
+6.9
+Sequential Tests
+6.9.1
+Scope and Application
+Sequential tests are a means to economize the number of evaluations required to draw a
+conclusion, for example, acceptance vs. rejection of a trainee on a panel or shipment vs.
+destruction of a lot of produced goods. Unlike the preceding tests in this chapter, where
+the size of the type-II error (b) is minimized for a ﬁxed a and number of judgments, n, in
+sequential tests the values of a and b are decided upon beforehand, and n is determined by
+evaluating the outcome of each sensory evaluation as it occurs. Also, because a and b are
+determined beforehand, sequential tests provide a direct approach to simultaneously test
+for either the difference or the similarity (see Section 6.2) between the two samples.
+Sequential tests are very practical and efﬁcient because they take into consideration the
+possibility that the evidence derived from the ﬁrst few evaluations may be quite sufﬁcient
+(for ﬁxed values of a and b) to draw a conclusion. Any further testing would be a waste of
+time and money. In fact, sequential tests can reduce the number of evaluations required by
+as much as 50%.
+The sequential approach may be used with those existence-of-difference tests in
+which there is a correct and an incorrect answer, e.g., the triangle, two-out-of-ﬁve, and
+duo–trio tests.
+6.9.2
+Principle of the Test
+Conduct a sequence of evaluations according to the procedure appropriate for the
+chosen method and enter the results of each completed test into a graph, such as
+Figure 6.20, in which three regions are identiﬁed: the acceptance region, the rejection
+region, and the continue-testing region. In Figure 6.20, the number of trials is plotted on
+the horizontal (x) axis and the total number of correct responses is plotted on the
+vertical (y) axis. Enter the result of the ﬁrst test, if correct, as (x,y)Z(1,1) and if incorrect,
+as (x,y)Z(1,0). For each succeeding test, increase x by 1, and increase y by 1 for a correct
+reply and by 0 for an incorrect reply. Continue testing until a point touches or crosses
+one of the lines bordering the region of indecision. The indicated conclusion (i.e., accept
+or reject) is then drawn.
+6.9.3
+Analysis and Interpretation of Results: Parameters of the Test
+The version of the sequential test used here is that of the ISO (2004b). The test itself is due
+to Wald (1947), and an alternative test is presented by Rao (1950). Both tests are clearly
+explained by Bradley (1953), who gives methods for calculating the expected number of
+evaluations needed to reach a decision, as well as rules for choosing the parameters
+associated with the method, as shown in Example 6.14 and Example 6.15.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+100

@@ -1,0 +1,81 @@
+of three or more triangle tests (Rainey 1979; Zook and Wesmann 1977) with differences
+ranging from easy to moderately difﬁcult (see, for example, Bressan and Behling 1977).
+Duo–trio tests (Section 6.3) may also be used. Table 9.3 lists some common ﬂavor standards
+and the levels at which they may be used. “Doctored” samples, such as beers spiked
+(Meilgaard, Reid, and Wyborski 1982) with substances imitating common ﬂavors and
+off-notes, may also be used. Arrange preliminary tests with experienced tasters to
+determine the optimal order of the test series and to control stimulus levels such that
+they are appropriate and detectable, but not overpowering. Use standard triangle or
+duo-trio scoresheets when suitable. If desired, use sequential triangle tests (Chapter 6,
+p. 100) to decide acceptance or rejection of candidates. However, as already mentioned, do
+not rely too much on taste acuity.
+9.3.1.3
+Ranking/Rating Tests for Intensity
+These tests are used to determine candidates’ ability to discriminate graded levels of
+intensity of a given attribute. Ask candidates to rate on an appropriate scale, if this is
+the method the test panelist will eventually use; otherwise use ranking (Chapter 7, p. 113).
+Present a series of samples in random order, in which one parameter is present at different
+levels, that cover the range present in the product(s) of interest. Ask candidates to rank the
+TABLE 9.2
+Scoresheet for Fragrance Matching Test
+First Set
+Second Set Match
+Descriptora
+079
+_______________
+_______________
+318
+_______________
+_______________
+992
+_______________
+_______________
+467
+_______________
+_______________
+134
+_______________
+_______________
+723
+_______________
+_______________
+Floral
+Peppermint
+Vanilla
+Wintergreen
+Green
+Cinnamon
+Ginger
+Clove
+Jasmine
+Orange
+Cherry, almond
+Anise/licorice
+Note:
+Instructions: Sniff the ﬁrst set of fragrances; allow time to rest after each sample. Sniff the second set of
+fragrances and determine which samples in the second set correspond to each sample in the ﬁrst set. Write down
+the code of the fragrance in the second set next to its match from the ﬁrst set. Optional: Determine which
+descriptor from the list below best describes the fragrance pair.
+a A list of descriptors, similar to the one given below, may be given at the bottom of the scoresheet. The ability to
+select and use descriptors should be determined if the candidates will be participating in attribute difference tests.
+TABLE 9.3
+Suggested Materials for Detection Tests
+Substance
+Concentration (g/L)a
+Caffeine
+0.2b
+0.4c
+Tartaric acid
+0.4b
+0.8c
+Sucrose
+7.0b
+14.0c
+g-Decalactone
+0.002b
+0.004c
+a Amount of substances added to tasteless and odorless water.
+b 3!threshold level.
+c 6!threshold level.
+Selection and Training of Panel Members: Difference Tests
+145

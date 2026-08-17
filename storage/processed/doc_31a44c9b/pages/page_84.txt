@@ -1,0 +1,42 @@
+of “B” are prepared to make 12 sets that are distributed at random among the subjects,
+using two each of the combinations ABB, BAA, AAB, BBA, ABA, and BAB.
+Eight subjects correctly identify the odd sample. In Table 17.8, the conclusion is that the
+two beers are different at the 5% level of signiﬁcance.
+Example 6.2: Detailed Example of Triangle Difference Test—Foil vs. Paper
+Wraps for Candy Bars
+Problem/situation: The director of packaging of a confection company wishes to test the
+effectiveness of a new foil-lined packaging material against the paper wrap currently
+being used for candy bars. Preliminary observation shows that paper-wrapped bars
+begin to show harder texture after 3 months while foil-wrapped bars remain soft. The
+director feels that if he can show a signiﬁcant difference at 3 months, he can justify a switch
+in wrap for the product.
+Project objective: To determine if the change in packaging causes an overall difference in
+ﬂavor and/or texture after 3 months of shelf storage.
+Test objective: To measure if people can differentiate between the two three-month-old
+products by tasting them.
+Test design is a triangle difference test with 30–36 subjects. The test will be conducted
+under normal white lighting to allow for differences in appearance to be taken into
+account. The subjects will be scheduled in groups of six to ensure full randomization
+within groups. Signiﬁcance for a difference will be determined at an a risk of 5%, i.e.,
+this test will falsely conclude a difference only 5% of the time.
+Screen samples: Inspect samples initially (before packaging) to ensure that no gross
+sensory differences are noticeable from sample to sample. Evaluate test samples at 3
+months to ensure that no gross sensory characteristics have developed that would
+render the test invalid.
+Name
+Type of sample
+Instructions
+Taste samples from left to right.Two are identical;
+determine which is the odd sample.
+If no difference apparent, you must guess.
+Date
+Comments
+Sets of three
+samples
+Which is the
+odd sample?
+Triangle test
+FIGURE 6.1
+Example of scoresheet for three triangle tests.
+Overall Difference Tests: Triangle Test
+67

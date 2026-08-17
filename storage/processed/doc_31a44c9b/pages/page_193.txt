@@ -1,0 +1,47 @@
+As with the validity and reliability of terminology, the validity and reliability of inten-
+sity measurements are highly dependent upon:
+† The selection of a scaling technique that is broad enough to encompass the full
+range of parameter intensities and that has enough discrete points to pick up all
+the small differences in intensity between samples;
+† The thorough training of the panelists to use the scale in a similar way across all
+samples and across time (see Chapter 9 on panelist training);
+† The use of reference scales for intensity of different properties (see Appendix
+11.2) to ensure consistent use of scales for different intensities of sensory proper-
+ties across panelists and repeated evaluations.
+Three types of scales are commonly used in descriptive analysis (see also Lawless and
+Heymann 1998):
+1. Category scales are limited sets of words or numbers, constructed (as best as one
+can) to maintain equal intervals between categories. A full description can be
+found in Chapter 5. A category scale from 0 to 9 is perhaps the most used in
+descriptive analysis, but longer scales are often justiﬁed. A good rule of thumb is
+to evaluate how many steps a panelist can meaningfully employ and to adopt a
+scale twice that length. Sometimes a 100-point scale is justiﬁed, e.g., in visual and
+auditory studies.
+2. Line scales utilize a line 6 in. or 15 cm long that the panelist makes a mark on; they
+are described in Chapter 5. Line scales are almost as popular as category scales.
+Their advantage is that the intensity can be more accurately graded because there
+are no steps or “favorite numbers.” The chief disadvantage to using line
+scales is that it is harder for a panelist to be consistent because a position on a
+line is not as easily remembered as a number.
+3. Magnitude estimation (ME) scales are based on free assignment of the ﬁrst
+number, after that, all subsequent numbers are assigned in proportion (see
+Chapter 5). ME is mostly used in academic studies where the focus is on a
+single attribute that can vary over a wide range of sensory intensities (Moskowitz
+1975, 1978).
+Chapter 11, Appendix 11.2 contains sets of reference samples useful for the establishment
+of scales for various odors and tastes and also for the mechanical, geometrical, and moisture
+properties of oral texture. All the scales in Appendix 11.2 are based on a 15-cm line scale;
+however, the same standards can be distributed along a line or scale of any length or
+numerical value. The scales employ standard aqueous solutions such as sucrose, sodium
+chloride, citric acid, and caffeine as well as certain widely available supermarket items that
+have shown adequate consistency, e.g., Hellmann’sw Mayonnaise and Welch’sw
+Grape Juice.
+10.3.3
+Order of Appearance: The Time Aspect
+In addition to accounting for the attributes (qualitative) of a sample and the intensity of each
+attribute (quantitative), panels can often detect differences among products in the order in
+which certain parameters manifest themselves. The orderof appearance of physical proper-
+ties, related to oral, skin, and fabric textures, are generally predetermined by the way the
+product is handled (the input offorces by the panelist). By controlling the manipulation (one
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+176

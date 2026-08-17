@@ -1,0 +1,40 @@
+model that can be ﬁt to a second-order RSM treatment structure has the form:
+y Z b0 Cb1x1 Cb2x2 C/Cbkxk Cb11x2
+1 Cb22x2
+2 C/Cbkkx2
+k Cb12x1x2
+Cb13x1x3 C/CbkK1;kxkK1xk:
+(14.15)
+150
+150
+100
+100
+10.0
+50
+50
+9.5
+9.0
+8.5
+8.0
+Flavor (% of control)
+Sweetener (% of control)
+FIGURE 14.27
+A contour plot of the predicted relationship between overall liking and the levels of sweetener and ﬂavor in the
+product. Contour plots provide a quantitative assessment of the sensitivity of the product to changes in the levels
+of the ingredients.
++1
++1
+−1
+−1
+0
+0
+Factor B
+Factor A
+FIGURE 14.28
+A two-factor, ﬁrst-order RSM experiment. The ﬁgure
+illustrates the arrangement of the factorial and center
+points in an RSM experiment with two independent vari-
+ables that permit estimation of a ﬁrst-order regression
+model in Equation 14.14.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+402

@@ -1,0 +1,50 @@
+respect to overall differences and attribute differences (difference panels) or full descrip-
+tions of product standards, product changes over time, or ingredient and processing
+manipulation, and for construction and interpretation of consumer questionnaires
+(descriptive panels). The sensory analyst must also deﬁne the resources required to
+develop and maintain a sensory panel system.
+9.2.1
+Personnel
+Heading the list of resources required is (1) a large enough pool of available candidates
+from which the panel can be selected (see Appendix 9.2A for possible sources for panel
+candidates), (2) a sensory staff to implement the selection, training, and maintenance
+procedures, including a panel leader and technician, and (3) a qualiﬁed person to
+conduct the training process. Ideally, panelists should come from within the organization,
+as they are located at the site where the samples are prepared (e.g., R&D facility or plant).
+Before a descriptive panel is trained, consideration is given to the choice of a panel leader.
+An effective panel leader is a person who is able to serve as the connection between
+product developers or other panel clients. The panel leader works with the panel to
+ensure that the panel has a clear understanding of attributes and scales as well as the
+ability to translate the panel data into actionable information. A successful panel leader is
+also a person who (1) has knowledge of sensory attributes; (2) has good group dynamic
+skills; (3) has listening and or attending skills; (4) is creatively alert; and (5) is patient. A
+panel leader may come from the panel itself. If this is the case, the panel leader should be
+additionally trained to manage the panel and communicate with the research team so that
+the information provided to product developers and other scientists is reliable, valid, and
+useful. If a panel is large, a panel technician may also be required to be responsible for all
+sample procurement, preparation, and presentation, as well as completing all the necess-
+ary documentation of the panel protocol and data output.
+Some companies choose to test products at a different site, which may be another
+company facility. With reduced laboratory stafﬁng, many companies have opted to use
+residents recruited from the local community as panelists rather than bench chemists and
+support staff from the labs. Outside panelists may be available for more hours per week,
+and may be cheaper and more focused for longer panel sessions. The primary drawbacks
+of external panelists are that they often require more time and effort to train in the tech-
+nical aspects of panel work, and that they do not provide the inherent proprietary security
+of internal employees.
+Panel candidates and management must understand, in advance, the amount of time
+required (personnel hours) for the selection and training of the particular panel in ques-
+tion. An assessment of the number of hours needed for panelists, technicians, and a panel
+leader should be presented and accepted before the development process is initiated. The
+individual designated to select and train the panel is often a member of the sensory staff
+who is experienced and trained in the speciﬁc selection and training techniques needed for
+the challenge at hand.
+9.2.2
+Facilities
+The physical area for the selection, training, and ongoing work of a panel must be deﬁned
+before development of the panel begins. A training room and panel testing facilities
+(booths and/or round table, conference room, etc.) must have the proper environmental
+controls (see Chapter 3), be of sufﬁcient size to handle all of the panelists and products
+projected, and be located near the product preparation area and panelist pool.
+Sensory Evaluation Techniques, 4th Ed., Ch. 9
+142

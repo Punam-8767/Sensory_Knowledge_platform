@@ -1,0 +1,52 @@
+Analyze results: The results obtained are shown in Table 6.1, and an analysis of
+variance (ANOVA or AOV) procedure appropriate for a randomized (complete)
+block design is used to analyze the data. The 42 judges are the “blocks” in the
+design. The three samples are the “treatments” (or, more appropriately, are the three
+levels of the treatment). (See Section 13.4 for a general discussion of ANOVA and block
+designs.)
+Table 6.2 summarizes the statistical results of the test. The total variability is partitioned
+into three independent sources of variability, that is, variability due to the difference
+among the panelists (i.e., the block effect), variability due to the differences among
+Difference-from-control test
+Name:
+Type of sample:
+Date:
+Code of test sample
+Instructions
+1.
+You have received two samples, a control sample labeled C and a
+test sample labeled with a 3-digit number.
+2.
+Remove all of the control sample from the watch glass using your
+right Index and middle fingers.
+3.
+Using the index and middle fingers, spread the control product
+around the area traced on the back of your left hand.
+4.
+Wipe finger tips with cloth on tray.
+5.
+Pick up all of the test sample from the labelled watch glass using
+your left index and middle fingers.
+6.
+Using the index and middle fingers,spread the product across the
+area traced on your right hand.
+7.
+Indicate the size of the difference in skinfeel of the sample, relative
+to the control, on the scale below.
+0= no difference
+1 =
+2 =
+3 =
+4 =
+5 =
+6 =
+7 =
+8 =
+9 =
+10 = extreme difference
+Remember that a duplicate control is the sample some of the time.
+Comments :
+FIGURE 6.18
+Worksheet for difference-from-control test. Example 6.12: analgesic cream.
+Overall Difference Tests: Difference-from-Control Test
+95

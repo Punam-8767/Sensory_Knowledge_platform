@@ -1,0 +1,38 @@
+for randomized (complete) block designs, and
+HSDrank Z qa;t;N
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+pðk C1ÞðrkKr ClÞ=12
+p
+(13.25)
+for BIB designs.
+13.6
+Appendix on Probability
+The purpose of this section is to present the techniques for calculating probabilities based
+on some commonly used probability distributions. The techniques are the foundation for
+statistical estimation and inference that were discussed in Section 13.2 and Section 13.3, as
+well as for the more advanced topics discussed in Chapter 14.
+13.6.1
+The Normal Distribution
+The normal distribution is among the most commonly used distributions in probability
+and statistics. The form of the normal distribution function is
+fðxÞ Z ½1=
+ﬃﬃﬃﬃﬃ
+2p
+p
+s	expðK½xKm	2=2s2Þ;
+where exp is the exponential function with base e. The parameters of the normal distri-
+bution are the mean m(KN!m!N) and the standard deviation s(sO0). The normal
+distribution is symmetric about m, i.e., f(xKm)Zf(mKx). The mean m measures the
+central location of the distribution. The standard deviation, s measures the dispersion
+or “spread” of the normal distribution about the mean. For small values of s, the graph of
+the distribution is narrow and peaked; for large values of s the graph is wide and ﬂat (see
+Figure 13.15). As with all continuous probability distributions, the total area under the
+curve is equal to one, regardless of the values of the parameters.
+x1~n(m,s1)
+x 2~n(m,s2)
+μ
+μ
+FIGURE 13.15
+A comparison of two normal distributions with the same mean but with s1!s2.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+350

@@ -1,0 +1,39 @@
+responses and the total number of responses and refer to Table 17.10. Do not count
+“no difference” responses; subjects must guess if in doubt. Three examples follow, all
+using the uniﬁed approach.
+Example 6.5: Balanced Reference—Fragrance for Facial Tissue Boxes
+Problem/situation: A product development fragrance chemist needs to know if two
+methods of fragrance delivery for boxed facial tissues, fragrance delivered directly to
+the tissues, or fragrance delivered to the inside of the box, will produce differences in
+perceived fragrance quality or quantity.
+Project objective: To determine if the two methods of fragrance delivery produce any
+difference in the perceived fragrance of the two tissues after they have been stored for a
+period of time comparable to normal product age at time of use.
+Test objective: To determine if a fragrance difference can be perceived between the two
+tissue samples after storage for three months.
+Test design: When the stimuli are complex, a duo–trio test requires less repeated
+snifﬁng of samples than triangle tests or attribute difference testing. This reduces the
+potential confusion caused by odor adaptation and/or the difﬁculty in sorting out
+three sample intercomparisons. The test is conducted with 40 subjects who
+have some experience in odor evaluation. The samples are prepared by the fragrance
+chemist, using the same fragrance and the same tissues on the same day. The boxed
+Duo−trio test
+Test No.
+If no difference is apparent between the two unknown samples,
+you must guess.
+Taster no.
+Type of sample
+Name:
+Reference
+Code
+Code
+Comments:
+Date:
+Instructions: Taste samples from left to right.
+The left hand sample is a reference. Determine which
+of the two samples matches the reference and indicate
+by placing an X.
+FIGURE 6.5
+Scoresheet for duo–trio test.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+74

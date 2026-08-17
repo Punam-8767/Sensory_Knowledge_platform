@@ -1,0 +1,64 @@
+{
+  "document_id": "doc_71786c80",
+  "pipeline_status": "CANONICAL_COMMIT_COMPLETED",
+  "message": "Canonical Concept DB commit completed. Approved proposals were inserted into concepts, concept_terms, concept_fields, and concept_relationships.",
+  "overall": "10/10",
+  "architecture_rating": {
+    "overall": "10/10",
+    "score": 100,
+    "scope": "Concept DB canonical commit alignment",
+    "meaning": "This API only commits already-approved proposals. It creates canonical concepts, terms, fields, arrays, and relationships. Qdrant sync is intentionally separate."
+  },
+  "commit_summary": {
+    "input_proposals": 1,
+    "committed": 1,
+    "requires_targets": 0,
+    "skipped": 0
+  },
+  "results": [
+    {
+      "proposal_uid": "CP_010E823492723488",
+      "proposed_type": "sensory_attribute",
+      "proposed_name": "Consistency and Texture",
+      "status": "COMMITTED",
+      "concept_action": "inserted",
+      "created_concept_id": 56,
+      "created_concept_uid": "SA_001",
+      "terms": {
+        "inserted": 1,
+        "exists": 0,
+        "skipped": 0
+      },
+      "fields": {
+        "concept_fields_inserted": 3,
+        "concept_fields_exists": 0,
+        "concept_field_arrays_inserted": 0,
+        "concept_field_arrays_exists": 0,
+        "skipped": 0
+      },
+      "relationships": {
+        "inserted": 3,
+        "exists": 0,
+        "skipped_optional": 0,
+        "linked_family_uid": "FM_003",
+        "linked_scale_uid": "SC_001",
+        "linked_parent_attribute_uid": null
+      }
+    }
+  ],
+  "quality_gate": {
+    "status": "CANONICAL_COMMIT_COMPLETED",
+    "score": 100,
+    "architecture_rating": "10/10",
+    "reason": "Approved proposals were converted into canonical Concept DB rows. Qdrant sync remains separate.",
+    "warnings": [],
+    "can_continue": true
+  },
+  "processing_time_seconds": 0.37,
+  "next_step": "/api/v1/documents/doc_71786c80/sync-qdrant",
+  "recommended_actions": [
+    "Run sync-qdrant to mirror committed concepts into vector DB.",
+    "Verify concepts.has_vector after Qdrant sync.",
+    "Use knowledge search after Qdrant sync is complete."
+  ]
+}

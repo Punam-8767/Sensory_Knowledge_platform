@@ -1,0 +1,110 @@
+of z for some commonly used levels of a are presented in the last row of Table 17.3 (i.e., the
+row corresponding to N degrees of freedom).
+Consider the overall liking data presented in Table 13.1. The sample mean intensity for
+Atlanta was xZ10:56 and the sample standard deviation of the data was sZ1.79.
+TABLE 13.2
+Frequency Distributions from the Multicity Consumer Test Data in
+Table 13.1
+Attribute: Overall Liking
+Category
+Midpointa
+Frequencies in
+Atlanta
+Boston
+Chicago
+Denver
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+0
+4
+0
+0
+1
+0
+5
+0
+0
+2
+0
+6
+0
+0
+6
+0
+7
+2
+1
+8
+0
+8
+0
+1
+9
+0
+9
+5
+6
+3
+3
+10
+9
+12
+0
+8
+11
+4
+5
+1
+4
+12
+6
+2
+0
+13
+13
+3
+3
+0
+1
+14
+0
+0
+0
+1
+15
+1
+0
+0
+0
+a For example, in Atlanta, nine people responded with an overall liking rating between
+9.5 and 10.4.
+12
+14
+10
+8
+6
+4
+2
+0
+Atlanta
+Boston
+Chicago
+City
+Denver
+Frequency
+FIGURE 13.2
+Histograms of the overall liking scores from the multicity consumer test data in Table 13.1.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+318

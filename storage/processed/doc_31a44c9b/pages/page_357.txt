@@ -1,0 +1,71 @@
+appropriately, the block effects can be separated from the treatment effects and from the
+experimental error, thus providing “clean” reads of the treatment effects while simul-
+taneously reducing the unexplained variability in the study.
+In more familiar terms, in sensory tests, the experimental material is the large group of
+evaluations performed by the judges. The evaluations are typically arranged into blocks
+according to judge, in recognition of the fact that, due to differing thresholds for instance,
+judges may use different parts of the rating scale to express their perceptions. It is assumed
+that the size of the perceived difference between any two samples is the same from judge
+to judge. Within each judge (i.e., block) a single evaluation is the experimental unit. The
+treatments, which can be thought of as products at this point, must be independently
+applied at each evaluation. This is accomplished through such techniques as randomized
+orders of presentation, sequential monadic presentations, and wash-out periods of suf-
+ﬁcient duration to allow the respondent to return to some baseline level of perception
+(constant for all evaluations).
+13.5.2.1
+Completely Randomized Designs
+The simplest blocking structure is the completely randomized design (CRD). In a CRD, all
+of the experimental material is homogeneous; i.e., a CRD consists of one large block of
+experimental units. CRDs are used, for example, when a single product is being evaluated
+at several locations by distinct groups of respondents (e.g., a monadic, multicity consumer
+test). In such cases, the signiﬁcance of the differences due to location is determined in light
+of the variability that occurs within each location.
+The overall liking data in Table 13.11 conform to a CRD. The box-and-whisker
+plots presented in Figure 13.1 and the conﬁdence intervals in Figure 13.5 suggest
+that some city-to-city differences may exist. The average liking response can be used to
+summarize city-to-city differences. Analysis of variance (ANOVA) is used to determine if
+the observed differences in average liking are statistically signiﬁcant. The ANOVA table
+for these data is presented in Table 13.10.
+The F-ratio for cities in Table 13.10 is highly signiﬁcant (F0.01,3,116Z3.95), indicating that
+at least some of the observed differences among cities are real. To determine which of the
+averages are signiﬁcantly different, another statistical method called a multiple comparisons
+procedure must be applied. For the present example, the multiple comparison technique
+called Fisher’s least signiﬁcant difference (LSD) is used. In general, the LSD value used to
+compare two averages, xi and xj, is calculated as
+LSDa Z ta=2;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+MSE
+p
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð1=niÞ Cð1=njÞ
+q
+;
+(13.11)
+where ta=2;dfE is the upper-a/2 critical value of a t-distribution with dfE degrees of freedom
+(i.e., the degrees of freedom for error from the ANOVA), MSE is the mean square for error
+TABLE 13.10
+ANOVA Table for a Completely Randomized Design for the Multicity
+Consumer Test Data in Table 13.1
+Source of
+Variability
+Degrees of
+freedom
+Sum of
+Squares
+Mean
+Square
+F
+Total
+119
+541.56
+City
+3
+283.34
+94.45
+42.43
+Error
+116
+258.22
+2.23
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+340

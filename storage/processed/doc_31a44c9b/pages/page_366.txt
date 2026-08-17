@@ -1,0 +1,64 @@
+signiﬁcant judge-by-sample interaction exists, it is meaningless to examine the overall
+sample effect (tested by F1 in Table 13.17) because the presence of an interaction indicates
+that the pattern of differences among the samples depends on which judge or judges are
+being considered. Tables of individual judges’ mean ratings and plots of the judge-
+by-sample means should be examined to determine which judges are causing the
+interaction to be signiﬁcant (see Chapter 9, p. 155).
+If F3 is not signiﬁcant but F2 is, then an overall judge effect is present. A signiﬁcant judge
+effect conﬁrms that the judges are using different parts of the rating scale to express their
+perceptions. This is not of as great a concern as a signiﬁcant judge-by-sample interaction.
+However, depending on the magnitude of the differences among the judges, it may
+indicate that the panel needs to be recalibrated through the use of references.
+If F3 is not signiﬁcant but F1 is, then an overall sample effect is present. To determine
+which of the samples differ signiﬁcantly, use Fisher’s LSD for split-plot designs:
+LSD Z ta=2;dfEðAÞ
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2MSEðAÞ=pb;
+q
+(13.21)
+where p is the number of independently replicated panels and dfE(A) and MSE(A) are the
+degrees of freedom and mean square for Error(A), respectively.
+13.5.7
+A Simultaneous Multiple-Comparison Procedure
+Thus far we have used only Fisher’s LSD multiple comparison procedure to determine
+which samples differ signiﬁcantly in a designed sensory panel study. There are, in fact,
+two classes of multiple-comparison procedures. The ﬁrst class, including Fisher’s LSD,
+controls the comparison-wise error rate; i.e., the type-I error (of size a) applies each time a
+comparison of means or rank sums is made. Procedures that control the comparison-wise
+error rate are called one-at-a-time multiple comparison procedures. The second class
+controls the experiment-wise error rate; that is, the type-I error applies to all of the
+comparisons among means or rank sums simultaneously. Procedures that control the
+experiment-wise error rate are called simultaneous multiple comparison procedures.
+Tukey’s honestly signiﬁcant difference (HSD) is a simultaneous multiple comparison
+procedure. Tukey’s HSD can be applied regardless of the outcome of the overall test for
+differences among the samples. The general form of Tukey’s HSD for the equal sample-
+size case for ratings data is
+HSD Z qa;t;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+MSE=n
+p
+;
+(13.22)
+where qa;t;dfE is the upper-a critical value of the studentized range distribution with dfE
+degrees of freedom (see Table 17.4) for comparing t sample means. As with the LSD, dfE
+and MSE are the degrees of freedom and the mean square for error from the ANOVA,
+respectively, (Error(A) in the split-plot ANOVA); n is the sample size common to all the
+means being compared. For randomized (complete) block designs, nZb; for split-plot
+designs, nZp. Tukey’s HSD for BIB designs has the form:
+HSD Z qa;t;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+MSE=pr
+p
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+kðtK1Þ=ðkK1Þt
+p
+:
+(13.23)
+The nonparametric analog to Tukey’s HSD for rank sums is
+HSDrank Z qa;t;N
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+btðt C1Þ=12
+p
+(13.24)
+Basic Statistical Methods
+349

@@ -1,0 +1,66 @@
+From relative acceptance scores, one can infer preference; the sample with the higher
+score is preferred. The best (most discriminating, most actionable) results are obtained
+with scales that are balanced, i.e., have an equal number of positive and negative
+categories and have steps of equal size. The scales shown in Figure 12.3 are not as
+widely used because they are unbalanced, unevenly spaced, or both. The six-point
+excellent scale in Figure 12.3, for example, is heavily loaded with positive (Good to
+Excellent) categories and the space between “Poor” and “Fair” is clearly larger than
+that between “Extremely Good” and “Excellent.” The difference between the latter
+may be unclear to many people. Acceptance tests are, in fact, very similar to attribute
+difference tests (see Chapter 7, pp. 105–128) except that the attribute here is acceptance or
+liking. Different types of scales such as category (as shown in Figure 12.2 and
+Figure 12.3), line scales, or Magnitude Estimation scales can be used to measure the
+degree of liking for a product.
+Verbal Hedonic Scale
+Purchase Intent Scale
+Like extremely
+Dislike extremely
+Like very much
+Dislike very much
+Like moderately
+Dislike moderately
+Like slightly
+Neither like nor dislike
+Dislike slightly
+Category Hedonic Scale
+Definitely would buy
+Definitely would not buy
+Probably would buy
+Probably would not buy
+Maybe/Maybe not
+Dislike
+extremely
+Neither
+like nor
+dislike
+Like
+extremely
+Facial Hedonic Scale
+P&K "KIDS" Scale
+Super good
+Really good
+Good
+Just a little good
+Bad
+Really bad
+Super bad
+(Kroll 1990)
+"Snoopy" Scale
+A
+B
+C
+D
+E
+The Snoopy scale goes from A "dislike extremely" to I " like
+extremely". The 9 points on the scale correspond to 6,17,29,42,54,
+64,73,82 and 90 on a 0−100 point scale. However, the child reacts to
+the face, not to the numerical equivalent.
+(Moskowitz 1985)
+F
+G
+H
+I
+FIGURE 12.2
+Scales used in acceptance tests. The last two scales are used with children.
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+276

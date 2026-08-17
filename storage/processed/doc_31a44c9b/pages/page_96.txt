@@ -1,0 +1,80 @@
+Output from Test-Sensitivity Analyzer
+Interpretation:
+33 or more correct responses is evidence of a difference at the aZ0.26 level
+of signiﬁcance.
+32 or fewer correct responses indicates that you can be 91% sure that no
+more than 25% of the panelists can detect a difference—that is, evidence
+of similarity relative to pdZ25% at the bZ0.09 level of signiﬁcance.
+Therefore, it is concluded that test blends B and C are sufﬁciently similar to the control to
+warrant further consideration, but that test blend D, with 35 correct answers, is not. The
+90% upper one-tailed conﬁdence interval on the true proportion of distinguishers for test
+Duo−trio test
+Test no.
+Taster no.
+Type of sample:
+Name:
+Reference
+Code
+Code
+Comments:
+cups of coffee, freshly brewed
+Instructions:
+Taste sample from left to right
+The left hand sample is a reference. Determine which
+of the two axis samples matches the reference and indicate
+by placing an X
+Date:
+28 03-03
+If no difference is apparent between the two unknown samples,
+you must guess
+FIGURE 6.8
+Scoresheet for duo–trio similarity test. Example 6.7: replacing coffee blend.
+Inputs
+Output
+Number
+of
+Respon-
+dents
+Number
+of
+Correct
+Respon-
+ses
+Prob-
+ability
+of
+Correct
+Guess
+Pro-
+portion
+Distin-
+guishers
+Prob-
+ability of
+a
+Correct
+Response
+@ pd
+Type
+I Error
+Type II
+Error
+Power
+(n)
+(X)
+(p0)
+(pd)
+(pmax)
+(a-risk)
+(b-risk)
+(1Lb)
+60
+33
+0.50
+0.25
+0.625
+0.2595
+0.0923
+0.9077
+Overall Difference Tests: Duo–Trio Test
+79

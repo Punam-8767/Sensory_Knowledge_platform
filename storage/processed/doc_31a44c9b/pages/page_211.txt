@@ -1,0 +1,56 @@
+a “go/no go” system based strictly on statistical signiﬁcance, the company can devise a
+system of speciﬁcations based on known differences that are meaningful to the consumer.
+The system can be used to track production and storage samples over time in a cost-
+effective program (see Chapter 12, Example 12.3).
+Appendix 11.1
+Spectrum Terminology for Descriptive Analysis
+The following lists of terms for appearance, ﬂavor, and texture can be used by panels
+suitably trained to deﬁne the qualitative aspects of a sample.
+When required, each of the terms can be quantiﬁed using a scale chosen from Chapter 5.
+Each scale must have at least two, and preferably three to ﬁve, chosen reference points,
+e.g., from Appendix 11.2.
+A simple scale can have general anchors:
+None - - - - - - - - - - - - - - - - - - Strong
+or a scale can be anchored using bipolar words (opposite):
+Smooth
+- - - - - - - - - - - - - - - Lumpy
+Soft - - - - - - - - - - - - - - - - - - - - Hard
+Attributes perceived via the chemical senses in general use a unipolar intensity scale
+(None–Strong), while for appearance and texture attributes, a bipolar scale is best, as
+shown below.
+A
+Terms Used to Describe Appearance
+1.
+Color
+a. Description
+The actual color name or hue, such as red, blue, etc. The
+description can be expressed in the form of a scale range,
+if the product covers more than one hue:
+[Red - - - - - - - - - - - - - - - - - - - - - - - - - - - Orange]
+b. Intensity
+The intensity or strength of the color from light to dark:
+[Light
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - Dark]
+c. Brightness
+The chroma (or purity) of the color, ranging from dull,
+muddied to pure, bright color. Fire engine red is a
+brighter color than burgundy red:
+[Dull - - - - - - - - - - - - - - - - - - - - - - - - - - - - Bright]
+d. Evenness
+The evenness of distribution of the color, not blotchy:
+[Uneven/blotchy - - - - - - - - - - - - - - - - - - - - - Even]
+2.
+Consistency/Texture
+a. Thickness
+The viscosity of the product:
+[Thin - - - - - - - - - - - - - - - - - - - - - - - - - - - - Thick]
+b. Roughness
+The amount of irregularity, protrusions, grains, or
+bumps which can be seen on the surface of the product;
+smoothness is the absence of surface particles:
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - - - Rough]
+Graininess is caused by small surface particles:
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - -
+Grainy]
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+194

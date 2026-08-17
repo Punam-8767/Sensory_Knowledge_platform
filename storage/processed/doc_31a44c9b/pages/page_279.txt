@@ -1,0 +1,49 @@
+judges the relative difference in acceptability or preference of a test sample, vis-a`-vis the
+well-known standard or control.
+Employee acceptance tests can be a valuable resource when used correctly and when
+limited to maintenance situations. Because of their familiarity with the product and with
+testing, employees can handle more samples at one time and provide better discrimi-
+nation, faster replies, and cheaper service. Employee acceptance tests can be carried out
+in a laboratory, in the style of a central location test, or the employees may take the
+product home.
+However, for new-product development, product optimization, or product improve-
+ment, employees or local residents should not be used to represent the consumer. The
+following are some examples of biases that may result from conducting affective tests
+with employees:
+1. Employees tend to ﬁnd reasons to prefer the products that they and their fellow
+employees helped to make, or if morale is bad, ﬁnd reasons to reject such products.
+It is therefore imperative that products be disguised. If this is not possible, a
+consumer panel must be used.
+2. Employees may be unable to weight desirable characteristics against undesirable
+ones in the same manner as a consumer. For example, employees may know that a
+recent change was made in the process to produce a paler color, and this will make
+them prefer the paler product and give too little weight to other characteristics.
+Again, in such a case the color must be disguised, or if this is not possible, outside
+testing must be used.
+3. Where a company makes separate products for different markets, outside tests
+will be distributed to the target population, but this cannot be done with
+employees. If required to test with employees, it is suggested to tell them that
+the product is destined for X market, but sometimes this cannot be done
+without violating the requirement that the test be blind. If so, outside testing
+must be used.
+12.2.2.2
+Local Area Residents
+One approach to recruiting respondents for consumer testing is for a company to develop
+their own database of local area residents. This approach, although relatively cost effective,
+requires internal support to develop, maintain, and recruit respondents to participate after
+it is established. Caution must be taken not to overuse the consumers in the database. It
+may be difﬁcult to maintain conﬁdentiality, especially if the test facilities are onsite. Deter-
+mining when and at which stage of a project the consumer database can be used is
+important to insure information collected is appropriate to the project objective.
+In summary, the test organizer must plan the test imaginatively and must be aware of all
+sources of bias. In addition, the validity of responses must be assured by frequent
+comparisons with consumer tests that use the broader consumer population on the
+same samples. In this way, the organizer and the employee panel members slowly
+develop knowledge of what the market requires; this, subsequently, makes it easier to
+gauge the pitfalls and avoid them.
+12.2.2.3
+General Population
+Testing from the general population typically captures the responses from the target user
+group by going into the ﬁeld and recruiting consumers who meet speciﬁc predeﬁned
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+262

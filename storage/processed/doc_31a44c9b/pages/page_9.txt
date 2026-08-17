@@ -1,0 +1,42 @@
+The organization of the chapters and sections is also straightforward. Chapter 1 lists the
+steps involved in a sensory evaluation project, and Chapter 2 brieﬂy reviews the workings
+of our senses. In Chapter 3, we list what is required of the equipment, the tasters, and the
+samples; while in Chapter 4, we have collected a list of those psychological pitfalls that
+invalidate many otherwise good studies. Chapter 5 discusses how sensory responses can
+be measured in quantitative terms. In Chapter 6, we describe all the common sensory tests
+for difference, the Triangle, Duo–trio, etc.; and, in Chapter 7, the various attribute tests,
+such as ranking and numerical intensity scaling, are discussed. Thresholds and just-
+noticeable differences are brieﬂy discussed in Chapter 8, followed by what we consider
+the main chapters: Chapter 9 on selection and training of tasters, Chapters 10 and 11 on
+descriptive testing, and Chapter 12 on affective tests (consumer tests). All the descriptive
+references have been reviewed and revised for the Spectrum references in Chapter 11.
+Chapter 12 deﬁnes, in detail, several qualitative and quantitative classic methods for
+testing with consumers and includes substantial reviews of “fuzzy front end” and internet
+research techniques.
+The body of text on statistical procedures is found in Chapters 13 and 14, but, in
+addition, each method (Triangle, Duo–trio, etc.) in Chapters 6 and 7 is followed by a
+number of examples showing how statistics are used in the interpretation of each. Basic
+concepts for tabular and graphical summaries, hypothesis testing, and the design of
+sensory panels are presented in Chapter 13. We refrain from detailed discussion of statisti-
+cal theory, preferring instead to give examples. Chapter 14 discusses multifactor
+experiments that can be used, for example, to screen for variables that have large effects
+on a product, to identify variables that interact with each other in how they affect product
+characteristics, or to identify the combination of variables that maximize some desirable
+product characteristic such as consumer acceptability. Chapter 14 also contains a discus-
+sion of multivariate techniques that can be used to summarize large numbers of responses
+with fewer, meaningful ones to identify relationships among responses that might other-
+wise go unnoticed, and to group respondents of samples that exhibit similar patterns of
+behavior. New in the fourth edition is an overview of Thurstonian Scaling. In addition to
+studying differences among products, Thurstonian Scaling can be used to uncover the
+decision processes used by assessors during their evaluations of products. Also new in the
+fourth edition is a detailed discussion of data-relationship techniques used to link data
+from diverse sources collected on the same set of samples. The techniques are used to
+identify relationships, for example, between instrumental and sensory data or between
+sensory and consumer data. They can reveal the sensory and instrumental characteristics
+of products that have the greatest impact on acceptance and the intensities of these
+characteristics that are predicted to be most well liked by consumers.
+At the end of the book, the reader will ﬁnd guidelines for the choice of techniques and
+for reporting results plus the usual glossaries, indexes, and statistical tables.
+With regard to terminology, the terms assessor, judge, panelist, respondent, subject, and
+taster are used interchangeably as are he, she, and (s)he for the sensory analyst (the
+sensory professional, the panel leader) and for individual panel members.

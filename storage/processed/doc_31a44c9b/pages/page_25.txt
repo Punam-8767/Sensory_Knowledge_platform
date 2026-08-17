@@ -1,0 +1,69 @@
+2.2.1
+Appearance
+As every shopper knows, the appearance of the product and/or the package is often the
+only attribute that is used to base a decision to purchase or consume a product. Hence,
+people become adept at making wide and risky inferences from small clues, and test
+subjects will do the same in the booth. It follows that the sensory analyst must pay
+meticulous attention to every aspect of the appearance of test samples (Amerine, Pang-
+born, and Roessler 1965, 399; McDougall 1983) and must often attempt to obliterate or
+mask much of it with colored lights, opaque containers, etc.
+General appearance characteristics are listed below, and an example of the description
+of appearance with the aid of scales is given in Chapter 11, Appendix 11.1A.
+Color
+A phenomenon that involves both physical and psychological com-
+ponents: the perception by the visual system of light of wavelengths
+400–500 nm (blue), 500–600 nm (green and yellow), and 600–800 nm
+(red), commonly expressed in terms of the hue, value, and chroma of
+the Munsell color system. The evenness of color, as opposed to uneven or
+blotchy appearance, is important. Deterioration of food is often accom-
+panied by a color change. Good descriptions of procedures for sensory
+evaluation of appearance and color are given by Clydesdale (1984),
+McDougall (1988), and Lawless and Heymann (1998).
+Size and shape
+Length; thickness; width; particle size; geometric shape (square, circular,
+etc.); distribution of pieces, e.g., of vegetables, pasta, prepared
+foods, etc.; size; and shape as indications of defects (Kramer and
+Twigg 1973; Gatchalian 1981).
+Surface texture
+The dullness or shininess of a surface, the roughness vs. evenness; does
+the surface appear wet or dry, soft or hard, crisp or tough?
+Clarity
+The haze (Siebert, Stenroos, and Reid 1981) or opacity (McDougall 1988)
+of transparent liquids or solids, the presence or absence of particles of
+visible size.
+Carbonation
+For carbonated beverages, the degree of effervescence observed on
+pouring. This is commonly measured with Zahm–Nagel instruments
+and may be judged as follows:
+Carbonation
+(Vols)
+Carbonation
+(% Weight)
+Degree of
+Effervescence
+Examples
+1.5 or less
+0.27 or less
+None
+Still drinks
+1.5–2.0
+0.27–0.36
+Light
+Fruit drinks
+2.0–3.0
+0.36–0.54
+Medium
+Beer, cider
+3.0–4.0
+0.54–0.72
+High
+Soft drinks, champagne
+2.2.2
+Odor/Aroma/Fragrance
+The odor of a product is detected when its volatiles enter the nasal passage, and they are
+perceived by the olfactory system. Odor is discussed when the volatiles are sniffed
+through the nose (voluntarily or otherwise). Aroma is the odor of a food product, and
+fragrance is the odor of a perfume or cosmetic. As mentioned earlier, aromatics are the
+volatiles perceived by the olfactory system from a substance in the mouth. (The term smell
+Sensory Evaluation Techniques, 4th Ed., Ch. 2
+8

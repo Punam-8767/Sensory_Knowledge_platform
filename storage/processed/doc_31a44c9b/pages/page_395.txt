@@ -1,0 +1,34 @@
+Judges
+Samples
+B
+F
+E
+D
+J
+I
+A
+G
+C
+H
+(a)
+(b)
+B
+F
+E
+D
+I
+J
+C G A
+H
+Judges
+Samples
+FIGURE 14.12
+(a) A plot of the rescaled factor scores of the products and the factor loadings of all respondents. (b) A plot of the
+rescaled factor scores of the products and the factor loadings of respondents with communalities greater than
+0.50—i.e., the respondents for which the model explains at least 50% of the variability in their liking ratings. (c) A
+plot of the rescaled factor scores of the products and the factor loadings of respondents rescaled to fall equidistant
+from the origin. This optional step sometimes makes it easier to identify clusters of respondents. (d) The ﬁnal
+internal preference map including sensory attributes. The coordinates of the sensory attributes are their corre-
+lations with the factor scores of the samples from each of the two dimensions of the map.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+378

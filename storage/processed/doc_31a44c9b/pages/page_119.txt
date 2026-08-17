@@ -1,0 +1,160 @@
+As can be seen in Figure 6.20, the equations for the lines dividing the graph into regions
+for acceptance, etc. depend on a, b, p0, and p1. In the present example, trainee A is correct
+in all tests and is accepted after ﬁve triangles. Trainee B fails in the ﬁrst triangle, succeeds
+in triangles two and three, but then fails on every subsequent triangle and is rejected after
+number eight.
+Various values of the four parameters may be used. As p0 approaches p1, the number
+of required trials increases. There are several methods for reducing the average number
+of trials required. First, using the triangle test example, the minimum acceptable prob-
+ability of detecting a difference can be set higher, e.g., increased from 50% in our
+present example to 67% which would make p1Z0.78 [from p1Z0.67C(1K0.67)(1/3)].*
+Second, if many trainees are available, a and b could be assigned larger values (e.g., a
+O0.05 and/or b O0.10).
+TABLE 6.5
+Results Obtained in Example 6.15: Sequential Duo–Trio Tests—Warmed-Over Flavor in Beef Patties
+Subject
+No.
+Test A Control vs. 1 Day
+Test B Control vs. 3 Day
+Test C Control vs. 5 Day
+1
+I
+0
+I
+0
+C
+1
+2
+I
+0
+C
+1
+C
+2
+3
+I
+0
+I
+1
+C
+3
+4
+C
+1
+C
+2
+C
+4
+5
+I
+1
+I
+2
+I
+4
+6
+C
+2
+C
+3
+C
+5
+7
+I
+2
+I
+3
+C
+6
+8
+C
+3
+C
+4
+C
+7
+9
+I
+3
+C
+5
+I
+7
+10
+C
+4
+C
+6
+C
+8
+11
+I
+4
+C
+7
+C
+9
+12
+I
+7
+C
+10
+13
+C
+8
+14
+C
+9
+15
+C
+10
+16
+C
+11
+17
+I
+11
+18
+I
+11
+19
+C
+12
+20
+C
+13
+21
+I
+13
+22
+I
+13
+23
+I
+13
+24
+C
+14
+25
+I
+14
+26
+C
+15
+27
+C
+16
+28
+C
+17
+29
+C
+18
+30
+C
+19
+Note:
+Column 1: I, incorrect; C, correct; Column 2: cumulative correct.
+* See Chapter 13 for the derivation of this equation.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+102

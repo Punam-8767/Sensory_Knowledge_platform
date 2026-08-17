@@ -1,0 +1,75 @@
+B. Texture (continued)
+Thickness of liquid
+2.0
+Manipulations to melt
+6.0
+Residual
+Fatty/oily ﬁlm
+2.5
+Dairy ﬁlm
+1.0
+12. Yoplait Original Strawberry Yogurt
+Surface
+Slipperiness
+8.0
+Wetness
+10.5
+Compression
+Semi-solid ﬁrmness
+4.0
+Semi-solid cohesiveness
+6.0
+Semi-solid denseness
+13.5
+Adhesiveness to palate
+4.0
+Manipulation (5)
+Mixes with saliva
+12.0
+Particulate
+7.0
+Chalky
+3.5
+Lumpy
+4.0
+Cohesiveness of mass
+5.0
+Residual
+Fatty/oily ﬁlm
+1.0
+Chalky ﬁlm
+3.0
+Appendix 11.4
+Spectrum Descriptive Analysis Product Lexicons
+A.
+White Bread Flavor
+1. Aromatics
+2. Basic Tastes
+Grain complex
+Salty
+Raw white wheat (dough)
+Sweet
+Cooked white wheat
+Sour
+Toasted
+Bitter
+Cornstarch
+Whole grain
+3. Chemical Feeling Factors
+Yeasty/fermented
+Metallic
+Dairy complex
+Astringent/drying
+Milk, cooked milk
+Phosphate
+Buttery, brown butter
+Baking soda feel
+Eggy
+Sweet aromatic complex
+Caramelized/honey/malty/fruity
+Mineral: inorganic, stones, cement, metallic
+Baking soda
+Vegetable oil
+Other aromatics: Mushroom, carrot, earthy, fermented, acetic, plastic, cardboard, chemical leavening
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+232

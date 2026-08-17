@@ -1,0 +1,38 @@
+FIGURE 10.3
+PCA map of orange juice products.
+Orange complex
+Raw
+Cooked
+Expressed orange oil
+Other citrus
+Other fruit
+Cardboard/oxidized
+Sweet
+Sour
+Bitter
+Astringent
+Burn
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+Intensity
+Chemical feeling
+factors
+Aromatics
+and basic
+tastes
+Attributes
+8.0
+9.0
+10.0
+11.0
+12.0
+FIGURE 10.2
+Minute Maidw frozen concentrate complete descriptive proﬁle.
+Descriptive Analysis Techniques
+185

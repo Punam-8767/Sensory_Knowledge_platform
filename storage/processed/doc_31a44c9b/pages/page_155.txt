@@ -1,0 +1,74 @@
+Group threshold: Obtain the group threshold T by rank probability graph as shown in
+Figure 8.5. The result is log(T)Z1.76; TZ58 ppb. Alternatively, calculate Tas the geometric
+mean of the individual thresholds:
+log T Z 0:84 C0:84 C1:04 C/C2:40 C2:52 C2:82
+20
+Z 36:06
+20
+Z 1:753;
+T Z 56:6 ppb:
+References
+ASTM. 1997a. “Determination of odor and taste thresholds by a forced-choice ascending concen-
+tration series method of limits,” in Standard Practice E679-97, West Conshohocken, PA: ASTM
+International.
+ASTM. 1997b. “Deﬁning and calculating sensory thresholds from forced-choice data sets of inter-
+mediate size,” in Standard Practice E1432-97, West Conshohocken, PA: ASTM International.
+J. Bi and D.M. Ennis. 1998. “Sensory thresholds: Concepts and methods,” Journal of Sensory Studies,
+13: 133–148.
+D.G.W. Brown, J.F. Clapperton, M.C. Meilgaard, and M. Moll. 1978. “Flavor thresholds of added
+substances,” Journal of the American Society of Brewing Chemists, 36: 73–80.
+CEN. 1997. “Determination of odour concentration by dynamic olfactometry,” in Air Quality,
+Brussels, Belgium: European Committee for Standardisation.
+M. Devos, F. Patte, J. Rouault, P. Laffort, and L.J. Van Gemert. 1990. Standardized Human Olfactory
+Thresholds, Oxford: IRL Press.
+95.2
+90.5
+85.7
+81.0
+76.2
+71.4
+66.7
+61.9
+57.1
+52.4
+47.6
+42.9
+38.1
+33.3
+28.6
+23.8
+19.0
+14.3
+9.5
+4.8
+0.1
+1.0
+1.5
+2.0
+2.5
+2.0
+Log(ppb)
+log(T ) −s =1.12
+log(T ) + s = 2.40
+log(T ) =1.76
+3.0
+5.0
+7.0
+Probit
+Rank position F = 100i/(n+1)
+0.5
+2
+10
+50
+90
+98
+99.5
+FIGURE 8.5
+Rank probability graph for the 20 panelists in
+Table 8.2. Result: a straight line can be drawn
+through the points; consequently, the pane-
+lists are normally distributed with log(T)Z
+1.76 (TZ58 ppb); log(T)KsZ1.12 (13 ppb);
+log(T)CsZ2.40 (255 ppb).
+Sensory Evaluation Techniques, 4th Ed., Ch. 8
+138

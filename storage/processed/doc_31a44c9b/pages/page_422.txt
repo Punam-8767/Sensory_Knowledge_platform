@@ -1,0 +1,29 @@
+J.B. MacQueen. 1967. “Some methods for classiﬁcation and analysis of multivariate observations”, in
+Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics Probability, Vol. 1, Berkeley:
+University of California Press 1, pp. 281–297.
+C.L. Mallows. 1973. “Some comments on cp,” Technometrics, 15: 661–665.
+M. Martens and H. Martens. 1986. “Partial least squares regression,” in Statistical Procedures in Food
+Research, J.R. Piggott, ed., Essex, UK: Elsevier Science, pp. 293–359.
+J.A. McEwan, P.J. Earthy, and C. Ducher. 1998. Preference Mapping: A Review, Gloucestershire, UK:
+Campden & Chorleywood Food Research Association, (Review, No. 6).
+D.C. Montgomery. 1976. Design and Analysis of Experiments, New York: Wiley.
+A.M. Mun˜oz and E. Chambers IV. 1993. “Relating sensory measurements to consumer acceptance of
+meat products,” Food Technology, 47:11, 128–131 see also: 134.
+J.R. Piggott and K. Sharman. 1986. “Methods to aid interpretation of multivariate data,” in Statistical
+Procedures in Food Research, J.R. Piggott, ed., Essex, UK: Elsevier Science, pp. 181–232.
+Pirouette. 2006. Comprehensive Chemometrics Modeling Software. Bothell, WA: Infometrix, Inc.
+R.L. Plackett and J.P. Burman. 1946. “The design of optimum multifactor experiments,” Biometika,
+33: 305–325.
+R. Popper, H. Heymann, and F. Rossi. 1997. “Three multivariate approaches to relating consumer to
+descriptive data,” in Relating Consumer, Descriptive and Laboratory Data to Better Understand
+Consumer Responses, ASTM Manual 30, A.M. Mun˜oz, ed., Philadelphia, PA: ASTM International
+(American Society for Testing and Materials), pp. 39–61.
+J.J. Powers. 1988. “Descriptive methods of analysis,” in Sensory Analysis of Foods, 2nd Ed., J.R. Piggott,
+ed., Essex, UK: Elsevier Science, pp. 187–256.
+J.J. Powers and G.O. Ware. 1986. “Discriminant analysis,” in Statistical Procedures in Food Research,
+J.R. Piggott, ed., Essex, UK: Elsevier Science, pp. 125–180.
+SAS. 1989. SAS/STAT User’s Guide, Version 6, Vol. 1, 4th Ed., Cary, NC: The SAS Institute.
+SAS. 2004. SAS OnlineDocw 9.1.3. Cary, NC: SAS Institute Inc.
+Unscrambler. 2006. Multivariate Statistical and Analytical Software. Trondheim, Norway: CAMO, Inc.
+Advanced Statistical Methods
+405

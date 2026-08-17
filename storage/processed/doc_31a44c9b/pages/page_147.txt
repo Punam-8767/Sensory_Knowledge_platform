@@ -1,0 +1,50 @@
+For a detailed review of the history and an evaluation of current practices of odor
+measurement, the reader is referred to Doty and Laing (2003).
+Experience shows that with practice and training (Brown et al. 1978), it is possible to
+obtain reproducibility levels of G20% for a given panel and G50% between one large
+panel (O25) and another. The important factors, in addition to repeated training with the
+actual substance under test, are those described in Chapter 4: subjects will pride them-
+selves and hope to please the experimenter by ﬁnding the lowest threshold, and this must
+be counteracted by meticulous attention to the details of sample preparation and sample
+presentation so as to not leave clues to their identity.
+8.2
+Deﬁnitions
+Thresholds are the limits of sensory capacities. It is convenient to distinguish between the
+absolute threshold, the recognition threshold, the difference threshold, and the
+terminal threshold.
+The absolute threshold (detection threshold) is the lowest stimulus capable of produ-
+cing a sensation: the dimmest light, the softest sound, the lightest weight, the
+weakest taste. The recognition threshold is the level of a stimulus at which the speciﬁc
+stimulus can be recognized and identiﬁed. The recognition threshold is usually higher
+than the absolute threshold. If a person tastes water containing increasing levels of added
+sucrose a transition in sensation will occur in at some point from “water taste or pure
+water” to “a very mild taste.” As the concentration of sucrose increases, a further transi-
+tion will occur from “a very mild taste” to “mild sweet.” The level at which this second
+transition occurs is called the recognition threshold.
+The difference threshold is the extent of change in the stimulus necessary to produce a
+noticeable difference. It is usually determined by presenting a standard stimulus that is
+then compared to a variable stimulus. The term just noticeable difference (JND) is used when
+the difference threshold is determined by changing the variable stimulus by small
+amounts above and below the standard until the subject notices a difference. Chapter 5
+addresses this subject directly.
+The terminal threshold is that magnitude of a stimulus above which there is no increase
+in the perceived intensity of the appropriate quality for that stimulus. Above this level,
+pain often occurs.
+JNDs increase as one proceeds up the scale of concentration, and they have been used
+as scale steps of sensory intensity. Hainer et al. (1954) calculated that their subjects
+could distinguish some 29 JNDs between the absolute and the terminal thresholds.
+However, thresholds vary too much from person to person, and from group to
+group, for the JND to have gained practical application as a measure of perceived
+intensity.
+The conventional notion of a threshold (e.g., for diesel exhaust in air) is that shown in
+Figure 8.1. Above 5 ppm, the exhaust can be detected; below 5 ppm it cannot be
+detected. However, an observer making repeated tests using a dilution olfactometer
+will produce a set of results such as those shown in Figure 8.2. The observer’s sensitivity
+will vary with chance air currents over the olfactory membrane and with momentary or
+biorhythmic variations in the sensitivity of his nervous system. The ticking of a watch
+held at a certain distance can be heard one moment can be inaudible the next, and then
+audible again, etc. The threshold is not a ﬁxed point, but a value on a stimulus conti-
+nuum. By convention, the observer’s personal threshold is that concentration that can be
+detected 50% of the time and not the concentration that can be detected at X%
+Sensory Evaluation Techniques, 4th Ed., Ch. 8
+130

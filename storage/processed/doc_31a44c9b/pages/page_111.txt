@@ -1,0 +1,89 @@
+Test design: A preweighed amount of each product is placed on a coded watch glass. The
+same amount (the weight of product that is normally used on a 10-cm2 area) is weighed
+out for each sample. A 10-cm2 area is traced on the back of the subjects’ hands. The test
+uses 42 subjects and requires 3 subsequent days for each. On each of the 3 days, a subject
+sees one pair, which may be
+† Control vs. product F
+† Control vs. product N
+† Control vs. blind control
+See worksheet Figure 6.17. All subjects receive the labeled control ﬁrst and the test
+sample second. Subjects are seated in individual booths that are well ventilated to
+reduce odor buildup and well lighted to permit visual cues to contribute to
+the assessment.
+Conduct test: Weigh out samples within 15 min of each test. Label the two samples to be
+presented with a three-digit code. Using easily removed marks, trace the l0-cm2 area on
+the backs of the hands of each subject. Instruct subjects to follow directions on the scor-
+esheet (see Figure 6.18) carefully.
+Worksheet
+No.
+13-625
+10-2-98
+Date
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Type of samples :
+Analgesic cream
+Difference from control test
+Type of test :
+Sample
+Sample code
+C
+Control
+C
+Random #s over 500
+Day 3
+Day 2
+Day 1
+Subject #
+Subject #
+Hour
+1,8,15,22,29,36
+2,9,16,23,30,37
+3,10,17,24,31,38
+4,11,18,25,32,39
+5,12,19,26,33,40
+6,13,20,27,34,41
+7,14,21,28,35,42
+9:00
+9:45
+10:30
+11:15
+1:00
+1:45
+2:30
+Serve in the following order:
+1 - 7
+8 - 14
+15 - 21
+22 - 28
+29 - 35
+36 - 42
+C - C
+C - C
+C - C
+C - C
+C - C
+C - C
+C - N
+C - N
+C - N
+C - N
+C - N
+C - F
+C - F
+C - F
+C - F
+C - F
+C - N
+C - F
+Random #s under 500
+Experimental 10A3 (thixotropic)
+Experimental 2-6X (high viscosity)
+Description
+F
+N
+FIGURE 6.17
+Worksheet for difference-from-control test. Example 6.12: analgesic cream.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+94

@@ -1,0 +1,70 @@
+Example 6.14: Acceptance vs. Rejection of Two Trainees on a Panel
+Project objective: To select or reject the trainees on the basis of their sensitivity to the
+differences in a series of test samples.
+Test objective: To determine for each trainee whether his/her long-term proportion, p, of
+correct answers is sufﬁciently large for admittance onto the panel.
+Test design: The sample pairs are submitted one at a time in the form of triangle tests.
+Intervals between tests are kept long enough to avoid fatigue. As each triangle is
+completed, the result is entered in Figure 6.20. The tests series continue until the trainee
+is either accepted or rejected.
+Analyze results: Test parameters—values for four parameters are assigned by the panel
+leader:
+† a is the probability of selecting an unacceptable trainee
+† b is the probability of rejecting an acceptable trainee
+† p0 is the maximum unacceptable ability (measured as the proportion of correct
+answers)
+† p1 is the minimum acceptable ability (measured as the proportion of correct
+answers)
+10
+Accept
+Taster A
+Taster B
+Continue
+testing
+Reject
+n, Number of trials (cumulative)
+d, Number of correct tests (cumulative)
+0
+0
+2
+2
+−2
+4
+4
+6
+6
+8
+8
+10
+12
+14
+16
+18
+Lower line :
+Upper line :
+d0
+d1
+=
+=
+Parameters, this test
+a = 0.05
+p0 = 0. 33
+p1 = 0. 66
+b = 0. 10
+a
+is the probability of stating that a difference occurs when it does not
+b
+is the probability of stating that no difference occurs when it does
+p0
+is the expected proportion of correct decisions when the samples are identical
+p1
+is the expected proportion of correct decisions when the odd sample is
+logb −log(1−a) −n log(1−p1) + n log(1−p0)
+log(1−b ) −log a −n log(1−p1) + n log(1−p0)
+log p1 −logp0 −log(1−p1) + log(1−p0)
+log p1 −logp0 −log(1−p1) + log(1−p0)
+detected (other than by guess) on half the total number of occasions
+FIGURE 6.20
+Example of sequential approach for selection of panel trainees by triangle tests.
+Overall Difference Tests: Sequential Tests
+101

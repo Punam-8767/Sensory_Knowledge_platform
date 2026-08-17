@@ -1,0 +1,39 @@
+14.4.2.1
+Constructing Fractional Factorials
+Most screening studies are performed by selecting two levels, low and high, for each
+experimental variable. The various treatment combinations of low and high levels make
+up the experimental design. That is, the treatment combinations deﬁne the levels of the
+experimental variables that should be used to produce each of the experimental samples.
+A convenient notation has been developed to identify the levels of the factors in each
+treatment combination. The high level of a variable A is denoted by the lower case a, the
+high level of B by b, etc. The low level of a variable is denoted by the absence of the lower-
+case letter. For example, in a 23 factorial, the treatment combination high-A, high-B, high-C
+would be denoted as abc; the treatment combination low-A, high-B, high-C would be
+denoted as bc; and the treatment combination low-A, low-B, high-C would be
+denoted by c. The symbol used to represent the combination of all factors at their low
+levels is (1).
+The eight treatment combinations that make up a single replication of a 23 factorial
+experiment are presented in the ﬁrst column of Table 14.8. The remaining columns
+contain the signs of the coefﬁcients that would be used to estimate each of the factorial
+effects. (The coefﬁcients are either K1 or C1; therefore, only the sign is needed.) The
+treatment combinations are grouped by the sign of the coefﬁcient for estimating the
+three-way interaction ABC. The two groups formed in this way are each 1⁄2-replications
+of a 23 factorial. Either of the two groups of four treatment combinations could be selected
+for use in a screening study. Cochran and Cox (1957) present plans for fractional factorial
+experiments for both 2n and 3n experiments where the number of factors, n, is as large
+as eight.
+B Effect 2
+A Effect 2
+B Effect 1
+A Effect 1
+C Effect 1
+C Effect 2
+A
+B
+C
+FIGURE 14.24
+A graphical display of a 1⁄2-replicate fractional factorial of a 23 experiment showing by projection that two
+differences remain for estimating each main effect even though the total experiment has been reduced from
+eight to four samples.
+Advanced Statistical Methods
+397

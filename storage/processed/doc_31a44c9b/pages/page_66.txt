@@ -1,0 +1,60 @@
+or direct electrical measurement of the nerve impulse generated in the chorda tympani
+(taste nerve) in persons undergoing inner-ear operations (Borg et al. 1967).
+Over the past century, two forms of the psychophysical function have been used: Fech-
+ner’s law and Stevens’ law. Although neither is perfect, each (when used within its limits
+of validity) provides a much better guide for experiment design than simple intuition. For
+a thorough discussion of the two, see Lawless and Heymann (1998). Two other reviews of
+psychophysical theory, Laming (1994), Norwich and Wong (1997), include worthwhile
+attempts at reconciling Fechner’s and Stevens’ laws. More recently, the Michaelis–
+Menten equation known from enzyme chemistry, or the Beidler equation derived from
+it, have been used to model the dose–response relationship (see Section 5.2.3 below and
+Chastrette, Thomas-Danguin, and Rallet 1998).
+5.2.1
+Fechner’s Law
+Fechner (1860) selected as his measure of the strength of sensation the just-noticeable
+difference (JND; see Figure 5.3). For example, he would regard a perceived sensation of
+8 JNDs as twice as strong as one of 4 JNDs. JNDs had just become accessible to measure-
+ment through difference testing, which Fechner learned from Ernst Weber at the
+University of Leipzig in the mid-1800s. Weber found (1834) that difference thresholds
+increase in proportion to the initial perceived absolute stimulus intensity at which they
+are measured:
+DC
+C Z k ðWeber’s lawÞ;
+(5.1)
+where C is the absolute intensity of the stimulus, e.g., concentration, DC is the change in
+intensity of the stimulus that is necessary for 1 JND, and k is a constant, usually between 0
+9
+9
+10
+11
+12
+13
+14
+8
+8
+7
+7
+6
+6
+5
+5
+4
+4
+3
+3
+2
+2
+Absolute
+threshold
+Number of JNDs (R)
+Stimulus intensity (C)
+(arbitrary units)
+R = k log C
+∆C
+1
+1
+FIGURE 5.3
+Derivation of Fechner’s law by the method of summing JNDs. (Adapted from A.V. Cardello and O. Maller. 1987.
+Objective Methods in Food Quality Assessment, J.G. Kapsalis, ed., Boca Raton, FL: CRC Press.)
+Measuring Responses
+49

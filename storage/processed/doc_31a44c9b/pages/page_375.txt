@@ -1,0 +1,60 @@
+The various statistical methods that exist for drawing relationships among variables can
+be divided into two groups. The ﬁrst group of methods handles data sets in which all of
+the variables are independent, in the sense that they are all equally important with no one
+or few variables being viewed as being driven by the others (e.g., a set of descriptive ﬂavor
+attributes). The second group of methods is applied to data sets that contain both depen-
+dent and independent variables. These are data sets in which one or more of the variables
+are of special or greater interest relative to some others (e.g., overall liking vs. descriptive
+attribute ratings). Because the methods in both of these groups deal with more than one
+variable at a time, they are members of the class of “multivariate” statistical methods.
+14.2.1
+All Independent Variables
+When all of the variables are viewed as being equally important, the goal of the statistical
+analyses is to determine the nature and degree of relationships among the variables, to
+determine if groups of related variables exist, or to determine if distinct groups of
+observations exist.
+14.2.1.1
+Correlation Analysis
+The simplest of multivariate techniques, correlation analysis, is used for measuring the
+strength of the linear relationship between two variables. The strength of the relationship
+between attributes X and Y, for instance, is summarized in the correlation coefﬁcient r, where:
+r Z
+S yiKy
+
+
+xiKx
+
+
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+S yiKy
+
+2S xiKx
+
+2
+q
+The value of r lies between K1 and C1. A value of K1 indicates a perfect inverse linear
+relationship (i.e.,one variable decreases asthe other increases) while a value of C1 indicates a
+perfect direct linear relationship (i.e., both variables either increase or decrease together).
+A value near zero implies that little linear relationship exists between the two variables.
+A strong correlation does not imply causality, that is, neither variable can automatically
+be assumed to be “driving” the other, but rather that the two co-vary to some degree.
+Correlation coefﬁcients are summary measures. An analyst should always examine the
+scatterplots of the paired variables before deciding if the value of r is an adequate
+summary of the relationship. A strong linear trend among relatively evenly spaced obser-
+vations, as in Figure 14.1a, is safely summarized by the correlation coefﬁcient, as is an
+unpatterned spread of observations spanning the ranges of both variables, as in
+Figure 14.1b. Some relationships may have high values of r but are clearly better sum-
+marized in nonlinear terms, as in Figure 14.1c. In other cases, patterns that are clearly
+apparent visually may have very low values of r, as in Figure 14.1d and Figure 14.1e.
+Conversely, the correlation coefﬁcient may be misleadingly large when distinct groups of
+observations (with no internal correlation) are present, as in Figure 14.1f. A scatterplot
+matrix (see Figure 14.2) allows all of the pairwise plots of the data to be displayed in a
+compact format.
+Correlation analysis can be used to identify groups of responses that vary in similar
+ways, possibly distinct from other such groups. Also, correlation analysis can be used to
+determine the strength of the relationship between data arising from different sources
+(e.g., consumer ratings and descriptive data from a trained panel, descriptive attribute
+ratings, and instrumental measurements, etc.). Chapter 12, p. 283, contains examples of
+these types of relationships.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+358

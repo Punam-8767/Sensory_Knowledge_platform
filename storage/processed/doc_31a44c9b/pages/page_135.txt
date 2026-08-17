@@ -1,0 +1,48 @@
+randomized order; the task is to rate each sample using the speciﬁed scale. The set may be
+presented once only, or several times with different coding. Accuracy is much improved if
+the set can be presented two or more times.
+If more than one attribute is to be rated, theoretically the sample should be presented
+separately for each attribute. In practical descriptive analysis, this can become impossible
+because of the number of attributes to be rated in a given sample (typically from 6 to 25). In
+dispensing with the requirement to rate each attribute separately, the sensory analyst accepts that
+there will be some interdependence between the attributes. For example, if in a shelf-life study,
+the product can go stale microbiologically (e.g., sourness) or oxidatively (e.g., rancidity);
+high ratings on one will raise the rating on the other, even if it is absent. The effect must be
+counteracted by making subjects aware of it and by vigorous training that enables them to
+recognize each attribute independently.
+7.6.5
+Analysis and Interpretation of Results
+The results are analyzed by the analysis of variance, see Chapter 13, p. 341, and
+the examples.
+Example 7.6: Popularity of Course in Sensory Analysis. Randomized
+Complete Block Design
+Problem/test objective: A department offood science routinely asks the students at the end of
+each semester to rate the courses they have taken on a scale of K3 to C3, where K3 is very
+poor, 0 is indifferent, and C3 is excellent. Thirty students complete the scoresheet with the
+results shown in Table 7.3. The objective of the evaluation is to identify courses that
+require improvement.
+Analyze results: The data lend themselves to analysis of variance for a randomized
+(complete) block design. The students are treated as “blocks”; the courses evaluated are
+the “treatments.” The F-statistic for “courses evaluated” in Table 7.4 is highly signiﬁcant
+(F3,87Z12.91, p!0.0001). Therefore, the course evaluator concludes that there are
+differences among the average responses for the courses. The course evaluator performs
+an LSD multiple comparison procedure to determine which of the course means are
+signiﬁcantly different from each other (see Table 7.4, bottom). The results of the LSD
+procedure reveal that the nutrition course has a signiﬁcantly lower (poorer) average
+rating than the other three. There are no other signiﬁcant differences among the mean
+ratings of the other three courses. The course evaluator communicates these results to the
+professor and the department for further action.
+Example 7.7: Hop Character in Five Beers—Split Plot Design
+Problem/situation: A brewer is producing a new brand of beer that is to have a high level of
+hop character. He is brewing with ﬁve alternative lots of hops that cost $1.00, $1.20, $1.40,
+$1.60, and $1.80/lb.
+Project objective: To choose the lot that gives the most hop character for the money.
+Test objective: To compare the resulting ﬁve beers for degree of hop character; to obtain a
+measure of the reliability of the results.
+Test design: The logical way is to line up the ﬁve beers in front of a large enough number
+of capable tasters; this is therefore a typical multisample difference test: 20 subjects evalu-
+ate the samples on a scale of 0–9 using the scoresheet in Figure 7.5. The order of
+presentation is randomized, and the samples are presented on three separate occasions
+with different coding.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+118

@@ -1,0 +1,45 @@
+one evaluation does not affect the next. A scoresheet is shown in Figure 7.4. Space for
+several sets of samples may be provided, but note that a new set of codes is required for
+each set; it is often simpler to supply one scoresheet for each set and subject.
+7.5.5
+Analysis and Interpretation of Results
+Analysis by Friedman’s test (Friedman 1937; Hollander and Wolfe 1973) is preferred to the
+use of Kramer’s tables (Kramer et al. 1974) as the latter provides inaccurate evaluation of
+samples of intermediate rank. Tabulate the scores as shown in Example 7.4 and calculate
+the rank sums for each sample (column sums). Then use Equation 13.14 to calculate the
+value of the test statistic, T. If the value of T exceeds the upper-a critical value of a c2
+random variable with (tK1) degrees of freedom, then conclude that signiﬁcant differences
+exist among the samples. Use the multiple comparison procedure appropriate for rank
+data, presented in Chapter 13, Equation 13.15 and Equation 13.24, to determine which
+samples are different.
+Name:
+Type of sample:
+Characteristic studied:
+1. Receive the sample tray and note each sample code
+below according to its position on the tray.
+Wait at least 30 seconds between samples and
+rinse palate as required.
+2. Taste the samples from left to right and note the
+degree of persistence of the sweetness
+3. Write "1" in the box of the sample which you find
+least persistent
+4. If two samples appear the same, make a "best guess"
+as to their rank order.
+Code
+Rank
+Comments:
+Write "2" for the next, "3" for the next, and "4" for
+the
+most persistent
+You may find it expedient to first arrange the samples
+in a provisional order, and then resolve the positions
+of adjacent samples by more careful tasting.
+Instructions
+Artificial sweeteners
+Persistence of sweet taste
+Date:
+Ranking Test
+FIGURE 7.4
+Scoresheet for simple ranking test. Example 7.4: comparison of four sweeteners for persistence.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+114

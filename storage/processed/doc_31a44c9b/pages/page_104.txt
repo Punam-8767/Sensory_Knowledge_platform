@@ -1,0 +1,65 @@
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Worksheet
+Date
+2-26-99
+84-46F09
+Test code
+Type of samples :
+Sample identification
+Code
+Type of test :
+Same/Different test
+Barbecue sauce on white bread pieces
+5-117- 36
+( old cooker)
+5-117- 39
+(new cooker)
+36
+39
+Code serving containers with 3-digit random numbers and divide
+into two lots, one lot to receive sample 36, the other sample 39.
+When preparing panelists' trays, place samples from left to right
+in the following order :
+Panelist code
+1 - 15
+36 - 36
+36 - 39
+39 - 36
+39 - 39
+16 - 30
+31 - 45
+46 - 60
+Sample order
+FIGURE 6.13
+Worksheet for same/different test. Example 6.10: replacing a processing cooker for barbecue sauce.
+Same/different test
+Test no.
+Taster no.
+Name:
+Date:
+Type of sample:
+Instructions
+1.
+Taste the two samples from left to right.
+2.
+Determine if samples are the same/identical or
+different.
+3.
+Mark your response below.
+Note that some of the sets consist of two identical samples.
+Products are the same
+Products are different
+Comments:
+Barbecue sauce on white bread pieces
+84-4639
+FIGURE 6.14
+Scoresheet
+for
+same/different
+test.
+Example 6.10: replacing a processing
+cooker for barbecue sauce.
+Overall Difference Tests: Same/Different Test (or Simple Difference Test)
+87

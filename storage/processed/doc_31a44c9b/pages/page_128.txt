@@ -1,0 +1,59 @@
+to the “thicker” and the rank of two to the “thinner” sample. The rank sums are then
+obtained by adding the sum of the row frequencies to twice the sum of the column
+frequencies, e.g., for Sample B, (12C6C2)C2(0C6C10)Z52:
+Sample
+A
+B
+C
+D
+Rank sum
+71
+52
+48
+45
+The test statistic, Friedman’s T, is computed as follows:
+T Z ð4=ptÞ
+X
+t
+iZ1
+R2Kð9p½tK1	2Þ Z ½4=ð12Þð4Þ	½712 C522 C482 C452	K½9ð12Þð32Þ	 Z 34:17
+where p is the number of times the basic design is repeated (here Z12), t is the number of
+treatments (here Z 4), Ri Z the rank sum for the ith treatment, and SR2Zsum of all R’s
+squared, from R1 to Rt.
+Critical values of T have been tabulated (Skillings and Mack 1981) for tZ3, 4, and 5 and
+small values of p; for experimental designs not in the tables, the value of T is compared to
+Name:
+1.
+Receive the sample tray and note each sample code
+below according to its position on the tray.
+2.
+Taste the first sample pair from left to right and
+note which sample is thicker (more viscous). Indicate
+by placing an X next to the code.
+3.
+Continue until all 6 pairs have been evaluated. Rinse
+with water as needed to clear your palate.
+Pair no.
+6
+5
+4
+3
+2
+1
+If you perceive no difference, please make a best guess.
+Comments regarding reasons for your choice or the
+characteristics of the samples may be made under Remarks.
+Left sample
+Right sample
+Remarks
+Type of sample:
+and difference:
+Instructions:
+Date:
+Multiple Paired Comparisons Test
+Unflavored table syrup
+thickness (mouthfeel)
+FIGURE 7.3
+Scoresheet for pairwise ranking test—Friedman analysis. Example 7.3: mouthfeel of corn syrup.
+Attribute Difference Tests: Pairwise Ranking Test
+111

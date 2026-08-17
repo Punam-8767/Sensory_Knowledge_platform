@@ -1,0 +1,105 @@
+To keep the difference between “internal” and “external” straight, it is helpful to recall
+that marketing researchers, conducting acceptance tests, coined the term preference
+mapping. The consumer acceptance ratings are “internal” to the studies they conduct;
+therefore, the method that uses the consumer ratings to locate the samples on the map
+is “internal preference mapping.” To marketing researchers, sensory attribute ratings are
+an “external” source of information, so the method that uses the descriptive attribute
+ratings to locate the samples on the map is “external preference mapping.”
+Internal, external, and PLS are three broad categories of preference mapping. There is a
+good deal of variety in the details of the methods that fall within each of the three categories.
+Therefore, once again, it is important to conﬁrm prior to running a preference mapping
+study that the approach you intend to use is the same one that your colleagues expect.
+A single data set is used to illustrate the three approaches to preferences mapping. The
+data consist of 30 sensory attributes evaluated on 10 prepared meal products. 100 consu-
+mers evaluated the same 10 products for overall acceptance. Each consumer evaluated all
+10 products.
+In Section 14.3.1, the consumer data is used to develop an internal preference map. The
+map is then extended through a creative application of correlation analysis to illustrate the
+relationship between the sensory data and acceptance. In Section 14.3.2, the external
+preference map is developed using PCA and regression analysis, as discussed in the
+previous section. Also included in Section 14.3.2 will be an application of “preference
+segmentation,” in which cluster analysis is used to identify segments of consumers with
+similar liking patterns for the ten test products. It is important to identify homogeneous
+groups of consumers before running external preference mapping on average acceptance
+ratings. Averaging across groups with different preferences can mask the sensory attri-
+butes that drive consumer acceptance. Lastly, in Section 14.3.3, PLS mapping is applied to
+the combined sensory and consumer data, including the preference segments identiﬁed in
+Section 14.3.2.
+14.3.1
+Internal Preference Mapping
+Internal preference mapping is an application of principal components analysis (PCA)
+discussed in Section 14.2 of Chapter 14. The test products form the rows of the data set. The
+overall liking ratings of the consumers form the columns (see Table 14.2). Because PCA
+requires complete data, consumer tests in which each respondent evaluates all of the
+TABLE 14.2
+Format of Input Data for Internal Preference Mapping
+Product
+Resp1
+Resp2
+Resp3
+.
+Resp100
+A
+6
+8
+9
+.
+8
+B
+3
+7
+7
+.
+1
+C
+8
+8
+9
+.
+7
+D
+2
+7
+9
+.
+3
+E
+3
+7
+7
+.
+3
+F
+2
+6
+6
+.
+2
+G
+8
+9
+8
+.
+7
+H
+2
+8
+9
+.
+5
+I
+7
+8
+9
+.
+4
+J
+5
+9
+9
+.
+7
+Products form the rows of the data set. The overall liking ratings of each respondent
+form the columns.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+376

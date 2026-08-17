@@ -1,0 +1,83 @@
+save them for “real extremes.” Here are four examples of category scales of proven
+usefulness in descriptive analysis:
+Number
+Category Scales
+Word Category Scale I
+Word Category Scale II
+0
+0
+None
+None at all
+1
+1
+Threshold
+Just detectable
+2
+2.5
+Very slight
+Very mild
+3
+5
+Slight
+Mild
+4
+7.5
+Slight-moderate
+Mild-distinct
+5
+10
+Moderate
+Distinct
+6
+12.5
+Moderate-strong
+Distinct-strong
+7
+15
+Strong
+Strong
+Generally, even word category scales are converted to numbers. The numbers used in
+the above list are typical of such conversions.
+The Flavor Proﬁlew and Texture Proﬁlew descriptive analysis methods use a numerical-
+type category scale anchored with words:
+Numerical Value
+Word Anchor
+0
+None
+)(
+Threshold, just detectable
+1⁄2
+Very slight
+1
+Slight
+11⁄2
+Slight-moderate
+2
+Moderate
+21⁄2
+Moderate-strong
+3
+Strong
+Unless the scale represents a very small range of sensory perception or the number of
+samples to be tested is small (less than ﬁve), panel leaders should consider using at least a
+10–15-point category scale. Data for category scales can be analyzed using c2-tests to
+compare the proportion of responses occurring in each category among a group of
+samples. Alternatively, if it is reasonable to assume that the categories are
+equally spaced, parametric techniques such as t-tests, analysis of variance, and regression
+can be applied to the data. Riskey (1986) discusses the use and abuse of category scales in
+considerable detail. James et al. (2003) review and test different ranking scales.
+The practical steps involved in the construction of a scale are discussed in Chapter 9 and
+Chapter 10. Appendix 11.1 contains a wide selection of terms of proven usefulness as scale
+endpoints, and Appendix 11.2 gives reference points on a scale of 0–15 for the four basic
+tastes and for the intensity of selected aroma, taste, and texture characteristics of items
+readily available in supermarkets, such as Hellmann’s Mayonnaise.
+5.6.2
+Line Scales
+With a linear or line scale, the panelist “rates” the intensity of a given stimulus by making a
+mark on a horizontal line that corresponds to the amount of the perceived stimulus. The
+lengths most used are 15 cm and 6 in. with marks (“anchors”) either at the ends, or 1/2 in.
+or 1.25 cm from the two ends (see Figure 5.6). The use of more than two anchors tends to
+reduce the line scale to a category scale, which may or may not be desired. Normally, the
+left end of the scale corresponds to “none” or zero amount of the stimulus while the
+Measuring Responses
+57

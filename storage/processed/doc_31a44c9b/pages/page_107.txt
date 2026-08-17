@@ -1,0 +1,97 @@
+6.7.5
+Analysis and Interpretation of Results
+The analysis of the data with four different combinations of sample vs. response is some-
+what complex and can best be understood by referring to Example 6.11.
+Example 6.11: New Sweetener Compared with Sucrose
+Problem/situation: A product development chemist is researching alternate sweeteners for a
+beverage that uses sucrose as 5% of the current formula. Preliminary taste tests have
+established 0.1% of the new sweetener as the level equivalent to 5% sucrose, but have
+also shown that if more than one sample is presented at a time, discrimination suffers
+because of carryover of the sweetness and other taste and mouthfeel factors. The chemist
+wishes to know whether the two beverages are distinguishable by taste.
+Project objective: Determine if the alternate sweetener at 0.1% can be used in place of
+5% sucrose.
+Test objective: To compare the two sweeteners directly while reducing carryover and
+fatigue effects.
+Test design: The “A”–“not A” test allows the samples to be indirectly compared, and it
+permits the subjects to develop a clear recognition of the ﬂavors to be expected with the
+new sweetener. Solutions of the sweetener at 0.1% are shown repeatedly to the subjects as
+“A,” and 5% sucrose solutions are shown as “not A”; 20 subjects each receive 10 samples to
+evaluate in one 20-min test session. Subjects are required to taste each sample once, record
+the response (“A” or “not A”), rinse with plain water, and wait 1 min before tasting the
+next sample. Figure 6.15 shows the test worksheet and Figure 6.16 shows the scoresheet.
+Sample identification
+Panelist
+Worksheet
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Type of samples :
+Sweetened beverage
+"A" −"Not A" test
+Type of test :
+Date
+1-15-99
+Test code
+612A83
+Code 200 6-oz cups with random 3-digit numbers and divide
+into two lots of 100 each. Use sample "A" for the first 100
+cups and sample "Not A" for the second 100 cups.
+When preparing panelists' trays, place samples from left to
+right in the following order:
+Sample order
+A
+1 - 5
+6 - 10
+11 - 15
+16 - 20
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+A
+A
+A
+A
+A
+Code
+A
+B
+("Not A")
+("A")
+Beverage with 0.1% sweetener
+Beverage with 5% sucrose
+FIGURE 6.15
+Worksheet for “A”–“Not A” test. Example 6.11: new sweetener compared with sucrose.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+90

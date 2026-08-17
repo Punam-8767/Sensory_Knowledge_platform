@@ -1,0 +1,33 @@
+Let x be a random variable having a normal distribution with mean m and standard
+deviation s (often abbreviated as xwn(m, s)). Deﬁne the variable z as:
+z Z ðxKmÞ=s:
+(13.26)
+The random variable z also has a normal distribution. The mean of z is zero and its
+standard deviation is one [i.e., zwn(0, 1)]. z is said to have a standard normal distribution,
+or oftentimes z is called a standard normal deviate. Given the values of m and s for a normal
+random variable x and a table of standard normal probabilities (see Table 17.2), it is
+possible to calculate various probabilities of interest.
+Example 13.7: Calculating Normal Probabilities on an Interval
+Consider the problem of calculating the probability that a normal random variable x
+with mean mZ50 and standard deviation sZ5 takes on a value between 50 and 60 (nota-
+tionally, Pr[50!x!60]). The ﬁrst step in solving the problem is to “standardize” x using
+(Equation 13.26):
+Pr½50!x!60	 Z Pr½ð50K50Þ=5!ðxK50Þ=5!ð60K50Þ=5	
+Z Pr½0!z!2	:
+Table 17.2 gives the probabilities of a standard normal deviate taking on a value from
+zero (i.e., its mean) to some speciﬁed number. Therefore, consulting the row corre-
+sponding to 2.0 and the column corresponding to 0.00 in Table 17.2, the analyst ﬁnds
+that the probability sought is equal to 0.4772 (see Figure 13.16).
+Next, consider the problem of ﬁnding Pr[45!x!50], where, as before, xwn(50, 5).
+Standardizing:
+Pr½45!x!50	 Z Pr½ð45K50Þ=5!ðxK50Þ=5!ð50K50Þ=5	
+Z Pr½K1!z!0	:
+Pr (50<x<60) = 0.4772
+Pr (x>60) = 0.0228
+50
+60
+x
+FIGURE 13.16
+A graphical depiction of calculating normal probabilities on an interval and in the tail of the distribution.
+Basic Statistical Methods
+351

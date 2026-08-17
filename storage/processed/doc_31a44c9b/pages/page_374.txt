@@ -1,0 +1,36 @@
+14
+Advanced Statistical Methods
+14.1
+Introduction
+The basic statistical techniques presented in Chapter 13 are all that would be required to
+analyze the results of most sensory tests. However, when the objectives of the study go
+beyond simple estimation or discrimination, then more sophisticated statistical methods
+may need to be applied. This chapter presents some of the more common of these
+advanced techniques. The computational complexity of the methods makes hand calcu-
+lation impractical. It is assumed that the reader has access to computer resources capable
+of performing the necessary calculations.
+Sensory studies seldom include only a single response variable. More often, many
+variables are measured on each sample and often one of the goals of the study is to
+determine how the different “multivariate” measurements relate to each other.
+Approaches for studying multivariate data relationships are presented in Section 14.2.
+First, correlation analysis, principal components analysis (PCA), and cluster analysis are
+discussed. These techniques are used to study sets of multivariate data in which all of the
+variables are of equal status. Second, regression analysis, principal component regression,
+partial least-squares, and discriminant analysis are presented. These methods apply when
+the variables in the data set can be classiﬁed as being either independent or dependent,
+with the goal of the analysis being to predict the value of the dependent variables using the
+independent variables. Section 14.3 presents the various approaches to preference
+mapping in which all of the methods presented in Section 14.2 are applied to link
+consumer acceptance to the sensory properties of a group of test products. In Section
+14.4, experimental plans for systematically studying the individual and combined
+effects of more than one experimental variable are presented. The discussion includes
+factorial experiments, fractional factorials (or “screening studies”) and response surface
+methodology (or “product optimization studies”).
+14.2
+Data Relationships
+The need to determine if relationships exist among different variables often arises in
+sensory evaluation. The manner and degree that different descriptive attributes increase
+or decrease together, the similarity among consumers’ liking patterns for various
+products, and the ability to predict the value of a perceived attribute based on the age
+of a product are three examples of this type of problem.
+357

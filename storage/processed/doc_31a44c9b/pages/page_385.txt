@@ -1,0 +1,65 @@
+where SSxZP(xiKx)2 and ta/2,nK2 is the upper-a/2 critical value of Student’s
+t-distribution with nK2 degrees of freedom. The F-ratio from ANOVA only tells the
+analyst if b1 is different from zero. The conﬁdence interval in Equation 14.8 tells the
+analyst whether b1 is estimated with sufﬁcient precision to be useful in applications.
+The idea of a conﬁdence interval on b1 can be extended to conﬁdence bands on the
+predicted value of y using
+^y0Gta=2;nK2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+MSE½ð1=nÞ Cðx0KxÞ2=SSx	
+q
+:
+(14.9)
+The conﬁdence bands can be plotted along with the predicted values to provide a visual
+assessment of the quality of the ﬁt (see Figure 14.8). If the conﬁdence bands are too wide,
+then regardless of the F-ratio test or the value of R2, the ﬁtted simple linear regression
+equation is not sufﬁciently good.
+Several possibilities exist to explain a poor-ﬁtting regression equation. Most of these
+possibilities can be studied with plots of the residuals from the regression. The residuals, ^3,
+10
+9
+8
+7
+6
+5
+Floral aroma
+4
+3
+2
+1
+0
+2
+Storage time (weeks)
+4
+6
+8
+10
+FIGURE 14.8
+A ﬁtted regression line with 95% conﬁdence bands. The width of the bands provides a visual assessment of the
+quality of the ﬁtted line. Narrow bands such as these indicate that the data are well ﬁtted by the line, while wide
+bands indicate that a large amount of unexplained variability remains.
+TABLE 14.1
+ANOVA Table for Simple Linear Regression
+Source of
+Variation
+Degrees of
+Freedom
+Sum of
+Squares
+Mean
+Square
+F
+Total
+nK1
+SST
+Regression
+1
+SSReg
+MSRegZSSReg
+MSReg/MSE
+Error
+dfEZnK2
+SSRes
+MSResZSSE/dfE
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+368

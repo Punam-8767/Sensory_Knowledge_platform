@@ -1,0 +1,65 @@
+Graphs can be used to illustrate interactions. Figure 14.23a illustrates the interaction
+between boiling time and variety. The points on the graph are the average hop aroma
+ratings of the four experimental conditions presented in Table 14.6. The interaction
+between the two factors is indicated by the lack of parallelism between the two lines. If
+there were no interaction between the two factors, the lines would be nearly parallel
+(deviating only due to experimental error) as in Figure 14.23b. Researchers must be
+very cautious in interpreting main effects in the presence of interactions. Consider the
+data in Table 14.6 that illustrates the “boiling time by hop variety” interaction. Applying
+Equation 14.12 yields an estimated main effect due to boiling time of (6K12)C(13K7)/2Z0,
+which indicates that boiling time has no effect. However, Figure 14.23a clearly shows that
+for each variety of hops there is a substantial effect due to boiling time. Because the
+separate variety effects are opposite, they cancel each other in calculating the main effect
+due to boiling time. In the presence of an interaction, the effect of one factor can only be
+meaningfully studied by holding the level of the second factor ﬁxed.
+Researchers sometimes use an alternative to factorial treatment structures, called one-
+at-a-time treatment structures, in the false belief that they are economizing the study.
+Suppose in the beer brewing example that the brewer had only prepared three samples:
+the low boiling time/variety A point T1A, the low boiling time/variety B point T1B, and the
+high boiling time variety B point T2B. (The high boiling time/variety A treatment com-
+bination T2A is omitted.) Because only three samples are prepared, it would appear that
+the one-at-a-time approach is more economical than the full factorial approach. This is not
+true, however, if one considers the precision of the estimates of the main effects. Only one
+difference due to boiling time is available to estimate the main effect of boiling time in the
+one-at-a-time study (i.e., T1B–T2B). The same is true for the variety effect (i.e., T1A–T2B).
+Equation 14.12 and Equation 14.13 show that, for the factorial treatment structure, two
+differences are available for estimating each effect. The entire one-at-a-time experiment
+would have to be replicated twice, yielding six experimental points, to obtain estimates of
+the main effects that are as precise as those obtained from the four points in the
+factorial experiment.
+Another advantage that factorial treatment structures have over one-at-a-time experi-
+ments is the ability to detect interactions. If the high-temperature/variety A observation
+T2AZ12 were omitted from the data in Table 14.6 (as in the one-at-a-time study), one
+would observe that beer brewed at the high boiling time has less hop aroma than beer
+brewed at the low boiling time and that beer brewed with hop variety A has less hop
+aroma than beer brewed with hop variety B. The most obvious conclusion would be that
+beer brewed at the high boiling time using hop variety A would have the least hop aroma
+15
+10
+5
+0
+15
+10
+5
+0
+Low
+High
+Low
+High
+Hop aroma
+Hop aroma
+Boiling time
+Interaction
+Boiling time
+No interaction
+A
+B
+A
+B
+(a)
+(b)
+FIGURE 14.23
+Plots of the mean hop aroma response illustrating (a) interaction and (b) no interaction between the factors in
+the study.
+Advanced Statistical Methods
+395

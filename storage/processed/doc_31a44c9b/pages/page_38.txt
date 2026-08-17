@@ -1,0 +1,57 @@
+However, variability in taste sensitivity, especially for bitterness with various bitter agents,
+is quite common.
+Researchers’ understanding of the physiological mechanisms of the principal tastes has
+been advancing rapidly, e.g., sweet (Li et al. 2001; Montmayeur et al. 2001; Nelson et al.
+2001); sweet and bitter (Ruiz et al. 2001); sweet and umami (Li et al. 2002; Zhao et al. 2003);
+sweet, bitter, and umami (Zhang et al. 2003); and sour (Johanningsmeier, McFeeters, and
+Drake 2005).
+2.3.6
+The Sense of Hearing
+Figure 2.8 shows a cross-section of a human ear. Vibrations in the local medium, usually
+air, cause the eardrum to vibrate. The vibrations are transmitted via the small bones in the
+middle ear to create hydraulic motion in the ﬂuid of the inner ear, the cochlea, that is a
+spiral canal covered in hair cells that, when agitated, sends neural impulses to the brain.
+Students of crispness, etc. should familiarize themselves with the concepts of intensity,
+measured in decibels, and pitch, determined by the frequency of sound waves. A possible
+source of variation or error that must be controlled in such studies is the creation and/or
+propagation of sound inside the cranium, but outside of the ear, e.g., by movement of the
+jaws or teeth and propagation via the bone structure.
+Psychoacoustics is the science of building vibrational models on a sound oscilloscope to
+represent perceived sound stimuli such as pitch, loudness, sharpness, roughness, etc.
+These models work for simple sounds but not for more complex ones. They can be
+used to answer questions such as “What kind of sound?” and “How loud?” However,
+they often fail to provide a sound that is appropriate to what the listener expects.
+Recently, academics and engineers who are responsible for sound characteristics of
+products have realized the need for a common vocabulary to describe sound attributes
+for complex sounds. This occurs because automobile, airframe, and industrial and
+Auricle
+Cartilage
+Mastoid cells
+Malleus
+Incus
+Semicircular
+canals
+Vestibule
+Vestibular N
+Facial N
+Cochlear N
+internal
+auditory
+canal
+Cochlea
+Cross section of
+eustachian tube
+Round
+window
+Stapes
+Drum
+membrane
+Mastoid tip
+External
+auditory
+canal
+FIGURE 2.8
+A semidiagrammatic drawing of the ear (From J.W. Kling and L.A. Riggs, eds. 1971. Woodworth and Schlosberg’s
+Experimental Psychology, 3rd Ed., Holt, Rinehart & Winston, New York. With permission.)
+Sensory Attributes and the Way We Perceive Them
+21

@@ -1,0 +1,51 @@
+10.4.3
+The Quantitative Descriptive Analysis (QDAw) Method
+In response to dissatisfaction among sensory analysts with the lack of statistical treatment
+of data obtained with the Flavor Proﬁle or related methods, the Tragon Corp. developed
+the QDAw method of descriptive analysis (Stone et al. 1974; Stone and Sidel 1992). This
+method heavily relies on statistical analysis to determine the appropriate terms,
+procedures, and panelists to be used for analysis of a speciﬁc product.
+Panelists are selected from a large pool of candidates according to their ability to
+discriminate differences in sensory properties among samples of the speciﬁc product
+type for which they are to be trained. The training of QDA panels requires the use of
+product and ingredient references, as with other descriptive methods, to stimulate the
+generation of terminology. The panel leader acts as a facilitator, rather than as an
+instructor, and refrains from inﬂuencing the group. Attention is given to development
+of consistent terminology, but panelists are free to develop their own approach to scoring,
+using the 15-cm (6 in.) line scale that the method provides.
+QDA panelists evaluate products one at a time in separate booths to reduce distrac-
+tion and panelist interaction. Panelists enter the data into a computer, or the scoresheets
+are individually collected from the panelists as they are completed, and the data is
+entered for computation usually with a digitizer or card reader directly from the scor-
+esheets. Panelists do not discuss data, terminology, or samples after each taste session,
+and they must depend on the discretion of the panel leader for any information on their
+performance relative to other members of the panel and to any known differences
+between samples.
+The results of a QDA test are statistically analyzed, and the report generally contains a
+graphic representation of the data in the form of a spider web with a branch or spoke from
+a central point for each attribute.
+The QDA method was developed in partial collaboration with the Department of Food
+Science at the University of California at Davis. It represents a large step toward the ideal
+of this book, the intelligent use of human subjects as measuring instruments, as discussed
+in Chapter 1. In particular, the use of a graphic scale (visual analog scale) that reduces that
+part of the bias in scaling, resulting from the use of numbers; the statistical treatment of the
+data; the separation of panelists during evaluation; and the graphic approach to presen-
+tation of data have done much to change the way that sensory scientists and their clients
+view descriptive methodology. The following are areas that could beneﬁt from a change or
+further development:
+1. The panel, because of a lack of formal instruction, may develop erroneous terms.
+For example, the difference between natural vanilla and pure vanillin should be
+easily detected and described by a well-trained panel; however, an unguided
+panel would choose the term vanilla to describe the ﬂavor of vanillin. Lack of
+direction also may allow a senior panelist or stronger personality to dominate
+the proceedings in all or part of the panel population in the development
+of terminology.
+2. The free approach to scaling can lead to inconsistency of results, partly because of
+particular panelists’ evaluating a product on a given day and not on another, and
+partly because of the context effects of one product seen after the other with no
+external scale references.
+3. The lack of immediate feedback to panelists on a regular basis reduces the opport-
+unity for learning and expansion of terminology for greater capacity to
+discriminate and describe differences.
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+180

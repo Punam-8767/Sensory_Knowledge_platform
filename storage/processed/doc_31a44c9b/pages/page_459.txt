@@ -1,0 +1,120 @@
+blocking experimental designs, 339–340
+conﬁdence intervals, 316–321, 322–323
+data summary analysis, 314–323
+data transformation, 322–323
+hypothesis testing, 314, 323–334
+Latin-square designs, 346–347
+probability, 350–354
+randomized block analysis, 341–343
+simultaneous multiple comparison procedures,
+349–350
+split-plot designs, 347–349
+summary statistics, 314–323
+tests of hypothesis, 314, 323–334
+Thurstonian scaling, 314, 334–338
+Beef patty warmed-over ﬂavor, 102–104
+Beers
+attribute difference tests, 108
+factorial experiments, 393–395
+randomized complete block design, 116–117
+result reporting guidelines, 416–417
+split plot design, 118–122
+threshold determination, 133–135
+Beidler model, 50–53
+Benchmarking, 186
+Best estimate threshold (BET) 133
+Bias, 42, 154–155
+BIB see Balanced incomplete block
+Bilateral applications, 106, 107–108
+Binomial distribution, 332, 353
+Binomial probabilities, 353–354
+Bite sensations, 200, 201
+Bitterness tests, 108, 116–117
+Blocking experimental designs, 339–340
+Bonuses, 168–169
+Booths, 26–29
+Box-and-whispers plots, 316, 319
+Bread, 232–233, 239–240
+Breakdown, 199
+Breakfast cereals, 277–279
+C
+Calibration, 190–191
+Cancellations, 170
+Candy bars, 67–69, 300–302, 307–308
+Can liners, 76–77
+Capriciousness, 43
+Caramel, 236–237
+Category reviews, 258–259
+Category scaling, 56–57, 59, 335, 337–338
+c criterion, 337
+Central-composite experiments, 403–404
+Central location tests (CLT) 264, 294–298
+Central tendency errors, 42
+Cereals, 277–279
+Characteristics, descriptive techniques, 174–175
+Cheese, 235–236
+Chemical feeling factors, 198
+Chemical sense, 17
+Chew sensations, 200–201, 202
+Chi square statistic, 86, 331, 343, 426–427
+Citric acid, 245–247
+Classiﬁcation, 47, 53–54
+CLT see Central location tests
+Cluster analysis, 362–365
+Coding, 36
+Coffee blend replacement, 77–80
+Cognitive criteria, 337
+Color factors, 31–33, 194
+Comparison tests, 105–108
+Complete block designs, 112–117
+Completely randomized design (CRD) 113–117,
+340–341
+Compression, 198, 200
+Concept development, 190
+Confections, 236–237
+Conﬁdence intervals, 316–323, 367–368, 370
+Consistency, 9–10, 194–195
+Constant reference, 76–77
+Construction materials, 34
+Consumer terms, 190
+Consumer tests
+affective tests, 255–309
+basic statistical methods, 316–319
+descriptive data relationships, 283–284
+discussion guides, 298–299
+internet research, 281–283
+needs of consumers, 259
+protocol design, 273, 305–308
+questionnaires, 300–304
+screening, 294–298
+sequence mapping, 288–291
+statistical methods, 316–319
+subjects, 259–263
+test location, 263–265
+Containers, 35
+Contour plots, 400–402, 403–404
+Contrast effect, 42
+Controls
+difference-from-control tests, 92–100
+product, 34–37
+Spectrum descriptive analysis, 193–194
+test rooms, 25–34
+Cooker replacement tests, 85–88
+Cookies, 201–202, 237, 245–252
+Corn chips, 235
+Corn syrup mouthfeel, 109–112
+Correlation analysis, 358–360
+Correlation coefﬁcients, 358–359
+Costs, panel development, 143
+Course popularity tests, 118, 119
+Cracker shelf-life, 285–287
+CRD see Completely randomized design
+Cream skinfeel, 202–204
+Cross-modality, 59–60
+Cross-product terms, 403
+D
+Data analysis 4, 268–269
+Data collection and handling, 143
+Data mining, 268–269
+Sensory Evaluation Techniques, 4th Ed.
+442

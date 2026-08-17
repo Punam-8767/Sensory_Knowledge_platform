@@ -1,0 +1,48 @@
+3.2.4.3
+Construction Materials
+The materials used in the construction and furnishing of a sensory evaluation laboratory
+must be in accordance with the speciﬁc environment required for the products to be
+evaluated in the laboratory.
+Nonodorous. Paper, fabric, carpeting, porous tile, etc., must be avoided because they are
+either odorous in themselves or may harbor dirt, molds, etc. that will emit odor. Construc-
+tion materials must be smooth, easy to clean, and nonabsorbent so that they do not retain
+odors from previous sessions. The materials that best meet these requirements are stain-
+less steel, Teﬂon, and Formica. Nonodorous vinyl laminate is suitable for ceilings, walls,
+and ﬂoors.
+Color. A neutral, unobtrusive color scheme using off-white colors and few patterns
+provides a background which is nondistracting to panelists. Especially for countertops,
+it is important to choose a color that does not confound or bias evaluations. A white paper
+or fabric on a black benchtop will show visual ﬂaws more dramatically, thus biasing both
+visual and tactile evaluations.
+Plumbing. Product trapped in pipes causes distracting and confounding odors in
+a sensory laboratory. It is essential that all pipes and drains open to the room can be
+cleaned and ﬂushed. If spit sinks are necessary for some tests (toothpaste, mouthwash),
+thought should be given to having them detachable, i.e., connected by ﬂexible hose to
+water inlet and drain. When the sinks are not in use, they can be stored separately and the
+pipes can be closed off with caps.
+3.3
+Product Controls
+3.3.1
+General Equipment
+When a sensory evaluation test is conducted, the product researcher and the sensory
+analyst are looking for some treatment effect: effect of an ingredient change, a processing
+variable, a packaging change, a storage variable, etc. One of the primary responsibilities of
+the sensory analyst is to control the early handling, the preparation, and the presentation
+for each product. These controls ensure that extraneous variables are not introduced, and
+that no real treatment variables are obscured.
+The preparation area should be situated adjacent to the test area. However, the air
+handling system should be structured so that the test area has positive pressure that
+feeds into the preparation area, which in turn contains the air return system as well as
+a supplementary exhaust.
+3.3.2
+Sample Preparation
+3.3.2.1
+Supplies and Equipment
+In addition to the necessary major appliances, the controlled preparation of products
+requires adequate supplies and equipment, such as
+† Scales, for weighing products and ingredients.
+† Glassware, for measurement and storage of products.
+† Timers, for monitoring of preparation procedures.
+† Stainless steel equipment, for mixing and storing products, etc.
+Sensory Evaluation Techniques, 4th Ed., Ch. 3
+34

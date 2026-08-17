@@ -1,0 +1,51 @@
+much greater (up to 100-fold) than the variation between tests by a single individual
+(up to 5-fold). The result is slightly biased at best and can be very biased if subjects
+falling on the upper or lower limits of the range under test are not reexamined (see
+Example 8.1).
+The ASTM’s intermediate method (E1432) proceeds to determine individual thresholds
+according to Figure 8.2 and then, in a second step, it determines the group threshold
+according to Figure 8.3. For this, it requires approximately ﬁve times as many
+sample presentations per panelist as the rapid method. In return, the group threshold
+and distribution of individual thresholds are both bias free.
+The ISO Standard 13301 (ISO 2002) is, in effect, a combination of both of the above. For
+the curve-ﬁtting step, the intermediate method uses nonlinear least squares regression (see
+Example 8.2). (The ISO procedure permits logistic regression and a maximum likelihood
+procedure for which a procedure of calculation using computer spreadsheets has been
+introduced.) If results more precise than can be expected with these methods are expected,
+one enters the ﬁeld of research projects as such, and any of a number of designs may be
+appropriate, e.g., Powers’ Multiple Pairs Test (Powers and Ware 1976; Kelly and Heymann
+1989) or signal detection theory (Macmillan and Creelman 1991). Bi and Ennis (1998)
+provide a review of these methods and propose an additional procedure for population
+thresholds based on the beta-binomial distribution that takes account of the fact that data
+for one individual tends to have a much narrower distribution than data for a group
+of individuals.
+Example 8.1: Threshold of Sunstruck Flavor Compound Added to Beer
+Problem/situation: A brewer, aware that beer exposed to UV light develops sunstruck ﬂavor
+(3-methyl-2-butene-l-thiol, a compound not otherwise present), wishes to test the protec-
+tion offered by various types of packaging material.
+Project objective: To choose packaging that offers acceptable protection at minimum cost,
+using as criterion the amount of the sunstruck compound formed during irradiation
+compared with the threshold amount.
+Test objective: To determine the threshold of puriﬁed 3-methyl-2-butene-1-thiol added to
+the company’s beer.
+Test design: The E679 rapid test is suitable as the need is for good coverage of the
+variability among people; twenty-ﬁve panelists each receive six 3-AFC tests with concen-
+trations spaced by a factor of three. Limit bias by (1) choosing the range of concentrations
+offered with the aid of a preliminary test using ﬁve panelists, and (2) retesting those
+panelists who are correct at the lowest or fail at the highest level.
+Screen samples: In the preliminary test, ascertain that the base beer is free of sunstruck
+ﬂavor and that the 3-methyl-2-butene-1-thiol confers a pure sunstruck character at the
+chosen test concentrations.
+Conduct the test: Test each panelist at the six concentrations. Test any panelist who is
+correct at the lowest level once or twice more at that level and include sets at one or
+two lower levels. Likewise, test any panelist who fails at the highest level twice more
+at that level and at one or two higher levels. Record and analyze results, as shown in
+Table 8.1. The best estimate threshold (BET) for each subject is the geometric mean of
+the highest concentration missed and the next higher concentration. The group BET is
+the geometric mean of the individual BETs. Repeat the test series at least once on a
+different day, using the same observers. Note that thresholds often decrease as pane-
+lists become accustomed to the ﬂavor of the substance and the mechanics of the test.
+If the threshold decreases more than 20%, repeat the test series until the values
+stabilize.
+Determining Threshold
+133

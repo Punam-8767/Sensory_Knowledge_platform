@@ -1,0 +1,59 @@
+2. Intensity response to attribute:
+Strength: How strong/intense is the crispness of this cracker?
+[None///Very strong]
+3. Appropriateness of intensity:
+Just right: Rate the sweetness of this cereal:
+[Not at all sweet enough///Much too sweet]
+Figure 12.4 shows examples of attribute questions; others are discussed in Section 12.6.1.
+In the ﬁrst example—a preference questionnaire with two samples—respondents are
+asked, for each attribute, which sample they prefer. In the second example—an “attribute
+diagnostics” questionnaire with a single sample—respondents rate each attribute on a
+scale from “like extremely” to “dislike extremely.” Such questionnaires are considered
+less effective in determining the importance of each attribute because subjects often rate
+the attributes similar to the overall response, and the result is a series of attributes that
+have a “halo” of the general response. In addition, if one attribute does receive a negative
+rating, the researcher has no way of determining the direction of the dislike. If a product
+texture is disliked, is it “too hard” or “too soft”?—“too thick” or “too thin”?
+The “just right” scales shown in the third and fourth examples (see also Vickers 1988)
+allow the researcher to assess the intensity of an attribute relative to some mental criterion
+of the subjects. “Just right” scales cannot be analyzed by calculating the mean response, as
+the scale might be unbalanced or unevenly spaced, depending on the relative intensities
+and appropriateness of each attribute in the mind of the consumer. The following
+procedure is recommended:
+1. Calculate the percentage of subjects who respond in each category of the
+attribute.
+Example of Results for Attribute “Just Right” Scales
+% Response
+5
+15
+40
+25
+15
+Category
+Much too
+little
+Somewhat too
+little
+Just right
+Somewhat too
+much
+Much too
+much
+2. Using a c2-test (see Chapter 13), compare the distribution of responses to that
+obtained by a successful brand.
+A similar approach is to use an intensity scale (without midpoint) for each attribute (the
+ﬁfth example). To assess the appropriateness of these attributes, the intensity values must
+be related to overall acceptance or to acceptance for that attribute. The studies conducted
+by General Foods on the consumer texture proﬁle method (Szczesniak, Skinner, and Loew
+1975) related consumer intensity ratings to their own ratings for an ideal; it showed high
+correlations between acceptance ratings and the degree to which various products
+approached the consumer’s ideal.
+12.6.5
+Other Information
+Attitudes and images of a brand or product category may change over time. Market
+researchers conduct frequent tracking studies, called Attitude and Usage (A&U), Attitude,
+Awareness and Usage (AAU) and Usage and Attitude (U&A), on a regular basis to monitor
+consumer perceptions and behaviors. An A&U study, when periodically repeated,
+provides a means to capture how marketing activities are inﬂuencing the consumer’s
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+280

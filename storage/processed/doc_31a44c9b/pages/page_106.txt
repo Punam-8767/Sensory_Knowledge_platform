@@ -1,0 +1,43 @@
+(Section 6.6) when one of the two products has importance as a standard or reference
+product, is familiar to the subjects, or is essential to the project as the current sample
+against which all others are measured.
+As with other overall difference tests, the “A”–“not A” test is effective in situations:
+1. To determine whether product differences result from a change in ingredients,
+processing, packaging, or storage.
+2. To determine whether an overall difference exists, where no speciﬁc attribute(s)
+can be identiﬁed as having been affected.
+The test is also useful for screening of panelists, e.g., determining whether a test subject
+(or group of subjects) recognizes a particular sweetener relative to other sweeteners, and it
+can be used for determining sensory thresholds by a Signal Detection method.
+6.7.2
+Principle of the Test
+Familiarize the panelists with samples “A” and “not A.” Present each panelist with
+samples, some of which are product “A” while others are product “not A”; for each
+sample, the subject judges whether it is “A” or “not A.” Determine the subjects’ ability
+to discriminate by comparing the correct identiﬁcations with the incorrect ones using the
+c2-test.
+6.7.3
+Test Subjects
+Train 10–50 subjects to recognize the “A” and the “not A” samples. Use 20–50 presenta-
+tions of each sample in the study. Each subject may receive only one sample (“A” or “not
+A”), two samples (one “A” and one “not A”), or each subject may test up to ten samples in
+a series. The number of samples allowed is determined by the degree of physical and/or
+mental fatigue they produce in the subjects.
+Note: A variant of this method, in which subjects are not familiarized with the “not A”
+sample, is not recommended. This is because subjects, lacking a frame of reference, may
+guess wildly and produce biased results.
+6.7.4
+Test Procedure
+For test controls and product controls, see p. 66. Present samples with scoresheet one at a
+time. Code all samples with random numbers and present them in random order so that
+the subjects do not detect a pattern of “A” vs. “not A” samples in any series. Do not
+disclose the identity of samples until after the subject has completed the test series.
+Note: In the standard version of the procedure, the following protocol is observed:
+1. Products “A” and “not A” are available to subjects only until the start of the test.
+2. Only one “not A” sample exists for each test.
+3. Equal numbers of “A” and “not A” are presented in each test.
+These protocols may be changed for any given test, but the subjects must be informed
+before the test is initiated. Under no. 2, if more than one “not A” samples exist, each must
+be shown to the subjects before the test.
+Overall Difference Tests: “A”–“Not A” Test
+89

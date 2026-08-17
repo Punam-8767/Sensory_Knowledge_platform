@@ -1,0 +1,85 @@
+(Ha: dOd0 or Ha: d!d0). In either case, the form of the paired t-statistic is
+t Z
+dKd0
+sd= ﬃﬃﬃn
+p
+;
+(13.6)
+where d is the average of the differences between the two samples and sd is the sample
+standard deviation of the differences. Consider the data in Table 13.5 that summarizes the
+scores of the panel on a single attribute. The analyst wants to test whether the average
+rating of sample 1 is more than two units greater than the average rating for sample 2. The
+null hypothesis in this case is H0: d%2 vs. the alternative hypothesis Ha: dO2. The test
+statistic is calculated as
+t Z 2:54K2:00
+0:61=
+ﬃﬃﬃﬃﬃ
+10
+p
+Z 2:79;
+where nZ10 is used as the sample size because there are 10 judges, each contributing one
+difference to the data set. The null hypothesis is rejected if this value of t exceeds the
+upper-a critical value of the t-distribution with (nK1) degrees of freedom (i.e., ta,n–1).
+The analyst decides to set aZ0.05 and ﬁnds in Table 17.3 that t0.05,9Z1.833. The value of
+tZ2.79 is greater than 1.833, so the analyst rejects the null hypothesis and concludes at the
+5% signiﬁcance level that the average rating for sample 1 is more than two units greater
+than the average rating for sample 2.
+Example 13.3: Comparing Two Means—Independent (or Two-Sample) Case
+Suppose that a sensory analyst has trained two descriptive panels at different times and
+that the analyst now wants to merge the two groups. The analyst wants a high level of
+conﬁdence that the two groups score samples with equivalent ratings before merging the
+groups and treating them as one panel.
+The sensory analyst conducts several attribute panels to ensure that the two groups are
+similar. For each attribute considered, the analyst presents samples of the same product to
+all panelists and records their scores and the group to which they belong. The data from
+one of the studies is presented in Table 13.6. The null hypothesis for this test is H0: m1Zm2
+TABLE 13.5
+Data and Summary Statistics for the Paired t-test in Example 13.2
+Judge
+Sample 1
+Sample 2
+Difference
+1
+7.3
+5.7
+1.6
+2
+8.4
+5.2
+3.2
+3
+8.7
+5.9
+2.8
+4
+7.6
+5.3
+2.3
+5
+8.0
+6.1
+1.9
+6
+7.1
+4.3
+2.8
+7
+8.0
+5.7
+2.3
+8
+7.5
+3.8
+3.7
+9
+6.9
+4.5
+2.4
+10
+7.4
+5.0
+2.4
+dZ2:54
+sdZ0.61
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+328

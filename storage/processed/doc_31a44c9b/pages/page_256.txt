@@ -1,0 +1,100 @@
+T.
+Facial Wipes Skinfeel Appearance and Texture
+1. In Use
+3. Afterfeel/Dry Skin
+Amount of lather (visual)
+Cool
+Bubble size/variation (visual)
+Gloss (visual)
+Thickness of lather
+Stickiness
+2. Rinse/Wet Skin
+Slipperiness
+Rinsability
+Amount of residue
+Stickiness
+Type of residue
+Slipperiness
+Skin roughness
+Amount of residue
+Moistness
+Type of residue
+Tautness
+U.
+Mascara Evaluation
+1. Baseline and Wear
+3. Wear (multiple time points)
+Lash visibility
+Lash wetness
+Color intensity base/tips
+Top/bottom lash stickiness
+Length
+Transfer
+Thickness
+Clumping
+Density
+Spiking
+Degree of lash curl
+Fibers
+Gloss
+Beading
+Tangling
+Flaking
+Separation
+Smudging
+2. Application
+Ease of application (strokes)
+Appendix 11.5
+Spectrum Descriptive Analysis Examples of Full Product
+Descriptions
+A.
+White Bread
+Standard
+Premium
+1. Appearance
+Golden brown
+Golden brown
+Color of crust
+10
+12
+Evenness color of crust
+12
+12
+Color of crumb
+Yellow
+Yellow
+Chroma of crumb
+10
+9
+Cell size
+7
+11
+Cell uniformity
+12
+8
+Uniformity of shape
+12
+9
+Thickness
+10
+7
+Distinctiveness of cap
+2
+7
+2. Flavor
+2.1 Aromatics
+Grain complex
+Raw
+5.5
+7
+Cooked
+2
+0
+Browned
+1
+2.5
+Bran
+0
+0
+The Spectrume Descriptive Analysis Method: Appendix 11.5
+239

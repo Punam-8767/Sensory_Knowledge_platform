@@ -1,0 +1,54 @@
+13.3.1
+Statistical Hypotheses
+In most sensory studies, statistical hypotheses specify the value of some parameter in a
+probability distribution, such as the mean m or the population proportion p. The null
+hypothesis is determined by the objective of the investigation and serves as the baseline
+condition that is assumed to exist prior to running the experiment. The value speciﬁed in
+the null hypothesis is used to calculate the test statistic (and resulting p-value) in the
+hypothesis test. The alternative hypothesis is developed based on the prior interest of
+the investigator. For example, if a company is replacing one of the raw ingredients in its
+current product with a less expensive ingredient from an alternate supplier, the sensory
+analyst’s only interest going into the study would be to determine with a high level of
+conﬁdence that the product made with the less expensive ingredient is not less preferred
+than the company’s current product. The null hypothesis and the alternative hypothesis
+for this investigation are
+H0 : pcurrent Z pless expensive
+vs:
+Ha : pcurrentOpless expensive
+where pi is the proportion of the population that prefers product i. Both the null and the
+alternative hypotheses must be speciﬁed before the test is conducted. If the alternative
+hypothesis is formulated after reviewing the data, the results of the statistical tests are too
+often biased in favor of rejecting the null hypothesis.
+13.3.2
+One-Sided and Two-Sided Hypotheses
+There are two types of alternative hypotheses: one-sided alternatives and two-sided
+alternatives. Some examples of situations leading to one-sided and two-sided alternatives
+are:
+One-Sided
+Two-Sided
+Conﬁrm that a test brew is more
+bitter
+Decide which test brew is more bitter
+Conﬁrm that a test product is
+preferred to the control
+Decide which test product is
+preferred
+In general, whenever Ha has the
+form: A is more (less) than B,
+where both A and B are speciﬁed
+In general, whenever Ha has the
+form: A is different from B
+Researchers often have trouble deciding whether the alternative hypothesis is one-sided
+or two-sided. General rules that work for one person may misguide others. There are no
+statistical criteria for deciding if an alternative hypothesis should be one-sided or two-
+sided. The form of the alternative hypothesis is determined by the prior interest of the
+researcher. If the researcher is only interested in determining if two samples are different,
+then the alternative hypothesis is two-sided. If, on the other hand, the researcher wants to
+test for a speciﬁc difference between two samples, i.e., one sample (speciﬁed) is more
+preferred or more sweet, etc., than another sample, then the alternative hypothesis is
+one-sided. Most alternatives are two-sided, unless the researcher states that a speciﬁc
+type of difference is of interest before the study is conducted.
+A point of confusion may arise regarding one-sided vs. two-sided alternatives because
+in several common sensory testing situations, one-tailed tests statistics are used to test
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+324

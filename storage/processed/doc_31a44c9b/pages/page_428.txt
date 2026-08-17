@@ -1,0 +1,69 @@
+TABLE 15.4
+Area of Application of Affective Tests Used in Consumer Research and Employee Acceptance Tests
+Test
+Questions Typically Asked Qualitative Tests
+Areas of Application
+A. Focus groups/panels
+1. Focus groups/panels
+What are some words, behaviors or opinions associated with these concepts
+or products?
+Focus groups
+2. Small groups/diads/triads
+What are your opinions and behaviors around this personal product use?
+Small groups/diads/triads
+B. Fuzzy front end research
+1. Observational
+How do consumes behave in the store or at home when encountering my
+product?
+Point-of-purchase interviews, observation journals, videos
+2. Ethnography
+How do consumers respond at a deep level to products or concepts?
+Collages, sequence maps, journals
+Quantitative tests
+A. Preference tests
+1. Paired preference
+Which sample do you prefer? Which sample do you like better?
+Comparison of two products
+2. Rank preference
+Rank samples according to your preference with 1Z best, 2Z next best, etc.
+Comparison of 3–6 products
+3. Multiple paired preference
+As number 1
+Comparison of 3–6 products
+4. Multiple paired preference, selected pairs
+As number 1
+Comparison of 5–8 products
+B. Acceptance tests
+1. Simple acceptance test
+Is the sample acceptable/not acceptable?
+First screening in employee acceptance test
+2. Hedonic rating
+Chapter 12, Figure 12.2 and Figure 12.3
+One or more products to study how acceptance is
+distributed in the population represented by the
+subjects
+C. Attribute diagnostics
+1. Attribute-by-preference test
+Which sample did you prefer for fragrance?
+Comparison of two to six products to determine which
+attributes “drive” preference
+2. Hedonic rating of individual attributes
+Rate the following attributes on the hedonic scale provided
+Study of one or more products to determine which
+attributes, and at what level, “drive” preference
+3. Intensity rating of individual attributes
+Rate the following attributes on the intensity scale provided, comparing
+with your ideal rating
+Study of one or more products, in cases where groups of
+subjects differ in their preference
+Affective tests can be divided into qualitative and quantitative affective methods. Qualitative methods include techniques such as focus groups and one-on-one (in depth)
+interviews that are designed to collect information from consumers in groups or individually. Trained moderators, facilitators and/or product developers seeking guidance
+about consumer vocabulary, attitudes, or behavior interpret the output in the form of transcripts and videos. Quantitative affective tests can be divided into preference tests, in
+which the task is to arrange the products tested in order of preference, acceptance tests, in which the task is to rate the product or products on a scale of acceptability, and
+“attribute diagnostics,” in which the task is to rank or rate the principal attributes that determine a product’s preference or acceptance. With regard to the statistical analysis,
+preference and acceptance tests can be seen as a special case of attribute difference tests (Table 15.3), in which the attribute of interest is either preference or degree of acceptance.
+In theory, all tests listed in Table 15.3 can be used as preference tests and/or as acceptance tests. In practice, subjects in affective tests are less experienced, and complex designs
+such as balanced incomplete blocks are not usable. The tests in this table are equally suitable for presentation in laboratory tests, employee acceptance tests, central location
+consumer tests, or home-use consumer tests, unless otherwise indicated.
+Guidelines for Choice of Technique
+411

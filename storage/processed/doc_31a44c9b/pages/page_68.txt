@@ -1,0 +1,92 @@
+McBride proposes moving away from the dependence on subjects’ use of numbers or
+scales and simply assume that human psychophysical response is proportional to the
+underlying neurophysiological response:
+R
+Rmax
+Z
+C
+k CC ðThe Beidler equationÞ;
+(5.4)
+The equation states that the response, R, divided by the maximal response, Rmax,
+shows a sigmoidal relationship to the stimulus, C (the molar concentration), when C
+is plotted on a logarithmic scale (see Figure 5.5). The constant, k, is the concentration at
+which the response is half-maximal. Beidler (1974) calls it the association constant, or
+binding constant, and notes that it can be seen as a measure of the afﬁnity with
+which the stimulus molecule binds to the receptor. The Beidler model works best for
+the middle and high ranges of sensory impressions, e.g., for the sweetness of
+sweet foods or beverages. Unlike Fechner’s and Stevens’ models, it assumes that
+the response has an upper limit, Rmax, that is not exceeded, irrespective of the concen-
+tration of the stimulus. It is seen as that concentration when all the receptors
+are saturated.
+McBride shows, with a number of examples for sugars, salt, citric acid, and caffeine,
+that the Beidler equation provides a good description of human taste response, as
+obtained by two psychophysical methods, JND cumulation, and category rating. Appli-
+cation of the Beidler equation allows estimation of the hitherto unobtainable parameters
+for human taste response, Rmax and k. Therefore, unlike the empirical Fechner and
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+Perceived magnitude (R)
+Perceived magnitude (R)
+4
+3
+2
+1
+1
+2
+Physical intensity (C)
+Physical intensity (C)
+3
+4
+5
+6
+7
+8
+9
+10
+10
+20
+R=kC 1.5
+R=kC 1.0
+R=kC 0.5
+R=kC 1.5
+R=kC 1.0
+R=kC 0.5
+30
+10
+1
+1
+1.5
+1.5
+2
+2
+2.5
+2.5
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+FIGURE 5.4
+Plots of power functions with kZ1 and nZ0.5, 1.0, and 1.5 in linear (left) and logarithmic (right) coordinates.
+(Adapted from A.V. Cardello and O. Maller. 1987. Objective Methods in Food Quality Assessment, J.G. Kapsalis, ed.,
+Boca Raton, FL: CRC Press.)
+Measuring Responses
+51

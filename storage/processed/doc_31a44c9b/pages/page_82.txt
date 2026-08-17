@@ -1,0 +1,41 @@
+As a rule of thumb, a statistically signiﬁcant result at
+† An a-risk of 10–5% (0.10–0.05) indicates moderate evidence that a difference
+is apparent
+† An a-risk of 5–1% (0.05–0.01) indicates strong evidence that a difference
+is apparent
+† An a-risk of 1–0.1% (0.01–0.001) indicates very strong evidence that a difference
+is apparent
+† An a-risk below 0.1% (!0.001) indicates extremely strong evidence that a
+difference is apparent
+For b-risks, the strength of the evidence that a difference is not apparent is assessed
+using the same criteria as above (substituting “is not apparent” for “is apparent”).
+The maximum allowable proportion of distinguishers, pd, falls into three ranges:
+† pd!25% represent small values
+† 25%!pd!35% represent medium-sized values
+† pdO35% represent large values
+6.3
+Triangle Test
+The section on the Triangle test (ASTM 2004; ISO 2004c), being the ﬁrst in this book, is
+rather complex and includes many details which (1) all sensory analysts should know, (2)
+are common to many methods, and (3) are therefore omitted in subsequent methods. The
+application of the uniﬁed approach is described in Example 6.3 and Example 6.4.
+6.3.1
+Scope and Application
+Use this method when the test objective is to determine whether a sensory difference exists
+between two products. This method is particularly useful in situations where treatment
+effects may have produced product changes that cannot be characterized simply by one or
+two attributes. Although it is statistically more efﬁcient than the paired comparison and
+duo–trio methods, the triangle test has limited use with products that involve sensory
+fatigue, carryover, or adaptation, and with subjects who ﬁnd testing three samples too
+confusing. This method is effective in certain situations:
+1. To determine whether product differences result from a change in ingredients,
+processing, packaging, or storage
+2. To determine whether an overall difference exists, where no speciﬁc attribute(s)
+can be identiﬁed as having been affected
+3. To select and monitor panelists for ability to discriminate given differences
+6.3.2
+Principle of the Test
+Present to each subject three coded samples. Instruct subjects that two samples are iden-
+tical and one is different (or odd). Ask the subjects to taste (feel, examine) each product
+Overall Difference Tests: Triangle Test
+65

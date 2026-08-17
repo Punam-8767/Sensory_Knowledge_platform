@@ -1,0 +1,50 @@
+Unscrambler 2006; SAS 2004). The programs and the growing number of publications with
+examples of PLS applied to sensory data make this technique increasingly accessible to
+interested researchers.
+14.2.2.4
+Discriminant Analysis
+Discriminant analysis is a multivariate technique that is used to classify items into pre-
+existing categories (deﬁned by a discrete dependent variable). A mathematical function is
+developed using the set of continuous independent variables that best discriminate among
+the categories from which the items arise. For instance, descriptive attribute data might be
+used to classify a ﬁnished product as being “acceptable” or “unacceptable” from a quality
+control perspective or descriptive and/or instrumental measures might be used to
+determine the source (e.g., country or manufacturer) of a raw ingredient.
+Discriminant analysis is similar to several of the multivariate techniques that have
+already been discussed. In one sense, discriminant analysis is similar to regression in that
+a group of continuous independent variables is used to predict the “value” of a dependent
+variable. In regression analysis, the value is the magnitude of a continuous dependent
+variable that is predicted using a “regression equation.” In discriminant analysis, the
+value is the category of a discrete dependent variable that is predicted using a “discriminant
+function.” In another sense, discriminant analysis is similar to PCA in that the correlated
+nature of the independent variables is considered in developing new axes (i.e., weighted
+linear combinations of the original variables). In PCA, the axes are chosen to successively
+explain the maximum amount of variability. In discriminant analysis, the axes are chosen to
+maximize the differences between the centers of the discrete categories of the dependent
+variable. A simple graphical depiction of discriminant analysis is presented in Figure 14.11
+in which acceptable and unacceptable samples of product are displayed in a plot of two
+descriptive attributes: staleness and crispiness. The discriminant function deﬁnes the new
+axis, D, on which the difference between the means of the two groups is maximized.
+If the dependent variable contains only two categories, then only a single discriminant
+function is needed. If the dependent variable contains more than two categories, then
+more than one discriminant function may be needed to accurately classify the obser-
+vations. The number of possible discriminant functions is one less than the number of
+Group 1
+Group 2
+D
+9
+9
+6
+6
+3
+3
+Staleness
+Crispness
+0 0
+FIGURE 14.11
+A graphical depiction of discriminant analysis with
+the samples plotted in two of the original attributes
+(staleness and crispness) and with the “axis of
+maximum discrimination,” D.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+374

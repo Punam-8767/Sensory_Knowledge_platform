@@ -1,0 +1,58 @@
+6.8.3
+Test Subjects
+Generally 20–50 presentations of each of the samples and the blind control with the labeled
+control are required to determine a degree of difference. If the difference-from-control test is
+chosen because of a complex comparison or fatigue factor, then no more than one pair
+should be given to any one subject at a time. Subjects may be trained or untrained, but
+panels should not consist of a mixture of the two. All subjects should be familiar with the
+test format, the meaning of the scale, and the fact that a proportion of test samples will be
+blind controls.
+6.8.4
+Test Procedure
+For test controls and product controls, see p. 66. When possible, offer the samples simul-
+taneously with the labeled control evaluated ﬁrst. Prepare one labeled control sample for
+each subject plus additional controls to be labeled as test samples. If the test is designed to
+have all subjects eventually test all samples but this cannot be done in one test session, a
+record of subjects by sample must be kept to ensure that remaining samples are presented
+in subsequent sessions.
+The scale used may be any of those discussed in Chapter 5, pp. 56–60. For example:
+Verbal Category Scale
+Numerical Category Scale
+No difference
+0ZNo difference
+Very slight difference
+1
+Slight/moderate difference
+2
+Moderate difference
+3
+Moderate/large difference
+4
+Large difference
+5
+Very large difference
+6
+7
+8
+9ZVery large difference
+(When calculating results with the verbal category scale, convert each verdict to the
+number placed opposite, e.g., large differenceZ5.)
+6.8.5
+Analysis and Interpretation of Results
+Calculate the mean difference-from-control for each sample and for the blind controls, and
+evaluate the results by analysis of variance (or paired t-test if only one sample is compared
+with the control), as shown in the examples.
+Example 6.12 Analgesic Cream—Increase of Viscosity
+Problem/situation: The home healthcare division of a pharmaceutical company plans to
+increase the viscosity of its analgesic cream base. The two proposed prototypes are instru-
+mentally thicker in texture than the control. Sample F requires more force to initiate
+ﬂow/movement while sample N initially ﬂows easily but has higher overall viscosity.
+The product researchers wish to know how different the samples are from the control.
+As this type of test is best done on the back of the hands, evaluation is limited to two
+samples at a time.
+Project objective: To decide whether sample F or sample N is closest overall to the
+current product.
+Test objective: To measure the perceived overall sensory difference between the two
+prototypes and the regular analgesic cream.
+Overall Difference Tests: Difference-from-Control Test
+93

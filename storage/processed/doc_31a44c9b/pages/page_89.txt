@@ -1,0 +1,51 @@
+Example 6.4: Balancing a, b, and pd. Setting Expiration Date for a Soft
+Drink Composition
+Problem/situation: A producer of a soft drink composition wishes to choose a recommended
+expiration date to be stamped on bottled soft drinks made with it. It is known that in the
+cold (28C), bottled samples can be stored for more than one year without any change in
+ﬂavor, whereas at higher temperatures, the ﬂavor shelf life is shorter. A test is carried out
+in which samples are stored at high ambient temperature (308C) for 6, 8, and 12 months,
+then presented for difference testing.
+Project objective: To choose a recommended expiration date for a bottle product made
+with the composition.
+Test objective: To determine whether a sensory difference is apparent between the
+product stored cold and each of the three products stored warm.
+Number of assessors and choice of a, b, and pd: The producer would like to see the latest
+possible expiration date and decides he is only willing to take a 5% chance of
+concluding that there is a difference when there is not (i.e., aZ0.05). The QA
+manager, on the other hand, wishes to be reasonably certain that customers cannot
+detect an “aged” ﬂavor until after the expiration date, so he agrees to accept 90%
+certainty (i.e., bZ0.10) that no more than 30% of the population (i.e., pdZ30%) can
+detect a difference. Consulting Table 17.7 in the column under bZ0.10 and the
+section for pdZ30%, the sensory analyst ﬁnds that a panel of 53 is needed for the
+tests. However, only 30 panelists can be made available for the duration of the tests.
+Therefore, the three of them renegotiate the test sensitivity parameters to provide the
+maximum possible risk protection with the number of available assessors. Consulting
+Table 17.7 again, they decide that a compromise of pdZ30%, bZ0.20, and aZ0.10
+provides acceptable sensitivity given the number of available assessors.
+Test design: The analyst prepares and conducts triangle tests using a panel of 30.
+Analyze results: The number of correct selections turns out as follows: at 6 months, 11; at 8
+months, 13; at 12 months, 15. Consulting Table 17.8, the analyst concludes that, at 6
+months, no proof of difference exists. At 8 months, the difference is larger. Table 17.8
+shows that proof of difference would have existed had a higher aZ0.20 been used.
+Finally, at 12 months, the table shows that proof of a difference exists at aZ0.05.
+Interpretation: The group decides that an expiration date of 8 months provides
+adequate assurance against occurrences of “aged” ﬂavor in product that has not
+passed this date. As an added check on their conclusion, the 80% one-sided conﬁ-
+dence limits are calculated for each test. It is found that they can be 80% sure that no
+more than 16% of consumers can detect a difference at 6 months, no more than 26% at
+8 months, but possibly as many as 37% at 12 months. The product is safely under the
+pdZ30% limit at 8 months.*
+6.4
+Duo–Trio Test
+6.4.1
+Scope and Application
+The duo–trio test (ISO 2004a) is statistically less efﬁcient than the triangle test because the
+chance of obtaining a correct result by guessing is 1 in 2. On the other hand, the test is
+* An example of the conﬁdence limit calculation using the 6-month results is: pdZð1:5ð11=30ÞK0:5Þ
+C0:84ð1:5Þ ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð11=30Þð1Kð11=30ÞÞ=30
+p
+Z0:16.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+72

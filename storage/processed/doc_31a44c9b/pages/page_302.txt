@@ -1,0 +1,52 @@
+12.8.2
+Using Affective Data to Deﬁne Shelf-Life or Quality Limits
+In Chapter 11, pp. 193–194, a “modiﬁed” or short-version descriptive procedure is
+provided in which the principal use is to deﬁne QA/QC or shelf-life limits. In a typical
+case, the ﬁrst step is to send the fresh product out for an acceptability test in a typical user
+group. This initial questionnaire may contain additional questions asking the consumer to
+rate a few important attributes.
+The product is also rated for acceptability and key attributes by the modiﬁed panel, and
+this evaluation is repeated at regular intervals during the shelf storage period, each time
+comparing the stored product with a control that may be the same product stored under
+conditions that inhibit perceptible deterioration (e.g., deep-freeze storage under nitrogen)
+or, if this is not possible, fresh product of current production.
+When a signiﬁcant difference is found by the modiﬁed panel, in overall difference from
+the control and/or in some major attribute(s), the samples are sent again to the user group
+to determine if the statistically signiﬁcant difference is meaningful to the consumer. This is
+repeated as the difference grows with time of shelf storage. After the size of a panel
+difference can be related to what reduces consumer acceptance or preference, the internal
+panel can be used in the future to monitor regular production in shelf-life studies, with
+assurance that the results are predictive of consumer reaction.
+Example 12.5: Shelf Life of Sesame Cracker
+Problem/situation. A company wishes to deﬁne the shelf life of a new sesame cracker in
+terms of the “sell by” date that will be printed on packages on the day of production.
+Project objective. To determine at what point during shelf storage the product will be
+considered “off,” “stale,” or “not fresh” by the consumer.
+Test objective. (1) Use a research panel trained for the purpose of determining the key
+attributes of the product at various points during shelf storage and (2) submit the product
+to consumer acceptance tests (a) initially; (b) when the research panel ﬁrst establishes a
+difference; and (c) at intervals thereafter, until the consumers establish a difference.
+Test design. Samples of a single batch of the sesame crackers were held for 2, 4, 6, 8, and
+12 weeks under four different sets of conditions: “control”Znear freezing in airtight
+containers; “ambient”Z708F and 50% RH; “humid”Z858F and 70% RH; and “hot”Z
+1008F and 30% RH.
+Subjects. Twenty-ﬁve panelists from the R&D lab are selected for ability to recognize the
+aromatics of stale sesame crackers, i.e., the cardboard aromatic of the stale base cracker and
+thepaintyaromaticofoxidizedoilfromtheseeds.Twohundredandﬁftyconsumersmustbe
+users of snack crackers and are chosen demographically to represent the target population.
+Sensory methods. The research panel used the questionnaire in Figure 12.6 and was trained
+to score the test samples on the seven line scales that represent key attributes of appearance,
+ﬂavor, and texture related to the shelf life of crackers and sesame seeds. Research panelists
+also received a sample marked “control” with instructions to use the last line of the form as a
+difference-from-control test (see Chapter 6, Section 8). The panelists were informed that
+these samples were part of a shelf-life study and that occasional test samples would consist
+of freshly prepared “control product” (such information reduces the tendency of panelists
+in shelf-life testing to anticipate more and more degradation in products).
+On each occasion, the consumers received two successive coded samples (the test
+product and the control, in random order), each with the score sheet in Figure 12.7 that
+they completed immediately and returned to the interviewer.
+Analyze results. The initial acceptance test, in which the 250 consumers received two
+fresh samples, provided a baseline rating of 7.2 for both, and the accompanying attribute
+ratings indicated that the crackers were perceived fresh and crisp.
+Affective Tests: Using Other Sensory Methods to Uncover Insights
+285

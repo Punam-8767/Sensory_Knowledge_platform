@@ -1,0 +1,40 @@
+13
+Basic Statistical Methods
+13.1
+Introduction
+The goal of applied statistics is to draw some conclusion about a population based on the
+information contained in a sample from that population. The types of conclusions fall into
+two general categories: estimates and inferences. Furthermore, the size and manner in
+which a sample is drawn from a population affects the precision and accuracy of the
+resulting estimates and inferences. These issues are addressed in the experimental
+design of a sensory study. This chapter presents the concepts and techniques of estimation,
+inference, and experimental design as they relate to some of the more fundamental statisti-
+cal methods used in sensory evaluation. The topics are presented with a minimum of
+theoretical detail. Those interested in pursuing this area further are encouraged to read
+Gacula and Singh (1984), O’Mahony (1986), and Smith (1988) or, for more theoretically
+advanced presentations, Cochran and Cox (1957) and Snedecor and Cochran (1980).
+Several deﬁnitions presented at this point will make the discussion that follows easier to
+understand. A population is the entire collection of elements of interest. The population of
+interest in sensory analysis varies from study to study. In some cases, the population may
+be people (e.g., consumers of a particular food), whereas in other cases it may be products
+(e.g., batches of corn syrup). An element or unit from the population might be a particular
+consumer or a particular batch of syrup. Measurements taken on elements from a popu-
+lation may be discrete, i.e., take on only speciﬁc values (such as a preference for brand A),
+or continuous, i.e., take on any value on a continuum (such as the intensity of sweetness).
+The values that the measurements take on are governed by a probability distribution,
+usually expressed in the form of a mathematical equation that relates the occurrence of
+a speciﬁc value to the probability of that occurrence. Associated with the distribution are
+certain ﬁxed quantities called parameters. The values of the parameters provide infor-
+mation about the population. For continuous distributions, for instance, the mean (m)
+locates the center of the measurements. The standard deviation (s) measures the dis-
+persion or “spread” of the measurements about the mean. For discrete distributions, the
+proportion of the population that possesses a certain characteristic is of interest. For
+example, the population proportion (p) of a binomial distribution might summarize the
+distribution of preferences for two products.
+Only in the rarest of circumstances is it possible to conduct a census of the population
+and directly compute the exact values of the population parameters. More typically, a
+subset of the elements of the population, called a sample, is collected, and the measure-
+ments of interest are made on each element in the sample. Mathematical functions of
+these measurements, called statistics, are used to approximate the unknown values of
+the population parameters. The value of a statistic is called an estimate.
+313

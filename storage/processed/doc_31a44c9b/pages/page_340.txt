@@ -1,0 +1,62 @@
+proportion of distinguishers in the population of panelists, pd, using
+Lower confidence limit :
+^pdKzasd; and
+Upper confidence limit :
+^pd Czbsd;
+where ^pd is the estimate of the proportion of distinguishers, sd is the sample standard
+deviation of the proportion of distinguishers and za and zb are the a and b critical values
+from the standard normal distribution. The quantities ^pd and sd are obtained from ^pc and sc
+using the following transformations:
+Method
+^pd
+sd
+Triangle test
+1:5^pcK0:5
+1.5sc
+Duo–Trio and paired
+comparison
+2^pcK1
+2sc
+Two-out-of-ﬁve
+ð10=9Þ^pcKð1=9Þ
+(10/9)sc
+If the lower conﬁdence limit is zero or less, then the null hypothesis of no perceptible
+difference cannot be rejected (at the 1Ka conﬁdence level). If the lower conﬁdence limit is
+greater than zero, then the samples are perceptibly different. If the upper conﬁdence limit
+is less than the proportion of distinguishers that the researcher wants to be able to detect,
+pmax, then the products are sufﬁciently similar (at the 1Kb conﬁdence level). If the upper
+conﬁdence limit is greater than pmax, then the samples are not sufﬁciently similar. (See
+Chapter 6 for examples using these conﬁdence intervals.)
+13.3
+Statistical Hypothesis Testing
+Often, the objective of an investigation is to determine if it is reasonable to assume that the
+unknown value of a parameter is equal to some speciﬁed value or possibly that
+the unknown values of two parameters are equal to each other. In the face of the incom-
+plete and variable information contained in a sample, statistical decisions of this type are
+made using hypothesis testing. The process of statistical hypothesis testing is summarized
+by the following ﬁve steps:
+1. The objective of the investigation is stated in mathematical terms, called the null
+hypothesis (H0), (e.g., H0: mZ8).
+2. Based on the prior interest of the researcher, another mathematical statement,
+called the alternative hypothesis (Ha) is formulated (e.g., Ha: mO8, Ha: m!8, or Ha:
+ms8).
+3. A sample of elements from the population is collected and the measurement of
+interest is taken on each element of the sample.
+4. The value of the statistic used to estimate the parameter of interest is calculated.
+5. Based on the assumed probability distribution of the measurements and the null
+hypothesis assumption, H0, the probability that the statistic takes on the value
+calculated in step 4 is computed. If this probability is smaller than some prede-
+termined
+value
+(a),
+the
+null-hypothesis
+is
+rejected
+in
+favor
+of
+the
+alternative hypothesis.
+Basic Statistical Methods
+323

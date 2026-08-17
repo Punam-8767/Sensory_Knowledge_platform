@@ -1,0 +1,92 @@
+straight line can be drawn through the points. In this case, the graph can serve to locate
+not only the group threshold as the 50% point, but also the concentrations that 5% or
+90%, for example, of the corresponding population can detect.
+8.3
+Applications of Threshold Determinations
+Thresholds can be measured by a variety of the classical psychophysical designs based on,
+for example, the method of limits, the method of average error, or the frequency method
+(Kling and Riggs 1971). In recent years, a tendency among psychophysicists has been to
+choose a different route by applying the signal detection theory (SDT) (Swets 1964;
+Macmillan and Creelman 1991; Doty and Laing 2003). SDT is a system of methods
+based on the idea that the point of interest is not the threshold as such, but rather “the
+size of the psychological difference between the two stimuli,” which has the name d0. The
+advantage of SDT is that the subject’s decision process becomes more explicit and can be
+statistically modeled. However, SDT procedures are more time-consuming than the clas-
+sical threshold designs, and it has been shown (Frijters 1980) that for forced-choice
+methods of sample presentation, there is a 1:1 relationship between d0 and the classical
+threshold.
+For these reasons, both the American Society for Testing and Materials (ASTM
+1997a, 1997b) and the International Organization for Standardization (ISO 2002) have
+decided to stick with the method of limits and what is known as the three-alternative
+forced-choice (3-AFC) method of sample presentation in which three samples are
+presented: two are controls, and one contains the substance under test. The ASTM’s
+rapid method (E679, see Example 8.1) aims at determining a practical value close to
+the threshold based on a minimum of testing effort (e.g., 50–150 3-AFC presentations).
+It makes a very approximate (e.g., G200%) best estimate determination of each pane-
+list’s threshold. In return, the panel can be larger, and the resulting group threshold
+and distribution become more reliable because the variation between individuals is
+16
+14
+12
+10
+8
+6
+No. of subjects
+4
+2
+0.2
+1
+5
+ppm Exhaust in air
+25
+125
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+FIGURE 8.3
+Typical histogram of threshold for a group
+of 45 subjects; f Z subject from Figure 8.2.
+Sensory Evaluation Techniques, 4th Ed., Ch. 8
+132

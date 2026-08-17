@@ -1,0 +1,107 @@
+Index
+A
+Absolute thresholds, 130
+Acceptance tests, 101–102, 255, 275–279, 411
+Acuity tests, 150–151
+Adaptation factors, 39–40
+Advanced statistical methods, 357–404
+cluster analysis, 362–365
+correlation analysis, 358–360
+data relationships, 357–375
+dependent variables, 365–375
+discriminant analysis, 374–375
+experimental design, 391–404
+external preference mapping, 380–389
+factorial treatment structures, 392–399
+fractional factorials, 396–399
+independent variables, 358–375
+linear regression, 366–371
+multiple linear regression, 369–371
+partial least squares regression, 373–374
+Plackett–Burman experiments, 398–399
+preference mapping, 375–391
+principal component regression, 371–372
+principal components analysis, 360–362, 379–389
+regression analysis, 365–374
+response surface methodology, 370, 392, 399–404
+screening studies, 396–399
+simple linear regression, 366–369
+variables, 358–375
+Advertising claims, 259
+Affective tests, 255–309
+descriptive data relationships, 283–284
+discussion guides, 298–299
+fuzzy front end, 265–269, 308–309
+holistic prototyping/product development, 309
+internet research, 281–283, 292–294
+key drivers analysis, 291–294
+preference mapping, 291–294
+protocol design, 273, 305–308
+prototype development, 287–288, 309
+qualitative affective tests, 269–271
+quality limits, 285–287
+quantitative affective tests, 271–281
+rapid prototype development, 287–288
+segmentation analysis, 291–294
+sequence mapping, 288–291
+shelf-life, 285–287
+subjects, 259–263
+technique choice guidelines, 411
+test location, 263–265
+Afterfeel, 198, 203–204
+Age factors, 260–261
+Air, isovaleric acid, 135–138
+Air circulation, 33
+Alternative hypothesis, 323, 324–325
+American Society for Testing and Materials (ASTM)
+132–133
+Amplitude, 177
+Analgesic creams, 93–97
+Analysis of variance (ANOVA)
+basic statistical methods, 340–343, 344–345,
+347–349
+difference-from-control tests, 95, 96, 99
+multisample difference tests, 117–122, 125–128
+panelist performance, 155
+simple linear regression, 367–368
+“A”–”not A” tests, 88–92
+Antiperspirant skinfeel, 210–213
+Appearance factors 8, 194–195, 202
+Applications of threshold determinations, 132–138
+Arm tests, 208–210
+Aromatics, 8–9, 196–197, 213–214
+Arrival time guidelines, 167
+ASTM (American Society for Testing and Materials)
+132–133
+Attitude factors, 280–281
+Attribute diagnostics, 279–280
+Attribute difference tests, 63, 105–128
+balanced incomplete block designs, 112–113,
+122–128
+descriptive analysis techniques, 186
+direction difference tests, 105–108
+Friedman analysis, 109–112, 113–117, 122–125
+multisample difference tests, 112–128
+paired comparison designs, 105
+pairwise ranking, 109–112
+randomized complete block design, 113–117
+ranking tests, 122–125
+rating approach, 117–122
+rating tests, 125–128
+simple ranking tests, 113–117
+technique choice guidelines, 410
+Attribute-speciﬁc scaling, 56
+Awareness factors, 165–167, 280–281
+B
+Backward elimination, 371
+Balanced incomplete block (BIB) design, 112–113,
+122–128, 343–346
+Balanced reference tests, 74–76
+Balance factors, 177
+Ballot completeness, 169
+Bar charts, 316, 320, 321
+Bar soaps, 208–210
+Basic statistical methods, 313–354
+balanced incomplete block, 343–346
+basic, 313–354
+441

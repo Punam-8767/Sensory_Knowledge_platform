@@ -1,0 +1,46 @@
+Panelists begin to develop their list of best descriptors by ﬁrst evaluating a broad
+array of products (commercial brands, competitors, pilot plant runs, etc.) that deﬁne the
+product category. After some initial experience with the category, each panelist
+produces a list of terms to describe the set. Additional terms and references may be
+taken from the literature, e.g., from published ﬂavor lexicons (Johnsen et al. 1988;
+Civille and Lyon 1996). The terms are then compiled or organized into a list that is
+comprehensive, yet not overlapping. This process includes using references (see
+Appendix 11.2) to determine the best choice for a term and to best deﬁne that term
+so that it is understood in the same way by all panelists.
+An example of the adaptation of existing underlying terms to a speciﬁc product
+category is the work on noodles by Janto et al. (1998). Several standard terms apply to
+noodles, but the vast Asian noodle frame of reference called for additional terms, such as
+“starch between teeth” and “slipperiness between lips.”
+11.4
+Intensity
+Different project objectives may require widely different intensity scales. A key property of
+a scale is the number of points of discrimination along the scale. If product differences
+require a large number of points of discrimination to clearly deﬁne intensity differences
+both within and between attributes, the panel leader requires a 15-cm scale, or a category
+with 30 points or more, or an ME scale.
+The Spectrum method is based on extensive use of reference points that may be
+chosen according to the guidelines given in Appendix 11.2. These are derived from
+the collective data of several panels over several replicates. Whatever the scale chosen,
+it must have at least two and preferably three to ﬁve reference points distributed across
+the range. A set of well-chosen reference points greatly reduces panel variability,
+allowing for a comparison of data across time and products. Such data also allow
+more precise correlation with stimulus changes (stimulus/response curve) and with
+instrumental data (sensory/instrumental correlations). The choice of scaling technique
+may also depend on the available facilities for computer manipulation of data and on
+the need for sophisticated data analysis. The most common application of the Spectrum
+scale is the use of 0–15 points (measured in tenths, yielding 150 points of discrimi-
+nation) for most foods and consumer products. The panelists write (or enter) the actual
+number for the intensity of each attribute. Occasionally, with ingredients and condi-
+ments, the panel uses numbers higher than 15 to express the increased strength.
+Examples are the sourness of pure lemon juice (30) and the sweetness of pure corn
+syrup (24).
+11.5
+Other Options
+The tools of the Spectrum method include time/intensity tests, the difference-from-control
+test, total ﬂavor impact assessment, and others. The basic philosophy, as mentioned, is to
+train the panel to fully deﬁne each and all of a product’s attributes, to rate the intensity of
+each, and to include other relevant characterizing aspects such as changes over time,
+differences in order of appearance of attributes, and integrated total aroma and/or
+ﬂavor impact.
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+192

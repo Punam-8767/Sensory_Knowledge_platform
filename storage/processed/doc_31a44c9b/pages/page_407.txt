@@ -1,0 +1,84 @@
+the overall liking ratings of the consumers and the independent (x) variables are the
+sensory attribute ratings. Because PLS can handle multiple dependent variables in the
+same model, the overall liking ratings of the total respondent base, as well as those of any
+consumer segments of interest, can be ﬁt in a single analysis. This is helpful for deter-
+mining the similarities and differences in the attributes that drive liking among
+the segments.
+The PLS map for the prepared meals data is presented in Figure 14.21. The overall liking
+ratings of the total respondent base, as well as those of the two preference segments
+presented in Figure 14.17, were the dependent variables in the PLS analysis. The same
+sensory attributes that were used in the external preference map were the independent
+variables in the PLS model. Products A, C, and G appear in the same quadrant as the
+points for consumer preference segments, segment 1 and segment 2, indicating that these
+products were well liked by both segments. Products B, E, and F fall on the opposite side of
+the map from segment 1, indicating that these products were not well liked by that
+segment of consumers. Conversely, products H and I fall on the opposite side of the
+map from segment 2, indicating that these products were the least liked among consumers
+in that segment.
+TABLE 14.5
+Proﬁle of Target Product Determined by Reverse
+Engineering
+Sensory Attribute
+Target Proﬁle
+FL meat identity
+4.9
+FL brothy
+4.9
+TXT meat ﬁrm
+6.2
+APP potato size
+10.8
+APP green herb AMT
+6.1
+APP solid size
+8.5
+TXT potato ﬁrm
+4.3
+FL carrot
+3.0
+FL celery
+2.9
+FL wheat
+3.7
+TXT vegetable ﬁrm
+2.7
+FL green herbs
+3.3
+FL meat nonnatural
+2.3
+TXT viscosity (sauce)
+3.1
+FL black pepper
+1.7
+FL spice blend
+0.2
+FL bitter
+2.8
+FL sour
+1.7
+FL ﬁller
+4.4
+APP solid AMT (no potato)
+7.1
+FL onion
+2.4
+APP sauce clarity
+4.1
+APP surface oil
+8.8
+TXT oily MF
+5.6
+FL salty
+7.4
+APP potato AMT
+7.4
+FL corn
+0.4
+FL potato
+0.0
+FL red bell pepper
+0.1
+FL sweet
+0.7
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+390

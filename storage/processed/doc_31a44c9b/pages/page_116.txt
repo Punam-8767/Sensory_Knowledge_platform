@@ -1,0 +1,148 @@
+Analyze results: The data from the evaluations (see Table 6.3) were analyzed according to
+the procedure described by Aust et al. (1985). This procedure tests whether the score for
+the test sample is signiﬁcantly different from the average of the two control samples. The
+null and alternate hypotheses are
+H0 : mT Z ðmCA CmCBÞ
+
+2 vs: Ha : mrOðmCA CmCBÞ
+
+2
+The error term used to test this hypothesis, called “pure error mean square” (1.13 in the
+analysis, Table 6.4) is calculated by summing the squared differences between the two
+control samples over all the panelists, then dividing by twice the number of panelists. The
+resulting ANOVA in Table 6.4 shows that the F-test (F1,24ZMST vs. R/MSpure errorZ326.54)
+for differences between the test and control samples is highly signiﬁcant.
+TABLE 6.3
+Results from Example 6.13: Difference-from-
+Control Test—Flavored Peanut Snacks
+Judge
+Control A
+Control B
+Test
+1
+2
+1
+6
+2
+0
+3
+7
+3
+1
+2
+5
+4
+1
+3
+7
+5
+0
+3
+6
+6
+2
+2
+6
+7
+3
+1
+6
+8
+2
+3
+6
+9
+2
+2
+6
+10
+3
+4
+6
+11
+1
+2
+7
+12
+0
+1
+7
+13
+3
+1
+4
+14
+0
+2
+8
+15
+0
+0
+6
+16
+0
+1
+8
+17
+1
+1
+7
+18
+3
+4
+6
+19
+1
+1
+9
+20
+0
+3
+6
+21
+0
+1
+7
+22
+1
+2
+6
+23
+2
+1
+4
+24
+1
+1
+6
+TABLE 6.4
+Analysis of Variance Table According to the Difference-from-Control Test of Aust et al. (1985)
+for the Data of Example 6.13: Flavored Peanut Snacks
+Source
+Degrees-
+of-Freedom
+Sum of
+Squares
+Mean
+Squares
+F
+p
+Total
+71
+456.61
+Test vs.
+references
+1
+367.36
+367.36
+326.54
+!0.0001
+Pure error
+24
+27
+1.13
+Residual
+46
+62.25
+Overall Difference Tests: Difference-from-Control Test
+99

@@ -1,0 +1,65 @@
+statistic used to test this hypothesis is
+F Z
+s2
+Larger
+s2
+Smaller
+;
+(13.8)
+where s2
+Larger is the square of the larger of the two sample standard deviations and s2
+Smaller is
+the square of the smaller sample standard deviation. In Table 13.6, group 1 has the larger
+sample standard deviation, so s2
+LargerZs2
+1 and s2
+SmallerZs2
+2 for this example. The value of F
+in Equation 13.8 is then:
+F Z ð0:58Þ2=ð0:46Þ2 Z 1:59:
+The value of F is compared to the upper a/2 critical value of an F distribution with
+(n1K1) and (n2K1) degrees of freedom. (The numerator degrees of freedom are (n1K1)
+because s2
+LargerZs2
+1 for this example. If s2
+Larger had been s2
+2, then the degrees of freedom
+would be (n2K1) and (n1K1).) Using a signiﬁcance level of aZ0.05, the value of F0.025,6,8 is
+found in Table 17.6 to be 4.65. The null hypothesis is rejected if FOFa=2;ðn1K1Þ;ðn2K1Þ.
+Because FZ1.59!F0.025,6,8Z4.65, the null hypothesis is not rejected at the 5% signiﬁcance
+level. The sensory analyst concludes that there is not sufﬁcient reason to believe the two
+groups differ in the variability of their scoring on this attribute.
+This is another example of a two-sided alternative that is tested using a one-tailed
+statistical test. The criterion for two-sided alternatives is to reject the null hypothesis if
+the value of F in Equation 13.8 exceeds Fa=2;df1;df2 where df1 and df2 are the numerator and
+denominator degrees of freedom, respectively. Equation 13.8 is still used for one-sided
+alternatives (i.e., Ha: s1Os2), but the criterion becomes “reject the null hypothesis if
+FOFa;df1;df2.”
+Example 13.5: Testing That the Population Proportion Is Equal to a Speciﬁed Value
+Suppose that two samples (A and B) are compared in a preference test. The objective of the
+test is to determine if either sample is preferred by more than 50% of the population. The
+sensory analyst collects a random sample of nZ200 people, presents the two samples to
+each person in a balanced, random order, and asks each person which sample they prefer.
+For those respondents who refuse to state a preference, the “no preference” responses are
+divided equally among the two samples. It is found that 125 of the people said they
+preferred sample A. The estimated proportion of the population that prefer sample A is
+then ^pAZ125=200Z62:5% by Equation 13.3.
+The sensory analyst arbitrarily picks “preference for sample A” as a “success” and tests
+the hypothesis H0: pAZ50% vs. the alternative Ha: pAs50%. The analyst chooses to test
+this hypothesis at the aZ0.01 signiﬁcance level, using the appropriate z-test:
+z Z
+^pKp0
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ðp0Þð1Kp0Þ=n
+p
+for ^p and p0 proportions
+or
+z Z
+^pKp0
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ðp0Þð100Kp0Þ=n
+p
+for ^p and p0 percentages
+(13.9)
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+330

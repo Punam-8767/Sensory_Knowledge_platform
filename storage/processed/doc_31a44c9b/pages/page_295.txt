@@ -1,0 +1,88 @@
+Example 2
+Attribute Diagnostics Questionnaire with a Single Sample Using
+Hedonic Rating of Each Attribute
+1.
+Which sample did you prefer overall?
+467–––– 813––––
+2.
+Which did you prefer for color?
+467–––– 813––––
+3.
+Which did you prefer for cola impact? 467–––– 813––––
+4.
+Which did you prefer for citrus flavor? 467–––– 813––––
+5.
+Which did you prefer for spicy flavor?
+467–––– 813––––
+6.
+Which did you prefer for sweetness?
+467–––– 813––––
+Like extremely
+Dislike extremely
+Using the above scale rate the following:
+[Scale could be repeated after each question]
+How do you feel overall about this beverage?
+How do you feel about the color?
+How do you feel about the cola impact?
+How do you feel about the citrus flavor?
+How do you feel about the spice flavor?
+How do you feel about the sweetness?
+How do you feel about the body?
+Please indicate your opinion about the following characteristics:
+Gravy color
+Too light
+Too few
+Too low
+Too low
+Too low
+Too thin
+Just right
+Just right
+Just right
+Just right
+Just right
+Just right
+Too dark
+Too many
+Too high
+Too high
+Too high
+Too thick
+Amount of vegetables
+Amount of beef flavor
+Amount of saltiness
+Spiciness
+Thickness of gravy
+1. Color
+2. Cola flavor
+3. Citrus flavor
+4. Sweetness
+5. Thickness
+6. Carbonation
+Much too light
+Much too weak
+Much too thin
+Much too weak
+Not at all sweet enough
+Not at all carbonated enough
+Much too dark
+Much too strong
+Much too strong
+Much too sweet
+Much too thick
+Much too carbonated
+Example 3
+"Just Right" Scales for Attributes (Stew)
+Example 1 Attribute Diagnostics: Examples of Attribute-by-Preference Questions
+Example 4 Attribute Diagnostics: Implied "Just Right" Scales
+Like very much
+Dislike very much
+Like moderately
+Dislike moderately
+Like slightly
+Dislike slightly
+Neither like nor dislike
+FIGURE 12.4
+Examples of scales used in attribute diagnostics tests.
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+278

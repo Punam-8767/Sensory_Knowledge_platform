@@ -1,0 +1,160 @@
+Project objective: To compare the 15 species such that quantitative information on the
+degree of ﬁshy ﬂavor is obtained that can be applied to the problem at hand.
+Test objective: To compare ﬁsh ﬁngers produced from the 15 species for degree of
+ﬁshy ﬂavor.
+Test design: The multisample difference test with balanced incomplete design is chosen
+because it permits comparison of the 15 test products in groups of three. A randomly
+selected group of 105 enlisted personnel are randomly divided into 35 groups of three
+subjects each. Each group of three subjects is randomly assigned one of the 35 groups of
+three samples according to the design in Table 7.7. The scoresheet asks the subject to rank
+his three samples according to ﬁshy ﬂavor, from least (Z1) to most (Z3).
+TABLE 7.7
+Multisample Difference Test: BIB Design for
+Example 7.8—Fish Fingers in Aspic (tZ15, kZ3, rZ7,
+bZ35, lZ1, EZ0.71)
+Block
+(1)
+1
+2
+3
+(2)
+4
+8
+12
+(3)
+5
+10
+15
+(4)
+6
+11
+13
+(5)
+7
+9
+14
+(6)
+1
+4
+5
+(7)
+2
+8
+10
+(8)
+3
+13
+14
+(9)
+6
+9
+15
+(10)
+7
+11
+12
+(11)
+1
+6
+7
+(12)
+2
+9
+11
+(13)
+3
+12
+15
+(14)
+4
+10
+14
+(15)
+5
+8
+13
+(16)
+1
+8
+9
+(17)
+2
+13
+15
+(18)
+3
+4
+7
+(19)
+5
+11
+14
+(20)
+6
+10
+12
+(21)
+1
+10
+11
+(22)
+2
+12
+14
+(23)
+3
+5
+6
+(24)
+4
+9
+13
+(25)
+7
+8
+15
+(26)
+1
+12
+13
+(27)
+2
+5
+7
+(28)
+3
+9
+10
+(29)
+4
+11
+15
+(30)
+6
+8
+14
+(31)
+1
+14
+15
+(32)
+2
+4
+6
+(33)
+3
+8
+11
+(34)
+5
+9
+12
+(35)
+7
+10
+13
+Source:
+From W.G. Cochran and G.M. Cox. 1957. Experimental
+Designs, New York: Wiley. With permission.
+Attribute Difference Tests: Multisample Difference Test: BIB Ranking Test
+123

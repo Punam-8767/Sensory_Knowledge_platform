@@ -1,0 +1,40 @@
+8
+Determining Threshold
+8.1
+Introduction
+Sensory thresholds are ill-deﬁned in theory (Lawless and Heymann 1998; Morrison 1982).
+A good determination requires hundreds of comparisons with a control and results do not
+reproduce well (Brown et al. 1978; Marin, Acree, and Barnard 1988; Stevens, Cain, and
+Burke 1988). Published group thresholds (Fazzalari 1978; Van Gemert and Nettenbreijer
+1984; Devos et al. 1990) vary by a factor of 100 for quinine sulfate in water and by much
+more in complex systems. Swets (1964) doubts even the existence of a sensory threshold. A
+ﬁrst reaction is that it is futile to invest time and money in threshold studies; however,
+in situations such as those described in the next paragraph, the threshold approach is still
+the best available.
+Thresholds in air, determined by automated ﬂow olfactometry, are used to
+determine degrees of air pollution (CEN 1997) and to set legal limits for polluters.
+Thresholds of added substances are used with water supplies, foods, beverages,
+cosmetics, paints, solvents, etc. to determine the point at which known contaminants
+begin to reduce acceptability. These are the most important uses, and testing may be
+done with hundreds of panelists to map the distribution of relative sensitivity in the
+population. Thresholds may also be used as a means of selecting or testing panelists,
+but this should not be the principal basis for selection (see Chapter 9) unless the test
+objective requires detection of the stimulus at very low levels. The threshold of added
+desirable substances may be used as a research tool in the formulation of foods,
+beverages, etc.
+It should be kept in mind that a low detection threshold for a given compound
+corresponds to a high sensitivity for the ﬂavor in question. The concepts of the odor
+unit (O.U.) (Guadagni et al. 1966) or ﬂavor unit (F.U.) (Meilgaard 1975) use the
+threshold as a measure of ﬂavor intensity. For example, if H2S escapes from a leaking
+bottle into a room, when the level reaches the threshold of detection the odor intensity
+is at 1 O.U.; at double that level of H2S, the intensity is at 2 O.U., and so on. This use of
+thresholds requires caution and is not applicable at intensities above 3–6 O.U. (Chapter
+2). Procedures for estimating sensory intensity at levels above threshold are discussed in
+Chapter 5.
+The methods used to determine olfactory thresholds can have a profound inﬂuence on
+the results. Hangartner and Paduch (1988) show that odorant ﬂows below the usual
+snifﬁng volume of 1–2 L/sec will give rise to thresholds severalfold too high. Doty,
+Gregor, and Settle (1986) found that the use of a larger sniff bottle resulted in 10- to
+20-fold lower thresholds because panelists were able to raise the snifﬁng volumes.
+Training can lower thresholds as much as 1000-fold (Powers and Shinholser 1988).
+129

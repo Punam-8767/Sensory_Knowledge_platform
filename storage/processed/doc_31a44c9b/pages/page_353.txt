@@ -1,0 +1,87 @@
+A samples than the A samples are from each other. On this trial, the assessor gives a correct
+answer because the assessor’s perceptions are consistent with the actual difference
+between the products. On the second trial, the assessor selects the A1 sample because,
+perceptually, it is farther from the A2 and B samples than the A2 and B samples are from
+each other. On this trial, the assessor gives an incorrect answer because the assessor’s
+perceptions are inconsistent with the actual difference between the products. On both
+trials, the assessor applied the decision rule correctly. However, due to the probabilistic
+TABLE 13.9
+Decision Rules for 2-AFC, 3-AFC, Triangle, Duo–Trio, A/Not A and Same–Different Methods
+Method
+Decision Rule
+2-AFC
+B
+A
+a
+b
+PcZP(bOa)
+3-AFC
+B
+A
+a1
+a2 b
+PcZPðbOa1 and bOa2Þ
+Triangle
+B
+A
+a1a2
+b
+PcZPðja1Ka2j!ja1Kbj and ja1Ka2j!ja2KbjÞ
+Duo–trio
+B
+A
+a2
+a
+b
+PcZPðjaRKaj!jaRKbjÞ
+A/Not A
+A
+Not A
+a
+c
+PaZP(aOc)
+A
+Not A
+c na
+PnaZP(naOc)
+Same–different
+B
+A
+a b
+τ
+P(S/U)ZP(jbKaj!t)
+B
+A
+a1a2
+τ
+PðS=MÞZPðjx1Kx2j!tÞ; xZa or b
+Assessor gives correct answer.
+Assessor gives incorrect answer.
+Sensory magnitude
+Sensory magnitude
+A
+A
+B
+B
+a1
+a1
+a2
+a2
+b
+b
+2
+FIGURE 13.12
+Correct and incorrect answers in a
+triangle test. In the top trial, the assessor
+correctly answers that b is the odd sample
+because, perceptually, both A1 and A2 are
+farther from the B than they are from
+each other. In the bottom trial, the
+assessor incorrectly answers that A1 is
+the odd sample because perceptually
+the samples A2 and B are farther from
+sample A1 than they are from each
+other. In both cases, the assessor applied
+the decision rule correctly.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+336

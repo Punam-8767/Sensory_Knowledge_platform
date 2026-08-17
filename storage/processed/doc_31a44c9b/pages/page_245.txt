@@ -1,0 +1,96 @@
+A. Flavor (continued)
+Vanilla impression
+8.3
+Vanillin
+4.0
+Bourbon/alcohol
+4.5
+Dried fruit
+4.0
+Basic tastes
+Salt
+2.0
+Sweet
+12.0
+Sour
+2.0
+Bitter
+1.0
+12. Yoplait Original Strawberry Yogurt
+Aromatics
+Dairy complex
+5.0
+Cultured yogurt
+3.0
+Cooked dairy
+3.0
+Butter fat
+0.0
+Strawberry complex
+5.5
+Raw strawberry
+2.0
+Cooked strawberry
+4.0
+Starch
+1.3
+Basic tastes
+Sweet
+10.5
+Sour
+3.0
+Salt
+0.0
+Bitter
+0.0
+Chemical feeling factors
+Astringent
+4.2
+B.
+Texture
+1. Pepperidge Farm Bordeaux Cookies
+Surface
+Micro roughness
+10.0
+Macro roughness
+3.0
+Loose particles
+5.0
+Oiliness
+1.8
+Chewdown
+Hardness
+8.0
+Crispness
+8.0
+Denseness
+7.0
+Moisture absorption
+12.5
+Cohesiveness of mass
+2.0
+Roughness of mass
+9.0 gritty
+Moistness of mass
+10.0
+Persistence of crisp
+8.0
+Residual
+Toothpack
+5.0
+Loose particles
+3.3
+Dissolvability
+7.0
+2. Sara Lee All Butter Pound Cake
+Surface (crumb)
+Micro roughness
+4.5
+Loose particles
+5.0
+Surface moistness
+5.5
+Oily lips
+4.0
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+228

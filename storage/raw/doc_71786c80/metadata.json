@@ -1,0 +1,118 @@
+{
+  "document_id": "doc_71786c80",
+  "filename": "Carr, B. Thomas_ Civille, Gail Vance_ Meilgaard, Morten C - Sensory Evaluation Techniques, Fourth Edition-CRC Press (2006).pdf",
+  "document_type": "book",
+  "mime_type": "application/pdf",
+  "file_size_mb": 20.15,
+  "page_count": 466,
+  "checksum": "fb386b4acbb0cc8117b34cacad02e3967b12ac2302977f2fd4696b96233155e2",
+  "storage": {
+    "raw_file": "storage\\raw\\doc_71786c80\\original.pdf",
+    "metadata_file": ""
+  },
+  "pipeline_status": "QDRANT_SYNC_COMPLETED",
+  "next_step": "/api/v1/documents/doc_71786c80/knowledge",
+  "progress": 50,
+  "current_stage": "LLM_EXTRACTION",
+  "completed_stages": [
+    "UPLOAD",
+    "OCR",
+    "IMAGE_EXTRACTION",
+    "TABLE_EXTRACTION",
+    "DOCUMENT_TREE"
+  ],
+  "remaining_stages": [
+    "CANONICAL_MAPPING",
+    "SCHEMA_MAPPING"
+  ],
+  "pipeline_error": "Normalized elements for doc_71786c80 not found.",
+  "error": "Normalized elements for doc_71786c80 missing. Run structure extraction first.",
+  "error_message": "Normalized structural elements for doc_71786c80 not found.",
+  "updated_at": "2026-08-12T18:20:42",
+  "normalization_summary": {
+    "input_concepts": 899,
+    "existing_concepts_reused": 6,
+    "new_proposals": 175,
+    "review_required": 0,
+    "rejected_concepts": 4,
+    "blocked_seeded_concepts": 0,
+    "blocked_policy_concepts": 216,
+    "admin_review_concepts": 498,
+    "quality_gate": {
+      "status": "POLICY_LAYER_ADMIN_REVIEW_REQUIRED",
+      "score": 100,
+      "architecture_rating": "10/10",
+      "reason": "Policy/routing concepts were detected and correctly blocked from AI proposal. This is the expected Concept DB behavior.",
+      "warnings": [
+        "Qdrant unavailable; semantic matching skipped. Error=All connection attempts failed"
+      ],
+      "can_continue": true
+    },
+    "architecture_rating": {
+      "overall": "10/10",
+      "score": 100,
+      "scope": "Concept DB architecture alignment",
+      "meaning": "The normalization API follows the Concept DB rules: proposal flow only for sensory_attribute/descriptor, seeded concepts are not proposed, policy concepts are admin-managed, relationships are bucketed instead of falsely rejected, and MySQL remains the source of truth."
+    }
+  },
+  "validate_commit_summary": {
+    "concept_proposals": {
+      "input": 175,
+      "inserted": 175,
+      "updated": 0,
+      "committed": 175,
+      "skipped_invalid_type": 0,
+      "skipped_missing_required": 0,
+      "skipped_items": []
+    },
+    "ready_relationships": {
+      "input": 1,
+      "inserted": 1,
+      "updated": 0,
+      "committed": 1,
+      "skipped_missing_table": 0,
+      "skipped_missing_ids": 0,
+      "skipped_not_ready": 0
+    },
+    "not_committed_by_design": {
+      "concepts": 0,
+      "concept_terms": 186,
+      "concept_fields": 660,
+      "pending_relationships": 534,
+      "blocked_seeded_concepts": 0,
+      "blocked_policy_concepts": 216,
+      "admin_review_concepts": 498,
+      "blocked_seeded_relationships": 0,
+      "blocked_policy_relationships": 54,
+      "admin_review_relationships": 45
+    }
+  },
+  "quality_gate": {
+    "status": "QDRANT_SYNC_COMPLETED",
+    "score": 100,
+    "architecture_rating": "10/10",
+    "reason": "Concept DB MySQL rows were mirrored to Qdrant successfully.",
+    "warnings": [],
+    "can_continue": true
+  },
+  "approve_proposals_summary": {
+    "input_proposals": 1,
+    "approved": 1,
+    "rejected": 0,
+    "requires_targets": 0,
+    "skipped": 0
+  },
+  "commit_approved_concepts_summary": {
+    "input_proposals": 1,
+    "committed": 1,
+    "requires_targets": 0,
+    "skipped": 0
+  },
+  "sync_qdrant_summary": {
+    "input_concepts": 1,
+    "synced": 1,
+    "failed": 0,
+    "skipped": 0,
+    "dry_run": 0
+  }
+}

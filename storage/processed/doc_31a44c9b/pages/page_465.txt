@@ -1,0 +1,80 @@
+Test rooms
+controls, 25–34
+design, 25–29, 31–34
+Tests
+objectives 4, 407, 412
+see also individual tests; Overall difference tests
+Test Sensitivity Analyzer, 332–334
+Test-sensitivity, 64–65, 72, 106, 332–334
+Tests of hypothesis, 314, 323–334
+Test statistic, 345–346
+Textile roughness tests, 81–82, 83
+Texture
+panel prescreening questionnaires, 161–162
+sensory attribute perception, 9–10
+Spectrum descriptive analysis, 194–195, 198–202,
+217–224, 228–239
+Texture Proﬁle method, 179
+Thresholds, 22, 47
+determination, 129–138
+Thurstonian scaling, 314, 334–338
+Time aspects, 37–38, 42, 176–177
+Time of day, 37–38
+Time errors, 42
+Time-intensity descriptive analysis, 181–182
+Timidity, 43
+Tolerance intervals, 322
+Toothpaste, 233, 240–242
+Touch, 13–14, 158–159
+Trainee acceptance vs. rejection tests, 101–102
+Training
+areas, 29
+manuals, 191
+panelists, 37, 146–147, 152–153, 190
+Spectrum descriptive analysis, 190, 191, 245–252
+Transforming data, 322–323
+Treatment structures, 391–404
+Triads, 271
+Triangle tests
+basic statistical methods, 322, 323, 335–337
+discrimination tests, 335–337
+overall difference tests, 65–72
+statistical tables, 432–433
+Trigeminal sense, 17, 18
+Trimmed mean, 316
+t-tests, 329
+Tukey’s honestly signiﬁcant difference, 349–350,
+422–425
+Two-out-of-ﬁve tests, 80–84, 322, 323, 438–439
+Two-sided applications, 106, 107–108
+Two-sided directional difference tests, 436–437
+Two-sided hypothesis, 324–325
+Two-tailed conﬁdence intervals, 317–321
+Type I errors, 325–327
+Type II errors, 325–327
+U
+Uniﬁed approaches, 63–65
+Unilateral applications, 106, 108
+Universal scaling, 56, 191
+Usage factors, 280–281
+User groups, 260
+V
+Vacations, leadership guidelines, 168
+Validation, leadership guidelines, 169
+Variability in performance, 155
+Variables, 358–375, 399
+Variation in measurements, 47
+Verdict factors, 39–43
+Viscosity 9, 93–97
+Vision, 12–13
+W
+Warmed-over ﬂavor, 102–104
+Weber’s law, 49
+Weights, 361
+Wet hair, feel of, 205–207
+Wipes, 238–239
+Wrapping materials, 67–69
+Z
+z-tests, 330–331
+Sensory Evaluation Techniques, 4th Ed.
+448

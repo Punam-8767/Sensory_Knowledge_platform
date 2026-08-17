@@ -1,0 +1,48 @@
+B
+Cookie Variation Exercise
+1. Scope
+This exercise teaches the Spectrum lexicon (list of terms) for baked cookies by exposing the
+trainees to a set of samples of increasing complexity, adding one ingredient at a time.
+Many products that are combinations of ingredients can be handled in this manner, by
+constructing the ﬂavor complex one or two terms at a time.
+2. Test Design
+Trainees begin by evaluating cookie 1, baked from ﬂour and water. They are asked to
+suggest terms to describe this sample. Together, the panel leader and the trainees discuss
+the terms, for example cooked wheat/pasta-like/cream of wheat/breadcrumb, and
+doughy/raw/raw wheat/raw ﬂour. They then select a single descriptor to represent
+each set of linked terms, for example cooked wheat and raw wheat. Trainees record the
+results on the scoresheet marked “vocabulary construction.”
+The panel leader hands out cookie 2, baked from ﬂour, water and butter, and trainees
+suggest terms for the added aromatics. Again, the group selects a single descriptor to
+cover each sequence of linked (overlapping) terms.
+Once the lexicon is developed, it can be validated by comparing any two of the
+reference samples and determining whether the lexicon works to discriminate and
+describe the samples appropriately.
+The scoresheet marked “possible full vocabulary” can then be used to describe any
+pair of the samples, using a scale of 0 Z absent, 5 Z weak, 10 Z medium, and 15 Z very
+strong for the intensity of each attribute.
+3. Reference Set
+1. Flour, water
+2. Flour, water, butter
+3. Flour, water, margarine
+4. Flour, water, shortening
+5. Flour, water, shortening, salt
+6. Flour, water, shortening, baking soda
+7. Flour, water, sugar
+8. Flour, water, brown sugar
+9. Flour, water, butter, sugar
+10. Flour, water, margarine, sugar
+11. Flour, water, shortening, sugar
+12. Flour, water, sugar, egg, margarine
+13. Flour, water, sugar, egg, margarine, vanilla extract
+14. Flour, water, sugar, egg, margarine, almond extract
+4. Cookie Recipes
+Prepare each recipe as shown in the table on the next page. Spread dough into 9 ! 13
+oblong non-stick baking pan lined with parchment paper. Precut dough sheet into 32
+squares before baking. Bake at 350–3758F for 35 min (or more, until slightly browned).
+Ovens may vary for temperature and time.
+Each cookie recipe except #8 (darker) should be the same color for serving. Remove
+dried edge before serving. Adjust if needed. Store in labeled airtight containers. Samples
+may be stored for 24–36 h. Recipes will serve 20–25 participants.
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+248

@@ -1,0 +1,47 @@
+Senses, Journal of Sensory Studies, and Journal of Texture Studies; in the proceedings of the
+Pangborn Symposia (triennial) and the International Sensometrics Group (biannual), both
+usually published as individual papers in the journal Food Quality & Preference; and the
+proceedings of the Weurman Symposia (triennial, but published in book form, e.g.,
+Martens, Dalen, and Russwurm 1987; Bessie`re and Thomas 1990). Sensory papers
+presented to the Institute of Food Technologists are usually published in the IFT’s
+Journal of Food Science or Food Technology.
+The methods that have been developed serve economic interests. Sensory testing can
+establish the worth of a commodity or even its very acceptability. Sensory testing evaluates
+alternative courses to select the one that optimizes value for money. The principal uses of
+sensory techniques are in quality control, product development, and research. They ﬁnd
+application not only in characterization and evaluation of foods and beverages, but also in
+other ﬁelds such as environmental odors, personal hygiene products, diagnosis of
+illnesses, testing of pure chemicals, etc. The primary function of sensory testing is to
+conduct valid and reliable tests that provide data on which sound decisions can be made.
+1.3
+Human Subjects as Instruments
+Dependable sensory analysis is based on the skill of the sensory analyst in optimizing the
+four factors, which we all recognize because they are the ones that govern any measure-
+ment (Pfenninger 1979).
+1. Deﬁnition of the problem: what is to be measured must be precisely deﬁned;
+important as this is in “hard” science, it is much more so with senses
+and feelings.
+2. Test design: not only must the design leave no room for subjectivity and take into
+account the known sources of bias, but it also must minimize the amount of
+testing required to produce the desired accuracy of results.
+3. Instrumentation: the test subjects must be selected and trained to give a repro-
+ducible verdict; the analyst must work with them until he/she knows their
+sensitivity and bias in the given situation.
+4. Interpretation of results: using statistics, the analyst chooses the correct null
+hypothesis and the correct alternative hypothesis, and draws only those con-
+clusions that are warranted by the results.
+Tasters, as measuring instruments, are (1) quite variable over time; (2) very variable
+among themselves; and (3) highly prone to bias. To account adequately for these short-
+comings requires (1) that measurements be repeated, (2) that enough subjects (often 20–50)
+are made available so that verdicts are representative, and (3) that the sensory analyst
+respects the many rules and pitfalls that govern panel attitudes (see Chapter 4). Subjects
+vary innately in sensitivity by a factor of 2–10 or more (Meilgaard and Reid 1979; Pangborn
+1981) and should not be interchanged halfway through a project. Subjects must be selected
+for sensitivity and must be trained and retrained (see Chapter 9) until they fully under-
+stand the task at hand. The annals of sensory testing are replete with results that are
+unreliable because many of the panelists did not understand the questions and/or the
+terminology used in the test, did not recognize the ﬂavor or texture parameters in the
+products, or did not feel comfortable with the mechanics of the test or the numerical
+expressions used.
+Sensory Evaluation Techniques, 4th Ed., Ch. 1
+2

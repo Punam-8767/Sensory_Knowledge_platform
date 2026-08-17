@@ -1,0 +1,59 @@
+14.2.2.3
+Partial Least Squares Regression
+As noted above, PCA generates factors that may not be related to the independent variable
+of the regression, y. Partial least-squares (PLS) regression (see Martens and Martens 1986)
+is a multivariate technique related to PCR that overcomes this weakness. Where PCA
+concentrates only on explaining the variability exhibited by the correlated predictor vari-
+ables (x-variables), PLS derives factors (i.e., linear combinations of the x-variables) that (1)
+explain large portions of the variability in the x-variables and (2) simultaneously correlate
+to as great an extent as possible with the dependent variable y. While the PLS factors may
+not explain as much of the variability in the x values as would the PCA factors, PLS
+ensures that each factor identiﬁed has maximal predictive power on y.
+PLS has two other important advantages over PCR. First, it generates graphical output
+which clearly illustrates the relationships both among the predictor variables, x values,
+and between the predictor variables and y. Second, PLS readily extends to simultaneously
+predicting more than one dependent variable. When a single dependent variable is
+predicted, the analysis is called PLS1. When several dependent variables are predicted,
+the analysis is called PLS2. The graphical relationships in PLS2 can be used to illustrate, for
+example, how consumer vocabulary relates to descriptive attribute ratings (see
+Figure 14.10; Mun˜oz and Chambers 1993; Popper, Heymann, and Rossi 1997).
+The computations performed in a PLS regression are beyond the scope of this discus-
+sion. Several computer programs that perform PLS analyses are available (Pirouette 2006;
+Floral
+1
+0.5
+0
+–0.5
+–0.5
+0
+PLS factor 1
+PLS factor 2
+0.5
+1
+–1
+–1
+Citrus
+CITRUS
+Herbal
+Green
+Base
+FLORAL
+HERBS
+Woody
+SPICY
+Brown spice
+SOAPY
+Animal
+Aldehyde
+NATURAL
+Aroma
+Fruit
+FRUITY
+SWEET
+AROMA
+FIGURE 14.10
+Use of graphical relationships in PLS2 to illustrate the relationship between consumer vocabulary and descriptive
+attribute ratings. Terms in UPPER CASE are consumer responses. Terms in lower case are descriptive attributes.
+Note that consumer and descriptive vocabularies do not agree in all cases.
+Advanced Statistical Methods
+373

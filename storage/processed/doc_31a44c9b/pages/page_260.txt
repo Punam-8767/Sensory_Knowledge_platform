@@ -1,0 +1,125 @@
+D.
+Mayonnaise
+National Brand Mayonnaise
+National Brand
+Dressing
+1. Appearance
+Color
+Cream/yellow
+White
+Color intensity
+2
+1
+Chroma
+12
+10
+Shine
+10
+12.5
+Lumpiness
+9
+4
+Bubbles
+5
+2
+2. Flavor
+2.1 Aromatics
+Eggy
+6.8
+1.5
+Mustard
+4.5
+3.5
+Vinegar
+4.5
+9
+Lemon
+3.5
+1
+Oil
+1.5
+0
+Starchy
+0
+1.5
+Onion
+1.5
+0
+Clove
+0
+4.8
+2.2 Basic Tastes
+Salty
+8
+7
+Sour
+3
+8
+Sweet
+3
+8
+2.3 Chemical Feeling Factors
+Burn
+2
+3
+Pungent
+2
+3
+Astringent
+3.5
+6
+3. Texture
+3.1 Surface
+Adhesiveness to lips
+6
+10
+3.2 First Compression
+Firmness
+8.5
+9
+Denseness
+11
+12.5
+Cohesiveness
+6
+10
+3.3 Manipulation
+Cohesiveness of mass
+7
+8.5
+Adhesiveness of mass
+7
+5
+Mixes with saliva
+11.5
+8
+3.4 Residual
+Oily ﬁlm
+4
+1.5
+Tackiness
+0
+0
+Chalkiness
+0
+1
+E.
+Marinara Sauce
+Shelf-Stable (Jar)
+Fresh–Refrigerated
+1. Appearance
+Color
+Red/orange
+Red/orange
+Color intensity
+11
+13
+Chroma
+12
+8
+Shine
+7.5
+7.5
+Total particles
+The Spectrume Descriptive Analysis Method: Appendix 11.5
+243

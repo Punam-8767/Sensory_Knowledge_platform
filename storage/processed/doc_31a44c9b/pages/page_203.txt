@@ -1,0 +1,51 @@
+2. The comparison of product attributes. This provides documentation of perceived
+characteristics for making business decisions such as setting QC sensory speciﬁ-
+cations based on a range of consumer acceptance of speciﬁc attributes; predicting
+market success based on comparison to highly accepted products (Table 10.2);
+making advertising claims based on increase or decrease in position or negative
+attributes that are seen as an opportunity to market product beneﬁts.
+3. Benchmarking products and prototypes alongside the current market players. This is a
+critical component in the different types of Category Appraisal projects that
+relate descriptive benchmarking with consumer acceptance to deﬁne the
+product attributes that are key drivers of acceptance, performance, beneﬁts or
+defects. Figure 10.3 is a principal component analysis map of commercial orange
+juice products in various packaging and storage conditions compared to two
+sources of fresh squeezed orange juice.
+References
+ASTM. 1992. “Manual on descriptive analysis testing for sensory evaluation,” in ASTM Manual 13,
+R.C. Hootman, ed., West Conshohocken, PA: ASTM International.
+ASTM. 1996. “Sensory testing methods,” in ASTM Manual 26, 2nd Ed., E. Chambers and M. Baker
+Wolf, eds, West Conshohocken, PA: ASTM International.
+ASTM. 1997a. “Standard practice for descriptive skinfeel analysis of creams and lotions,” ASTM
+Standard Practice E1490-92, West Conshohocken, PA: ASTM International.
+ASTM. 1997b. Standard guide for time–intensity evaluation of sensory attribute, in ASTM Standard
+Guide E1909-97, West Conshohocken, PA: ASTM International.
+R.E. Bargmann, L. Wu, and J.J. Powers. 1976. “Search for the determiners of food quality ratings—
+description of methodology with application to blueberries,” in Correlating Sensory Objective
+Measurements—New Methods for Answering Old Problems, J.E. Powers and H.R. Moskowitz,
+eds, West Conshohocken, PA: ASTM International, pp. 56–72.
+B. Booth. 1989. Time–intensity parameters considered in sweetener research at the NutraSweet Co.,
+presentation to American Society for Testing and Materials (ASTM), Subcommittee E18 on
+Sensory Evaluation, Kansas City, MO.
+M.A. Brandt, E.Z. Skinner, and J.A. Coleman. 1963. “Texture proﬁle method,” Journal of Food Science,
+28:4, 404.
+S.E. Cairncross and L.B. Sjo¨strom. 1950. “Flavor proﬁles—a new approach to ﬂavor problems,” Food
+Technology, 4: 308–311.
+J.F. Caul. 1957. “The proﬁle method of ﬂavor analysis,” Advances in Food Research, 7: 1–40.
+G.V. Civille. 1979. Descriptive Analysis. Course Notes for IFT Short Course in Sensory Analysis, Chicago:
+Institute of Food Technology, Chap. 6.
+G.V. Civille and C.A. Dus. 1990. “Development of terminology to describe the handfeel properties of
+paper and fabrics,” Journal of Sensory Studies, 5: 19–32.
+G.V. Civille and C.A. Dus. 1991. “Evaluating tactile properties of skincare products: A descriptive
+analysis technique,” Cosmetics and Toiletries, 106:5, 83–88.
+G.V. Civille and H.T. Lawless. 1986. “The importance of language in describing perceptions,” Journal
+of Sensory Studies, 1:3/4, 203–215.
+G.V. Civille and I.H. Liska. 1975. “Modiﬁcations and applications to foods of the general foods
+sensory texture proﬁle technique,” Journal of Texture Studies, 6: 19–31.
+G.V. Civille and A.S. Szczesniak. 1973. “Guide to training a texture proﬁle panel,” Journal of Texture
+Studies, 4: 204–223.
+J.C. Gower. 1975. “Generalized procrustes analysis,” Psychometrika, 40: 33–51.
+J.X. Guinard, R.M. Pangborn, and C.F. Shoemaker. 1985. “Computerized procedure for time–inten-
+sity sensory measurements,” Journal of Food Science, 50: 543–544.
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+186

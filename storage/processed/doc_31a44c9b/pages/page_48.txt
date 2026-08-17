@@ -1,0 +1,41 @@
+Figure 3.5 and Figure 3.6 show typical layouts of medium and large-scale installations
+showing various facilities which may be located around the booth area.
+3.2.4
+General Design Factors
+3.2.4.1
+Color and Lighting
+The color and lighting in the booths should be planned to permit adequate viewing of
+samples while minimizing distractions (Amerine, Pangborn, and Roessler 1965; Malek,
+Schmitt, and Munroe 1982; Eggert and Zook 1986; International Organization
+for Standardization 1988; Poste et al. 1991; European Cooperation for Accreditation of
+Laboratories 1995; Chambers and Wolf 1996). Walls should be off-white; the absence of
+hues of any color will prevent unwanted difference in appearance. Booths should have
+even, shadow-free illumination at 70–80 footcandles (fc) (typical of an ofﬁce area). If
+appearance is critical, rheostat control may be used to vary the light intensity up to
+100 fc. Incandescent lighting allows wider variation and permits the use of colored
+lights (see below), but more heat is generated requiring adequate cooling. Fluorescent
+lighting generates less heat and allows a choice of whiteness (i.e., cool white, warm
+white, simulated north daylight, see Figure 3.7).
+Colored lights. A common feature of many panel booths is a choice of red, green, and/or
+blue lighting at low intensity obtained through the use of colored bulbs or special ﬁlters.
+The lights are used to mask visual differences between samples in difference tests calling
+for the subject to determine by taste (or by feel, if appropriate) which samples are identical.
+Many colored bulbs emit sufﬁcient white light to be ineffective in reducing color
+differences. Theater gel ﬁlters are quite effective and may be placed in frames over
+Panel room
+16'.6'' × 6'.9''
+21'.6'' × 12'.6''
+14'.0'' × 12'.0''
+Total = 704 Sq. Ft.
+7'.6'' × 12'.0''
+Descriptive training
+& profile room
+Panel leader
+Sample preparation & serving
+FIGURE 3.5
+Layout for medium-size sensory evalu-
+ation area suitable for 300–400 tests per
+year. (Drawn by D. Grabowski. With
+permission.)
+Controls for Test Room, Products, and Panel
+31

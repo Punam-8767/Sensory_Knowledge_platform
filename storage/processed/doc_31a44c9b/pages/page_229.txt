@@ -1,0 +1,72 @@
+h. Slipperiness
+Ease of moving ﬁngers across the skin:
+[Drag - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Slip]
+i. Amount of residue
+The amount of residue perceived on skin (tactile).
+Evaluate by stroking ﬁnger across site:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+j. Oil
+The amount of oil perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+k. Wax
+The amount of wax perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+l. Grease
+The amount of grease perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+m. Powder/chalk/grit
+The amount of powder, chalk and/or grit perceived on
+skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+n. Silicone
+The amount of silicone perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - Occluded]
+5.
+After 5, 10, 15, and 30 Min, Evaluate for:
+a. Occlusion
+The degree to which the sample occludes or blocks the
+air passage to the skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - Occluded]
+b. Whitening
+The degree to which the skin turns white:
+[None - - - - - - - - - - - - - - - - - - - - - - Large amount]
+c. Amount of residue
+The amount of product visually perceived on skin
+(visual):
+[None - - - - - - - - - - - - - - - - - - - - - - Large amount]
+d. Tautness
+The degree to which the skin feels taut or tight:
+[Loose/pliable - - - - - - - - - - - - - - - - - - -
+Very tight]
+Fold arm to make contact. Hold 5 sec. Unfold arm and evaluate for:
+e. Stickiness
+The degree to which arm sticks to itself:
+[Not at all sticky - - - - - - - - - - - - - - - - - Very sticky]
+Stroke ﬁngers lightly across skin on one section of rectangle and evaluate for:
+f. Wetness
+The amount of water perceived on the skin:
+[None - - - - - - - - - - - - - - - - - - - - - - High amount]
+g. Slipperiness
+Ease of moving ﬁngers across the skin:
+[Drag - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Slip]
+h. Amount of residue
+The amount of residue perceived on skin (tactile):
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+i. Oil
+The amount of oil perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+j. Wax
+The amount of wax perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+k. Grease
+The amount of grease perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+l. Powder/Chalk/Grit
+The amount of powder, chalk, and/or grit perceived on
+skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+m. Silicone
+The amount of silicone perceived on skin:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - Extreme]
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+212

@@ -1,0 +1,51 @@
+nature of perception, in one trial the answer is correct and in the other the answer
+is incorrect.
+Ennis (1993) shows that because of differences in the decisions rules, discrimination
+methods differ in their ability to detect a given-sized sensory difference, d. In general, the
+more complex the decision rule, the more assessors are required to deliver the same
+statistical power from the test. For example, 2-AFC and 3-AFC tests are more powerful
+than the duo–trio and triangle test. Frijters (1979) used this approach to resolve the
+“paradox of discriminatory nondiscriminators.”
+13.4.3
+Estimating the Value of d
+13.4.3.1
+Forced-Choice Methods
+The proportion of correct answers in a forced-choice test increases as the distance between
+the products increases. The proportion of correct answers can be combined with the
+decision rule of the test to estimate the value for d. Tables of d0, the statistic used to estimate
+d are widely available (see, for example, ASTM (2003), Elliott (1964), and Ennis (1993)). In
+addition, ASTM (2003), and Bi, Ennis, and O’Mahony (1997) have published tables of the
+variance of d0. Knowing the variance of the estimate allows researchers to construct conﬁ-
+dence intervals and statistical tests regarding the true value of d. Software that computes d0
+and its associated statistics also is available, for example, from The Institute for Perception
+(Ennis 2001).
+The process for obtaining the value of d0 is the same for all of the forced-choice tests that
+have a ﬁxed, null-hypothesis probability of a correct response (2-AFC, 3-AFC, duo–trio,
+and triangle). For each of these tests, the value of d0 is proportional to the observed
+proportion of correct responses. This is not the case for the “A”–“not A” and the same-
+different tests. Both of these test methods involve a placebo effect. For example, in the “A”–
+“not A” method, an assessor will tolerate some deviation around the average of the A
+distribution and still consider the perception as coming from a sample of product A. When
+the perception falls too far from the average of the A distribution, the assessor will classify
+the sample as “not A.” The boundary that the assessor uses to make this decision is called
+c. Similarly, for the same–different test, the maximum difference in the perceptions of the
+two samples that will still be classiﬁed as “same” is t (see Table 13.9). These new para-
+meters, called cognitive criteria, play a role in how the values of d0 are obtained from each of
+the methods. In addition, the cognitive criteria can reveal the degree to which assessors
+vary in their tolerance of natural variation in perception.
+13.4.3.2
+Methods Using Scales
+The Thurstonian model for category scales makes use of the c criterion from the “A”–“not
+A” test. Multiple c values are deﬁned to mark the boundaries of the successive scale
+categories. For example, on a nine-point scale, there are eight c values, c1 through c8. To
+receive a rating of 5, the perceived intensity of a sample must be greater than c4 boundary,
+but less than c5 boundary, as illustrated in Figure 13.13. The c values tend to not be equally
+spaced along the sensory dimension. Unequal spacing occurs due to biases in the asses-
+sors’ behavior. For example, the neutral 5 category on a nine-point scale tends to be
+narrower than adjoining categories because assessors prefer to provide some positive or
+negative response, even if it is only weakly held.
+In addition to providing d0 estimates of the differences among samples, identifying the
+boundaries between categories reveals interesting information about how assessors are
+using the scales.
+Basic Statistical Methods
+337

@@ -1,0 +1,47 @@
+The distance between the points for segment 1 and segment 2 in Figure 14.21 indicate
+different sensory attributes drive liking in the two segments. The sensory attributes that
+fall close to the point plotted for each segment are positive drivers for that segment.
+The attributes that fall on the opposite side of the map from the plotted point are
+negative drivers. Inspection of Figure 14.22a and b reveals the differences in the key
+drivers between the two segments. Segment 1 prefers products with lots of large and
+ﬁrm meat, potato, and vegetable pieces and high intensities of meat identity, green herb,
+carrot, onions, and celery ﬂavors and low intensity of nonnatural meat ﬂavor. Segment 2,
+on the other hand, prefers lots of large ﬁrm potatoes in a clear, low viscosity sauce, high
+meat-identity ﬂavor, low oiliness, and low spiciness (especially black pepper). These
+ﬁndings agree strongly with the results from both the internal and external
+preference maps.
+In this way, the researcher can try different statistical methods to mine the data in an
+effort to conﬁrm the results and look for any additional information about products
+and consumers.
+Using different statistical methods to mine the data allows researchers to cross-validate
+the primary results of a study and to uncover additional information about both products
+and consumers.
+14.4
+The Treatment Structure of an Experimental Design
+In the experimental designs discussed in Chapter 13, the treatments (or products) were
+viewed as a set of qualitatively distinct objects, having no particular association among
+themselves. Such designs are said to have a one-way treatment structure. One-way
+32
+30
+28
+26
+24
+60
+65
+70
+75
+Moistness
+% Respondent w/ R2>0.65 and predicted CA within 0.5 of maximum CA
+sat05
+< 0
+>30
+0–10
+10–20
+20–30
+Crispness
+FIGURE 14.20
+Contour plot of percent of satisﬁed respondents (among respondents whose individual models had an R2O0.65).
+Note multiple regions of high satisfaction at mid crispness/low moistness, high crispness/mid moistness and
+mid crispness/high moistness.
+Advanced Statistical Methods
+391

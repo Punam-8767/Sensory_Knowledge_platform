@@ -1,0 +1,51 @@
+Using the Internet for research is not without its drawbacks. Internet surveys can have
+low response rate compared to mailed surveys (Solomon 2001). With the growing amount
+of unsolicited commercial email (also known as spam) inundating personal email accounts
+in today’s Internet, consumers may be more likely to simply delete all emails that resemble
+spam and not read the Web-based survey invitation. In addition, advancements in ﬁrewall
+protection for personal computers have made sending these emails to potential partici-
+pants very difﬁcult. There are a number of ways to increase response rates, including
+simpler email and survey formats, personalized email cover letters, follow-up reminders,
+and prenotiﬁcation of the intent to send a survey (Solomon 2001).
+12.7.2
+Applications
+Internet research is a powerful tool when used correctly and can be used to conduct early
+concept research, as well as for the determination of early product development direction-
+ality, conjoint analysis, and both quantitative and qualitative research.
+Early concept research testing may involve a description of an idea or concept that may
+or may not include graphics, audio or video. Consumers are asked quantitative and open-
+ended questions regarding their thoughts, feelings, and impressions of the concept.
+Much research on the use of conjoint analysis and the Internet has been conducted by
+Howard Moskowitz and Associates in the last ﬁve years. Conjoint analysis identiﬁes those
+elements of a product concept that have the most impact on consumers. This is done by
+presenting respondents with a combination of messages and determining which com-
+ponents and combinations of the messages work. (Moskowitz et al. 2001).
+Traditional surveys and questionnaires can be used in Internet research (such as ratings
+for liking or intensity of product characteristics) to yield quantitative data.
+Qualitative data can be conducted via Internet based focus groups or interviews.
+Consumers are invited to join a “chat” discussing a particular product or product
+concept. A highly skilled moderator who facilitates dialogue must possess additional
+skills for moderating a web-based focus group, such as facilitating through typing and
+the ability to control the direction of conversation as well as those participants who tend to
+monopolize the conversation.
+12.7.3
+Internet Research Considerations
+There are a number of items to consider. For example, what type of test is the sensory team
+interested in running? Is the desire to conduct a consumer opinion poll or the retrieval of
+information from prescreened consumers?
+Internet research can be conducted by the sensory team within a company or the team
+may contract an external research company. When conducting Internet research without
+the aid of an external company, a number of research tools or software programs are
+available for guidance, such as Zoomerang. These programs provide guidance in designing
+and deploying surveys via email or website posting, and in analyzing the data. Numerous
+companies exist to conduct Internet research with each having their own approach to
+recruiting, data delivery and data analysis. Consider the needs of the team and the
+project when selecting a company.
+Communication with participating consumers is divided into four contact points:
+prenotiﬁcation, contact, response, and follow-up. Although not all four areas have to be
+used for each survey, using all four will deliver a higher response rate and higher customer
+satisfaction. As mentioned previously, consumers who have been prenotiﬁed of an email
+survey will be less likely to mistake the survey email (contact) for spam, and will be more
+likely to participate. Likewise, the prenotiﬁcation contact can generate interest for the
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+282

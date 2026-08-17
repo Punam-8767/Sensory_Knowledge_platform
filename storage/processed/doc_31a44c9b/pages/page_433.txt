@@ -1,0 +1,93 @@
+TABLE 16.1
+Example of Report: Hop Character in Five Beers
+Summary
+What was the objective?
+What was done?
+What were the results?
+What can be concluded?
+To choose among ﬁve lots of hops on the basis of the amount of hop
+character they are likely to provide, pilot brews were made with hop
+samples 1, 2, 3, 4, and 5, costing $1.00, $1.20, $1.40, $1.60 and $1.80/lb,
+respectively; 20 trained members of the brewery panel judged each
+beer three times on a scale from 0 to 9. Sample 4 received a rating of
+3.9, signiﬁcantly higher than samples 2 and 5, at 3.0 and 2.9. Samples 1
+and 3 were signiﬁcantly lowest at 2.1 and 1.4. It can be concluded that
+hop samples 4 and 2 deliver more hop character per dollar than the
+remainder
+Objectives
+Project objective, test
+objectives, agreed before
+the experiment
+The brewery obtained representative lot samples from several suppliers.
+The project objective was to choose among the lots based on their
+ability to provide hop character. The test objectives were to (1)
+compare the ﬁve beers for degree of hop character on a meaningful
+scale and (2) obtain a measure of the reliability of the results
+Experimental
+Design which accomplishes
+objectives 1 and 2
+Design—The ﬁve samples were test brewed to produce a standard
+bitterness level of 14 BU. The test beers were evaluated by 20 selected
+members of the brewery panel; the test set was tasted three times on
+separate days
+Describe sensory tests used
+Sensory evaluation—The tasters evaluated the amount of hop character
+on a scale of 0–9; reference standards were available as follows;
+synthetic hop character at 1.0 mg/LZ3.0 scale units, and at
+3 mg/LZ6.0 scale units
+Describe panel: number,
+training, etc.
+The panel—20 panel members were selected on the basis of past
+performance evaluating hop character; all 20 panelists tested all three
+sets
+Describe conditions of
+test: Screening of samples
+Information to panel
+Panel area sample
+presentation
+Sample preparation and presentation—The test beers were stored at
+128C and evaluated 7–10 days after bottling. Samples were screened
+by two experienced tasters who found them representative of the type
+of beer with no differences in color, foam, or ﬂavor other than hop
+character. Panel members were informed that samples were test brews
+with different hops, but the identity of individual samples was not
+disclosed. Members worked individually in booths and no discussion
+took place after the sessions. Sample portions of 70 mL were served at
+128C in clear 8-oz. glasses. The ﬁve samples were presented
+simultaneously in balanced, random order. Samples were swallowed
+Statistical techniques
+Statistical evaluation—Results were evaluated by split-plot analysis of
+variance
+Results and Discussion
+Present results concisely
+The average results for the ﬁve beers are shown in Table 1 and the
+corresponding statistical analysis in Table 2. Sample 4 received a
+signiﬁcantly higher rating for hop character (3.9) than the remaining
+samples
+Give enough data to justify
+conclusions
+TABLE 1
+Average Hop Character Ratings for the Five Beer Samples
+Sample
+4
+2
+5
+1
+3
+Mean
+3.9a
+3.0
+2.9
+2.1
+1.4
+Hops used, lb/bbl
+0.36
+0.38
+0.34
+0.32
+0.35
+a Samples not connected by a common underscore are signiﬁcantly
+different at the 5% signiﬁcance level.
+(continued)
+Sensory Evaluation Techniques, 4th Ed., Ch. 16
+416

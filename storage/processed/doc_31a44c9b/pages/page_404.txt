@@ -1,0 +1,60 @@
+Respondents in segment 1 like products A, C, and G the most, and like products B, E, and F
+the least. Respondents in segment 2 exhibit a narrower range of liking ratings than those in
+segment 1. Respondents in segment 2 also like products A, C, and G the most but, unlike
+segment 1, they like products D, H, and I the least.
+14.3.2.3
+From Perceptual Map to Preference Map
+The ﬁnal step in the development of an external preference map is to ﬁt regression
+equations to the average overall liking ratings of the total respondent base and all of the
+consumer segments of interest in the study (demographic, attitudinal, usage, and prefer-
+ence segments). The independent variables (i.e., the predictors) are the factor scores of the
+test products obtained from the PCA. Both the linear and quadratic forms of the factor
+scores are included in the regression analysis. Including the quadratic terms in the
+regression model creates the opportunity to identify an intermediate point on the
+sensory dimension that is predicted to be more well-liked than either extreme. Because
+of this, regression models that include quadratic terms are called ideal point models.
+Regression models that include only the linear terms are called vector models because
+they can only point in the direction of increasing liking.
+A variable-selection procedure such as stepwise regression or backward elimination is
+used to identify the sensory dimensions that have a signiﬁcant relationship to overall
+liking. When the number of products in the test is sufﬁciently large, backward elimination
+is preferred to stepwise regression because is gives all of the predictors an equal chance of
+ending up in the ﬁnal model (Anderson and Whitcomb 2005).
+The results of the regression analysis for the total respondent base are presented in
+Figure 14.18. Each line on the graph represents a sensory dimension that has a signiﬁcant
+impact on overall liking. Steep lines have large impacts on liking; ﬂatter lines have smaller
+impacts. Lines that slope up indicate that higher levels on the sensory dimension are more
+well-liked than lower levels. Conversely, lines that slope down indicate that lower levels
+are more well-liked. Curved lines indicate that an intermediate point is most well-liked. To
+generate a line on the graph, hold all but one of the sensory dimensions constant and plot
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Segment 1 (n =48)
+Segment 2 (n =52)
+Segment
+Total (n =100)
+Overall liking
+Sample B
+Sample F
+Sample E
+Sample D
+Sample I
+Sample H
+Sample J
+Sample C
+Sample A
+Sample G
+Overall liking by preference segments
+FIGURE 14.17
+The average liking ratings of the products by preference segment reveals that both segments like products A, C,
+and G most. Segment 1 dislikes products B, E, and F. Segment 2 does not dislike any of the products but likes
+products D, H, and I the least.
+Advanced Statistical Methods
+387

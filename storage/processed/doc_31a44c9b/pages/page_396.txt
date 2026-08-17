@@ -1,0 +1,60 @@
+G
+G
+A
+J
+I
+D
+E
+F
+B
+Judges
+Samples
+H
+(c)
+(d)
+B
+E
+F
+D
+I
+J
+C
+G
+A
+H
+Judges
+Samples
+Sensory
+APP sauce clarity
+APP potato size
+APP potato AMT
+FL wheat
+FL meat identity
+TXT potato firm
+TXT vegetable firm
+TXT meat firm
+FL celery
+FL green herbs
+TXT viscosity
+FL filler
+FL sour
+APP solid AMT
+FL bitter
+FL red bell pepper
+TXT oily MF
+APP surface oil
+FL spice blend
+FL salty
+FL sweet
+FL Meat Nonnatural
+FL onion
+FL carrot
+APP green herb AMT
+APP solid size
+FL brothy
+FL com
+FL black pepper
+FIGURE 14.12
+Continued
+Advanced Statistical Methods
+379

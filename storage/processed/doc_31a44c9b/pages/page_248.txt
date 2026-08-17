@@ -1,0 +1,95 @@
+B. Texture (continued)
+Denseness
+9.5
+Juiciness
+7.0
+Chewdown (10 chews)
+Cohesiveness of mass
+5.0
+Moistness of mass
+12.0
+Skin awareness
+3.7
+Roughness of mass
+6.0
+Grit between teeth
+1.5 (Intermittent)
+Residual
+Oily/greasy
+4.0
+Loose particles
+2.0
+9. DeCecco Spaghetti (12 min cook)
+Surface
+Wetness
+3.0
+Micro roughness
+2.5
+Macro roughness
+0.0
+Stickiness
+7.0
+Partial compression
+Springiness
+8.0
+First chew
+Hardness
+6.0
+Denseness
+15.0
+Cohesiveness
+8.5
+Toothpull
+3.0
+Rubberiness
+5.0
+Chewdown
+Mixes with saliva
+3.0
+Cohesiveness of mass
+2.0
+Geometrical in mass (beady, chalky, strands)
+Beady
+Residual
+Loose particles
+2.0
+Toothpack
+0.0
+Chalky ﬁlm
+2.0
+Toothstick
+2.0
+10. Heinz Tomato Ketchup
+Surface
+Slipperiness
+7.0
+First manipulation
+Firmness
+2.5
+Cohesiveness
+4.5
+Manipulation (5 times)
+Mixes with saliva
+14.0
+Cohesiveness of mass
+2.0
+Adhesiveness of mass
+2.0
+11. Ha¨agen-Dazs Vanilla Ice Cream
+Surface
+Surface roughness
+3.0
+First compression
+Semi-solid ﬁrmness
+9.7
+Semi-solid cohesiveness
+2.0
+Semi-solid denseness
+13.5
+Slipperiness
+13.0
+Manipulation
+Mixes with saliva
+13.0
+The Spectrume Descriptive Analysis Method: Appendix 11.3
+231

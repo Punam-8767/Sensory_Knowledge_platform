@@ -1,0 +1,40 @@
+RSM treatment structures provide an economical way to predict the value of one or
+more responses over a range of values of the independent variables. A set of samples
+(i.e., experimental points) is prepared under the conditions speciﬁed by the selected
+RSM treatment structure. The samples are analyzed by a sensory panel, and the
+resulting average responses are submitted to a stepwise regression analysis.
+The analysis yields a predictive equation that relates the value of the response(s) to
+the values of the independent variables. The predictive equation can be depicted
+graphically in a response surface plot as shown in Figure 14.26. Alternatively, the
+predicted relationship can be displayed in a “contour plot” as in Figure 14.27.
+Contour plots are easy to interpret. They allow the researcher to determine the
+predicted value of the response at any point inside the experimental region without
+requiring that a sample be prepared at that point.
+Several classes of treatment structures can be used as RSM experiments. The most
+widely used class, discussed here, is very similar to a factorial experiment. One part of
+the plan consists of all possible combinations of the low and high levels of independent
+variables. (In a two-factor RSM experiment, this portion consists of the four points: [low,
+low], [low, high], [high, low], and [high, high].) This factorial portion of the RSM experi-
+ment is augmented by a center point (i.e., the point where all of the factors take on their
+3
+2
+1
+0
+0
+–1
+–10
+10
+–5
+5
+–2
+–3
+F
+A
+E
+Standard normal deviate
+Effect size
+FIGURE 14.25
+A normal probability plot showing the “nonsigniﬁcant” factorial effects falling on the line and the “signiﬁcant”
+effects falling high and to the right, and low and to the left.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+400

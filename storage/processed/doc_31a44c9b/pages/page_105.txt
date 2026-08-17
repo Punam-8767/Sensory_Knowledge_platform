@@ -1,0 +1,54 @@
+which is greater than the value in Table 17.5 (dfZ1, probabilityZ0.05, c2Z3.84), i.e., a
+signiﬁcant difference exists.
+Interpret results: The results show a signiﬁcant difference between the barbecue sauces
+prepared in the two different cookers. The sensory analyst informs the plant manager that
+the equipment supplier’s claim is not true. A difference has been detected between the two
+products. The analyst suggests that if the substitution of the new cooker remains an
+important cost/efﬁciency item in the plant, the two barbecue sauces should be tested
+for preference among users. A consumer test resulting in parity for the two sauces or in
+preference for the sauce from the new cooker would permit the plant to implement
+the process.
+Note: If Example 6.10 had been run with 30 subjects rather than 60, and with each of the
+30 receiving both a matched and an unmatched pair in separate sessions, the results could
+have been the same as above, but the c2-test would have been inappropriate and a
+McNemar test would be indicated (Conover 1980). To perform the McNemar procedure,
+the analyst must keep track of both responses from each panelist and tally them in the
+following format:
+Subject Received A/B or B/A and Responded
+Same
+Different
+Subject received
+A/A or B/B
+and responded
+Same
+aZ2
+bZ15
+Different
+cZ7
+dZ6
+The test statistic is
+McNemar’s T Z ðbKcÞ2=ðb CcÞ:
+For (bCc)R20, the assumption of no difference is rejected if T is greater than the critical
+value of a c2 with one degree of freedom from Table 17.5. For (bCc)!20, a binomial
+procedure is applied (see Conover 1980). For the present example:
+McNemar’s T Z ð15K7Þ2=ð15 C7Þ Z 2:91;
+which is less than c2
+1;0:05Z3:84. Therefore, one cannot conclude that the samples
+are different.
+If the paired data from the 30 panelists had been treated as if they were individual
+observations from 60 panelists, one would have obtained the data as presented under
+“Analyze results,” p. 91. The standard c2-analysis would have led to the incorrect con-
+clusion that a statistically signiﬁcant difference existed between the samples.
+6.7
+“A”–“Not A” Test
+6.7.1
+Scope and Application
+Use this method (ISO 1987) when the test objective is to determine whether a sensory
+difference exists between two products, particularly when these are unsuitable for dual or
+triple presentation, i.e., when the duo–trio and triangle tests cannot be used. Examples of
+such situations are comparisons of products with a strong and/or lingering ﬂavor,
+samples that need to be applied to the skin in half-face tests, products that differ slightly
+in appearance, and samples that are very complex stimuli and are mentally confusing to
+the panelists. Use the “A”–“not A” test in preference to the same/different test
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+88

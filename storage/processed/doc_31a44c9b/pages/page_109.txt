@@ -1,0 +1,49 @@
+which is greater than the value in Table 17.5 (dfZ1, a-riskZ0.05, c2Z3.84), i.e., a signi-
+ﬁcant difference exists.
+Note: The c2-analysis just presented is not entirely appropriate because of the multiple
+evaluations performed by each respondent. However, no computationally convenient
+alternative method is currently available. The levels of signiﬁcance obtained from this
+test should be considered approximate values.
+Interpret results: The results indicate that the 0.1% sweetener solution is signiﬁcantly
+different from the 5% sucrose solution. The sensory analyst informs the development
+chemist that the particular sweetener is likely to cause a detectable change in ﬂavor of the
+beverage. The next logical step may be a descriptive analysis to characterize the difference.
+One might ask “What would it take for the difference to be nonsigniﬁcant?” This would
+be the case if results had been:
+60
+50
+40
+50
+for which c2 equals 2.02, a value less than 3.84. See ISO (1987) for a number of
+similar examples.
+6.8
+Difference-from-Control Test
+6.8.1
+Scope and Application
+Use this test when the project or test objective is twofold, both (1) to determine whether a
+difference exists between one or more samples and a control, and (2) to estimate the size of
+any such differences. Generally one sample is designated the “control,” “reference,” or
+“standard,” and all other samples are evaluated with respect to how different each is from
+that control.
+The difference-from-control test is useful in situations in which a difference may be
+detectable, but the size of the difference affects the decision about the test objective.
+Quality assurance/quality control and storage studies are cases in which the relative
+size of a difference from a control is important for decision making. The difference-
+from-control test is appropriate where the duo–trio and triangle tests cannot be used
+because of the normal heterogeneity of products such as meats, salads, and baked goods.
+The difference-from-control test can be used as a two-sample test in situations where
+multiple sample tests are inappropriate because of fatigue or carryover effects. The
+difference-from-control test is essentially a simple difference test with an added assess-
+ment of the size of the difference.
+6.8.2
+Principle of the Test
+Present to each subject a control sample plus one or more test samples. Ask subjects to rate
+the size of the difference between each sample and the control and provide a scale for this
+purpose. Indicate to the subject that some of the test samples may be the same as the
+control. Evaluate the resulting mean difference-from-control estimates by comparing them
+to the difference-from-control obtained with the blind controls.*
+* The use of the estimate obtained with the blind controls amounts to obtaining a measure of the placebo effect.
+This estimate represents the numerical effect of simply asking the difference question, when in fact no difference
+exists.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+92

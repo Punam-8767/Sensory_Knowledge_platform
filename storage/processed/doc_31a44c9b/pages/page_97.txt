@@ -1,0 +1,53 @@
+blend D (based on the duo–trio test method) is
+pmaxð90%Þ
+Z ½2ðx=nÞK1	 Czb
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+½4ðx=nÞð1Kðx=nÞÞ	n
+p
+Z ½2ð35=60ÞK1	 C1:282 ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+½4ð35=60Þð1Kð35=60ÞÞ	=60
+p
+Z ½0:1667	 C1:282ð0:1273Þ
+Z 0:33; or 33%
+The sensory analyst concludes with 90% conﬁdence that the true proportion of the
+population that can distinguish test blend D from the control may be as large as 33%,
+thus exceeding the prespeciﬁed critical limit (pd) of 25% by as much as 8%.
+The sensory analyst may have an additional concern. Only 24 of the 60 respondents
+correctly identiﬁed test blend B. In a duo–trio test involving 60 respondents, the
+expected number of correct selections when all of the respondents are guessing (pdZ
+0) is n/2Z30. The less-than-expected number of correct responses may indicate that
+some extraneous factor was active during the testing of blend B that biased the respon-
+dents away from making the correct selection, e.g., mislabeled samples or poor
+preparation or handling of the samples before serving. The sensory analyst tests the
+hypothesis that the true probability of a correct response is at least 50% (H0: pR0.5)
+against the alternative that it is less than 50% (Ha: p!0.5) using the normal approxi-
+mation to the binomial with the one-tailed conﬁdence level set at 95% (i.e., aZ0.05,
+lower tail). The test statistic is
+z Z ½ðx=nÞKp0	=
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+p0ð1Kp0Þ=n
+p
+Z ½ð24=60K0:50Þ	= ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+0:50ð1K0:50Þ=60
+p
+Z ½K0:10	=ð0:06455Þ
+ZK1:55:
+Using Table 17.3 (noting that Pr[z!K1.55]ZPr[zO1.55]), the sensory analyst ﬁnds
+that the probability of observing a value of the test statistic no larger than K1.55 is
+(0.5K0.4394)Z0.0606. This probability is greater than the value of aZ0.05, and the
+analyst concludes that there is not sufﬁcient evidence to reject the null hypothesis at
+the 95% level. The 24 correct responses were not sufﬁciently off the mark (of 30) for the
+analyst to conclude that an extraneous factor was active.
+6.5
+Two-out-of-Five Test
+6.5.1
+Scope and Application
+This method is statistically very efﬁcient because the chances of correctly guessing two out
+of ﬁve samples are 1 in 10, as compared with 1 in 3 for the triangle test. By the same token,
+the test is so strongly affected by sensory fatigue and by memory effects that its principal
+use has been in visual, auditory, and tactile applications, and not in ﬂavor testing.
+Use this method when the test objective is to determine whether a sensory difference
+exists between two samples, and particularly when only a small number of subjects is
+available (e.g., ten).
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+80

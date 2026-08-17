@@ -1,0 +1,64 @@
+studies. In a factorial experiment, speciﬁc levels for each of several factors are deﬁned.
+A single replication of a factorial experiment consists of all possible combinations of the
+levels of the factors. For example, a brewer may be interested in comparing the effects of
+two kettle boiling times on the hop aroma of his beer. Furthermore, if the brewer is
+currently using two varieties of hops, he may not be sure if the two varieties respond
+similarly to changes in kettle boiling time. Combining the two levels of the ﬁrst factor
+(kettle boiling time) with the two levels of the second factor (variety of hops) yields four
+distinct treatment combinations that form a single replication of a factorial experiment (see
+Table 14.6). The experimental variables in a factorial experiment may be quantitative (e.g.,
+boiling time) or qualitative (e.g., variety of hops). Any combination of quantitative and
+qualitative factors may be run in the same factorial experiment.
+An “effect” of a factor is the change (or difference) in the response that results from a
+change in the level of the factor. The effects of individual factors are called main effects. For
+example, if the entries in Table 14.6 represent the average hop aroma rating of the four beer
+samples, the main effect due to boiling time is
+ðT1AKT2AÞ CðT1BKT2BÞ
+2
+(14.12)
+APP sauce clarity
+APP potato AMT
+Segment 2
+FL wheat
+FL meat identity
+Total
+TXT potato firm
+TXT sauce viscosity
+APP potato size
+TXT vegetable firm
+TXT meat firm
+FL carrot
+FL sweet
+APP green herb AMT
+APP solid size
+APP solid AMT
+FL celery
+FL green herbs
+FL onion
+FL filler
+APP surface oil
+FL bitter
+FL sour
+FL black pepper
+FL spice blend
+TXT oily MF
+FL Meat nonnatural
+PLS1 (55% Consumer; 53% Sensory)
+PLS2 (25% Consumer; 18% Sensory)
+Sensory
+Consumer
+1
+0
+–1–1
+(a)
+Segment 1
+0
+1
+FIGURE 14.22
+PLS maps illustrating positive and negative drivers by segment. Chart (a) illustrates that segment 1 prefers lots of
+large and ﬁrm meat, potato and vegetable pieces and high intensities of meat identity, green herb, carrots, onion
+and celery ﬂavors and low intensity of nonnatural meat ﬂavor. Chart (b) illustrates that segment 2 prefers lots of
+large ﬁrm potatoes in a clear, low viscosity sauce, high meat identity ﬂavor, low oiliness, and low spiciness
+(especially black pepper).
+Advanced Statistical Methods
+393

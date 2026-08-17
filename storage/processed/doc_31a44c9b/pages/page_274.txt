@@ -1,0 +1,49 @@
+12.1.1
+Product Maintenance
+In a typical food or personal care company, a large proportion of the product work carried
+out by R&D and marketing departments deals with the maintenance of current products,
+their market shares, and sales volumes. R&D projects may involve cost reduction, sub-
+stitution of ingredients, process and formulation changes, and packaging modiﬁcations, in
+each case without affecting the product characteristics and overall acceptance. Sensory
+evaluation tests used in such cases are often discrimination tests to assess differences or
+similarities among products. However, when a match is not possible, it is necessary to take
+one or more “near misses” out to the consumer to determine if these prototypes will at
+least achieve parity (in acceptance or preference) with the current product and, perhaps,
+with the competition.
+Product maintenance is a key issue in quality control/quality assurance and shelf-life/
+storage projects. Initially, it is necessary to establish the “affective status” of the standard or
+control product with consumers. After this is done, internal tests can be used to measure
+the magnitude and type of change over time, condition, production site, raw material
+sources, etc. with the aid of QC or storage testing. The sensory differences detected by
+internal tests, large and small, may then be evaluated again by consumer testing to
+determine how large a difference is sufﬁcient to reduce (or increase) the acceptance
+rating or percent preference compared to the control or standard.
+12.1.2
+Product Improvement/Optimization
+Because of the intense competition for shelf space, companies are constantly seeking to
+improve and optimize products so that they deliver what the consumer is seeking and
+thus fare better than the competition. A product improvement project generally seeks
+to “ﬁx” or upgrade one or two key product attributes that consumers have indicated
+need improvement. A product optimization project typically attempts to manipulate a
+few ingredient or process variables so as to improve the desired attributes and the
+overall consumer acceptance. Both types of projects require the use of a good
+descriptive panel to (1) verify the initial consumer needs and (2) document the charac-
+teristics of the successful prototype. Examples of projects to improve product
+attributes are:
+† Increasing a key aroma and/or ﬂavor attribute, such as lemon, peanut, coffee,
+chocolate, etc.
+† Increasing an important texture attribute, such as crisp, moist, etc., or redu-
+cing negative properties such as soggy or chalky
+† Decreasing a perceived off note (e.g., crumbly dry texture, stale ﬂavor or
+aroma, artiﬁcial rather than natural fruit ﬂavor)
+† Improving perceived performance characteristics, such as longer lasting
+fragrance, brighter shine, more moisturized skin, etc.
+In product improvement, prototypes are made, tested by a descriptive or attribute panel
+to verify that the desired attribute differences are perceptible, and then tested with consu-
+mers to determine the degree of perceived product improvement and its effect on overall
+acceptance or preference scores.
+For product optimization (Institute of Food Technologists 1979; Moskowitz 1983; Carr
+1989; Gacula 1993; Resurreccion 1998; Sidel and Stone 2004) ingredients or process vari-
+ables are manipulated; the key sensory attributes affected are identiﬁed by descriptive
+Affective Tests: Purpose and Applications
+257

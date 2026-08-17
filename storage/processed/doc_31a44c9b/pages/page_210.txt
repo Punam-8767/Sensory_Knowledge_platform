@@ -1,0 +1,50 @@
+The creative and diligent sensory analyst can construct the optimal descriptive tech-
+nique by selecting from the spectrum of terms, scaling techniques, and other optional
+components that are available at the start of each panel development.
+11.6
+Modiﬁed Short-Version Spectrum Descriptive Procedures for
+Quality Assurance, Shelf-Life Studies, etc.
+Certain applications of descriptive analysis require evaluation of a few detailed attri-
+butes without a full analysis of all the parameters of ﬂavor, texture, and/or appearance.
+The tracking or monitoring of product changes, necessary in QC/QA sensory work
+and in shelf-life studies, can provide the required information by logging a small
+number of selected sensory properties over time. The modiﬁed or short-version
+descriptive procedure, in any situation, must be based on work performed with a
+fully trained descriptive panel, generally in R&D, which characterizes all of the
+product’s attributes. After the panel has evaluated a succession of products typical of
+the full range of sensory properties, e.g., several production samples from all plants
+and through the practical aging and storage conditions encountered, the sensory
+analyst and project team can select ﬁve to ten key parameters, that together deﬁne
+the range or qualities from “typical” to “off.” Future monitoring of just those para-
+meters then permits QA/QC and R&D to identify any changes that require
+troubleshooting and correction.
+Use of the modiﬁed Spectrum descriptive technique was described by Mun˜oz,
+Civille, and Carr (1992) for two applications: a comprehensive descriptive procedure
+and a difference-from-control procedure. In the comprehensive descriptive procedure,
+a reduced set of characteristics is selected by testing the production variability for most
+characteristics among consumers and then choosing those characteristics whose varia-
+bility most affects consumer acceptance. These relationships are used to set sensory
+speciﬁcations that allow the QC sensory program to monitor production. The intensity
+of the key sensory attributes are measured to determine whether production
+samples fall in or out of speciﬁcation, and for what attributes. Such a technique
+permits detection and deﬁnition of any problem areas that can then be related to
+processing or raw materials sources. The comprehensive descriptive procedure may
+also be applied to the sensory properties of incoming raw materials and/or
+in-process batches.
+In the second application, the modiﬁed Spectrum descriptive is coupled with a
+difference-from-control test. The modiﬁed descriptive panel is trained to recognize the
+control or standard product along with other samples that the fully trained panel has
+described as different from the control on the key attributes. The panel is shown the full
+range of samples and asked to rate them using the normal difference-from-control scale
+(see Chapter 6, p. 93). The panel understands that, occasionally, one of the test samples
+during normal testing of production will be a blind control and/or one of the original
+“small difference” or “large difference” demonstration samples. This precaution reduces
+the likelihood of panelists anticipating too much change in shelf-life studies or too little
+change in production.
+The difference-from-control test provides an indication of the magnitude of the
+difference from the standard product. Samples may on occasion show statistical signi-
+ﬁcance for a difference from the control and yet remain acceptable to consumers. The
+product team can submit to consumer testing three or more products, identiﬁed by the
+panel as showing slight, moderate, and large differences from the control. In place of
+The Spectrume Descriptive Analysis Method: Modiﬁed Short-Version Spectrum
+193

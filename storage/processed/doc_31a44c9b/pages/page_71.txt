@@ -1,0 +1,51 @@
+3. It follows that if results are to be useful, selection of the terms for classiﬁcation
+(and for the various forms of scaling discussed in Section 5.6) must be based
+on actual product characteristics. This in turn requires preexamination of the
+samples by a well-trained panel to ensure that all appropriate attributes are
+listed. The use of a list or lists of terms taken from previous studies may
+neglect to include attributes which are important in the current study, or the
+“old” list may include terms that are irrelevant to the current samples and
+thus confusing to the panelists.
+Following are some examples of word lists that have been used for classiﬁcation tasks or
+for subsequent rating tasks:
+1. After feel of skincare products, e.g., soaps, lotions, creams: tacky, smooth, greasy,
+supple, grainy, waxy, oily, astringent, taut, dry, moist, and creamy. Note that no
+relationship is introduced between the attributes that may, in fact, be facets of the
+same parameter (moist/dry, smooth/grainy, etc.)
+2. Spice notes (subjects may be asked to deﬁne which spices or herbs contribute to
+one overall spice complex): oregano, basil, thyme, sage, rosemary, marjoram,
+and/or clove, cinnamon, nutmeg, mace, cardamom.
+3. Hair color/hair condition: panelists/hairdressers are asked to classify the
+hair color and hair condition of men and women who are to serve as subjects
+for half-head shampoos; such sorting may be necessary to balance
+all treatments.
+For each subject, check the most appropriate descriptor(s) from each column:
+Color of Hair
+Condition of Hair
+Blond
+Healthy
+Brown
+Damaged
+Red
+Dull
+Black
+Split
+Tinted/frosted
+Oily scalp
+Dandruff
+5.4
+Grading
+Grading is a method of evaluation used frequently in commerce that depends on expert
+“graders” who learn the scale used from other graders. Scales usually have four or ﬁve
+steps such as “Choice,” “Extra,” “Regular,” and “Reject.” Examples of items subjected to
+sensory grading are coffee, tea, spices, butter, ﬁsh, and meat.
+Sensory grading most often involves a process of integration of perceptions by the
+grader. The grader is asked to give one overall rating of the combined effect of the presence
+of the positive attributes, the blend or balance of those attributes, the absence of negative
+characteristics, and/or the comparison of the products being graded with some written or
+physical standard.
+Grading systems can be quite elaborate and useful in commerce, where they protect the
+consumer against being offered low-quality products at a high price, while permitting the
+producer to recover the extra costs associated with provision of a high-quality product.
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+54

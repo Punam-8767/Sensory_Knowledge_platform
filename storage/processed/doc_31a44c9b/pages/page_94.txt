@@ -1,0 +1,49 @@
+Note: In many cases it is permissible to combine two or more tests so as to obtain
+improved discrimination. In the present case, the cans were samples of the same lot,
+and the subjects were from the same panel, so combination is permissible. 18C20C
+19Z57 correct out of 3!32Z96 trials. From Table 17.10, the critical numbers of
+correct replies with 96 samples are 55 at the 10% level of signiﬁcance, and 57 at
+the 5% level.
+Interpret results: Conclude that a difference exists, signiﬁcant at the 5% level on the basis
+of combining three tests. Next, examine any notes made by panelists that describe the
+difference. If none is found, submit the samples to a descriptive panel. Ultimately, if
+the difference is neither pleasant nor unpleasant, a consumer test may be required to
+determine if there is preference for one can or the other.
+Example 6.7: Duo–Trio Similarity Test—Replacing Coffee Blend
+Problem/situation: A manufacturer of coffee has learned that one coffee bean variety,
+that has long been a major component of its blend, will be in short supply for the
+next 2 years. A team of researchers has formulated three new blends that they feel
+are equivalent in ﬂavor to the current blend. The research team has asked the
+sensory evaluation analyst to test the equivalency of these new blends to the
+current product.
+Project objective: To determine which of the three blends can best be used to replace
+the current blend.
+Test objective: To test for similarity between the current blend and each of the
+project blends.
+Test design: Preliminary tests have shown that differences are small and not particu-
+larly related to a speciﬁc attribute. Therefore, use of the duo–trio test for similarity is
+appropriate. To reduce the risk of missing a perceptible difference, the sensory analyst
+proposes the tests be run using 60 panelists each (an increase from the customary 36
+used in testing for difference). Using her spreadsheet test-sensitivity analyzer* (see
+Section 13.3.5), she has determined that a 60-respondent duo–trio test has a 90%
+(i.e., bZ0.10) probability of detecting the situation where pdZ25% of the panelists
+can detect a difference, with an accompanying a-risk of approximately 0.25.
+The analyst accepts the large a-risk because she is much more concerned with incor-
+rectly approving a blend that is different from the control and she only has 60
+panelists available for the tests. For each blend, the sensory analyst plans to
+conduct one 60-response coffee test spaced over one week. As the preparation and
+holding time of the product is a critical factor that inﬂuences ﬂavor, subjects must be
+carefully scheduled to arrive within 10 min after preparation of the products. Using
+the 12 booths in the sensory lab, prepared with brown-tinted ﬁlters on the lights, the
+analyst schedules 12 different subjects for each cell of each test. The use of 12 panelists
+per session permits balanced presentation of each sample as the reference sample, as
+well as a balanced order of presentation of the two test samples within the cell.
+Figure 6.7 shows the analyst’s worksheet.
+Samples are presented without cream and sugar. The pots are kept at 1758F and
+poured into heated (1308F) ceramic cups that are coded as per the worksheet and
+placed in the order that it indicates. Scoresheets (see Figure 6.8) are prepared in
+advance to save time, and samples are poured when the subject is already sitting
+in the booth.
+* Available upon request in Excel as an e-mail attachment from Tom.Carr@CarrConsulting.net.
+Overall Difference Tests: Duo–Trio Test
+77

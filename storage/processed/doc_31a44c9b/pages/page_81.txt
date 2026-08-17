@@ -1,0 +1,52 @@
+difference while other researchers involved in the same study want to demonstrate simi-
+larity. All of these situations can be handled in a uniﬁed approach through the selection of
+appropriate values for the test-sensitivity parameters, a, b, and pd. What values are appro-
+priate depend on the speciﬁc objectives of the test.
+A spreadsheet application has been developed in Microsoft Excel to aid researchers in
+selecting values for a, b, and pd that provide the best compromise between the desired test
+sensitivity and available resources (see Section 13.3.5). The “Test Sensitivity Analyzer”
+allows researchers to quickly run a variety of scenarios with different combinations of the
+number of assessors, n, the number of correct responses, x, and the maximum allowable
+proportion of distinguishers, pd, and in each case observe the resulting impacts on a-risk
+and b-risk.
+The uniﬁed approach also applies to paired-comparison tests, such as the 2-AFC (see
+Section 7.2).
+In the basic triangle test for difference, the objective is merely to discover whether
+a perceptible difference exists between two samples. The statistical analysis is made
+under the tacit assumption that only the a-risk matters (the probability of concluding
+that a perceptible difference exists when one does not). The number of assessors is
+determined by looking at the a-risk table and taking into account material concerns,
+such as availability of assessors, available quantity of test samples, etc. The b-risk
+(the probability of concluding that no perceptible difference exists when one does)
+and the proportion of distinguishers, pd, on the panel are ignored or, more appro-
+priately, are assumed to be unimportant. As a result, in testing for difference, the
+researcher selects a small value for the a-risk and, accepts arbitrarily large values for
+the b-risk and pd (by ignoring them) to keep the required number of assessors within
+reasonable limits.
+In testing for similarity, the sensory analyst wants to determine that two samples
+are sufﬁciently similar to be used interchangeably. Reformulating for reduced costs
+and validating alternate suppliers are just two examples of this common situation. In
+designing a test for similarity, the analyst determines what constitutes a meaningful
+difference by selecting a value for pd and then speciﬁes a small value for b-risk to
+ensure that there is only a small chance of missing that difference if it really exists.
+The a-risk is allowed to become large to keep the number of assessors within
+reasonable limits.
+Recently, an alternative approach to similarity testing, called equivalence testing,
+has been adapted from the pharmaceutical industry (Westlake 1972) and is becoming
+more widely used in sensory evaluation (Arents et al. 2002; Bi 2005; Sauerhoff et al.
+2005). Equivalence testing recognizes that two products can be perceptibly different
+and yet still be similar enough to each other to be used interchangeably. This result
+can occur in the uniﬁed approach when more than the minimum required number of
+respondents participate in the test. Equivalence testing ignores the statistically
+signiﬁcant difference and focuses on ensuring that the maximum difference does not
+exceed a predetermined acceptable limit (e.g., pd). Equivalence testing has a strong
+theoretical basis and is an approach worth considering when the primary test
+objective is to ensure that any difference that might exist does not exceed
+acceptable limits.
+In many cases, however, it is important to balance the risk of missing a difference that
+exists (b-risk) with the risk of concluding that a difference exists when it does not (a-risk).
+In this case, the analyst chooses values for all three parameters, a, b, and pd, to arrive
+at the number of assessors required to deliver the desired sensitivity for the test
+(see Example 6.4).
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+64

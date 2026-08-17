@@ -1,0 +1,55 @@
+or a combination of both cases may exist. Regardless, multiple regression analysis is a
+straight-forward extension of simple linear regression that allows multiple independent
+variables to be included in the regression equation for y. An integral part of the analysis
+involves the assessment of the value of each term considered for inclusion in the model.
+A pitfall associated with multiple regression is that now any relationships that exist
+among the independent variables will inﬂuence the resulting regression equation. Multi-
+colinearity is the term used to describe situations in which two or more independent
+variables are highly correlated with each other. This mutual correlation will inﬂuence
+the values of the estimated coefﬁcients, bi’s, and could lead to incorrect conclusions
+about the importance of each term in the model. It is important that the correlation
+structure of the independent variables be studied before undertaking a multiple linear
+regression analysis. The correlation analysis will be more meaningful if it is accompanied
+by a scatterplot matrix of the independent (and dependent) variables, like the one in
+Figure 14.2. A designed approach to multiple regression, called response surface methodology
+(RSM), avoids the problems of multicolinearity. RSM will be discussed in Section 14.3.
+Not all of the independent variables that could be included in a multiple linear
+regression model may be needed. Some of the independent variables may be poor predic-
+tors of the response, or due to multicolinearity, two or more independent variables may
+explain the same variability in the dependent variable. Several approaches for selecting
+variables to include in the model are available (see Draper and Smith 1981). Most
+computer packages include more than one.
+One “brute force” approach is the “all possible regressions” method. As the name
+implies, all possible subsets of the independent variables are considered, starting with
+all of the one-variable models, then all of the possible two-variable models, etc. Computer
+output typically only presents a small number of the best models from each size group.
+Several criteria are used to determine which models are best in all possible regressions.
+The multiple R2 (from Equation 14.7) is a common measure, with larger values being
+preferred. Another criterion is the size of the residual mean square, MSRes, from the
+ANOVA. MSRes is the estimated residual variance, so smaller values are desirable.
+Associated with the residual mean square criteria is the adjusted R2, where
+R2
+adj Z 1KðnK1ÞMSRes
+SSTot
+:
+(14.10)
+R2
+adj is interpreted in the same way as R2. In multiple regression, the residual mean
+square will initially decrease with the addition of new terms into the model; R2 will
+increase. Some studies reach a point where the further additions of new terms will
+result in an increase in the residual mean square (a bad sign), but R2 will continue to
+increase (a good sign). When the residual mean square begins to increase, the adjusted R2
+will begin to decrease so that the two statistics agree qualitatively.
+A ﬁnal criterion commonly used in all possible regressions is Mallow’s Cp statistic
+(1973):
+Cp Z SSResðpÞ
+MSFull
+C2pKn
+(14.11)
+where SSRes(p) is the residual sum of squares from a model containing p terms and MSFull is
+the residual mean square from the model containing all of the independent variables.
+Unlike R2 and MSRes, Cp considers how good the full model is and uses this as a base of
+comparison to gauge the quality of a model containing only a subset of the independent
+variables. One drawback to Cp is that it can only be calculated when the number of
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+370

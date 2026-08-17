@@ -1,0 +1,55 @@
+responses. Although not entirely statistically proper (attributes are not randomly sampled
+observations from some extant population), their approach is an interesting numerical
+technique for studying data relationships and should not be overlooked.
+There are two classes of cluster analysis algorithms: the hierarchical and the nonhier-
+archical methods. The practical distinction between them is that after an observation is
+assigned to a cluster by a hierarchical method, it can never be moved to another cluster,
+whereas moving an observation from one cluster to another is possible in
+nonhierarchical methods.
+Hierarchical methods proceed in one of two directions. In the more common approach,
+each observation is initially considered to be a cluster of size one and the analysis succes-
+sively merges the observations (or intermediate clusters of observations) until only one
+cluster exists. Alternatively, the analysis may begin by treating all the observations as
+belonging to one cluster and then proceed to break groups of observations apart until
+only single observations remain. The successive mergers or divisions are graphically
+depicted in a dendrogram (or tree diagram) (see Figure 14.5). The dendrogram charts
+the hierarchical structure of the observations, measures the degree of change in the clus-
+tering criterion, and is used to decide how many clusters truly exist.
+The general difference between hierarchical cluster analysis algorithms is the way in
+which the distance (or linkage) between two clusters is measured. Commonly used algo-
+rithms include average linkage, centroid linkage, median linkage, furthest neighbor (or
+complete) linkage, nearest neighbor (or single) linkage, and Ward’s minimum variance
+linkage (see SAS 1989). Ward’s method uses ANOVA-type sum of squares as a “distance”
+measure. Each approach has its advantages and disadvantages. None has emerged as a
+clear favorite for general use.
+Nonhierarchical methods include the k-means method (MacQueen 1967) and the fuzzy
+objective function (or FCV) method (Bezdek 1981). Iterative mathematical techniques are
+used in both. For both, the user must indicate the number of clusters that are believed to
+exist. In the k-means method, each observation is assigned to a cluster based on its
+(Euclidean) distance from the center of the cluster. As more observations are added to a
+cluster, the center moves; thus, the assignments of the observations must be repeated until
+no furtherchangesoccur.FCVreplaces the concept of “cluster membership” with “degreeof
+membership.” The method assigns a membership weight, between 0 and 1, to each
+1
+5
+2
+11
+7
+3
+4
+Observation
+9
+6
+8
+10
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+FIGURE 14.5
+A dendrogram from a cluster analysis showing which observations are grouped together and the degree of
+separation among the clusters.
+Advanced Statistical Methods
+363

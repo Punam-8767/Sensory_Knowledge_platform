@@ -1,0 +1,43 @@
+has reached the higher level of training, it can tackle many types of samples without the
+need for separate training sessions for each.
+5.2
+Psychophysical Theory
+Psychophysics is a branch of experimental psychology devoted to studying the relation-
+ships between sensory stimuli and human responses, i.e., to improving understanding of
+how the human sensory system works. University psychophysicists are constantly
+reﬁning the methods by which a response can be measured, and sensory analysts need
+to study their techniques and cooperate in their experiments. This chapter will provide an
+overview of psychophysics as applied to sensory testing. Those interested in more detail
+should read the references listed at the beginning of Section 5.1; see also Lawless (1990).
+A major focus of psychophysics is to discover the form of the psychophysical function,
+the relationship between a stimulus, C, and the resulting sensation, R, preferably
+expressed as a mathematical function, RZf(C) (see Figure 5.2).
+While the stimulus is either known (an added concentration) or easy to measure (a peak
+height, an Instron reading), it is the sensation that causes difﬁculty. The subject must be
+asked questions and given instructions such as:
+Judge this odor on a scale of 0–99,
+Is this sensation 2! as strong or 3! as strong?
+Which of these solutions has the strongest taste of quinine?
+No one, however, can answer such questions reproducibly and precisely. A variety of
+experimental techniques are being used, e.g., comparison with a second, better known
+sensation such as the loudness of a tone (this is called cross-modality matching, see p. 59),
+95
+60
+40
+20
+52.5
+18.5
+10
+Clean air
+Propionic acid conc. (log ppm)
+Odor strength
+−1
+0
+1
+2
+FIGURE 5.2
+Example of a psychophysical function. Odor strength was rated 0–99 with zeroZno odor or nasal irritation
+sensation. (From Kendal-Reed et al. 1998. Chemical Senses, Vol. 23, Oxford University Press, 71–82.
+With permission.)
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+48

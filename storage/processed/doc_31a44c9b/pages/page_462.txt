@@ -1,0 +1,118 @@
+sample mean, 314–315, 318, 320
+standard error of the mean, 316
+statistical hypothesis testing, 327–329
+trimmed mean, 316
+Measurement errors, 339
+Measuring responses, 45–60
+classiﬁcation, 47, 53–54
+grading, 47, 54–55
+psychophysical theory, 48–53
+ranking, 47, 55
+scaling, 47, 55–60
+Melt, 201
+Microsoft Excel, 332–334
+Mini groups, 271
+Mock panels, 152
+Modiﬁed short-versions, 193–194
+Monadic consumer tests, 316–319
+Motivation, 43, 154, 155–165–67
+Mouthfeel, 109–112
+Multicity monadic consumer tests, 316–319
+Multicolinearity, 370
+Multimodal data, 315–316
+Multiple comparison procedures, 349–350, 422–425
+Multiple linear regression, 369–371
+Multiple observations vs. replication, 338–339
+Multisample difference tests, 112–128
+analysis of variance, 117–122, 125–128
+randomized complete block design, 117–122
+ranking tests, 122–125
+rating tests, 117–122, 125–128
+Mutual suggestion, 42–43
+N
+Narratives, 267
+Needs of consumers, 259
+Nobel Prize, 16
+Noise, 11
+Nominal data, 45, 46
+Nonhierarchical cluster analysis algorithm, 363–364
+Normal approximation to the binomial, 354
+Normal distributions, 350–351
+Normal probability calculations, 350–352
+Nose, 14–17
+Null hypothesis, 323
+Number of samples, 36
+O
+Observation vs. replication, 338–339
+Odor, 8–9, 17
+Ofﬁce facilities, 30
+Olfactory sense, 14–17
+threshold determination, 129, 137
+One-on-one interviews, 271, 298–299
+One-sided applications, 106, 108
+One-sided directional difference tests, 434–435
+One-sided hypothesis, 324–325
+One-tailed conﬁdence intervals, 317–321
+Oral texture, 161–162, 198–202, 217–221
+Orange juice, 183–186
+Order of appearance, 176–177
+Order of samples, 36, 42, 176–177
+Ordinal data, 45, 46
+Orientation, panelist controls, 37
+Outliers, 315
+Outside preparations, 170–171
+Overall difference tests
+”A”–”not A” tests, 88–92
+descriptive analysis techniques, 177–178
+difference-from-control tests, 92–100
+duo-trio tests, 72–80, 102–104
+existence of differences, 63–104, 409–410
+same/different tests, 84–88
+sequential tests, 100–104
+simple difference tests, 84–88
+technique choice guidelines, 409–410
+Triangle tests, 65–72
+two-out-of-ﬁve tests, 80–84
+Overall impressions, 177–178
+P
+Paired comparison, 105, 323
+Paired preference, 274–275
+Paired-samples, 327–328
+Pairwise ranking, 109–112
+Panel data, 183–186
+Panelists
+controls, 37–38
+descriptive tests, 147–153
+development, 141–143
+difference tests, 143–147
+leadership advice/guidelines, 165–171
+motivation, 154, 155–157
+panelist controls, 37
+performance, 154–157
+prescreening questionnaires, 150, 157–165
+selection, 143–146, 147–152, 157–165
+Spectrum descriptive analysis, 190, 191
+training, 37, 146–147, 152–153, 190
+Panel orientation, 37
+Panel prescreening questionnaires, 150, 157–165
+Panel rooms, 170
+Paper handfeel, 204–205
+Paper napkins questionnaires, 303–304
+Parameters, 313
+Partial least squares (PLS) mapping, 389–391
+Partial least squares (PLS) regression, 373–374
+Pattern effects, 42
+PCA see Principal components analysis
+PCR see Principal component regression
+Peanut butter, 198–199, 242, 274–275
+Peanut snacks, 97–100
+Percentage points, 422–425
+Perception, 7–22
+Perception chain, 2
+Perceptual maps, 380–385, 387–388
+Perceptual space, 380
+Performance, panelists, 154–157
+Persistence of sweetness, 115–116
+Personal interviews, 151
+Index
+445

@@ -1,0 +1,52 @@
+products are preferred to avoid the excessive imputation of missing values that would be
+required if incomplete serving designs were used. The factor scores of the products and
+the factor loadings of the respondents from a two-dimensional PCA solution are plotted
+on the same graph.
+Constructing the map is a simple, four-step process:
+1. Plot the factor scores of the products and the factor loadings of the respondents
+on the same graph (see Figure 14.12a). The factor scores of the products need to
+be rescaled to fall between K1 and C1 so that they cover the same range as the
+factor loadings of the respondents. For each dimension, this is accomplished by
+dividing the original factor scores by the largest factor score (ignoring the sign)
+on the dimension.
+2. Delete the respondents whose liking data are not well ﬁt to the map (see
+Figure 14.12b). These respondents can be identiﬁed in one of two ways. If a
+factor analysis procedure, such as PROC FACTOR in SAS (2005), was used to
+ﬁt the PCA model, the output includes communality statistics for each respon-
+dent. Like the R2 value from a regression analysis, communalities are the percent
+of the variability in the respondent’s liking data that is being explained by the
+PCA model. Delete the respondents with communalities less than a preselected
+cutoff (typically, somewhere between 0.50 and 0.75). Alternatively, delete respon-
+dents who fall too close to the origin (i.e., the (0, 0) point) on the map.
+A respondent’s distance from the origin is the square root of the communality.
+Compute the square of each respondent’s distance from the origin by summing
+the squares of their factor loadings. Delete respondents whose squared distance
+from the origin is less than a preselected cutoff (again, typically, somewhere
+between 0.50 and 0.75).
+3. Rescale the remaining respondents to fall equally far from the origin of the plot
+(see Figure 14.12c). The point that represents each respondent is rescaled to fall a
+unit distance from the origin of the plot. To do this, divide both factor loadings of
+each respondent by the distance that respondent falls from the origin (i.e.,
+DistanceZSQRTðF2
+1CF2
+2Þ, where F1 and F2 are the respondent’s factor loadings).
+This step is not required, but is commonly used in practice.
+Internal preference maps are self-segmenting. Respondents tend to form
+multiple clusters on the map. A group of respondents who fall close to each
+other on the map form a segment. The test products that are closest to them
+are, in general, the ones they like the most. The products that fall on the opposite
+side of the map are the ones they like the least. For example, in Figure 14.12c,
+there is one segment in the lower right quadrant who most like products A, C, G,
+and H, and most dislike products B, E, and F. There is a more dispersed segment
+in the upper right quadrant who also light products A, C, and G the most, are
+more accepting of products B, E, and F, and dislike product H the most.
+4. Incorporate the sensory descriptive information by correlating the attribute
+intensities of the products with their factor scores and plotting the resulting
+correlation coefﬁcients on the map (see Figure 14.12d). This creative use of corre-
+lation analysis was ﬁrst proposed by Mc Ewan (1998). Each product has a full set
+of attribute intensities and two factor scores, one for factor 1 (the horizontal axis
+of the map) and one for factor 2 (the vertical axis of the map). For each attribute,
+use the correlation of the attribute ratings with factor 1 as the x-coordinate and
+the correlation of the attribute ratings with factor 2 as the y-coordinate.
+Advanced Statistical Methods
+377

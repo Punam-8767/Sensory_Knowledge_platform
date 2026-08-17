@@ -1,0 +1,37 @@
+9
+Selection and Training of Panel Members
+9.1
+Introduction
+This section is partly based on ASTM Special Technical Publication 758, Guidelines for the
+Selection and Training of Sensory Panel Members (1981) and on the ISO Guide for Selection and
+Training of Assessors (1993). The development of a sensory panel deserves thought and
+planning with respect to the inherent need for the panel, the support from the organization
+and its management, the availability and interest of panel candidates, the need for
+screening of training samples and references, and the availability and condition of the
+panel room and booths. In the food, fragrance, and cosmetic industries, the sensory panel
+is the company’s single most important tool in research and development and in quality
+control. The success or failure of the panel development process depends on the strict
+criteria and procedures used to select and train the panel.
+The project objective of any given sensory problem or situation determines the criteria
+for selection and training of the subjects. Too often in the past (ISO 1991), the sole criterion
+was a low threshold for one or more of the basic tastes. Today sensory analysts use a wide
+selection of tests, speciﬁcally selected to correspond to the proposed training regimen and
+end use of the panel. Taste acuity is only one aspect; much more important is the ability to
+discern and describe a particular sensory characteristic in a “sea” or “fog” of other
+sensory impressions.
+This chapter describes speciﬁc procedures for the decision to establish a panel, the
+selection and training of both difference and descriptive panels, and ways to monitor
+and motivate panels. This chapter does not apply to consumer testing (see Chapter 12),
+which uses naı¨ve subjects representative of the population for whom the product is
+intended. Although the text uses the language of a commercial organization that exists
+to develop, manufacture, and sell a “product” and has its “upper management,” “middle
+management” and reward structure, the system described can be easily modiﬁed to ﬁt the
+needs of other types of organizations such as universities, hospitals, civil or military
+service organizations, etc.
+9.2
+Panel Development
+Before a panel can be selected and trained, the sensory analyst must establish that a need
+exists in the organization and that commitment can be obtained to expend the required
+time and money to develop a sensory tool. Upper management and the project group
+(R&D or QA/QC) must see the need to make decisions based on sound sensory data with
+141

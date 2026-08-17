@@ -1,0 +1,80 @@
+product in terms of the detailed attributes and the attribute intensity, provides a
+thumbprint or proﬁle of the product in words and numbers that characterizes the
+aroma, ﬂavor, appearance, texture, and/or sound of a product or set of products.
+Each description is unique for each product and can be considered a blueprint
+for that sample. In Table 10.2, the descriptions of three orange juices are shown
+side-by-side to demonstrate the detail and the relationship of the data to the actual
+products. Table 10.3 provides a complete description of one commercial orange
+juice. Several attributes are rated zero, and those attributes are shown with the
+zero ratings. The same product proﬁle is also graphically displayed in Figure 10.2.
+The following attributes were not present in this sample and had intensities of zero:
+fruity/ﬂoral aromatics; caramelized aromatics; hydrolyzed oil aromatics; distilled orange
+oil; paper/gelatin; fruity/ﬂoral; smokey/phenol; fermented; hydrolyzed oil; vitamin;
+green; sweet aromatics; metallic prickle; chemical (stabilizer); salt.
+TABLE 10.3
+Minute Maidw Frozen Concentrate Orange
+Juice Complete Flavor and Chemical Feeling
+Factor Proﬁle
+Attribute
+Intensity
+Aromatics
+Orange complex
+7.0
+Raw
+1.0
+Cooked
+5.0
+Distilled orange oil
+0.0
+Expressed orange oil
+2.0
+Fruity/ﬂoral
+0.0
+Other citrus
+1.5
+Type:
+Grapefruit
+Other fruit
+1.5
+Type:
+Tropical
+Sweet aromatics
+(caramelized/maltol)
+0.0
+Green
+0.0
+Vitamin
+0.0
+Cardboard/oxidized
+1.5
+Hydrolyzed oil
+0.0
+Fermented
+0.0
+Smokey/phenol
+0.0
+Paper/gelatin
+0.0
+Basic Tastes
+Sweet
+7.5
+Salt
+0.0
+Sour
+4.0
+Bitter
+0.5
+Chemical feeling factors
+Astringent
+2.0
+Burn
+1.0
+Chemical (stabilizer)
+0.0
+Prickle
+0.0
+Aftertaste
+Metallic
+0.0
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+184

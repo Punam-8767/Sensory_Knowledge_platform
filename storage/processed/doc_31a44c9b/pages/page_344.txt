@@ -1,0 +1,51 @@
+the test is 1KbZ0.44—i.e., the test, as designed, has a 44% chance of rejecting the null
+hypothesis at the aZ0.05 level when 25% of the population can distinguish the samples.
+The power of a statistical test is affected by the size of the departure from the null
+hypothesis (i.e., pd), the size of the type-I error (a-risk) and the number of assessors, n.
+13.3.4
+Examples: Tests on Means, Standard Deviations, and Proportions
+This section presents procedures for conducting routine tests of hypotheses on means and
+standard deviations of normal distributions and on the population proportion (or prob-
+ability of success) from binomial distributions.
+Example 13.1: Testing That the Mean of a Distribution Is Equal to a Speciﬁed Value
+Suppose in the consumer test example in Section 13.2.1 that the sensory analyst wanted to
+test if the average overall liking of the sample for Chicago was six or greater than six. The
+mathematical forms of the null hypothesis and alternative hypothesis are
+H0 : m Z 6
+vs:
+Ha : mO6
+The alternative hypothesis is one-sided.
+The statistical procedure used to test this hypothesis is a one-tailed, one-sample t-test.
+The form of the test statistic is
+t Z ðxKmH0Þ
+
+ðs= ﬃﬃﬃn
+p Þ:
+(13.4)
+The values of x and s are calculated in Table 13.3. Substituting into Equation 13.4 yields:
+t Z ð7:17K6Þ=ð1:45
+ ﬃﬃﬃﬃﬃ
+30
+p
+Þ Z 4:42:
+(13.5)
+This value of t is compared to the upper-a critical value of a t-distribution with
+(nK1) degrees of freedom (denoted as ta,n–1). The value of ta,n–1 marks the point in the
+t-distribution (with (nK1) degrees of freedom) for which the probability of observing any
+larger value of t is a. If the value obtained in Equation 13.5 is greater than ta,n–1, then the
+null hypothesis is rejected at the a-level of signiﬁcance. Suppose the sensory analyst
+decides to control the type-I error at 5% (i.e., aZ0.05). Then, from the row of Table 17.3
+corresponding to 29 degrees of freedom, the value of t0.05,29Z1.699; therefore, the sensory
+analyst rejects the null hypothesis assumption that mZ6 in favor of the alternative
+hypothesis that mO6 at the 5% signiﬁcance level.
+If this alternative hypothesis had been Ha: ms6 (i.e., a two-sided alternative), then the
+null hypothesis would be rejected for absolute values of t (in Equation 13.5) greater than
+ta/2,n–1, i.e., reject if jtjOt0.025,29Z2.045 (from Table 17.3).
+Example 13.2: Comparing Two Means—Paired-Sample Case
+Sensory analysts often compare two samples by having a single panel evaluate both
+samples. When each member of the panel evaluates both samples, the paired t-test is
+the appropriate statistical method to use. In general, the null hypothesis can specify
+any difference of interest (i.e., H0: dZm1Km2Zd0; setting d0Z0 is equivalent to testing
+H0: m1Zm2). The alternative hypothesis can be two-sided (i.e., Ha: dsd0) or one-sided
+Basic Statistical Methods
+327

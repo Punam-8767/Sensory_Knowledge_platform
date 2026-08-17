@@ -1,0 +1,97 @@
+B. Texture (continued)
+Cohesiveness of mass
+10.0
+Moistness of mass
+9.0
+Lumpiness of mass
+9.0
+Adhesiveness to palate
+4.0
+Macro roughness of mass (lumpy)
+3.0
+Toothstick
+9.0
+Residual
+Toothpack
+2.5
+Mouthcoat
+3.0 oily
+Dairy ﬁlm
+2.0
+6. Lay’s Classic Potato Chips
+Surface
+Roughness
+9.0
+Oily lips
+10.0
+Loose particles
+4.0
+Manual oiliness
+6.0
+Manual particles
+6.0
+First chew
+Hardness
+5.7
+Denseness
+9.0
+Number of particles
+8.0
+Flinty
+4.0
+Crispy
+14.0
+Chew down
+# Chews to bolus
+10.0
+Persistence of crisp/crunch
+12.0
+Moisture absorption
+9.0
+Moistness of mass
+14.0
+Cohesiveness of mass
+5.5
+Graininess of mass
+4.5
+Tooth stick
+3.0
+Dissolvability
+7.0
+Residual
+Tooth pack
+7.0
+Grainy mouthfeel
+2.0
+Chalky mouthfeel
+0.0
+Oily/greasy mouthfeel
+6.5 oily
+7. Minute Maid Orange Juice—Frozen Concentrate Reconstituted
+Viscosity
+5.5
+Particulates
+3.0
+Mixes with saliva
+10.0
+8. Oscar Mayer Beef Hot Dogs
+Surface (skin)
+Moisture
+8.0
+Roughness
+2.0
+Oiliness
+3.0
+First compression
+Springiness
+13.0
+First bite/chew
+Firmness (skin)
+4.0
+Cross section:
+Firmness
+6.5
+Cohesiveness
+6.0
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+230

@@ -1,0 +1,47 @@
+subtle but meaningful differences among the cheese pizzas. More in-depth information
+about the attributes that drive liking may be obtained if the pepperoni pizza is eliminated
+and the category of interest is redeﬁned to be plain cheese pizza. If only one attribute is
+involved, another option is to eliminate the attribute, especially if prior research has
+shown that it does not play a signiﬁcant role in acceptance. Alternatively, the preference
+mapping study could be conducted twice. The ﬁrst run would include all of the products
+with special interest paid to the effect of the pepperoni-related attributes. The second run
+would consist of only the plain cheese pizza product to focus more speciﬁcally on the
+attributes that drive liking in that group.
+The same consideration should be paid to the possible elimination of attributes. If the
+intensity of an attribute is the same for all of the products in the test, or if the intensity
+varies over a trivially small range of values (e.g., range%0.5 units on a 15-point scale), the
+attribute should be dropped from the analysis. Similarly, if the intensity of an attribute is
+subthreshold for all of products, the attribute should be dropped. This is especially
+important if the PCA is conducted using the correlation matrix as opposed to the covari-
+ance matrix of the responses. Large but spurious correlations can occur with attributes that
+exhibit only a small range of values. A correlation-based PCA cannot distinguish between
+attributes with trivial ranges of intensities and those with meaningfully large ranges when
+it computes loading factors and factor scores. Attributes with trivially small ranges may
+appear to play key roles in deﬁning the perceptual space of the products. By itself, this
+point seems to support the use of the covariance matrix in the PCA because the use of the
+covariance matrix down-weights attributes that exhibit little variability. However, it is
+widely recognized that small differences in certain attributes (e.g., off-notes) can have
+large impacts on acceptance. A covariance-based PCA could down-weight these attributes
+to the point that their true importance to acceptance is lost. Using the correlation matrix
+after eliminating attributes with trivially small ranges of intensities preserves the import-
+ance of these attributes. Because of this, correlation-based PCA are recommended for the
+perceptual mapping step of an external preference mapping analysis.
+Products
+Sensory
+Consumer
+Profiles
+Perceptual map
+from PCA
+Preference map linking
+acceptance to sensory
+by regression
+Acceptance
+Consumer segments
+from cluster analysis
+FIGURE 14.13
+Schematic diagram of an external preference mapping analysis. Products are submitted for both sensory descrip-
+tive and consumer evaluations. Sensory results are summarized on a perceptual map. Consumer acceptance
+ratings are submitted to a cluster analysis to identify preference segments. The sensory and consumer infor-
+mation are linked using regression analysis.
+Advanced Statistical Methods
+381

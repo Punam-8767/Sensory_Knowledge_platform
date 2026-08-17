@@ -1,0 +1,48 @@
+is not used in this book because it has a negative connotation [Zmalodor] to some people,
+whereas, to others, it is the same as odor.)
+The amount of volatiles that escape from a product is affected by the temperature and
+the compounds’ nature. The vapor pressure of a substance exponentially increases with
+temperature according to the following formula:
+log p ZK0:05223a=T Cb
+(2.1)
+where p is the vapor pressure in mmHg, T is the absolute temperature (TZt8CC273.1),
+and a and b are substance constants that can be found in handbooks (Howard 1996).
+Volatility is also inﬂuenced by the condition of a surface: at a given temperature, more
+volatiles escape from a soft, porous, and humid surface than from a hard, smooth, and
+dry one.
+Many odors are only released when an enzymic reaction takes place at a freshly cut
+surface (e.g., the smell of an onion). Odorous molecules must be transmitted by a gas that
+can be the atmosphere, water vapor, or an industrial gas, and the intensity of the perceived
+odor is determined by the proportion of such gas that comes into contact with the obser-
+ver’s olfactory receptors (Laing 1983).
+Sensory professionals continue to be challenged by the sorting of fragrance/aroma
+sensations into identiﬁable terms (see Chapter 10 on descriptive analysis and Civille
+and Lyon (1996) for a database of descriptors for many products). There is not, at this
+point, any internationally standardized odor terminology. The ﬁeld is very wide; accor-
+ding to Harper (1972), some 17,000 odorous compounds are known, and a good perfumer
+can differentiate 150–200 odorous qualities. Many terms may be ascribed to a single
+compound (thymolZherb-like, green, rubber-like), and a single term may be associated
+with many compounds (lemonZa-pinene, b-pinene, a-limonene, b-ocimene, citral, citro-
+nellal, linalool, a-terpineol, etc.).
+2.2.3
+Consistency and Texture
+The third set of attributes to be considered are those perceived by sensors in the mouth
+other than taste and chemical feelings. Texture is also perceived by the skin and muscles of
+the body, other than those in the mouth, when evaluating personal care and home
+care products.
+By convention, the following are referred to:
+† Viscosity (for homogeneous Newtonian liquids)
+† Consistency (for non-Newtonian or heterogeneous liquids and semisolids)
+† Texture (for solids or semisolids)
+Viscosity refers to the rate of liquids’ ﬂow under some force such as gravity. It can be
+accurately measured and varies from a low of approximately 1 cP (centipoise) for water or
+beer to 1000s of cP for jelly-like products. Consistency (of ﬂuids such as purees, sauces,
+juices, syrups, jellies, and cosmetics), in principle, must be measured by sensory eval-
+uation (Kramer and Twigg 1973); in practice, some standardization is possible by the
+aid of consistometers (Kramer and Twigg 1973; Mitchell 1984). Texture is very complex
+as demonstrated by the existence of the Journal of Texture Studies. Texture can be deﬁned as
+the sensory manifestation of the structure or inner makeup of products in terms of their:
+† Reaction to stress, measured as mechanical properties (such as hardness/ﬁrm-
+ness, adhesiveness, cohesiveness, gumminess, springiness/resilience, viscosity)
+Sensory Attributes and the Way We Perceive Them
+9

@@ -1,0 +1,66 @@
+testing on sesame crackers used the 5.5 difference-from-control rating as the critical point
+above which differences were not only statistically signiﬁcant, but potentially
+meaningful to the consumer.
+12.8.3
+Rapid Prototype Development
+There is an ongoing endeavor to identify and implement approaches to testing that would
+provide rapid feedback to product development and allow for a shortened development
+cycle. Various approaches exist that are easily implemented; however, it is suggested that
+the ﬁndings be validated prior to either large-scale market research or product launch.
+Loosely deﬁned, rapid prototype development employs quantitative and qualitative tech-
+niques to collect consumer input, feedback, and insights during the product development
+process following an accelerated timetable. Requirements for effective rapid prototyping
+include the need for actionable information and rapid feedback; it is also required to be
+iterative, able to handle multiple samples, low to moderate cost, and smaller scale.
+Sesame Cracker
+Instructions
+1. Overall evaluation. Place a mark in the box which you feel best describes
+how you like the product:
+2. Indicate by placing a mark how you feel the product rates in each category
+below:
+Like
+extremely
+Appearance
+Color
+Flavor
+Salty
+Sesame flavor
+Fresh toasted flavor
+Texture
+Crispness
+Aftertaste
+Comments
+Name
+Date
+Like
+very much
+Like
+moderately
+Like
+slightly
+Light
+Dark
+Not at all salty
+No sesame flavor
+Strong flavor
+Stale, not fresh
+Very fresh
+Soggy
+Unpleasant
+Pleasant
+Crisp
+Very salty
+Neither like
+nor dislike
+Dislike
+slightly
+Dislike
+moderately
+Dislike
+very much
+Like
+extremely
+FIGURE 12.7
+Consumer score sheet for Example 12.3: shelf life of sesame cracker.
+Affective Tests: Using Other Sensory Methods to Uncover Insights
+287

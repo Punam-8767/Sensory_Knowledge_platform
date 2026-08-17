@@ -1,0 +1,56 @@
+The complementary value of type-II error, i.e., 1Kb, is called the power of the statistical
+test. Power is simply the probability that the test will detect a given sized departure from
+the null hypothesis (and, therefore, correctly reject the false null hypothesis). In discrimi-
+nation testing, for example, the null hypothesis is H0: pdZ0%. Departures from the null
+hypothesis are measured as values of pdO0%. Suppose a researcher is conducting a duo–
+trio test with 40 assessors and is testing at the aZ0.05 level of signiﬁcance. If the true
+proportion of distinguishers in the population of assessors is pdZ25%, then the power of
+(a) In testing for a difference
+(b) In testing for similarity
+Truth
+Truth
+Reject H0
+Reject H0
+Do not reject H0
+Do not reject H0
+H0 is
+true
+H0 is
+true
+H0 is
+false
+H0 is
+false
+Type I error
+Type I error
+Type II error
+Correct decision
+Correct decision
+Correct decision
+Correct decision
+Substitution takes place when
+it should not.
+Substitution does not take
+place when it should.
+Substitution takesplace when
+it should not.
+Substitution does not take
+place when it should.
+New product promotion done
+on same product as before.
+New product promotion done
+on same product as before.
+Franchise in trouble due to
+loss of consumer confidence.
+Franchise in trouble due to
+loss of consumer confidence.
+Candidate sample is missed.
+Candidate sample is missed.
+Money, effort and time are lost.
+Money, effort and time are lost.
+We "missed the boat."
+We "missed the boat."
+FIGURE 13.8
+The practical implications of type-I and type-II errors.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+326

@@ -1,0 +1,79 @@
+interaction between judges and samples is reasonable. However, during training, for
+instance, the sensory analyst may doubt the validity of this assumption. Split-plot
+designs are used to determine if a judge-by-sample interaction is present.
+In split-plot designs, judges are treated as a second experimental treatment along with
+the samples. A group of b panelists are presented with t samples (in a separately random-
+ized order for each panelist) in each of at least two panels (p%2). The p panels are the
+blocks or “replicates” of the experimental design. Randomly selected batches or indepen-
+dent preparations of the samples are used for each panel. This is the ﬁrst layer of
+randomization in a split-plot study. Then the panelists receive their speciﬁc sets of
+samples (arranged in a randomized order based on their arrival times at each panel).
+Due to the sequential nature of the randomization scheme, where ﬁrst one treatment
+factor (samples) is randomized within replicates and then a second treatment factor
+(judges) is randomized within the ﬁrst treatment factor (i.e., samples), a split-plot
+design is appropriate.
+13.5.6.1
+Split-Plot Analysis of Ratings
+A special form of ANOVA is used to analyze data from a split-plot design (see Table 13.17).
+The sample effect is called the “whole-plot effect.” Judges and the judge-by-sample
+interaction are called the subplot effects. Separate error terms are used to test for the signi-
+ﬁcance of whole-plot and subplot effects (because of the sequential nature of the
+randomization scheme described previously).
+The whole-plot error term (Error(A) in Table 13.17) is calculated in the same way as a
+panel-by-sample interaction term would be, if one existed. The F1-statistic in Table 13.17 is
+used to test for a signiﬁcant sample effect. If the value of F1 is larger than the upper-a
+critical value of the F-distribution with (tK1) and (pK1)(tK1) degrees offreedom, then it is
+concluded that there are signiﬁcant differences among the average values of the samples.
+The F2 and F3 statistics in Table 13.17 are used to test for the signiﬁcance of the subplot
+effects, judges and the judge-by-sample interaction, respectively. The denominator of both
+F2 and F3 is the subplot error term MSE(B). If F3 exceeds the upper-a critical value of the
+F-distribution with (bK1)(tK1) and t(pK1)(bK1) degrees of freedom, then a signiﬁcant
+judge-by-sample interaction exists. The signiﬁcance of the interaction indicates that the
+judges are expressing their perceptions of the differences among the samples in different
+ways. Judge-by-sample interactions result from insufﬁcient training, confusion over the
+deﬁnition of an attribute, or lack of familiarity with the rating technique. When a
+TABLE 13.17
+ANOVA Table for Split-Plot Designs Using Ratings
+Source of
+Variability
+Degrees of
+Freedom
+Sum of
+Squares
+Mean
+Square
+F
+Total
+pbtK1
+SST
+Panel
+pK1
+SSP
+Samples
+tK1
+SSS
+MSSZSSS/(tK1)
+F1ZMSS/MSE(A)
+Error(A)
+dfE(A)Z(pK1)(tK1)
+SSE(A)
+MSE(A)Z
+SSE(A)/dfE(A)
+Judges
+bK1
+SSJ
+MSJZSSJ/(bK1)
+F2ZMSS/MSE(B)
+Judge-
+by-sample
+dfjsZ(bK1)(tK1)
+SSJS
+MSJSZSSJS/dfJS
+F3ZMSJS/MSE(B)
+Error(B)
+dfE(B)Zt(pK1)(bK1)
+SSE(B)
+MSE(B)Z
+SSE(B)/dfE(B)
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+348

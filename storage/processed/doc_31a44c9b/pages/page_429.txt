@@ -1,0 +1,52 @@
+be deﬁned and redeﬁned several times before an acceptable design emerges. Sensory tests
+are expensive, and they often give results that cannot be clearly understood. If this
+happens, the design may be faulty. Pilot tests are often useful as a means of reﬁning a
+design. It would, for example, be meaningless to carry out a consumer preference test with
+hundreds of participants without ﬁrst having shown that a perceptible difference exists;
+the latter can be established with 10 or 20 tasters, using a difference test. In another
+example, islands of opposing preference may exist, invalidating a normal preference
+test; here, the solution may be a pilot study in which various types of customers receive
+single-sample acceptability tests.
+Reference
+IFT. 1981. “Guidelines for the preparation and review of papers reporting sensory evaluation data,”
+Food Technology, 35:11, 50.
+TABLE 15.5
+Area of Application of Descriptive Tests
+Tests
+Areas of Application
+1. Flavor proﬁle
+(Arthur D. Little)
+In situations where many and varied samples must be judged by a few
+highly trained tasters
+2. Texture proﬁle
+(General Foods)
+In situations where many and varied samples must be judged for texture
+by a few highly trained tasters
+3. QDAw method
+(Tragon Corp.)
+In situations such as quality assurance in a large company, where large
+numbers of the same kind of products must be judged day in and day
+out by a well-trained panel; in product development in situations
+where reproducibility over time and place is not required
+4. Time–intensity
+descriptive analysis
+Useful for samples in which the perceived intensity of ﬂavor varies over
+time after the product is taken into the mouth, e.g., bitterness of beer,
+sweetness of artiﬁcial sweeteners
+5. Free-choice proﬁling
+In consumer testing, when it is desirable not to teach the subjects a
+common scale
+6. Spectrum method
+A custom-design system suitable for most applications, including those
+under tests 1–3; suitable where reproducibility over time and place is
+needed
+7. Modiﬁed, short-
+version Spectrum
+Descriptive Analysis
+To monitor a few critical attributes of a product through shelf-life
+studies; to examine possible manufacturing defects and product
+complaints; for routine quality assurance
+Descriptive tests are very diverse, often designed or modiﬁed for each individual application, and therefore
+difﬁcult to classify in a table such as this. A classiﬁcation by inventor is perhaps the most helpful.
+Sensory Evaluation Techniques, 4th Ed., Ch. 15
+412

@@ -1,0 +1,108 @@
+the attribute. Use no fewer than 8 subjects; discrimination is much improved if 16 or more
+are used.
+Subjects may require special instruction to enable them to recognize the attributes of
+interest reproducibly (see Chapter 9, pp. 144). Depending on the test objective, subjects
+may be selected who show high discriminating ability in the attribute(s) of interest.
+7.8.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. Refer to pp. 66 for details of the procedure. Make certain that
+order of presentation is truly random; subjects must not be led to suspect a regular pattern,
+as this will inﬂuence verdicts.
+Note: If more than one attribute is to be rated, unavoidably there will be some inter-
+dependence in the resulting ratings (see Section 4.4).
+7.8.5
+Analysis and Interpretation of Results
+The results are analyzed by the analysis of variance, see Chapter 13, p. 344, and Example
+7.9 below.
+Example 7.9: Reference Samples of Ice Cream
+Problem/situation: As part of an ongoing program, the QC manager of an ice cream plant
+routinely screens samples of ﬁnished product to select lots that will be added to the pool of
+quality reference samples for use in the main QC testing program. New reference samples
+are needed at regular intervals because the older samples will have changed with time and
+are no longer appropriate. The procedure is also used to eliminate from the pool any
+current reference samples that may have deteriorated.
+TABLE 7.10
+BIB Design for Example 7.9: Reference Samples of
+Ice Cream (tZ6, kZ4, rZ10, bZ15, lZ6, EZ0.90)
+Block
+(1)
+1
+2
+3
+4
+(2)
+1
+4
+5
+6
+(3)
+2
+3
+5
+6
+(4)
+1
+2
+3
+5
+(5)
+1
+2
+4
+6
+(6)
+3
+4
+5
+6
+(7)
+1
+2
+3
+6
+(8)
+1
+3
+4
+5
+(9)
+2
+4
+5
+6
+(10)
+1
+2
+4
+5
+(11)
+1
+3
+5
+6
+(12)
+2
+3
+4
+6
+(13)
+1
+2
+5
+6
+(14)
+1
+3
+4
+6
+(15)
+2
+3
+4
+5
+Source:
+From W.G. Cochran and G.M. Cox. 1957. Experi-
+mental Designs, New York: Wiley. With permission.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+126

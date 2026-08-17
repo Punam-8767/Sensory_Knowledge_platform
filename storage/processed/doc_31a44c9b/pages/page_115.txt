@@ -1,0 +1,51 @@
+Conduct test: Count out 15 whole peanuts for each sample and place in a labeled cup.
+Control A when in ﬁrst position is labeled “control”; all other samples have three-digit
+codes:
+Pair 1:
+Control A vs. Control A
+Labels:
+“Contol” vs. [three-digit code]
+Pair 2:
+Control A vs. Control B
+Labels:
+“Contol” vs. [three-digit code]
+Pair 3:
+Control A vs. Test Sample
+Labels:
+“Contol” vs. [three-digit code]
+The scoresheet is shown in Figure 6.19.
+Name:
+Type of sample:
+Flavored peanut snacks.
+Date: 8-7-98
+Test
+#
+1103-6B
+Difference-from-control test
+Instructions
+1. Taste the sample marked ''Control'' first.
+2. Taste the sample marked with the three digit code.
+3. Assess the overall sensory difference between the two samples using
+the scale below.
+4. Mark the scale to indicate the size of the overall difference.
+Scale
+Mark to indicate difference
+No difference
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Extremely different
+Remember that a duplicate control is the sample some of the time.
+Comments :
+FIGURE 6.19
+Scoresheet for difference-from-control test. Example 6.13: ﬂavored peanut snacks.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+98

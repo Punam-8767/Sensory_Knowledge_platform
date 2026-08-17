@@ -1,0 +1,39 @@
+dependent variable. The variability of y around the line (i.e., vs. ^y) is compared with the
+variability of y around its sample mean y (which is the original “expected” value of y) (see
+Figure 14.7). This notion is formalized statistically by adding the assumption that the
+residuals of the regression analysis are normally distributed, independent of each other,
+all with the mean value of zero and the same variance, s2, i.e., 3wn(0, s2). ANOVA can then
+be used to determine if a signiﬁcant reduction in unexplained variability is obtained by
+using least-squares estimates to predict y based on x. The F-ratio in the ANOVA table for
+simple linear regression, such as in Table 14.1, actually tests H0: b1Z0 vs. HA: b1s0, which
+is equivalent to the reduction in variability argument stated previously (if b1Z0 then the
+line is horizontal and ^yZ y, so no reduction in variability could occur).
+Other criteria are used to assess the quality of the regression equation. The coefﬁcient of
+determination,
+R2 Z 1KSSRes
+SSTot
+(14.7)
+summarizes the proportion of the total variability that is explained by using x to predict y.
+SSRes and SSTot in Equation 14.7 are the residual and total ANOVA sums of squares from
+Table 14.1, respectively. In sensory evaluation, values of R2 O0.75 are generally considered
+to be acceptable. However, whether this is true depends on the intended use of the
+regression equation. Other criteria may be more informative. A conﬁdence interval on
+b1 can be constructed using
+^b1Gta=2;nK2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+MSE=SSx
+p
+(14.8)
+y = b 0 + b 1x
+y
+Residual vs. y
+Residual vs. y
+X
+Y
+FIGURE 14.7
+A comparison of the residuals from a ﬁtted regression line with the residuals from y used to determine if the ﬁtted
+line signiﬁcantly reduces the amount of unexplained variability in the response. The reduction in the size of the
+residuals (i.e., distance from the “expected” value) between ^y vs: y shows that the regression line is a better
+summary of the data.
+Advanced Statistical Methods
+367

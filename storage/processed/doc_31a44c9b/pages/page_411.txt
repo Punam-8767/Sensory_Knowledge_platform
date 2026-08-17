@@ -1,0 +1,67 @@
+Similarly, the main effect due to variety of hops is
+ðT1AKT1BÞ CðT2AKT2BÞ
+2
+:
+(14.13)
+In some studies, the effect of one factor depends on the level of a second factor. When
+this occurs, there is said to be an interaction between the two factors. Suppose for the beer
+brewed with hop variety A that the hop aroma rating increased when the kettle boiling
+time was increased, but that hop aroma decreased for the same change in boiling time
+when the beer was brewed with hop variety B (see Table 14.6). There is an interaction
+between kettle boiling time and variety of hops because the effect of boiling time depends
+on which variety of hops is being used.
+APP sauce clarity
+APP potato AMT
+FL wheat
+FL meat identity
+Total
+TXT potato firm
+TXT sauce viscosity
+APP potato size
+TXT meat firm
+FL carrot
+FL sweet
+APP green herb AMT
+APP solid size
+APP solid AMT
+FL celery
+FL green herbs
+FL onion
+FL Filler
+APP surface oil
+FL bitter
+FL sour FL black pepper
+FL spice blend
+TXT oily MF
+FL Meat nonnatural
+Segment 2
+Segment 1
+PLS1 (55% Consumer; 53% Sensory)
+(b)
+Sensory
+Consumer
+PLS2 (25% Consumer; 18% Sensory)
+1
+0
+–1
+–1
+0
+1
+TXT vegetable firm
+FIGURE 14.22
+Continued
+TABLE 14.6
+Factorial Treatment Structure for Two Factors Each Having Two Levels
+Hop Variety
+A
+B
+Kettle boiling
+Low (1)
+T1AZ6
+T1BZ13
+Time
+High (2)
+T2AZ12
+T2BZ7
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+394

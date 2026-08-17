@@ -1,0 +1,46 @@
+7.3
+Pairwise Ranking Test: Friedman Analysis—Comparing Several
+Samples in All Possible Pairs
+7.3.1
+Scope and Application
+Use this method when the test objective is to compare several samples for a single attri-
+bute, e.g., sweetness, freshness, or preference. The test is particularly useful for sets of
+three to six samples that are to be evaluated by a relatively inexperienced panel. It arranges
+the samples on a scale of intensity of the chosen attribute and provides a numerical
+indication of the differences between samples and the signiﬁcance of such differences.
+7.3.2
+Principle of the Test
+Present to each subject one pair at a time in random order, with the question: “Which
+sample is sweeter?” (fresher, preferred, etc.). Continue until each subject has evaluated all
+possible pairs that can be formed from the samples. Evaluate the results by a Friedman-
+type statistical analysis.
+7.3.3
+Test Subjects
+Select, train, and instruct subjects as described on p. 66. Use no fewer than 10 subjects;
+discrimination is much improved if 20 or more can be used. Ascertain that subjects can
+recognize the attribute of interest, e.g., by training with various pairs of known intensity
+difference in the attribute. Depending on the test objective, subjects may be required who
+have proven ability to detect small differences in the attribute.
+7.3.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. Refer to p. 66 for details of procedure. Make certain that the
+order of presentation is truly random: subjects must not be led to expect a regular pattern,
+as this will inﬂuence verdicts.
+Randomize presentation within pairs, between pairs, and among subjects. Ask only one
+question: “Which sample is more .?” Do not permit “no difference” verdicts; if they
+nevertheless occur, distribute the votes evenly among the samples.
+Example 7.3: Mouthfeel of Corn Syrup
+Problem/situation: A manufacturer of blended table syrups wishes to market a product with
+low thickness at a given solids content. Four unﬂavored corn syrup blends, A, B, C, and D,
+have been prepared for evaluation (Carr 1985).
+Project objective: To evaluate the suitability of the four syrup blends.
+Test objective: To establish the positions of the four blends on a subjective scale of
+perceived mouthfeel thickness.
+Test design: The pairwise ranking test with Friedman analysis is chosen because
+(1) paired presentation is less affected by fatigue with these samples, and (2) this test
+establishes a meaningful scale. Twelve subjects of proven ability evaluate the six possible
+pairs AB, AC, AD, BC, BD, and CD. The worksheet and the scoresheet are shown in
+Figure 7.2 and Figure 7.3, respectively.
+Attribute Difference Tests: Pairwise Ranking Test
+109

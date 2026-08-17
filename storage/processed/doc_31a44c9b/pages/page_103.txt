@@ -1,0 +1,64 @@
+know if the product produced in the new cooker tastes the same as that made in the
+old cooker.
+Project objective: To determine if the new cooker can be put into service in the plant in
+place of the old cooker.
+Test objective: To determine if the two barbecue sauce products, produced in different
+cookers, can be distinguished by taste.
+Test design: The products are spicy and will cause carryover effects when tested. There-
+fore, the same/different test with a bland carrier, such as white bread, is an appropriate
+test. A total of 60 responses, 30 matched and 30 unmatched pairs, are collected from 60
+subjects. Each subject evaluates either a matched pair (A/A or B/B) or an unmatched pair
+(A/B or B/A) in a single session. The worksheet and the scoresheet for the test are shown
+in Figure 6.13 and Figure 6.14. The test is conducted in the booth area under red lights to
+mask any color differences.
+Screen samples: Preliminary tests are made with ﬁve experienced tasters to determine if
+the samples are easier to taste plain or on a carrier, such as white bread. The carrier is used
+to make comparison easier without introducing extraneous sensory factors. The pretest is
+also helpful in determining the appropriate amount of product (by weight or volume)
+relative to bread (by size) for the test.
+Conduct test: Just before each subject is to taste, add the premeasured sauce to the precut
+bread pieces that had been stored cold in an airtight container. Place samples on labeled
+plates in the order indicated on the worksheet for each panelist.
+Analyze results: In the table below, the columns indicate the samples that were tested; the
+rows indicate how they were identiﬁed by the subjects:
+Subjects Received
+Matched Pair
+AA or BB
+Unmatched
+Pair
+AB or BA
+Total
+Subjects said
+Same
+17
+9
+26
+Different
+13
+21
+34
+Total
+30
+30
+60
+The c2-analysis (see Section 13.3.4.6) is used to compare the placebo effect (17/13) with
+the treatment effect (9/21). The c2-statistic is calculated as:
+c2 Z
+X ðOKEÞ2
+E
+;
+where O is the observed number and E is the expected number, in each of the four boxes
+same/matched, same/unmatched, different/matched, and different/unmatched. For
+example, for the box same/matched:
+E Z ð26!30Þ=60 Z 13; and;
+c2 Z ð17K13Þ2
+13
+C ð9K13Þ2
+13
+C ð13K17Þ2
+17
+C ð21K17Þ2
+17
+Z 4:34;
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+86

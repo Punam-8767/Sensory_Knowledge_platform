@@ -1,0 +1,85 @@
+of squares in a BIB analysis are more complicated than for a randomized (complete) block
+analysis. The sensory analyst should ensure that the statistical package used to perform
+the analysis is capable of handling a BIB design. Otherwise a program speciﬁcally
+developed to perform the BIB analysis is required.
+The form of the ANOVA used to analyze BIB data depends on how the design is
+administered. If each panelist evaluates every block in the fundamental design, then the
+“panelist effect” can be partitioned out of the total variability (see Table 13.15a). If each
+panelist evaluates only one block of samples, then the panelist effect is confounded
+(or mixed-up) with the block effect (see Table 13.15b). The panelist effect is accounted
+for in both cases, thus providing an uninﬂated estimate of experimental error regardless
+of which approach is used.
+If the F-statistic in Table 13.15 exceeds the critical value of an F with the corresponding
+degrees of freedom, then the null hypothesis assumption of equivalent mean ratings
+among the samples is rejected. Fisher’s LSD for BIB designs has the form:
+LSD Z ta=2;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2MSE=pr
+p
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+½kðtK1Þ	=½ðkK1Þt	;
+p
+(13.17)
+where t is the total number of samples, k is the number of samples evaluated by each
+panelist during a single session, r is the number of times each sample is evaluated in the
+fundamental design (i.e., in one repetition of b blocks), and p is the number of times the
+fundamental design is repeated. MSE and ta=2;dfE are as deﬁned before.
+13.5.4.2
+BIB Analysis of Rank Data
+A Friedman-type statistic is applied to rank data arising from a BIB design. The form of the
+test statistic is
+T Z ½12=pltðk C1Þ	
+X
+t
+jZ1
+R2
+j K3ðk C1Þpr2=l;
+(13.18)
+TABLE 13.15
+ANOVA Tables for Balanced Incomplete Block Designs
+Source of
+Variability
+Degrees of Freedom
+Sum of Square
+Mean Square
+F
+Each of p Panelists Evaluates All b Blocks
+Total
+tprK1
+SST
+Panelists
+pK1
+SSP
+Blocks (within
+panelists)
+p(bKI)
+SSB(P)
+Samples (adj.
+for blocks)
+dfSZtK1
+SSS
+MSSZSSS/dfS
+MSS/MSE
+Error
+dfEZtprKtKpbC1
+SSE
+MSEZSSE/dfE
+Each of pb Panelists Evaluates One Block
+Total
+tprK1
+SST
+Blocks
+pbK1
+SSB
+Samples (adj.
+for blocks)
+dfSZtKI
+SSs
+MSSZSSS/dfS
+MSS/MSE
+Error
+dfEZtprKtKpbC1
+SSE
+MSEZSSE/dfE
+Basic Statistical Methods
+345

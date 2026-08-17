@@ -1,0 +1,52 @@
+their intensities, order of appearance, and aftertaste. Additional samples can be sub-
+sequently evaluated in the same session, but samples are not tasted back and forth. The
+results are reported to the panel leader who then leads a general discussion of the panel to
+arrive at a consensus proﬁle for each sample. The data is generally reported in tabular
+form, although a graphic representation is possible.
+The ﬂavor proﬁle method may be applied when a panel must evaluate many different
+products with none that are a major producer’s major line. The main advantage, but also a
+major limitation, of the Flavor Proﬁle method is that it only uses ﬁve to eight panelists. The
+lack of consistency and reproducibility that this limitation entails is somewhat overcome
+by training and by the consensus method. However, the latter has been criticized for one-
+sidedness. The panel’s opinion may become dominated by that of a senior member or a
+dominant personality, and equal input from other panel members is not always obtained.
+Other points of criticism of the Flavor Proﬁle are that screening methods do not include
+tests for the ability to discriminate speciﬁc aroma or ﬂavor differences that may be import-
+ant in speciﬁc product applications and the seven-point scale limits the degree of
+discrimination among products showing small, but important, differences.
+10.4.2
+The Texture Proﬁle Method
+Based somewhat on the principles of the ﬂavor proﬁle method, the texture proﬁle method
+was developed by the Product Evaluation and Texture Technology groups at General Foods
+Corp. to deﬁne the textural parameters of foods (Skinner 1988). Later, the method was
+expanded by Civille and Szczesniak (1973) and Civille and Liska (1975) to include speciﬁc
+attribute descriptors for speciﬁc products including semisolid foods, beverages, skinfeel
+products (Schwartz 1975; ASTM 1997a), and fabric and paper goods (Civille and Dus 1990).
+In all cases, the terminology is speciﬁc for each product type, but it is based on the under-
+lying rheological properties expressed in the ﬁrst Texture Proﬁle publications (Brandt,
+Skinner, and Coleman 1963; Szczesniak 1963; Szczesniak, Brandt, and Friedman 1963).
+Panelists are selected on the basis of their ability to discriminate known textural
+differences in the speciﬁc product application that the panel is to be trained for (solid
+foods, beverages, semisolids, skin care products, fabrics, paper, etc.). As with most other
+descriptive analysis techniques, panelists are interviewed to determine interest, avai-
+lability, and attitude. Panelists selected for training are exposed to a wide range of
+products from the category under investigation to provide a wide frame of reference. In
+addition, panelists are introduced to the underlying textural principles involved in the
+structure of the products under study. This learning experience provides panelists with an
+understanding of the concepts of input mechanical forces and resulting strain on the
+product. In turn, panelists are able to avoid lengthy discussions about redundant terms
+and to select the most technically appropriate and descriptive terms for the evaluation of
+products. Panelists also deﬁne all terms and all procedures for evaluation, therefore,
+reducing some of the variability encountered in most descriptive testing. The reference
+scales used in the training of panelists can later serve as references for approximate scale
+values that further reduce panel variability.
+Each panelist, using one of the scaling techniques previously discussed, independently
+evaluates samples. The original Texture Proﬁle method used an expanded 13-point version
+of the Flavor Proﬁle scale. In the last several years, however, Texture Proﬁle panels have
+been trained using category, line, and ME scales (see Chapter 11, Appendix 11.2, for food
+texture references for use with a 15-point or 15-cm line scale). Depending on the type of scale
+used by the panel and on the way the data is to be treated, the panel verdicts may be derived
+by group consensus, as with the Flavor Proﬁle method, or by statistical analysis of the data.
+For ﬁnal reports, the data may be displayed in tabular or graphic form.
+Descriptive Analysis Techniques
+179

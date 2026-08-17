@@ -1,0 +1,82 @@
+where ^p and p0 are the observed and hypothesized values of p, respectively. Substituting
+the observed and hypothesized values into Equation 13.9 yields:
+z Z ð62:5K50:0Þ=
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð50Þð100K50Þ=200
+p
+Z 3:54:
+This value of z is compared to the critical value of a standard normal distribution. For
+two-sided alternatives, the absolute value of z is compared to za,2Zta/2,N (for one-sided
+alternatives, the value of z is compared to zaZta,N) using Table 17.3. The value of z0.005Z
+t0.005,NZ2.576. Because zZ3.54 is greater than 2.576, the null hypothesis is rejected and the
+analyst concluded at the 1% signiﬁcance level that sample A is preferred by more than 50%
+of the population.
+Example 13.6: Comparing Two Population Proportions
+Example 13.5 will be extended to take regional preferences into consideration. Suppose a
+company wishes to introduce a new product (A) into two regions and wants to know if
+the product is equally preferred over its prime competitor’s product (B) in both regions.
+The sensory analyst conducts a 200-person preference test in each region and obtains the
+results shown in Table 13.7.
+The null hypothesis in this example is H0: p1Zp2 vs. the alternative hypothesis Ha:
+p1sp2, where pi is deﬁned as the proportion of the population in region i that prefers
+product A. This hypothesis is tested using a c2-test of the form
+c2 Z
+X
+r
+iZ1
+X
+c
+jZ1
+ðOijKEijÞ2=Eij;
+(13.10)
+where r and c are the numbers of rows and columns in a data table such as Table 13.7. Oij is
+the observed value in row i and column j of a data table. Eij is the “expected” value for the
+entry in the ith row and jth column of the data table. The Eij are calculated as
+Eij Z total for row i
+ð
+Þ total for column j
+
+
+= grand total
+
+
+:
+Substituting the values from Table 13.7 into Equation 13.10:
+c2 Z ð125Kð200Þð227Þ=400Þ2
+ð200Þð227Þ=400
+C ð75Kð200Þð173Þ=400Þ2
+ð200Þð173Þ=400
+Cð102Kð200Þð227Þ=400Þ2
+ð200Þð227Þ=400
+C ð98Kð200Þð173Þ=400Þ2
+ð200Þð173Þ=400
+Z ð125K113:5Þ2
+113:5
+C ð75K86:5Þ2
+86:5
+C ð102K113:5Þ2
+113:5
+C ð98K86:5Þ2
+86:5
+Z 5:39
+TABLE 13.7
+Results of a Two Region Preference Test in Example 13.6
+Preference
+Region
+Product A
+Product B
+Total
+1
+125
+75
+200
+2
+102
+98
+200
+Total
+227
+173
+400
+Basic Statistical Methods
+331

@@ -1,0 +1,82 @@
+Chapter 10
+Descriptive Analysis Techniques
+10.1
+Deﬁnition......................................................................................................................... 173
+10.2
+Field of Application....................................................................................................... 173
+10.3
+Components of Descriptive Analysis......................................................................... 174
+10.4
+Commonly Used Descriptive Test Methods.............................................................. 178
+10.5
+Application of Descriptive Analysis Panel Data ...................................................... 183
+References .................................................................................................................................. 186
+Chapter 11
+The Spectrume Descriptive Analysis Method
+11.1
+Designing a Descriptive Procedure............................................................................. 189
+11.2
+Myths about the Spectrum Descriptive Analysis Method...................................... 189
+11.3
+Terminology .................................................................................................................... 191
+11.4
+Intensity ........................................................................................................................... 192
+11.5
+Other Options................................................................................................................. 192
+11.6
+Modiﬁed Short-Version Spectrum Descriptive Procedures for Quality
+Assurance, Shelf-Life Studies, etc. .............................................................................. 193
+Appendix 11.1
+Spectrum Terminology for Descriptive Analysis .................................. 194
+Appendix 11.2
+Spectrum Intensity Scales for Descriptive Analysis.............................. 213
+Appendix 11.3
+A Streamlined Approach to Spectrum References................................ 224
+Appendix 11.4
+Spectrum Descriptive Analysis Product Lexicons ................................ 232
+Appendix 11.5
+Spectrum Descriptive Analysis Examples of Full
+Product Descriptions.................................................................................. 239
+Appendix 11.6
+Spectrum Descriptive Analysis Training Exercises............................... 245
+References .................................................................................................................................. 253
+Chapter 12
+Affective Tests: Consumer Tests and In-House Panel
+Acceptance Tests
+12.1
+Purpose and Applications............................................................................................ 255
+12.2
+The Subjects/Consumers in Affective Tests.............................................................. 259
+12.3
+Choice of Test Location................................................................................................. 263
+12.4
+Affective Test Methods—Fuzzy Front End................................................................ 265
+12.5
+Affective Methods: Qualitative.................................................................................... 269
+12.6
+Affective Methods: Quantitative ................................................................................. 271
+12.7
+Internet Research ........................................................................................................... 281
+12.8
+Using Other Sensory Methods to Uncover Insights ................................................ 283
+Appendix 12.1
+Screeners for Consumer Studies—Focus Group, CLT, and HUT....... 294
+Appendix 12.2
+Discussion Guide—Group or One-on-One Interviews ........................ 298
+Appendix 12.3
+Questionnaires for Consumer Studies .................................................... 300
+Appendix 12.4
+Protocol Design for Consumer Studies................................................... 305
+Appendix 12.5
+Additional Fuzzy Front End References................................................. 308
+References .................................................................................................................................. 309
+Chapter 13
+Basic Statistical Methods
+13.1
+Introduction .................................................................................................................... 313
+13.2
+Summarizing Sensory Data.......................................................................................... 314
+13.3
+Statistical Hypothesis Testing ...................................................................................... 323
+13.4
+Thurstonian Scaling....................................................................................................... 334

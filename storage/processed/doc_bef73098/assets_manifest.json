@@ -1,0 +1,302 @@
+[
+  {
+    "asset_id": "asset_doc_bef73098_32ac9ce4be43a4d5",
+    "xref_original": 1888,
+    "hash": "32ac9ce4be43a4d5",
+    "width": 1337,
+    "height": 1921,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_32ac9ce4be43a4d5.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_ee357ee32831db10",
+    "xref_original": 2474,
+    "hash": "ee357ee32831db10",
+    "width": 4597,
+    "height": 2658,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_ee357ee32831db10.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_0477676cedcf742e",
+    "xref_original": 2512,
+    "hash": "0477676cedcf742e",
+    "width": 595,
+    "height": 456,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_0477676cedcf742e.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_2e81bd218ab4bd99",
+    "xref_original": 2546,
+    "hash": "2e81bd218ab4bd99",
+    "width": 3822,
+    "height": 2518,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_2e81bd218ab4bd99.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_01144878d9b25114",
+    "xref_original": 2580,
+    "hash": "01144878d9b25114",
+    "width": 4935,
+    "height": 2720,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_01144878d9b25114.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_d8df146bfa2c6906",
+    "xref_original": 2675,
+    "hash": "d8df146bfa2c6906",
+    "width": 4355,
+    "height": 2725,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_d8df146bfa2c6906.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_6f962c081f55e512",
+    "xref_original": 2704,
+    "hash": "6f962c081f55e512",
+    "width": 794,
+    "height": 1089,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_6f962c081f55e512.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_e418870a03d2c59b",
+    "xref_original": 2737,
+    "hash": "e418870a03d2c59b",
+    "width": 4407,
+    "height": 6820,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_e418870a03d2c59b.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_554e78819a897a8d",
+    "xref_original": 2766,
+    "hash": "554e78819a897a8d",
+    "width": 4041,
+    "height": 2630,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_554e78819a897a8d.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_ab78c10c925ea924",
+    "xref_original": 2901,
+    "hash": "ab78c10c925ea924",
+    "width": 3852,
+    "height": 2968,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_ab78c10c925ea924.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_badea023107f39f3",
+    "xref_original": 2929,
+    "hash": "badea023107f39f3",
+    "width": 625,
+    "height": 920,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_badea023107f39f3.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_5ce4a215cba7e8a3",
+    "xref_original": 2953,
+    "hash": "5ce4a215cba7e8a3",
+    "width": 3350,
+    "height": 3791,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_5ce4a215cba7e8a3.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_6ebe985e5845dc1d",
+    "xref_original": 2979,
+    "hash": "6ebe985e5845dc1d",
+    "width": 4182,
+    "height": 3519,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_6ebe985e5845dc1d.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_9805d16ade78364d",
+    "xref_original": 3041,
+    "hash": "9805d16ade78364d",
+    "width": 3350,
+    "height": 3785,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_9805d16ade78364d.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_32b61b255bd1dff6",
+    "xref_original": 3070,
+    "hash": "32b61b255bd1dff6",
+    "width": 8201,
+    "height": 2224,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_32b61b255bd1dff6.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_b40b450715f4f02a",
+    "xref_original": 3106,
+    "hash": "b40b450715f4f02a",
+    "width": 540,
+    "height": 520,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_b40b450715f4f02a.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_0b6886efecd1394e",
+    "xref_original": 3527,
+    "hash": "0b6886efecd1394e",
+    "width": 4187,
+    "height": 6325,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_0b6886efecd1394e.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_5014fda8ea53134e",
+    "xref_original": 4704,
+    "hash": "5014fda8ea53134e",
+    "width": 5025,
+    "height": 5213,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_5014fda8ea53134e.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_acae968b132c8e8a",
+    "xref_original": 6041,
+    "hash": "acae968b132c8e8a",
+    "width": 5025,
+    "height": 4974,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_acae968b132c8e8a.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_b3ec16713110cadd",
+    "xref_original": 7536,
+    "hash": "b3ec16713110cadd",
+    "width": 619,
+    "height": 576,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_b3ec16713110cadd.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_949ba35e1ffe7cc5",
+    "xref_original": 11516,
+    "hash": "949ba35e1ffe7cc5",
+    "width": 5360,
+    "height": 5619,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_949ba35e1ffe7cc5.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_68fa5efacc6146e4",
+    "xref_original": 11958,
+    "hash": "68fa5efacc6146e4",
+    "width": 3861,
+    "height": 2571,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_68fa5efacc6146e4.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_d44fd012b4e01e9b",
+    "xref_original": 13025,
+    "hash": "d44fd012b4e01e9b",
+    "width": 614,
+    "height": 277,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_d44fd012b4e01e9b.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_b4d74d37f27810cc",
+    "xref_original": 13866,
+    "hash": "b4d74d37f27810cc",
+    "width": 813,
+    "height": 761,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_b4d74d37f27810cc.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_9b5e0f88ce56686e",
+    "xref_original": 14204,
+    "hash": "9b5e0f88ce56686e",
+    "width": 1766,
+    "height": 821,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_9b5e0f88ce56686e.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_ea68e9f99cedfc08",
+    "xref_original": 15330,
+    "hash": "ea68e9f99cedfc08",
+    "width": 3007,
+    "height": 3107,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_ea68e9f99cedfc08.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_99ac8eead30122f6",
+    "xref_original": 16374,
+    "hash": "99ac8eead30122f6",
+    "width": 362,
+    "height": 387,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_99ac8eead30122f6.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_025342b25b684f7f",
+    "xref_original": 16433,
+    "hash": "025342b25b684f7f",
+    "width": 625,
+    "height": 469,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_025342b25b684f7f.jpeg",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_a292c63e4b5e2dcc",
+    "xref_original": 16831,
+    "hash": "a292c63e4b5e2dcc",
+    "width": 3258,
+    "height": 3848,
+    "ext": "png",
+    "path": "assets/asset_doc_bef73098_a292c63e4b5e2dcc.png",
+    "occurrence_count": 1
+  },
+  {
+    "asset_id": "asset_doc_bef73098_1cfc6f32f44f8cac",
+    "xref_original": 18634,
+    "hash": "1cfc6f32f44f8cac",
+    "width": 1337,
+    "height": 1921,
+    "ext": "jpeg",
+    "path": "assets/asset_doc_bef73098_1cfc6f32f44f8cac.jpeg",
+    "occurrence_count": 1
+  }
+]

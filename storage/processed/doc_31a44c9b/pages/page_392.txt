@@ -1,0 +1,48 @@
+categories. Regardless, the linear combination(s) of the original variables that best separate
+the categories is the one that maximizes the ratio:
+Variance between category means
+Variance within categories
+In addition to this ratio, the quality of the discriminant function is measured by the
+proportion of the items that it correctly classiﬁes. This evaluation can be carried out by
+using the same observations that were used to build the discriminant function. However,
+when sufﬁcient data are available, it is preferable to withhold some of the observations
+from the model building analysis and use them only after the fact to verify that the
+discriminant function performs the classiﬁcation task satisfactorily. As such, the veriﬁca-
+tion process is more objective.
+Not all of the original independent variables may be needed to accurately classify each
+item. As in regression analysis, there are four commonly used variable selection criteria:
+forward inclusion, backward elimination, stepwise, and all-possible-functions. In each,
+the criterion for determining the value of a variable is the degree to which it contributes to
+the discrimination among the categories. Powers and Ware (1986) present a summary of a
+stepwise discriminant analysis in which six blue-cheese products were best categorized by
+using only 14 of the original 28 proﬁle attributes.
+The Powers and Ware reference just cited is a comprehensive discussion of applied
+discriminant analysis in sensory evaluation. Two alternatives to linear discriminant
+analysis, canonical discriminant analysis and nearest-neighbor discriminant analysis,
+are discussed. A variety of industrial applications, relations to other multivariate tech-
+niques, and relevant computer software concerns are also presented. Analysts interested
+in performing discriminant analysis are encouraged to familiarize themselves with the
+material presented there.
+14.3
+Preference Mapping
+Preference mapping is a collection of multivariate techniques for illustrating the relation-
+ships between sensory (and sometimes instrumental) data and consumer acceptance.
+Preference mapping studies go by many names, including: category appraisals, competi-
+tive assessments, product space mappings, and key drivers analyses, among others. The
+variety of names can lead to confusion. For example, whereas one organization may refer
+to preference mapping studies as category appraisals, another might reserve the term
+category appraisals for studies that track marketing information, such as share of sales,
+advertising initiatives, new line extensions, etc. Whereas some perceive the term “prefer-
+ence mapping” as being too technical, when discussing this approach, it is important to
+use the term that colleagues understand appropriately and not confuse with some other
+test method.
+Another source of confusion is that there are several varieties of preference maps. The
+two major varieties are internal preference mapping and external preference mapping. In
+this chapter, PLS is presented as a third variety of preference mapping. A feature that
+discriminates the three approaches is the information that is used to locate the test
+products on the maps. Internal preference mapping uses consumer acceptance ratings
+to locate the products on the maps. External preference mapping uses sensory descriptive
+attribute ratings to locate the products on the maps. PLS mapping uses both the consumer
+and the sensory data to locate the products on the maps.
+Advanced Statistical Methods
+375

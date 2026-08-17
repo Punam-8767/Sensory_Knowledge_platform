@@ -1,0 +1,31 @@
+FIGURE 13.9
+Test Sensitivity Analyzer illustrating the values of n, x, and pd for a duo–trio test with target values of aZ0.25 and
+bZ0.10. Note that the a-risk is slightly greater than the target value speciﬁed.
+TABLE 13.8
+Excel Programming Information for Test Sensitivity Analyzer
+Cell
+Entry
+E4
+ZD4CC4(1KD4) (Can be Hidden if Desired)
+F4
+Z1KBINOMDIST(B4K1,A4,C4,TRUE)
+G4
+ZBINOMDIST(B4K1,A4,E4,TRUE)
+H4
+Z1KG4
+A7
+ZB4
+F7
+ZF4
+A9
+ZB4K1
+F9
+ZH4 (Using % Format)
+B10
+ZD4 (Using % Format)
+D11
+ZB10 (Using % Format)
+F11
+ZG4
+Basic Statistical Methods
+333

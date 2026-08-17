@@ -1,0 +1,27 @@
+Patterns of correlation may vary across product categories, regionally, or from one
+market segment to another. Care should be taken to ensure that the data to which corre-
+lation analysis is applied arise from a single population and not a blend of
+heterogeneous ones.
+Y
+X
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+X
+Y
+X
+Y
+X
+Y
+X
+Y
+X
+Y
+FIGURE 14.1
+Scatterplots of two variables, x and y, showing when the sample correlation coefﬁcient, r, is a good summary
+measure [i.e., plots (a) and (b)] and when it is not [i.e., plots (c) through (f)].
+Advanced Statistical Methods
+359

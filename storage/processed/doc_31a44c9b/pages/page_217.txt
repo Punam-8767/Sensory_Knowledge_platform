@@ -1,0 +1,80 @@
+Large particles—amount of bumps/lumps in surface:
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - - Bumpy]
+Small particles—amount of small grains in surface:
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - -
+Grainy]
+b. Loose geometrical
+Amount of loose, grainy particles free of the surface:
+crumbly
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - Many]
+c. Moistness/dryness
+The amount of wetness or oiliness (moistness if both) on
+surface:
+[Dry - - - - - - - - - - - - - - - - - - - - - - Wet/oily/moist]
+2
+Partial Compression
+Compress partially (specify with tongue, incisors, or molars) without breaking, and
+release.
+a. Springiness
+(rubberiness)
+Degree to which sample returns to original shape after a
+certain time period:
+[No recovery - - - - - - - - - - - - - - - - - -
+Very springy]
+3
+First Bite
+Bite through a predetermined size sample with incisors.
+a. Hardness
+Force required to bite through:
+[Very soft - - - - - - - - - - - - - - - - - - - - - -
+Very hard]
+b. Cohesiveness
+Amount of sample that deforms rather than ruptures:
+[Breaks - - - - - - - - - - - - - - - - - - - - - - - - - Deforms]
+c. Fracturability
+The force with which the sample breaks:
+[Crumbles
+- - - - - - - - - - - - - - - - - - - - - - Fractures]
+d. Uniformity of bite
+Evenness of force throughout bite:
+[Uneven, choppy - - - - - - - - - - - - - - - - -
+Very even]
+e. Moisture release
+Amount of wetness/juiciness released from sample:
+[None - - - - - - - - - - - - - - - - - - - - - - - - Very juicy]
+f. Geometrical
+Amount of particles resulting from bite, or detected in
+center of sample:
+[None - - - - - - - - - - - Very grainy (gritty, ﬂaky, etc.)]
+4
+First Chew
+Bite through a predetermined size sample with molars.
+a. Hardness
+As above:
+[Very soft - - - - - - - - - - - - - - - - - - - - - -
+Very hard]
+b. Cohesiveness/
+Both as above:
+fracturability
+[Breaks - - - - - - - - - - - - - - - - - - - - - - - - - Deforms]
+[Crumbles
+- - - - - - - - - - - - - - - - - - - - - - Fractures]
+c. Adhesiveness
+Force required to remove sample from molars:
+[Not sticky - - - - - - - - - - - - - - - - - - - - - Very sticky]
+d. Denseness
+Compactness of cross section:
+[Light/airy - - - - - - - - - - - - - - - - - - - - - - - - Dense]
+e. Crispness
+The noise and force with which the sample breaks or
+fractures:
+[Not crisp/soggy - - - - - - - - - - - - - - - - - Very crisp]
+f. Geometrical
+See deﬁnitions in surface texture:
+[None - - - - - - - - - - - Very grainy (gritty, ﬂaky, etc.)]
+g. Moist/moisture
+See deﬁnitions in surface texture or ﬁrst bite texture:
+release
+[None - - - - - - - - - - - - - - - - - - - - - - - - Very juicy]
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+200

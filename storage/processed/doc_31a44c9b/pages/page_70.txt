@@ -1,0 +1,51 @@
+Stevens laws, the Beidler equation offers the potential for quantitative estimation of
+human taste response, i.e., of the psychophysical function. Details of how this may
+be carried out for studies of the biophysics of the sensory mechanism are given by
+Beidler (1974), Maes (1985), and Chastrette, Thomas-Danguin, and Rallet (1998).
+Other techniques that are frequently used by psychophysicists to attempt to model the
+assessor’s decision process are ﬁnding application in sensory evaluation, especially in
+threshold and discrimination testing. These other psychophysical models include the
+Thurston–Ura model and the signal detection model (see Lawless and Heymann 1998,
+Chapter 5, Chapter 8, and Section 8.3).
+5.3
+Classiﬁcation
+In classiﬁcation tests, the subjects are asked to select an attribute or attributes that describe
+the stimulus. In a beverage test, for example, subjects place a mark next to the term(s) that
+best describe(s) the sample:
+_____ sweet
+_____ sour
+_____ lemony
+_____ blended
+_____ thick
+_____ refreshing
+_____ pulpy
+_____ natural
+_____ aftertaste
+No attempt is made to standardize the terms, and the results are reported as the
+number of check marks for each term. Such data are nominal: no numbers are used,
+and there is no increasing or decreasing series expressed in the data. For example, the
+apples in a lot may be characterized by predominant color (red, green, and yellow).
+The proper selection of the right terms is essential for the correct interpretation of
+the description of the stimulus. If panelists are not trained, as is the case with consu-
+mers, common nontechnical terms must be used. A source of confusion is that
+subjects often erroneously associate individual common terms with degrees of goodness
+or badness. The caveats below describe situations using classiﬁcation in which
+selection of the proper words/terms/classes is the critical ﬁrst step. Selection of the
+best possible terminology is not only important in classiﬁcation tests; it is needed in all
+measuring techniques that use a term or descriptor to deﬁne the perceived property
+being investigated.
+The selection of sensory attributes and the corresponding deﬁnition of these
+attributes should be related closely to the real chemical and physical properties of a
+product that can be perceived. Adherence to an understanding of the actual rheology or
+chemistry of a product makes the data easier to interpret and more useful for
+decision making.
+Caveats:
+1. If a product has noticeable defects, such as staleness or rancidity, and terms to
+describe such defects have not been included in the list, panelists (especially if
+untrained) will use another term in the list to express the off-note.
+2. If a list of terms provided to panelists fails to mention some attribute that
+describes real differences between products, or which describes important
+characteristics in one product, panelists again will use another term from
+the list provided to express what they perceive.
+Measuring Responses
+53

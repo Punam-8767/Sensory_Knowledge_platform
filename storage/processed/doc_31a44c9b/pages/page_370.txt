@@ -1,0 +1,50 @@
+13.6.2
+The Binomial Distribution
+The binomial distribution function is
+Pr½x Z k	 Z b½k	 Z
+n
+k
+
+!
+pkð1KpÞnKk
+(13.28)
+for kZ0,1,2,., n; nO0 and an integer; and 0%p%1.
+The parameters of the binomial distribution are: n Z the number of trials; p Z the
+probability of “success” on any trial. The choice of what constitutes a success on each
+trial is arbitrary. For instance, in a two-sample preference test (A vs. B), preference
+for A could constitute a success or preference for B could constitute a success. Regard-
+less, kiZ1 for iZ1, 2, ., n if the result of the ith trial is a success; kiZ0, otherwise.
+In Equation 13.28, kZSiZ1
+n
+ki is the total number of successes in n trials. Exact
+binomial probabilities can be calculated using spreadsheet functions such as Excel’s
+BINOMDIST. Approximate binomial probabilities can be calculated using the normal
+approximation to the binomial.
+Example 13.9: Calculating Exact Binomial Probabilities
+Suppose nZ16 assessors participate in a two-out-of-ﬁve difference test. The probability of
+correctly selecting the two odd samples from among the ﬁve follows a binomial distri-
+bution with probability of success, pZ0.10 (when there is no perceptible difference among
+the samples). To ﬁnd the probability that exactly two (kZ2) of the assessors make the
+correct selections (i.e., exactly 2 successes in 16 trials), enter the following in a cell in an
+Excel spreadsheet, Z BINOMDIST(2, 16, 0.10, FALSE). The response displayed will be
+0.2745, which is the desired probability.
+To ﬁnd the probability that between two and six assessors (inclusive) make the correct
+selections, one notes that
+Pr½2%x%6	 Z Pr½x%6	KPr½x%1	;
+(13.29)
+which is computed in Excel by entering the following in the spreadsheet:
+1. In cell A1 enter: Z BINOMDIST(6, 16, 0.10, TRUE)
+2. In cell A2 enter: Z BINOMDIST(1, 16, 0.10, TRUE)
+3. In cell A3 enter: Z A1–A2
+The desired probability, 0.4848, is displayed in cell A3.
+There are two approaches for calculating tail probabilities using spreadsheet func-
+tions, depending on whether you want to compute the probability in the lower or
+upper tail of the distribution. To compute probabilities in the lower tail of the distri-
+bution (for example, that less than three assessors make the correct selections), use the
+following technique:
+Pr½x!3	 Z Pr½x%2	:
+(13.30)
+Therefore, enter the following in a cell in an Excel spreadsheet: ZBINOMDIST(2, 16,
+0.10, TRUE), and the resulting probability, 0.7892, will be displayed. On the other hand,
+Basic Statistical Methods
+353

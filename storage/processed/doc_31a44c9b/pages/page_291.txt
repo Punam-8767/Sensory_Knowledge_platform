@@ -1,0 +1,67 @@
+12.6.3
+Types of Quantitative Affective Tests
+Affective tests can be classiﬁed into two main categories on the basis of the primary task of
+the test:
+Task
+Test and Type
+Questions
+Choice
+Preference
+tests
+Which sample do you prefer?
+Which sample do you like better?
+Rating
+Acceptance
+tests
+How much do you like the product?
+How acceptable is the product?
+In addition to these questions, which can be asked in several ways using various ques-
+tionnaire forms (see as follows), the test design often asks secondary questions about the
+reasons for the expressed preference or acceptance (see pp. 279–280 on attribute
+diagnostics).
+12.6.3.1
+Preference Tests
+The choice of preference or acceptance for a given affective test should be based on the
+project objective. If the project is speciﬁcally designed to pit one product directly against
+another in situations such as product improvement or parity with competition, then a
+preference test is indicated. The preference test forces a choice of one item over another or
+others. What it does not do is indicate whether any of the products are liked or disliked.
+Therefore, the researcher must have prior knowledge of the “affective status” of the
+current product or competitive product that he or she is testing against.
+Preference tests can be classiﬁed as follows:
+Test Type
+No. of Samples
+Preference
+Paired preference
+2
+A choice of one sample over
+another (A–B)
+Rank preference
+3 or more
+A relative order of preference of
+samples (A–B–C–D)
+Multiple paired
+preference (all pairs)
+3 or more
+A series of paired samples with
+all samples paired with all
+others (A–B, A–C, A–D, B–C,
+B–D, C–D)
+Multiple paired
+preferences (selected
+pairs)
+3 or more
+A series of paired samples with
+one or two select samples
+(e.g., control) paired with two
+or more others (not paired
+with each other) (A–C, A–D,
+A–E, B–C, B–D, B–E)
+See Chapter 7, pp. 105–113 for a discussion of principles, procedures, and analysis of
+paired and multipaired tests.
+Example 12.3: Paired Preference—Improved Peanut Butter
+Problem/situation. In response to consumer requests for a product “with better ﬂavor with
+more peanutty character,” a product improvement project has yielded a prototype that
+was rated signiﬁcantly more peanutty in an attribute difference test (such as discussed in
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+274

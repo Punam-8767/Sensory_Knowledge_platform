@@ -1,0 +1,25 @@
+(tprKtKpbC1)Z40 degrees of freedom, is found to be signiﬁcant (FZ9.33OF0.05;5,40Z
+2.45). An LSD multiple comparison procedure is applied to the average ratings of the
+samples to determine which samples have signiﬁcantly different overall off-ﬂavor (see
+note 3 at the foot of Table 7.11).
+Interpret and report results: The average off-taste rating of sample 1 is signiﬁcantly greater
+than the average ratings of the remaining samples. There are no other signiﬁcant
+differences among the mean ratings of the other samples. The sensory analyst reports
+the results to the QC manager with the recommendation that the lot from which sample
+1 was taken be discarded from the pool of reference samples.
+References
+B.T. Carr. 1985. "Statistical models for paired-comparison data", in American Society for Quality Control
+39th Congress Transactions, Baltimore, MD: American Society For Quality, pp. 295–300.
+W.G. Cochran and G.M. Cox. 1957. Experimental Designs, New York: Wiley.
+Design Express. 2003. Presentation Orders for Consumer Trials, Bershire, UK: Qi Statistics.
+M. Friedman. 1937. “The use of ranks to avoid the assumption of normality implicit in the analysis of
+variance,” Journal of the American Statistical Association, 32: 675–701.
+M. Hollander and D.A. Wolfe. 1973. Nonparametric Statistical Methods, New York: Wiley.
+A. Kramer, G. Kahan, D. Cooper, and A. Papavasiliou. 1974. “A non-parametric method for the
+statistical evaluation of sensory data,” in Chemical Sensus and Flavor, 1: 121–123.
+R.M. Pangborn. 1984. “Sensory techniques of food analysis,” D.W. Gruenwedel and J.R. Whitaker,
+eds, in Food Analysis. Principles and Techniques, Vol. 1, New York: Marcel Dekker, p. 59.
+J.H. Skillings and A.G. Mack. 1981. “On the use of a Friedman-type statistic in balanced and unba-
+lanced block designs,” in Technometrics, 23: 171–177.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+128

@@ -1,0 +1,49 @@
+It is the variation in perception that led assessors to confuse products that are “on the
+average” different. When two products have very different average sensory magnitudes,
+they will not be confused because there is no overlap in their perceptual distributions. For
+example, in Figure 13.11a, all of the perceived magnitudes of product B are higher than
+those of product A. However, when the difference between the products is small, the two
+distributions overlap and it is possible for the products to be confused. In Figure 13.11b,
+although on the average product B is higher than product A, in a single evaluation,
+product B may be perceived to be closer to the average value of product A’s distribution
+than it is to the average of its own distribution. The likelihood of this occurring is pro-
+portional to the distance between the averages of the two distributions. The distance
+between the two averages, called d, is the fundamental measure of sensory difference in
+the Thurstonian model. d is the number of standard deviations that separate the averages
+of the two distributions. If d is small, the two products are similar. If d is large, the two
+products are perceptibly different. The value of d can be estimated using any forced-choice
+or category-scaling method. The statistic used to estimate d is d0.
+13.4.2
+Decision Rules in Sensory Discrimination Tests
+The decision rules that assessors use to formulate their responses in forced-choice or
+category-scaling tests differ from one test method to another. For example, in a duo–trio
+test, the decision rule is to pick the coded sample that is perceived to be closer to the
+reference sample, whereas in a 2-AFC test, the decision rule is the pick the sample that is
+“stronger.” Decision rules for several forced-choice tests are presented in Table 13.9. It is
+assumed that assessors apply the decision rules correctly when evaluating products. In
+other words, assessors will always give the correct answer based on what they perceive,
+even though the variability of perceptions may lead them to an incorrect answer with
+regard to the actual differences between the products.
+An example using the triangle test will clarify this point. In the triangle test, an assessor
+is given three coded samples. Suppose two of the samples are from product A and one of
+the samples is from product B. The assessor’s task is to identify the “odd” sample—i.e., to
+identify which one of the three samples is most different from the other two. The assessor
+will always select the sample that he or she perceives to be the “odd” sample on every trial
+of a triangle test.
+Figure 13.12 presents the results of two possible trials of the triangle test. In the ﬁrst trial,
+the assessor selects the B sample because perceptually it is farther from both of the
+A
+B
+Sensory magnitude
+A
+B
+Sensory magnitude
+d
+(a)
+(b)
+FIGURE 13.11
+(a) Thurstonian representation of two products that are very different. (b) Thurstonian representation of two
+products that are confusable because their sensory distributions overlap. The degree of overlap is proportional to
+the distance between the average values of the distributions, d.
+Basic Statistical Methods
+335

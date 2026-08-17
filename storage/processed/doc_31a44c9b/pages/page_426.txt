@@ -1,0 +1,69 @@
+Table 15.1
+Continued
+Type of Problem
+Tests Applicable
+15. Threshold of added substances: required (1) in trouble-shooting to
+conﬁrm suspected source(s) of off-ﬂavor(s); (2) to develop
+background knowledge of the chemical cause(s) of sensory
+attributes and consumer preferences
+Chapter 8
+Note:
+In 3–5, if new product is different, descriptive tests (Table 15.5) may be useful to characterize the difference.
+If the difference is found to be in a single attribute, attribute difference tests (Table 15.3) are the tools to use in
+further work.
+TABLE 15.2
+Area of Application of Overall Difference Tests: Does a Sensory Difference Exist
+between Samples?
+The tests in this table are suitable for applications such as:
+1. To determine whether any product differences result from a change in ingredients, processing,
+packaging or storage
+2. To determine whether an overall difference exists, where no speciﬁc attribute(s) can be identiﬁed as
+having been affected
+3. To determine whether two samples are sufﬁciently similar to be used interchangeably
+4. To select and train panelists and to monitor their ability to discriminate between test samples
+Test
+Areas of Application
+1. Triangle test
+Two samples not visibly different; one of the most-used difference tests;
+statistically efﬁcient, but somewhat affected by sensory fatigue and memory
+effects; generally 20–40 subjects, can be used with as few as 5–8 subjects;
+brief training required
+2. Duo–trio test
+Two samples not visibly different; test has low statistical efﬁciency, but is less
+affected by fatigue than the Triangle test: useful where product well known
+to subjects can be employed as the reference; generally 30 or more subjects,
+can be used with as few as 12–15; brief training required
+3. Two-out-of-ﬁve
+test
+Two samples without obvious visible differences; statistically highly efﬁcient,
+but strongly affected by sensory fatigue, hence use limited to visual,
+auditory, and tactile applications; generally 8–12 subjects, can be used with
+as few as 5; brief training required
+4. Same/Different
+test (also called
+Simple
+Difference test)
+Two samples not visibly different; test has low statistical efﬁciency, but is
+suitable for samples of strong or lingering ﬂavor, samples which need to be
+applied to the skin in half-face tests, and samples which are very complex
+stimuli and therefore confusing to the subjects; generally 30 or more
+subjects, can be used with as few as 12–15; brief training required
+5. “A”–“not A” test
+As for number 4, but used where one of the samples has importance as a
+standard or reference product, is familiar to the subjects, or essential to
+the project as the current sample against which all other samples are
+measured
+6. Degree of
+Difference test,
+also called
+Difference-from-
+Control test
+Two samples which may show slight visual differences such as are caused
+by the normal heterogeneity of meats, vegetables, salads, and baked
+goods; test is used where the size of the difference affects a decision
+about the test objective, e.g., in quality control and storage studies;
+generally 30–50 presentations of the sample pair; moderate amount of
+training required
+(continued)
+Guidelines for Choice of Technique
+409

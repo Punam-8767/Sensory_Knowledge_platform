@@ -1,0 +1,52 @@
+procedures, such as stepwise regression. However, the regression model that results
+from a stepwise procedure does not tell the whole story when it comes to identifying all
+of the predictor variables, x values, that are related to the predicted variable, y. For
+example, when using attribute intensity data from a descriptive panel to predict
+consumer acceptance, a particular attribute, such as sweet taste, may be highly
+related to acceptance, but it may not appear in the regression model because another
+attribute which is highly correlated with sweet taste, such as sweet aftertaste, may
+already be in the model. The stepwise procedure will not include both sweet taste
+and sweet aftertaste in the regression model precisely because they are highly corre-
+lated with each other (and, thus, are explaining the same variability in acceptance). This
+gives the researcher the incorrect impression that only sweet aftertaste, and not sweet
+taste, is important to acceptance. A more correct interpretation is that the term in the
+regression model, e.g., sweet aftertaste, is, in effect, representing all of the descriptive
+attributes with which it is highly correlated. However, the regression model does not
+reveal which attributes are correlated. Thus, a stepwise regression procedure applied to
+correlated predictor variables does not, by itself, uncover all of the attributes that are
+“driving” acceptance.
+Principal components regression (PCR) is a method that overcomes this weakness. PCR
+is a straightforward combination of PCA and regression. Continuing the example of using
+descriptive data to predict acceptance, a PCA is performed on the average attribute
+proﬁles of the samples in the study. A set of factor scores is obtained for each sample.
+The factor scores are used as the predictor variables, i.e., the x values, in a regression
+analysis to predict consumer acceptance, y. The factors obtained from the PCA represent
+the underlying dimensions of sensory variability in the samples and are typically easy to
+interpret based on the factor loadings. Attributes with large positive or negative loadings
+(i.e., close to C1 or K1) on a single factor are the attributes that deﬁne the factor, so if the
+factor is found to be a signiﬁcant driver of acceptance, the researcher knows that all of the
+attributes associated with that factor are, as a group, inﬂuencing acceptance. In addition,
+the factors obtained from PCA are not correlated with each other. Thus, the problem of
+multicolinearity is avoided. Popper, Heymann, and Rossi (1997) present an excellent
+example of PCR applied to the prediction of consumer acceptance of twelve honey-
+mustard salad dressings based on their descriptive proﬁles.
+The factors identiﬁed with PCA are ordered according to how much of the variability
+in the original data each explains. The ﬁrst factor accounts for the greatest amount of
+variability, the second factor accounts for the next greatest amount, etc. It may not be
+the case that the factor that explains the most variability in the original x variables is
+the factor that is most highly related to y. In fact, some factors may not be related to y at
+all and, therefore, do not need to be included in the PCR model. Stepwise regression
+can be used to generate a PCR model that includes only those factors which are
+statistically signiﬁcant predictors of y. In the descriptive analysis example, the stepwise
+approach to PCR allows the researcher to identify which underlying dimensions of
+sensory variability (and all of their associated attributes) “drive” acceptance and
+which do not.
+The PCR approach can be further extended by recognizing that the factor scores may be
+related to the response variable, y, in nonlinear and interactive ways. Nonlinear and
+interactive relationships can be accounted for in PCR by including the squares and the
+cross-products of the factor scores, respectively, as variables in the regression, as is done in
+response surface methodology (see Section 14.3.3). This allows the researcher to identify
+the levels of the factor scores that are associated with, for example, the best liked
+product—i.e., an optimum or “ideal” point.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+372

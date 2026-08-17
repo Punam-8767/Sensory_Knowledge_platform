@@ -1,0 +1,48 @@
+4. On a minor point, the practice of connecting spokes of the spider web can be
+misleading to some users, who, because of their technical training, expect the
+area under a curve to have some meaning. In reality, the sensory dimensions
+shown in the web may be either unrelated to each other or related in ways that
+cannot be represented in this manner.
+10.4.4
+The Spectrume Descriptive Analysis Method
+This method, designed by Civille, is described in detail in Chapter 11. Its principal charac-
+teristic is that the panelist scores the perceived intensities with reference to pre-learned,
+absolute intensity scales. The purpose is to make the resulting proﬁles universally under-
+standable and usable, not only at a later date, but also at any laboratory outside the
+originating one. The method provides for this purpose an array of standard attribute
+names (lexicons), each with its set of standards that deﬁne a scale of intensity, usually
+from 0 to 15, that can be measured on a 15 cm line scale or simply recorded as a
+straight number.
+10.4.5
+Time–Intensity Descriptive Analysis
+For certain products, the perception’s intensity varies with time over a longer or shorter
+period, and an attribute’s time–intensity curve may be a key aspect deﬁning the product
+(Larson-Powers and Pangborn 1978; Lee and Pangborn 1986; Overbosch 1986; Overbosch,
+van den Enden, and Keur 1986; ASTM 1997b). Long-term time–intensity studies measure
+the reduction of skin dryness periodically over several days of a skin lotion’s application. A
+lipstick’s color intensity can be periodically evaluated over several hours. Shorter term
+time–intensity studies track certain ﬂavor and/or texture attributes of chewing gum over
+several minutes. In the shortest term studies, completed within 1–3 min, the response can be
+continuously recorded. Examples include the sweetness of sweeteners (IFT 1988; Shamil
+et al. 1988), the bitterness of beer (Pangborn, Lewis, and Yamashita 1983; Schmitt et al. 1984;
+Leach and Noble 1986), and topical analgesics’ effects. The response may be recorded using
+pencil and paper, a scrolling chart recorder (Larson-Powers and Pangborn 1978), or a
+computer system (Guinard, Pangborn, and Shoemaker 1985; IFT 1988) that is commercially
+available in several versions. The panelist should not see the evolving response curve being
+traced because this may result in bias from preconceived notions of its form.
+Current methodology of time–intensity research has been comprehensively reviewed by
+Lee and Pangborn (1986) and for sweeteners, in particular, by Booth (1989). Important
+variables to consider are:
+† Protocols for evaluation—type of delivery, amount of product, time to hold in the
+mouth, type of manipulation, expectoration, or swallow—need to be
+clearly deﬁned.
+† Protocols for coordinating product evaluation (sample holding) and response
+recording (data entry) need to be worked out in advance to reduce bias from the
+mode of presentation.
+† Panelists may require several training sessions to develop and learn all of the
+protocols necessary for a well-controlled time–intensity study. Figure 10.1 is an
+example of the parameters that can be recorded in a time–intensity study; a more
+detailed example is given by Lee and Pangborn (1986).
+Table 10.1 shows an example of responses obtained with three sweeteners.
+Descriptive Analysis Techniques
+181

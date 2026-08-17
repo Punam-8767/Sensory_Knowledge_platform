@@ -1,0 +1,33 @@
+14.3.2.5
+External Preference Mapping of Individual Respondents
+Another approach to external preference mapping is to ﬁt individual regression models to
+each respondent’s overall liking data. As in internal preference mapping, respondents
+with poor ﬁtting models can be dropped from further analyses. For the remaining respon-
+dents, an action standard is deﬁned to represent “satisfaction.” For example, a respondent
+could be said to be “satisﬁed” with any point on the preference map with a predicted
+liking rating of 5.0 or more. Alternatively, a respondent could be said to be “satisﬁed” with
+any point on the map that has a predicted liking rating within 0.5 units of his or her
+maximum predicted liking rating. The percentage of respondents who are satisﬁed with
+every point on the preference map is then plotted on a contour plot such as in Figure 14.20.
+An advantage of this approach is that, like internal preference mapping, it is self-
+segmenting. Multiple target products can be identiﬁed as separate points on the map
+that correspond to areas of high satisfaction. An advantage that this approach does not
+share with internal preference mapping is that each respondents data can be ﬁt using an
+ideal point model, so interior points on the map can be identiﬁed as the point of maximum
+overall liking. (Internal preference mapping is, in a sense, a vector model, in that it can
+only point in the direction of increasing liking.) The disadvantage of the method is that the
+models of the individual respondent’s data are often poor. Either many respondents are
+dropped from the analysis or a very liberal deﬁnition of an acceptable model needs to be
+used to keep a large proportion of the respondents in the analysis.
+14.3.3
+Partial Least-Squares Mapping
+PLS mapping is a direct application of partial least-squares regression described in Section
+14.2.2.3. As a preference-mapping tool, the dependent (y) variables in the PLS model are
+FIGURE 14.19
+A contour plot of the ﬁrst two dimensions of the preference map from the prepared meals study. Any point on a
+line is predicted to have an overall liking rating of the value indicated. Overall liking is maximized at high levels
+of “wholesomeness” and medium-high levels of “sauce: clear to viscous.” To stay within the conﬁnes of the
+product space, the target product lies on the convex hull. The trends indicate the higher levels of both dimensions
+may be more well-liked.
+Advanced Statistical Methods
+389

@@ -1,0 +1,60 @@
+{
+  "document_id": "doc_71786c80",
+  "pipeline_status": "VALIDATE_COMMIT_COMPLETED",
+  "overall": "10/10",
+  "architecture_rating": {
+    "overall": "10/10",
+    "score": 100,
+    "scope": "Concept DB validate-commit alignment",
+    "meaning": "Only allowed substrate proposals were committed to concept_proposals. Concepts table remains untouched until HITL approval. Policy/admin/seeded concepts and non-ready relationships were safely skipped."
+  },
+  "commit_summary": {
+    "concept_proposals": {
+      "input": 175,
+      "inserted": 175,
+      "updated": 0,
+      "committed": 175,
+      "skipped_invalid_type": 0,
+      "skipped_missing_required": 0,
+      "skipped_items": []
+    },
+    "ready_relationships": {
+      "input": 1,
+      "inserted": 1,
+      "updated": 0,
+      "committed": 1,
+      "skipped_missing_table": 0,
+      "skipped_missing_ids": 0,
+      "skipped_not_ready": 0
+    },
+    "not_committed_by_design": {
+      "concepts": 0,
+      "concept_terms": 186,
+      "concept_fields": 660,
+      "pending_relationships": 534,
+      "blocked_seeded_concepts": 0,
+      "blocked_policy_concepts": 216,
+      "admin_review_concepts": 498,
+      "blocked_seeded_relationships": 0,
+      "blocked_policy_relationships": 54,
+      "admin_review_relationships": 45
+    }
+  },
+  "quality_gate": {
+    "status": "PROPOSALS_COMMITTED_POLICY_REVIEW_PENDING",
+    "score": 100,
+    "architecture_rating": "10/10",
+    "reason": "Allowed substrate proposals were committed to concept_proposals. Policy/routing concepts were correctly skipped and left for admin seeding.",
+    "warnings": [],
+    "can_continue": true
+  },
+  "processing_time_seconds": 0.47,
+  "next_step": "/api/v1/documents/doc_71786c80/approve-proposals",
+  "recommended_actions": [
+    "Review concept_proposals in admin/HITL workflow.",
+    "Approve only valid sensory_attribute and descriptor proposals.",
+    "On approval, run commit-approved-concepts to insert canonical concepts, terms, fields, and relationships.",
+    "After canonical commit, run sync-qdrant.",
+    "Re-run normalize-map on future documents to reuse trusted concepts."
+  ]
+}

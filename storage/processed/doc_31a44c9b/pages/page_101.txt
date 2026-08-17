@@ -1,0 +1,105 @@
+Test objective: To determine whether a statistically signiﬁcant difference in appearance
+exists between the two formulas of face cream.
+Test design/screen samples: Use ten subjects who have been screened for color blindness
+and impaired vision. Test 2 mL of product under white incandescent light on a watch glass
+against a white background. Pretest samples to be sure that surfaces do not change (crust,
+weep, discolor) within 30 min after exposure, the maximum length of one test cell.
+Conduct test: Arrange samples in a straight line from left to right according to the plan
+shown on the worksheet (see Figure 6.12); use a scoresheet similar to the one in Figure 6.11.
+Ask the subjects to “identify the two samples that are the same in appearance and different
+from the other three.”
+Analyze results: Five subjects group the samples correctly. According to Table 17.14, this
+corresponds to 1% signiﬁcance for a difference.
+6.6
+Same/Different Test (or Simple Difference Test)
+6.6.1
+Scope and Application
+Use this method when the test objective is to determine whether a sensory difference exists
+between two products, particularly when these are unsuitable for triple or multiple
+presentation, e.g., when the triangle and duo–trio tests cannot be used. Examples of
+such situations are comparisons between samples of strong or lingering ﬂavor, samples
+Date
+Type of samples :
+Sample identification
+Code
+A
+B
+Face cream for viewing
+Two-out-of-five test
+Type of test :
+Test code
+TO-AF88
+Worksheet
+3-05-99
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Px-2316 (control)
+Px-2602 (new emollient)
+Arrange samples as follows in the front of each subject:
+Judge no.
+Order of samples
+1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+2
+3
+4
+5
+6
+7
+8
+9
+10
+FIGURE 6.12
+Worksheet for two-out-of-ﬁve test. Example 6.9: emollient in face cream.Arrangement of samples for viewing.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+84

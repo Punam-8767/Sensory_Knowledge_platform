@@ -1,0 +1,104 @@
+Introduction to respondent:
+Hello, I’m __________ of __________, a national survey research ﬁrm. We are conducting
+a survey; do you have a few minutes to answer some questions?
+If no: Ok, thank you for your time.
+If yes: That would be great. If you qualify at the end of the survey, you will be asked to
+participate in a study. We will make an appointment for you to come in at that time.
+So, let’s begin.
+Broad Questions
+1. Record the gender of the respondent:
+Male
+(
+)
+Terminate or continue based on quota
+Female
+(
+)
+Terminate or continue based on quota
+2. In the past 3 months, have you yourself participated in a survey, panel
+discussion, or consumer test?
+Yes
+(
+)
+Terminate and tally
+No
+(
+)
+Continue
+3. Do you or does any member of your immediate family work for any of the
+following types of businesses? (Read List)
+Yes
+No
+Advertising agency or television
+(
+)
+(
+)
+A marketing research ﬁrm
+(
+)
+(
+)
+A public relations ﬁrm
+(
+)
+(
+)
+Scientiﬁc research or related ﬁeld
+(
+)
+(
+)
+A company that retails, wholesales
+or manufactures personal care
+products
+(
+)
+(
+)
+A cosmetic discount store
+(
+)
+(
+)
+Terminate if yes, don’t know, or refuse to answer to any of the questions
+4. For classiﬁcation purposes, please tell me which of the following best describes
+your age. (Recruit a mix)
+Under 25 years
+(
+)
+Terminate or continue
+25–34 years
+(
+)
+As quotas are ﬁlled
+35–45 years
+(
+)
+46–55 years
+(
+)
+56C years
+(
+)
+5. Which of the following income brackets best describes your total household
+income? (Recruit a mix)
+Under $30,000
+(
+)
+Terminate or continue
+$30,000–55,000
+(
+)
+As quotas are ﬁlled
+$55,000–80,000
+(
+)
+$80,000–100,000
+(
+)
+Over $100,000
+(
+)
+Affective Tests: Screeners for Consumer Studies—Focus Group, CLT, and HUT
+295

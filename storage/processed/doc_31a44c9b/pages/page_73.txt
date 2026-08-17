@@ -1,0 +1,46 @@
+Compared with difference testing, scaling is a more informative—and therefore a more
+useful—form of recording the intensity of perception. As with ranking, the results are
+critically dependent on how well the panelists have been familiarized with the attribute
+under test and with the scale being used. In this respect, three different philosophies have
+been applied (Mun˜oz and Civille 1998):
+† Universal scaling, in which panelists consider all products and intensities they
+have experienced as their highest intensity reference point (example: the Spec-
+trum aromatics scale uses the cinnamon impact of Big Red chewing gum as a 13
+in intensity on a 15-point scale).
+† Product-speciﬁc scaling, in which panelists consider only their experience within
+the selected product category in setting their highest reference point (example:
+the vanilla impact of typical vanilla cookies was set at 10 on a 15-point product
+speciﬁc scale).
+† Attribute-speciﬁc scaling, in which panelists consider their experience of the
+selected attribute across all products in setting their highest reference point
+(example: a speciﬁc toothpaste is assigned the top value of 13 for the peppermint
+aromatic in any product).
+A common problem with scales is that panelists tend to use only the middle section. For
+example, if ciders are judged for intensity of “appley” ﬂavor on a scale of 0–9, subjects will
+avoid the numbers 0, 1, and 2 because they tend to keep these in reserve for hypothetical
+samples of very low intensity, which may never come. Likewise, the numbers 7, 8, and 9
+are avoided in anticipation of future samples of very high intensity, which may never
+come. The result is that the scale is distorted. For example, a cider of outstanding apple
+intensity may be rated 6.8 by the panel while a cider that is only just above the average
+may receive a 6.2.
+Although the properties of data obtained from any response scale may vary with the
+circumstances of the test (e.g., experience of judges in the test, familiarity of the attribute),
+it is typically assumed that:
+† Category scaling (ISO term: rating) yields ordinal or interval data;
+† Line scaling (ISO term: scoring) yields interval data;
+† Magnitude estimation scaling (often called ratio scaling) sometimes, but not
+always, yields ratio data.
+5.6.1
+Category Scaling
+A category (or partition) scale is a method of measurement in which the subject is
+asked to “rate” the intensity of a particular stimulus by assigning it a value (category)
+on a limited, usually numerical, scale. Category scale data are generally considered
+to be at least ordinal-level data. They do not generally provide values that measure the
+degree (how much) one sample is more than another. On a 7-point category
+scale for hardness, a product rated a 6 is not necessarily twice as hard as a product
+with a 3 hardness rating. The hardness difference between 3 and 6 may not be the
+same as that between 6 and 9. Although attempts are made to encourage panelists to
+use all intervals as equal, panelists may also tend to use the categories with equal
+frequency, except that they usually avoid the use of the two scale endpoints to
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+56

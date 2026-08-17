@@ -1,0 +1,49 @@
+The most frequently used methods of measuring sensory response to a sample are, in
+order of increasing complexity:
+† Classiﬁcation: The items evaluated are sorted into groups which differ in a
+nominal manner, e.g., marbles sorted by color.
+† Grading: Time-honored methods used in commerce which depend on expert
+graders who learn their craft from other graders, e.g., “USDA Choice” grade
+of meat.
+† Ranking: The samples (usually three to seven) are arranged in order of intensity
+or degree of some speciﬁed attribute; the scale used is ordinal.
+† Scaling: The subjects judge the sample by reference to a scale of numbers (often
+from 0 to 10) that they have been trained to use; category scaling yields ordinal
+data or sometimes interval data, line scales usually yield interval data, and
+magnitude estimation, although designed to yield ratio data, in practice seems
+to produce mixed interval/ratio data.
+A further method, the use of odor units based on thresholds, will be discussed in
+Chapter 8. In choosing among these methods and training the panel to use them, the
+practicing panel leader needs to understand and then address the two major sources of
+variation in panel data: (1) the differences in the perceptions of test subjects to the stimulus
+and (2) the differences in the expression of those perceptions by the subjects (see Chapter 1).
+Actual differences in perception are part of the considerable variability in sensory
+data that sensory analysts learn to live with and psychophysicists learn to measure.
+Sensory thresholds vary from one person to another (Pangborn 1981; Doty and Laing
+2003). Meilgaard (1993), in a study of difference thresholds for substances added to
+beer, found that panels of 20 trained tasters tend to contain two who exhibit a threshold
+four times lower than the median for the panel, and two who exhibit threshold ﬁve
+times higher than the median. For panels of 200C healthy but untrained individuals,
+Amoore (1977), who studied solutions of pure compounds in water, found differences
+of 1000-fold between the most and the least sensitive, excluding anosmics. It follows
+that the verdict of a small panel of four or seven people can be highly variant with
+respect to the general population, hence the tendency in this book to recommend panel
+sizes of 20–30, or preferably many more. A small panel is representative only of itself or the
+population it was speciﬁcally screened to represent.
+The second source of variation, the way in which the subjects express a given sensory
+impression, can be many times greater again, but luckily it can be minimized by thorough
+training and by careful selection of the terminology and scaling techniques provided to
+panelists. The literature is replete with examples of sensory verdicts that can only be
+explained by assuming that many panel members were quite “at sea” during the test:
+they probably did perceive the attribute under study, but they did not have a clear picture
+in their mind of what aspect they were asked to measure and/or they were unfamiliar
+with the mechanics of the test and/or they did understand how to express the impression.
+In choosing a way of measuring responses, the sensory analyst should generally select
+the simplest sensory method that will measure the expected differences between the
+samples, thus minimizing panel training time. Occasionally, a more complex method
+will be used that uses more terminology and more sophisticated scales, thus requiring
+more training and evaluation time. For example, there may be sample differences that
+were not taken into account at the planning stage and that would have been missed with
+the simpler method. Overall training time may end up being less, because once the panel
+Measuring Responses
+47

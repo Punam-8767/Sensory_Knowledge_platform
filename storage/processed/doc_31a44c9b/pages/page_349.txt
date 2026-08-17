@@ -1,0 +1,54 @@
+The value of c2 in Equation 13.10 is compared to the upper-a critical value of a
+c2-distribution with (rK1)(cK1) degrees of freedom. If the analyst chooses aZ0.10
+(i.e., 10% signiﬁcance level), then the critical value c2
+0.10,1Z2.71 (from Table 17.5).
+Because c2Z5.39Oc2
+0.10,1Z2.71, the analyst concludes at the 10% signiﬁcance level that
+product A is not equally preferred over product B in both regions. Regional formulations
+may have to be considered.
+13.3.5
+Calculating Sample Sizes in Discrimination Tests
+The sample size required for a discrimination test is a function of the test sensitivity
+parameters, a, b, and pd, or in the case of directional difference tests, pmax. Table 17.7,
+Table 17.9, Table 17.11, and Table 17.13 can be used to ﬁnd sample sizes for commonly
+chosen values of the parameters. Alternatively, researchers can use a spreadsheet to
+perform the necessary calculations. The “Test Sensitivity Analyzer” has been developed
+in Microsoft Excel to allow researchers to study how various choices of a, b, and pd (or pmax)
+affect the sample size and the number of correct responses necessary to claim that a
+difference exists or that the samples are similar (see Figure 13.9). The Test Sensitivity
+Analyzer does this indirectly by letting the researcher choose values for the same size,
+n, the number of correct responses, x, and the maximum allowable proportion of distin-
+guishers, pd. (Although pd is not meaningful in a directional difference test, the value of
+pmax is computed based on the value entered for pd.) The Test Sensitivity Analyzer then
+computes values for a and b. By adjusting the values of n, x, and pd, the researcher can ﬁnd
+the set of values that provides the best compromise between test sensitivity and
+available resources.
+The binomial distribution, upon which discrimination tests are based, is a discrete
+probability distribution. Only integer values for the sample size, n, and the number of
+correct responses, x, are valid. Small changes in n and x can have large impacts on the
+probabilities a and b, particularly for small values of n. Generally, it is not possible to select
+values of n, x, and pd (or pmax) that yield values for a and b that are exactly equal to their
+target values. Instead, the researcher must select values for n, x, and pd (or pmax) that yield
+values for a and b that are close to their targets.
+As illustrated in Figure 13.9, the researcher wants to conduct a duo–trio test for simi-
+larity with the following target sensitivity values: aZ0.25, bZ0.10, and pdZ25%. Strictly
+speaking, the values of n and x should be chosen so that both a and b are no greater than
+their target values. However, the researcher only has access to 60 assessors. Setting nZ60,
+the researcher ﬁnds that xZ33 correct responses yields values for a and b that are quite
+close to their targets, although the value for aZ0.26 is slightly larger than desired.
+By adjusting n and x, the researcher ﬁnds that nZ67 assessors with xZ37 correct responses
+would be needed to yield values for a and b that are both at or below their targets.
+The researcher decides that the 60-assessor test is adequate, given that is the maximum
+number of assessors available and that the a-risk is only 1% greater than the target value.
+The Test Sensitivity Analyzer is a useful tool for planning discrimination tests.
+Researchers quickly can run a variety of scenarios with different values of n, x, and pd
+(or pmax) to observe the resulting impacts on a-risk and b-risk, selecting the values that
+offer the best compromise solution. The Test Sensitivity Analyzer can be programmed in
+Excel by making the entries in the cells indicated in Table 13.8. The explanatory text is
+entered in the appropriate cells, using fonts and sizes necessary to achieve the desired
+visual effect.
+In testing for similarity or in the uniﬁed approach, the number of correct responses, x,
+should not be chosen to be less than the number that would be expected by chance alone
+(e.g., n/3 in a triangle test, n/2 in a duo–trio test, etc.). Such values correspond to negative
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+332

@@ -1,0 +1,134 @@
+map in terms of DIM1, DIM2, etc. often turns off the less technical members of the project
+team, and consequently the information is not used as fully as it could be. However, names
+put boundaries on the dimensions. If an important attribute is not mentioned in the name
+of the dimension, users of the information may forget that it plays any role at all. To have
+the broadest appeal to both the technical and the nontechnical users of the perceptual
+mapping results, naming the dimensions is preferred. However, it is important to stress
+that the names are not comprehensive summaries of all of the attributes involved. A table
+like Table 14.4, in which the factor loadings (OG0.6) of the attributes have been replaced
+with their signs, is a good way to illustrate all of the attributes that play signiﬁcant roles on
+the sensory dimensions.
+The relationships among the attributes and the products can now be illustrated on the
+perceptual map. Figure 14.15 shows the relationships of the attributes and the test
+products on the ﬁrst two sensory dimensions. It can be seen, for example, that product
+B is high in sauce clarity and low in sauce viscosity and spiciness, whereas products H and
+I are higher in sauce viscosity and spicy ﬂavor and lower in sauce clarity. Products D, E,
+and F are high in nonnatural meat ﬂavor and low in size and ﬁrmness of meat, potato, and
+vegetable pieces, and vegetable ﬂavors. Products A, C, and G are high in “meat identity”
+TABLE 14.4
+Factor Loadings of the Sensory Attributes Are Arranged in Decreasing
+Order by Factor
+Attribute
+Wholesomeness
+Sauce: Clear to
+Viscous
+Oiliness
+FL meat identity
+0.90
+—
+—
+FL brothy
+0.87
+—
+—
+TXT meat ﬁrm
+0.84
+—
+—
+APP potato size
+0.82
+—
+—
+APP green herb AMT
+0.80
+—
+—
+FL carrot
+0.79
+—
+—
+APP solid size
+0.79
+—
+—
+TXT potato ﬁrm
+0.78
+—
+—
+FL celery
+0.77
+0.62
+—
+FL wheat
+0.75
+—
+—
+TXT vegetable ﬁrm
+0.74
+—
+—
+FL green herbs
+0.72
+0.64
+—
+FL meat nonnatural
+K0.86
+—
+—
+TXT viscosity
+—
+0.89
+—
+FL black pepper
+—
+0.89
+—
+FL sour
+—
+0.87
+—
+FL ﬁller
+—
+0.86
+—
+FL spice blend
+—
+0.85
+—
+FL bitter
+—
+0.85
+—
+APP solid AMT
+—
+0.75
+—
+FL onion
+0.65
+0.70
+—
+APP sauce clarity
+—
+K0.92
+—
+APP surface oil
+—
+—
+0.92
+TXT oily MF
+—
+—
+0.88
+FL salty
+—
+—
+—
+APP potato AMT
+—
+—
+—
+Only loadings greater than G0.6 are displayed. Factor loadings are similar to correlation
+coefﬁcients. Values close to G1.0 are important. The attributes with large loadings on a factor
+help to interpret the sensory variability that the factor is explaining.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+384

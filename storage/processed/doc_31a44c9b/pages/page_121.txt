@@ -1,0 +1,50 @@
+The equations of the two lines that form the boundaries of the acceptance, rejection, and
+continue-testing regions are
+d0 ZK2:59 C0:60n
+d1 Z 2:59 C0:60n
+These lines are plotted in Figure 6.21 along with the cumulative number of correct duo–
+trio responses for each of the three stored samples (see Table 6.5). The sample stored
+1 day is declared similar to the control. The sample stored for 5 days is declared signi-
+ﬁcantly different from the control. The sample stored for 3 days had not been declared
+signiﬁcantly similar to nor different from the control after 30 trials.
+Interpret results: The project leader receives the decisive results for 1-day and 5-day
+samples and is informed that the result for the 3-day samples is indecisive after 30 tests.
+He can accept 3 days as the speciﬁcation or choose to continue testing until a ﬁrm
+decision results.
+References
+P. Arents, C.A.A. Duineveld, and B. King. 2002. Sensory Equivalence Testing—The Reversed Null
+Hypothesis and the Size of a Difference that Matters, 6th Sensometrics Meeting, Dortmund,
+Germany.
+ASTM. 2004. “Standard test method E1885-04,” in Standard Test Method for Sensory Analysis—Triangle
+Test, West Conshohocken, PA: ASTM International.
+L.B. Aust, M.C. Gacula, S.A. Beard, and R.W. Washam. 1985. “Degree of difference test method in
+sensory evaluation of heterogeneous product types,” Journal of Food Science, 50: 511–513.
+J. Bi. 2005. “Similarity testing in sensory and consumer research,” Food Quality and Preference,
+16: 139–149.
+R.A. Bradley. 1953. “Some statistical methods in taste testing and quality evaluation,” Biometrics,
+9: 22–38.
+W.J. Conover. 1980. Practical Nonparametric Statistics, New York: Wiley.
+C.W. Dunnett. 1955. “A multiple comparison procedure for comparing several treatments with a
+control,” Journal of the American Statistical Association, 50: 1096–1121.
+C.W. Dunnett. 1984. “New tables for multiple comparisons with a control,” Biometrics, 20: 482–491.
+ISO. 1987. Sensory Analysis—Methodology—“A”—“not A” Test, International Organization for
+Standardization, ISO Standard 8588. Available from ISO, 1 rue Varembe´, CH 1211 Ge´ne`ve 20,
+Switzerland, or from ANSI, New York, fax 212-302-1286.
+ISO. 2004a. Sensory Analysis—Methodology—Duo–trio Test, International Organization for Standard-
+ization, ISO Standard 10399, Available from ISO, 1 rue Varembe´, CH 1211 Ge´ne`ve 20,
+Switzerland, or from ANSI, New York, fax, 212-302-1286.
+ISO. 2004b. Sensory Analysis—Methodology—Sequential Tests, International Organization for
+Standardization, ISO Standard 16820, Available from ISO, 1 rue Varembe´, CH 1211 Ge´ne`ve
+20, Switzerland, or from ANSI, New York, fax 212-302-1286.
+ISO. 2004c. Sensory Analysis—Methodology—Triangle Test, International Organization for Standardi-
+zation, ISO Standard 4120, Available from ISO, 1 rue Varembe´, CH 1211 Ge´ne`ve 20, Switzerland,
+or from ANSI, New York, fax 212-302-1286.
+C.R. Rao. 1950. “Sequential tests of null hypothesis,” Sankhya, 10: 361.
+K. Sauerhoff, T. Gualtieri, K. Brumbaugh, and D. Craig-Petsinger. 2005. The Application of Equivalence
+Testing to Consumer Research Where the Objective is Parity, 6th Pangborn Sensory Science Sym-
+posium, Harrogate, UK.
+A. Wald. 1947. Sequential Analysis, New York: Wiley.
+W.J. Westlake. 1972. “Use of conﬁdence intervals in analysis of comparative bioavailability trials,”
+Journal of Pharmaceutical Sciences, 61: 1340–1341.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+104

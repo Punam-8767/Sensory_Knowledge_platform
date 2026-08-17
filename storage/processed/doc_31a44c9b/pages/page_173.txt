@@ -1,0 +1,75 @@
+and standard deviation. Panelists can then determine how well the individual means
+agree with that of the panel as a whole (bias). In addition, the panelist’s standard deviation
+provides an indication of that panelist’s reliability (variability) on that attribute. Data for
+two or three products or samples over three to ﬁve evaluations should be shown to pane-
+lists on a regular basis, e.g., every three to four months. Plots of judge-by-sample
+interaction, such as those shown in Figure 9.2, may also be shown to panelists to demon-
+strate both the general agreement among all the panelists and the performance of each
+panelist relative to the others.
+In addition to the psychological rewards derived from feedback, panelists also respond
+positively and are further motivated to participate enthusiastically by a recognition
+and/or reward system. The presentation of certiﬁcates of achievement for:
+† High panel attendance
+† High panel performance
+15
+12
+9
+6
+3
+0
+Attribute intensity
+Sample A
+Sample B
+Judge
+numbers
+7
+6
+3
+4
+8
+9
+2
+5
+1
+15
+12
+9
+6
+3
+0
+Sample A
+Attribute intensity
+Sample B
+Judge
+numbers
+7
+38
+9
+2
+1
+5
+4
+6
+15
+12
+9
+6
+3
+0
+Attribute intensity
+Sample A
+Sample B
+Judge
+numbers
+7
+3
+8
+9
+2
+1
+5
+46
+FIGURE 9.2
+Judge and sample interaction plots (see text).
+Sensory Evaluation Techniques, 4th Ed., Ch. 9
+156

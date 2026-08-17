@@ -1,0 +1,46 @@
+2. Without a modulus: Taste the ﬁrst cookie; assign any number to the “crispness” of
+that cookie. Rate the crispness of all other samples in proportion to the rating
+given the ﬁrst sample.
+Sample 928 _____ (ﬁrst sample)
+Sample 549 _____
+Sample 306 _____
+The results are evaluated as described by Moskowitz (1977) and ISO (1994). Alternative
+methods of evaluation are reviewed by Butler et al. (1987) and Lawless (1989).
+5.6.3.1
+Magnitude Estimation vs. Category Scaling
+A good discussion of the advantages and disadvantages of the two methods is given by
+Pangborn (1984). The data produced by magnitude estimation (ME) have ratio proper-
+ties, similar to the standard forms of technical measurement (length, weight, volume,
+etc.). ME get around the problem that panelists avoid the ends of scales so as to leave
+room for another stimulus. Adherents of ME also cite the fact that users of category
+scaling (CS) must spend time and effort on preparation of standards and on teaching the
+panel to use them. Those favoring CS note that ME is incapable of providing stable and
+reproducible values for ﬂavor intensity. In practice, ME panelists require a good deal of
+training if they are to use the method with any facility; many judges rate in “nickles and
+dimes” using whole and half numbers or preferring the 10s or 5s in a series such as 15,
+20, 25, etc., and they have trouble thinking in pure ratio terms such as “six times
+stronger” or “1.3 times weaker.” In a number of applications (Powers et al. 1981;
+Giovanni and Pangborn 1983; Pearce et al. 1986; Lawless and Malone 1986), ME has
+provided no greater discrimination than CS. Furthermore, ME is less suitable for
+scaling degree of liking (Pangborn, Guinard, and Meiselman 1989). Where ME does
+offer more points of discrimination and separation is in academic applications with
+few judges (20 or less) studying a unidimensional system such as sucrose in water,
+one aromatic chemical in a diluents, or one increasing tone.
+5.6.3.2
+Magnitude Matching (Cross-Modality Matching)
+In this technique, subjects match the intensity of attribute 1, such as the sourness of acid
+solutions, to the intensity of another attribute 2, such as the loudness of 1000-Hz tones. If
+the two intensities are governed by the functions
+R1 Z k1Cn1
+1 ; or log R1 Z log k1 Cn1 log C1
+and
+R2 Z k2Cn2
+1 or log R2 Z log k2 Cn2 log C2;
+matching the functions gives
+log k1 Cn1 log C1 Z log k2 Cn2 log C2
+or
+log C1 Z n2
+n1
+log C2 plus a constant:
+Measuring Responses
+59

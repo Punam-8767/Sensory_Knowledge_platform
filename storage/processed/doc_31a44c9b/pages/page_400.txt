@@ -1,0 +1,55 @@
+view. After reviewing the results with the sensory analyst and the product developer, a
+three-dimensional solution was chosen.
+The three dimensions can be interpreted by examining the factor loading of the attributes
+on each dimension. Factor loadings are similar to correlation coefﬁcients. They range in
+value from K1 to C1. Values close to either extreme indicate a strong association between
+the attribute and the dimension. Small values (!G0.6, for example) indicate a weak associ-
+ation. Focusing on the larger factor loadings helps in the interpretation of each dimension.
+Examination of the factor loadings in Table 14.4 reveals that the ﬁrst sensory dimension
+deals, in general, with the overall “wholesomeness” of the products. On the ﬁrst dimen-
+sion, the products range from those that are high in nonnatural meat ﬂavor to those that
+are high in meat identity with lots of large and ﬁrm meat, potato, and vegetable pieces, and
+high intensities of green herb, carrot, and celery ﬂavors.
+The second sensory dimension is a combination of sauce appearance and texture and
+spiciness. Products range from those with thin and clear sauces to products with viscous
+sauces. The products with viscous sauces also tend to be high in spicy/black pepper
+character. For brevity, the second dimension will be call “sauce: clear to viscous.” The third
+sensory dimension clearly capturesthe differencesin the perceived “oiliness” of the products.
+This brings up an important point of caution regarding perceptual mapping. The dimen-
+sions that emerge on the map are based on the correlations that exist among the sensory
+attributes that are included in the analysis. Some of these correlations may be inherent in the
+product category. For example, it may be natural in this category for the thinner sauces to
+have higher clarity and for the thicker sauces to be more translucent or opaque. However,
+some of the correlations may be strictly coincidental, resulting only from the speciﬁc set of
+products that were included in the analysis. For example, thick, translucent sauces do not
+have to be high in spicy and black pepper notes. When interpreting the sensory dimensions,
+it is important to distinguish between the relationships that are inherent to the product
+category from those that are coincidental to the products that were included in the study.
+Naming the sensory dimensions has both good and bad effects. Names aid in interpre-
+tation and add a comforting level of familiarity to the results. Referring to the perceptual
+16
+14
+12
+10
+8
+6
+4
+2
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Number of factors
+Eigenvalue
+FIGURE 14.14
+A scree plot of the eigenvalues from the PCA can help decide how many factors to include on the perceptual map.
+Advanced Statistical Methods
+383

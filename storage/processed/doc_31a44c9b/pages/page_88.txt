@@ -1,0 +1,51 @@
+Interpret results: The analyst informs the project manager that the test resulted in 21
+correct selections out of 66, indicating with 99% conﬁdence that the proportion of the
+population who can perceive a difference is less than 30% and probably much lower.
+The alternate supplier’s product can be accepted.
+Conﬁdence limits on pd: If desired, analysts can calculate conﬁdence limits on the
+proportion of the population that can distinguish the samples. The calculations are as
+follows,
+pcðproportion correctÞ Z c=n
+pdðproportion distinguishersÞ Z 1:5pcK0:5
+sdðstandard deviation of pdÞ Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+pcð1KpcÞ=n
+p
+one - sided upper confidence limit Z pd Czbsd
+one - sided lower confidence limit Z pdKzasd;
+where c is the number of correct responses, n is the total number of assessors, and za
+and zb are critical values of the standard normal distribution. Commonly used values
+of z for one-sided conﬁdence limits include:
+Conﬁdence Level (%)
+z
+75
+0.674
+80
+0.842
+85
+1.036
+90
+1.282
+95
+1.645
+99
+2.326
+For the data in the example, the upper 99% one-sided conﬁdence limit on the proportion
+of distinguishers is calculated as:
+pmax Z pd Czbsd Z ½1:5ð21=66ÞK0:5	 Cð2:326Þð1:5Þ ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð21=66Þð1Kð21=66ÞÞ=66
+p
+Z ½–0:023	 C2:326ð1:5Þð0:05733Þ
+Z 0:177 or 18%;
+whereas the lower 80% one-sided conﬁdence limit falls at
+pmin Z pdKzasd Z ½K0:023	K0:842ð1:5Þð0:05733Þ
+ZK0:095 ði:e:; 0:0; it cannot be negativeÞ;
+or, in other words, the sensory analyst is 99% sure that the true proportion of the popu-
+lation that can distinguish the samples is no greater than 18% and may be as low as 0%.*
+* Uniﬁed approach vs. similarity tables—Notice that the uniﬁed approach used in this fourth edition does not
+include similarity tables such as those found in the second edition. As the present example illustrates, Table 17.8
+merely shows that proof of similarity exists. To learn how strong the evidence of similarity is, i.e., that “pd is no
+greater than 18% and may be as low as 0%,”the analyst needs to calculate the conﬁdence limits. See Section 13.2.3
+for the derivation of conﬁdence intervals.
+Overall Difference Tests: Triangle Test
+71

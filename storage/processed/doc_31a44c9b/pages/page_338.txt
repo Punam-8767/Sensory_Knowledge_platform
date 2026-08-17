@@ -1,0 +1,47 @@
+The researcher may conclude, with 95% conﬁdence, that the true proportion of the
+population that prefers sample A lies between 49.4% and 65.2%. Conﬁdence intervals
+on proportions can also be depicted graphically as in Figure 13.6, where 95% two-tailed
+conﬁdence intervals have been added to the data summarized in Figure 13.4.
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+Atlanta
+Boston
+Chicago
+Denver
+City
+Overall liking
+FIGURE 13.5
+Average overall liking scores with 95% conﬁdence intervals from the multicity consumer test data in Table 13.1.
+Note the large degree of overlap among Atlanta, Boston, and Denver compared to the much lower average value
+for Chicago.
+100
+80
+60
+40
+20
+0
+A
+B
+C
+D
+City
+Preference (%)
+FIGURE 13.6
+Bar chart of the preference results including 95% conﬁ-
+dence intervals of a two-sample study conducted in four
+cities. Conﬁdence intervals that overlap 50% indicate that
+no signiﬁcant preference exists in that city (aZ0.05).
+Conﬁdence intervals from two cities that do not overlap
+indicate roughly that the two cities differ in their degree
+of preference for the product.
+Basic Statistical Methods
+321

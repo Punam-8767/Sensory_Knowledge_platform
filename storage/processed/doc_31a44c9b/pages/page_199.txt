@@ -1,0 +1,67 @@
+10.4.6
+Free-Choice Proﬁling
+Free-choice proﬁling was developed by Williams and Arnold (1984) at the Agricultural and
+Food Council (U.K.) as a solution to the problem of consumers’ using different terms for a
+given attribute. Free-choice proﬁling allows the panelist to invent and use as many terms as
+he or she needs to describe the sensory characteristics of a set of samples (Marshall and
+Kirby 1988; Guy, Piggott, and Marie 1989; Oreskovich, Klein, and Sutherland 1991). The
+samples are all from the same category of products, and the panelist develops his or her own
+scoresheet. The data are analyzed by generalized Procrustes analysis (Gower 1975), a multi-
+variate technique that adjusts for the use of different parts of the scale by different panelists
+and then manipulates the data to combine terms that appear to measure the same charac-
+teristic. These combined terms provide a single product proﬁle.
+Research comparing free-choice proﬁling and other descriptive techniques is currently
+being conducted. The main advantage of the new technique is that it saves time by not
+requiring any training of the panelists other than an hour’s instruction in the use of the
+TABLE 10.1
+Time–Intensity Data for Three Sweeteners
+7.5% Sucrose
+0.05%
+0.4%
+7.5%
+Parameter
+(Conditioning Sample)
+Aspartame
+Acesulfam-K
+Sucrose
+Area under the curve,
+cm2
+121.2
+153.7
+98.6
+154.2
+Maximum intensity, Imax
+7.2
+7.6
+7.8
+7.6
+Time of maximum
+intensity, tmax, s
+7.4
+8.2
+4.8
+6.2
+Duration, s
+28.3
+33.3
+24.7
+33.4
+Example time–intensity curve
+illustrating calculated curve parameters
+Imax
+Tmax
+T.5m
+Imax
+2
+Time
+Dur
+AUC
+0
+0
+FIGURE 10.1
+Example of a time–intensity curve illustrating calculated curve parameters. Imax, the maximum observed inten-
+sity; Tmax, the time when the maximum intensity occurs; AUC, the area under the curve; Dur, the intensity
+duration: the time until the intensity drops back to zero; T.5m, the time (after Tmax) when intensity has fallen to
+half of Imax.
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+182

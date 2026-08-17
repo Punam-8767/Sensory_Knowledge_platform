@@ -1,0 +1,53 @@
+the changes in overall liking that result from varying the remaining dimension from its
+low to its high level. Repeat the process for all of the signiﬁcant sensory dimensions.
+Figure 14.18 reveals that the “wholesomeness” dimension has a strong positive impact
+on overall liking—higher levels are preferred. The “sauce: clear to viscous” dimension also
+has a signiﬁcant impact on overall liking. A medium-high level of this dimension is most
+well-liked. The line for the “oiliness” dimension is ﬂat, indicating that this dimension has
+no signiﬁcant impact on liking.
+The predicted liking ratings for any point on the preference map can be illustrated in a
+contour plot (discussed in Section 14.4) (see Figure 14.19). Also included in the ﬁgure is the
+convex hull formed by the test products. The convex hull represents the limits of the
+product space. Predictions of points that fall outside of the product space are extrapol-
+ations and should be viewed with caution. Although the regression model may indicate
+that moving farther in a certain direction should have a positive impact on liking, because
+there are no data for points outside of the product space, there is no way to tell how far the
+trend continues. The predicted values for points outside of the product space could be
+quite unreliable.
+The point that is predicted to be most well-liked is identiﬁed in Figure 14.19 as the
+“target” product. When the target lies on the edge of the product space, as it does in this
+example, the direction of increasing liking that is indicated by the regression model can be
+denoted as an area of opportunity. No predicted liking values are given, but the analysis
+does indicate that this area may deserve some additional exploration.
+14.3.2.4
+Reverse Engineering the Proﬁle of the Target Product
+At the same time as the regression models for the overall liking data are developed,
+regression models that use the factor scores of the samples to predict the original
+sensory attributes are built. Only the linear terms are included in the models and no
+variable selection procedures are applied, so each sensory attribute is predicted by all of
+the sensory dimensions. The factor scores that correspond to the target product are
+plugged into the models for the individual sensory attributes to obtain the sensory
+proﬁle that is predicted to correspond to the target product (see Table 14.5).
+7.5
+6.5
+5.5
+Overall liking
+Total respondent base
+Factor ranges
+A: "Wholesomeness"
+B: "Sauce: Clear to viscous"
+C: "Oily"
+Low
+Middle
+High
+C
+CA
+B
+B
+A
+FIGURE 14.18
+Perturbation chart of the key-drivers model for the total respondent base. “Wholesomeness” (A) and “sauce: clear
+to viscous” (B) are both equally important to overall liking. “Oily” (C) does not have a signiﬁcant impact on liking.
+The high level of “wholesomeness” and the medium-high level of “sauce: clear to viscous” are preferred.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+388

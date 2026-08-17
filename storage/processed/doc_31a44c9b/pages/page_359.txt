@@ -1,0 +1,121 @@
+If the value of the F-statistic calculated in Table 13.13 exceeds the critical value of an F with
+(tK1) and (bK1)(tK1) degrees of freedom (see Table 17.6), then the null hypothesis is
+rejected in favor of the alternative hypothesis.
+If the F-statistic in Table 13.13 is signiﬁcant, then multiple comparison procedures are
+applied to determine which samples have signiﬁcantly different average ratings. Fisher’s
+LSD for randomized (complete) block designs is
+LSD Z ta=2;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2MSE=b
+p
+;
+(13.13)
+where b is the number of blocks (typically judges) in the study and ta=2;dfE and MSE are as
+deﬁned previously.
+13.5.3.2
+Randomized Block Analysis of Rank Data
+If the data from a randomized block design are in the form of ranks, then a nonparametric
+analysis is performed using a Friedman-type statistic. The data are arranged as in
+Table 13.12, but instead of ratings, each row of the table contains the ranks assigned to
+the samples by each judge. The column totals at the bottom of Table 13.12 are the rank
+sums of the samples.
+TABLE 13.12
+Data Table for a Randomized (Complete) Block Design
+Samples
+Blocks
+(Judges)
+1
+2
+$
+$
+$
+t
+Row Total
+1
+x11
+x12
+$
+$
+$
+x1t
+x1$ZP
+t
+jZ1
+x1j
+2
+x21
+x22
+$
+$
+$
+x2t
+x2$ZP
+t
+jZ1
+x2j
+$
+$
+$
+$
+$
+$
+$
+$
+$
+B
+xb1
+xb2
+$
+$
+$
+xbt
+xb$ZP
+t
+iZj
+xbj
+Column
+total
+x$1ZP
+b
+iZ1
+xi1
+x$2ZP
+b
+iZ1
+xi2
+$
+$
+$
+x$tZP
+b
+iZ1
+xit
+TABLE 13.13
+ANOVA Table for Randomized Block Designs Using Ratings
+Source of
+Variability
+Degrees of
+Freedom
+Sum of
+Squares
+Mean
+Square
+F
+Total
+btK1
+SST
+Blocks
+(judges)
+bK1
+SSJ
+Samples
+dfsZtK1
+SSs
+MSsZSSs/dfs
+MSs/MSE
+Error
+dfEZ(bK1)(tK1)
+SSE
+MSEZSSE/dfE
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+342

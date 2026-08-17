@@ -1,0 +1,50 @@
+The direction of the axis deﬁned by each principal component, yi, is expressed as a linear
+combination of the observed variables, xj, as in:
+yi Z ai1x1 Cai2x2 C. Caipxp
+(14.1)
+The coefﬁcients, aij, are called weights or loading factors. They measure the importance of
+the original variables on each principal component. Like correlation coefﬁcients, aij takes
+on values between K1 and C1. Avalue close to K1 or C1 indicates that the corresponding
+variable has a large inﬂuence on the value of the principal component; values close to zero
+indicate that the corresponding variable has little inﬂuence on the principal component.
+Typically, groups of highly correlated observed variables segregate themselves into non-
+overlapping groups predominantly associated with a speciﬁc principal component.
+Examination of the loading factors reveals how the observed variables group together
+and may lead to a meaningful interpretation of the type of variability being summarized
+by each principal component. To further aid in interpretation, the principal component
+axes are sometimes rotated to increase their alignment with the axes of the original vari-
+ables. After rotation the ﬁrst principal component will no longer lie in the direction of
+maximum variability, followed by the second, etc., but the advantage gained by having a
+small number of interpretable latent variables offsets this effect.
+In addition to depicting the associations among the original variables, PCA can be used
+to display the relative “locations” of the samples. A plot of the principal component scores
+for a set of products can reveal groupings and polarizations of the samples that would not
+be as readily apparent in an examination of the larger number of original variables.
+Cooper, Earle, and Triggs (1989) used PCA to depict in two dimensions the relationship
+of 16 orange juice products originally evaluated on ten attributes (see Figure 14.4). In their
+analysis, the ﬁrst two principal components explained 79% of the original variability.
+Piggott and Sharman (1986) present additional examples. Powers (1988) presents numer-
+ous references of the application of PCA in descriptive analysis.
+PCA provides a way to summarize data collected on a large number of variables in fewer
+dimensions. It is tempting to ask if it is necessary to continue to evaluate all of the original
+variables as opposed to only a few “representative” ones. The number of original variables
+studied should not be reduced based on PCA results. As seen in Equation 14.1, each of
+1
+10
+0
+Eigenvalue
+2
+3
+4
+Principal component number
+5
+6
+7
+8
+9
+FIGURE 14.3
+A scree plot of the variability explained by each principal component used to determine how many principal
+components should be retained in a study. Only those principal components that are extracted before the plot
+ﬂattens out are retained.
+Advanced Statistical Methods
+361

@@ -1,0 +1,44 @@
+Preface
+How does one plan, execute, complete, analyze, interpret, and report sensory tests? Hope-
+fully, the practices and recommendations in this book cover all of those phases of sensory
+evaluation. The text is meant as a personal reference volume for food scientists, research
+and development scientists, cereal chemists, perfumers, and other professionals working
+in industry, academia, or government who need to conduct good sensory evaluation. The
+book should also supply useful background to marketing research, advertising, and legal
+professionals who need to understand the results of sensory evaluation. It could also give
+a sophisticated general reader the same understanding.
+Because the ﬁrst edition was used as a textbook at the university and professional levels,
+partly in courses taught by the authors, the second, third, and fourth editions incorporate a
+growing number of ideas and improvements arising out of questions from students. The
+objective of the book is now twofold. First, as a “how to” text for professionals, it aims for a
+clear and concise presentation of practical solutions, accepted methods, and standard
+practices. Second, as a textbook for courses at the academic level, it aims to provide just
+enough theoretical background to enable the student to understand which sensory
+methods are best suited to particular research problems and situations and how tests
+can best be implemented.
+The authors do not intend to devote text and readers’ time to resolving controversial
+issues, but a few had to be tackled. The second edition was the ﬁrst book to provide an
+adequate solution to the problem of similarity testing. This was adopted and further
+developed by ISO TC34/SC12 on Sensory Evaluation, resulting in the current “uniﬁed”
+procedure (Chapter 6, Section II, p. 60) in which the user’s choice of a- and b-risks deﬁnes
+whether difference or similarity is tested for. Another ﬁrst is the uniﬁed treatment of all
+ranking tests with the Friedman statistic in preference to Kramer’s tables.
+Chapter 11 on the Spectrume method of descriptive sensory analysis, developed by
+Civille, has been expanded. The philosophy behind Spectrum is threefold: (1) the test
+should be tailored to suit the objective of the study (and not to suit a prescribed
+format); (2) the choice of terminology and reference standards should make use not
+only of the senses and imagination of the panelists, but also of the accumulated experience
+of the sensory profession as recorded in the literature; and (3) a set of calibrated intensity
+scales is provided that permits different panels at different times and locations to obtain
+comparable and reproducible proﬁles. The chapter now contains full descriptive lexicons
+suitable for descriptive analysis of a number of products, e.g., cheese, mayonnaise,
+spaghetti sauce, white bread, cookies, and toothpaste. Also new is a set of revised ﬂavor
+intensity scales for attributes such as crispness, juiciness, and some common aromatics
+and two training exercises.
+The authors wish the book to be cohesive and readable; we have tried to substantiate our
+directions and organize each section so as to be meaningful. We do not want the book to be
+a turgid set of tables, lists, and ﬁgures. We hope we have provided structure to the
+methods, reason to the procedures, and coherence to the outcomes. Although our aim is
+to describe all tests in current use, we want this to be a reference book that can be read for
+understanding as well as a handbook that can serve to describe all major sensory evalu-
+ation practices.

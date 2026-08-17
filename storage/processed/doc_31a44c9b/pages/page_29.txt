@@ -1,0 +1,62 @@
+2.3
+The Human Senses
+The ﬁve senses are so well covered in textbooks (Piggott 1988; Kling and Riggs 1971;
+Sekuler and Blake 1990; Geldard 1972) that a description here is superﬂuous. Therefore,
+this discussion will be limited to pointing out some characteristics that are of particular
+importance in designing and evaluating sensory tests. A clear and brief account of the
+sensors and neural mechanisms that are used to perceive odor, taste, vision, and hearing,
+followed by a chapter on intercorrelation of the senses, is found in Basic Principles of
+Sensory Evaluation (ASTM 1968). Lawless and Heymann (1998) review what is known
+about sensory interaction within and between the sensory modalities.
+2.3.1
+The Sense of Vision
+Light entering the lens of the eye (see Figure 2.1) is focused on the retina where the rods
+and cones convert it to neural impulses that travel to the brain via the optic nerve. Some
+aspects of color perception that must be considered in sensory testing are:
+† Subjects often give consistent responses about an object color even when ﬁlters
+are used to mask differences (perhaps because the ﬁlters mask hues but not
+always brightness and chroma).
+† Subjects are inﬂuenced by adjoining or background color and the relative sizes of
+areas of contrasting color; blotchy appearance, as distinct from an even distri-
+bution of color, affects perception.
+Visual
+axis
+Anterior pole
+Cornea
+Incoming light
+Optic nerve
+fibers
+Inner synaptic
+layer
+Outer synaptic
+layer
+Cells bearing
+light sensitive
+cones and rods
+Pigmented
+epithelium
+Choroid
+Iris
+Ciliary
+muscle
+Lens
+Vitreous
+body
+Retina
+Choroid
+Sclera
+Fovea
+Section shown
+at right
+Posterior
+pole
+(a)
+(b)
+Optic
+nerve
+FIGURE 2.1
+The eye, showing the lens, retina, and optic nerve. The entrance of the optic nerve is the blind spot. The fovea is a
+small region, central to the retina, which is highly sensitive to detail and consists entirely of cones. (Modiﬁed from
+J.E. Hochberger. 1964. Perception, Englewood Cliffs, NJ: Prentice-Hall.)
+Sensory Evaluation Techniques, 4th Ed., Ch. 2
+12

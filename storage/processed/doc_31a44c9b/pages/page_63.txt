@@ -1,0 +1,22 @@
+Nominal scale
+Ordinal scale
+Interval scale
+Ratio scale
+6
+5
+4
+3
+2
+1
+0
+FIGURE 5.1
+Pictorial illustration of scales. The names of the three food items (apple, pear, banana) provide nominal data. In
+the example of ordinal data, three rye breads are ranked from greatest to least number of caraway seeds. The three
+beverages form an interval scale in that they are separated by constant intervals of one unit of sucrose. In the last
+example, two volatiles from three cups of coffee are measured on a GC, and it is established that the ﬁrst cup
+contains 3/4 of the volatiles of the second cup and only 1/2 of the volatiles of the third. Note that the illustration
+shows physical/chemical scales. A panelist’s sensory scales may be different; for example, the sweetness of sugar
+increases less from 4 to 5 lumps than it does from 3 to 4 lumps. (From A.V. Cardello and O. Maller. 1987.
+Objective Methods in Food Quality Assessment, J.G. Kapsalis, ed., Boca Raton, FL: CRC Press. With permission.)
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+46

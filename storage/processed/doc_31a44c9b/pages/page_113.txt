@@ -1,0 +1,238 @@
+the samples (i.e., the treatment effect of interest), and the unexplained variability that
+remains after the other two sources of variability have been accounted for (i.e., the experi-
+mental error).
+The F-statistic for samples is highly signiﬁcant (Table 17.6); F2,82Z127.0, p!0.0001.
+The F-statistic is a ratio: the mean square for samples divided by the mean square for
+error. The appropriate degrees of freedom are those associated with the mean squares in
+the numerator and denominator of the F-statistic (2 and 82, respectively). A Dunnett’s test
+TABLE 6.1
+Results from Example 6.12: Difference-from-Control Test—Analgesic Cream
+Judge
+Blind
+Control
+Product
+F
+Product
+N
+Judge
+Blind
+Control
+Product
+F
+Product N
+1
+1
+4
+5
+22
+3
+6
+7
+2
+4
+6
+6
+23
+3
+5
+6
+3
+1
+4
+6
+24
+4
+6
+6
+4
+4
+8
+7
+25
+0
+3
+3
+5
+2
+4
+3
+26
+2
+5
+1
+6
+1
+4
+5
+27
+2
+5
+5
+7
+3
+3
+6
+28
+2
+6
+4
+8
+0
+2
+4
+29
+3
+5
+6
+9
+6
+8
+9
+30
+1
+4
+7
+10
+7
+7
+9
+31
+4
+6
+7
+11
+0
+1
+2
+32
+1
+4
+5
+12
+1
+5
+6
+33
+3
+5
+5
+13
+4
+5
+7
+34
+1
+4
+4
+14
+1
+6
+5
+35
+4
+6
+5
+15
+4
+7
+6
+36
+2
+3
+6
+16
+2
+2
+5
+37
+3
+4
+6
+17
+2
+6
+7
+38
+0
+4
+4
+18
+4
+5
+7
+39
+4
+8
+7
+19
+0
+3
+4
+40
+0
+5
+6
+20
+5
+4
+5
+41
+1
+5
+5
+21
+2
+3
+3
+42
+3
+4
+4
+TABLE 6.2
+Analysis of Variance Table for Example 6.12: Difference-from-Control Test—Analgesic Cream
+Source
+Degrees of
+Freedom
+Sum of
+Squares
+Mean
+Square
+F
+p
+Total
+125
+545.78
+Judges
+41
+247.11
+6.03
+6.8
+0.0001
+Samples
+2
+225.78
+112.89
+127
+0.0001
+Error
+82
+72.89
+0.89
+Sample Means with Dunnett’s Multiple Comparisons
+Sample
+Blind control
+Product F
+Mean response
+2.4a
+4.8b
+Sample
+Blind control
+Product N
+Mean response
+2.4a
+5.5b
+Note:
+Within a row, means not followed by the same letter are signiﬁcantly different at the 95% conﬁdence level.
+Dunnett’s d0.05Z0.46. Product N is signiﬁcantly more different from the control than product F (LSD0.05Z0.4).
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+96

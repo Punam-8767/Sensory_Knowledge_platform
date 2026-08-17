@@ -1,0 +1,76 @@
+Analyze results: In the table below, the columns show how the samples were presented
+and the rows show how the subjects identiﬁed them:
+Subject Received
+A
+Not A
+Total
+Subject said
+A
+60
+35
+95
+Not A
+40
+65
+105
+Total
+100
+100
+200
+The c2-statistic is calculated as in Section 6.6:
+c2 Z ð60K47:5Þ2
+47:5
+C ð35K47:5Þ
+47:5
+C ð40K52:5Þ2
+52:5
+C ð65K52:5Þ2
+52:5
+Z 12:53;
+Taster no:
+Name:
+Type of sample:
+Sweetened beverage
+Date:
+1.
+Before taking this test, familiarize yourself
+with the flavor of the samples ''A'' and ''Not A''
+which are available from the attendant.
+2.
+Taste the test samples from left to right. After
+each sample, record your response below, rinse
+your palate with water, and wait one full minute
+between samples.
+Note:
+You have received approximately equal numbers of ''A''and
+''Not A'' samples.
+Sample
+Sample
+The sample is:
+The sample is:
+No.
+Code
+''A''
+''A''–''Not A'' Test
+''Not A''
+''Not A''
+No.
+Code
+''A''
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Test code
+Comments:
+Instructions
+FIGURE 6.16
+Scoresheet for “A”–“Not A” test. Example 6.11: new sweetener compared with sucrose.
+Overall Difference Tests: “A”–“Not A” Test
+91

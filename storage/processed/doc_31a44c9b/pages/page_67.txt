@@ -1,0 +1,49 @@
+and 1. Weber’s law states, e.g., that the amount of an added ﬂavor that is just detectable
+depends upon the amount of that added ﬂavor that is already present. If k has been
+determined, one can calculate how much extra ﬂavorant is needed.
+The actual derivation of Fechner’s law,
+R Z k log C ðFechner’s lawÞ;
+(5.2)
+is complex and depends upon a number of assumptions, some of which may not hold
+(Norwich and Wong 1997). Support for Fechner’s law is provided by common category
+scaling. When panelists score a number of samples that vary along one dimension (for
+instance, sweetness) using a scale such as 0–9, the results plot out as a logarithmic curve
+similar to that of Figure 5.3. One tangible outcome of Fechner’s theories was a logarithmic
+scale of sound intensity, the Decibel scale.
+5.2.2
+Stevens’ Law
+S.S. Stevens, working at Harvard a century after Fechner, pointed out that if Equation 5.2
+were correct, a tone of 100 dB should only sound twice as loud as one of 50 dB. He then
+showed, with the aid of magnitude estimation scaling (see p. 58), that subjects found the
+100-dB tone to be 40 times as loud as the one of 50 dB (Stevens 1970). Stevens’ main
+contention (1957)—that perceived sensation magnitude grows as a power function of
+stimulus intensity—can be expressed mathematically as
+R Z k Cn ðStevens0 power lawÞ;
+(5.3)
+where k is a constant that depends upon the units in which R and C are measured, and n is
+the exponent of the power function, i.e., n is a measure of the rate of growth of perceived
+intensity as a function of stimulus intensity.
+Figure 5.4 shows power functions with nZ0.5, 1.0, and 1.5, and Table 5.1 lists typical
+exponents for a variety of sensory attributes. The ﬁnding that the exponent for visual
+length is 1.0, i.e., simple proportionality, has led to the common use of line scales for
+rating sensory intensity (Einstein 1976).
+When n is larger than 1.0, the perceived sensation grows faster than the stimulus; an
+extreme example is electric shock (Table 5.1). Conversely, when n is smaller than 1.0, as for
+many odors, the sensation grows more slowly than the stimulus, and a curve results that is
+superﬁcially similar to Figure 5.3.
+Stevens proposed that only ratio scales are valid for the measurement of perceived
+sensation, and his magnitude estimation scales are widely used in psychophysical labora-
+tories. However, many authors have pointed out (Cardello and Maller 1987) that for
+sensory evaluation of foods and fragrances, there are serious shortcomings. The exponents
+vary with the range of stimuli in the test and with the modulus used; worse yet, the
+exponents differ greatly among investigators and among individuals because of the
+subjects’ idiosyncratic use of numbers.
+5.2.3
+The Beidler Model
+The log function and the power function are merely mathematical equations that happen
+to ﬁt observed sensory data. There is nothing physiological about them. McBride (1987)
+has suggested that the equation below, that Beidler (1954, 1974) derived from animal
+experiments and the Michaelis–Menton equation for the kinetics of enzyme–substrate
+relationships in biological systems, can be used to describe human taste response.
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+50

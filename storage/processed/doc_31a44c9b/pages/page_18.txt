@@ -1,0 +1,37 @@
+1
+Introduction to Sensory Techniques
+1.1
+Introduction
+This introduction is in three parts. The ﬁrst part lists some reasons why sensory tests are
+performed and brieﬂy traces the history of their development. The second part introduces
+the basic approach of modern sensory analysis, which is to treat the panelists as measuring
+instruments. As such, they are highly variable and very prone to bias, but they are the only
+instruments that will measure what needs to be measured; therefore, the variability must
+be minimizes and the bias must be controlled by making full use of the best existing
+techniques in psychology and psychophysics. In the third part, a demonstration is
+provided of how these techniques are applied with the aid of seven practical steps.
+1.2
+Development of Sensory Testing
+Sensory tests, of course, have been conducted for as long as there have been human beings
+evaluating the goodness and badness of food, water, weapons, shelters, and everything
+else that can be used and consumed.
+The rise of trading inspired slightly more formal sensory testing. A buyer, hoping that a
+part would represent the whole, would test a small sample of a shipload. Sellers began to
+set their prices on the basis of an assessment of the quality of goods. With time, ritualistic
+schemes of grading wine, tea, coffee, butter, ﬁsh, and meat developed, some of which
+survive to this day.
+Grading gave rise to the professional taster and consultant to the budding industries of
+foods, beverages, and cosmetics in the early 1900s. A literature developed that used the
+term “organoleptic testing” (Pfenninger 1979) to denote supposedly objective measure-
+ment of sensory attributes. In reality, tests were often subjective, tasters too few, and
+interpretations open to prejudice.
+Pangborn (1964) traces the history of systematic “sensory” analysis that is based on
+wartime efforts of providing acceptable food to American forces (Dove 1946, 1947) and
+on the development of the triangle test in Scandinavia (Bengtsson and Helm 1946; Helm
+and Trolle 1946). A major role in the development of sensory testing was played by the
+Food Science Department at the University of California at Davis, resulting in the book by
+Amerine, Pangborn, and Roessler (1965).
+Scientists have only recently developed sensory testing as a formalized, structured, and
+codiﬁed methodology, and they continue to develop new methods and reﬁne existing
+ones. The current state of sensory techniques is recorded in the dedicated journals Chemical
+1

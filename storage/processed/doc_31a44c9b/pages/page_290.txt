@@ -1,0 +1,47 @@
+6. Place the overall question for preference or acceptance in the place on the
+scoresheet that will elicit the most considered response. In many cases, the
+overall acceptance is of primary importance, and analysts rightly tend to
+place it ﬁrst on the scoresheet. However, in cases where a consumer is
+asked several speciﬁc questions about appearance and/or aroma before the
+actual consumption of the product, it is necessary to wait until those attributes
+are evaluated and rated before addressing the total acceptance or preference
+question. Appendix 12.3 provides two examples of acceptance questionnaires.
+12.6.2.3
+Protocol Design
+Sensory tests are difﬁcult enough to control in a laboratory setting (see Chapter 3, Section
+2). Outside the laboratory, in a central location or home-use setting, the need for controls
+of test design, product handling, and subject/consumer selection is even greater. In
+developing and designing outside affective tests, the following guidelines are
+recommended:
+Test facility. In a central location test, the facility and test administrators must adhere to
+strict protocols regarding the size, ﬂexibility, location and environmental controls at each
+test site. The test should be conducted in locations that provide high access to the target
+population and subjects should be able to reach the test site easily.
+Based on the design of the study, consideration should be given to the ability of each
+facility to provide adequate space, privacy for each consumer/subject, proper environ-
+mental controls (lighting, noise control, odor control, etc.), space for product handling and
+preparation, and a sufﬁcient number of administrators and interviewers.
+Test administrators. The administrators are required to be both trained and experienced
+in the speciﬁc type of test design developed by the sensory analyst. In addition
+to familiarity with the test design, test administrators must be given a detailed set
+of instructions for the handling of questionnaires, subjects, and samples for a speciﬁc
+study.
+Test subjects. Each test site requires careful selection of subjects based on demographic
+criteria that deﬁne the population of interest (see Section 12.2). Once selected, subjects are
+made aware of the location, duration of the test, type and number of products to be tested,
+and type of payment. Consumers do not respond well to surprises regarding exactly what
+is expected of them.
+Screen samples. Prior to any affective test, samples must be screened to determine:
+† Exact sample source to be tested (bench, pilot plant, production, and code date)
+† The storage conditions under which samples are to be held and shipped
+† Packaging requirements for storage and shipping
+† Shipping method (air, truck, refrigerated, etc.)
+† Product sensory attributes using descriptive analysis for use in questionnaire
+design and in ﬁnal data interpretation for the study
+Sample handling. As part of the test protocol that is sent to the test site, detailed and
+speciﬁc instructions regarding storage, handling, preparation, and presentation of
+samples are imperative for proper test execution.
+Appendix 12.4 provides worksheets for the development of a protocol for an affective
+test, and an example of a completed protocol.
+Affective Tests: Affective Methods: Quantitative
+273

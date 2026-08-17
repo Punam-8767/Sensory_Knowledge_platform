@@ -1,0 +1,32 @@
+16
+Guidelines for Reporting Results
+16.1
+Introduction
+For the user of sensory results, the most important consideration is how much conﬁdence
+he or she can place in them. Two main factors determine this (Larmond 1981):
+1. Reliability: Would similar results be obtained if the test were repeated with the
+same panelists? With different panelists?
+2. Validity: How valid are the conclusions? Did the test measure what it was
+intended to measure?
+Because of the many opportunities for variability and bias resulting from the use of
+human subjects, reports of sensory tests must contain more detail than reports of physical
+or chemical measurements. It can be difﬁcult to decide how much information to include;
+the recommendations below are mainly those of Prell (1976) and the Sensory Evaluation
+Division of the Institute of Food Technologists (1981). Application of the suggested guide-
+lines is illustrated in the example at the end of this chapter.
+16.2
+Summary
+What information did the test provide? It is an important courtesy to the user not to oblige
+him or her to hunt through pages of text to discover the essence of the results. The
+conclusion is obvious to the sensory analyst and he or she should state it brieﬂy and
+concisely in the opening summary. The summary should not exceed 110 words
+(Prell 1976) and should answer the four whats:
+† What was the objective?
+† What was done?
+† What were the results?
+† What can be concluded?
+16.3
+Objective
+As reiterated many times in this book, a clearly written formulation of the project objective
+and the test objective is fundamental to the success of any sensory experiment. The report
+413

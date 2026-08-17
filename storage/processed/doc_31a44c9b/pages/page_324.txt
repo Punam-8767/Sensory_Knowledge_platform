@@ -1,0 +1,55 @@
+B. Protocol Design Example: Candy Bars
+1. Product Screening
+1. Test objective
+To determine the relative acceptance and attribute diagnostics for candy bars with different
+chocolate to peanut ratios and with some roast differences in peanuts
+2. Sample selection
+a. Variables
+color in peanuts
+b. Products/brands
+Screen 18 to 22 prototypes (experimental design) and 2 competitors;have
+descriptive data available to identify products with little or no differences from one another;
+choose 12 to 15 bars to test
+3. Reasons
+14 selected samples demonstrate differences in peanut/choclate balance and roast flavor intensity
+and crunchiness of nut pieces
+2. Sample Information
+1. Sample source
+Sample Conditions
+3. Sample Preparation
+Trial run prototype samples (3 oz); competitors from same age carefully
+stored lots
+3 months old
+Lancaster production; competitors from midwest distribution
+Ours L432-439; competition A419Q, 7425S
+All samples over wrapped in white foil wrappers(732 equipment
+Lancaster)
+Hold all foil wrapped samples for 3 weeks prior to test in boxes of 24 overwrapped in cellophane,
+at65˚, in 50% RHstoreroom prior to shipping to test site
+Ship all samples by truck in styrofoam chests to Indianapolis and Syracuse for test
+3. Other
+2. Sample Holding
+Age
+Place
+Code
+Packaging condition
+Total amount
+250 bars of each to each test site (150 needed)
+Other ingredient
+Temperature (storage or preparation)
+Preparation/reconstitution time
+Holding time
+None
+None
+None
+Containers
+Other
+Special instructions
+Do not handle bars any more than a few seconds to prevent melting and damage
+Use plastic plates
+Leave bars wrapped until just before presentation to subject; discard any broken, split, or pitted
+samples
+Keep at 65 to 75˚F
+Amount of standard 1050 coating on bar; amount of peanuts by weight; degree of roast
+Affective Tests: Protocol Design for Consumer Studies
+307

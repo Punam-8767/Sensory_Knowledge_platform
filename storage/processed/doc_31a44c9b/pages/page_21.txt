@@ -1,0 +1,51 @@
+2. Determine the test objective. Once the objective of the project can be clearly stated,
+the sensory analyst and the project leader can determine the test objective:
+overall difference, attribute difference, relative preference, acceptability, etc.
+Avoid attempting to answer too many questions in a single test. A good idea
+is for the sensory analyst and project leader to record, in writing, before the test is
+initiated the project objective, the test objective, and a brief statement of how the
+test results will be used.
+3. Screen the samples. During the discussion of project and test objectives, the
+sensory analyst should examine all of the sensory properties of the samples to
+be tested. This enables the sensory analyst to use test methods that take into
+account any sensory biases introduced by the samples. For example, visual cues
+(color, thickness, sheen) may inﬂuence overall difference responses, such as those
+provided in a triangle test, e.g., to measure differences due to sweetness of
+sucrose vs. aspartame. In such a case, an attribute test would be more appro-
+priate. In addition, product screening provides information on possible terms to
+be included in the scoresheet.
+4. Design the test. After deﬁning the project and test objectives and screening the
+samples, the sensory analyst can proceed to design the test. This involves selection
+of the test technique (see Chapter 6 through Chapter 8, Chapter 10 through
+Chapter 12, and Chapter 15); selecting and training subjects (see Chapter 9);
+designing the accompanying scoresheet (ballot, questionnaire); specifying the
+criteria for sample preparation and presentation (see Chapter 3); and determining
+how the data will be analyzed (see Chapter 13 and Chapter 14). Care must be
+taken, in each step, to adhere to the principles of statistical design of experiments
+to ensure that the most sensitive evaluation of the test objective is attained.
+5. Conduct the test. Even when technicians are used to carry out the test, the sensory
+analyst is responsible for ensuring that all the requirements of the test design
+are met.
+6. Analyze the data. Because the procedure for analysis of the data was determined at
+the test design stage, the necessary expertise and statistical programs, if used, will
+be ready to begin data analysis as soon as the study is completed. The data should
+be analyzed for the main treatment effect (test objective) as well as other test
+variables, such as order of presentation, time of day, different days, and/or
+subject variables such as age, sex, geographic area, etc.
+7. Interpret and report results. The initial clear statement of the project and test objec-
+tives will enable the sensory analyst to review the results, express them in terms of
+the stated objectives, and make any recommendations for action that may be
+warranted. The latter should be stated clearly and concisely in a written report
+that also summarizes the data, identiﬁes the samples, and states the number and
+qualiﬁcation of subjects (see Chapter 16).
+The main purpose of this book is to help the sensory analyst develop the methodology,
+subject pool, facilities, and test controls required to conduct analytical sensory tests with
+trained and/or experienced tasters. In addition, Chapter 12 discusses the organization of
+consumer tests, i.e., the use of naı¨ve consumers (nonanalytical) for large-scale evaluation,
+structured to represent the consumption and responses of a large population of the
+product market.
+The role of sensory evaluation is to provide valid and reliable information to R&D,
+production, and marketing in order for management to make sound business decisions
+about the perceived sensory properties of products. The ultimate goal of any sensory
+Sensory Evaluation Techniques, 4th Ed., Ch. 1
+4

@@ -1,0 +1,87 @@
+Example 12.4: Acceptance of Two Prototypes Relative to a Competitive
+Product—High-Fiber Breakfast Cereal
+Problem/situation. A major cereal manufacturer has decided to enter the high-ﬁber cereal
+market and has prepared two prototypes. Another major cereal producer already has a
+brand on the market that continues to grow in market share and leads among the high-
+ﬁber brands. The researcher needs to obtain acceptability ratings for his two prototypes
+compared to the leading brand.
+Project objective. To determine whether one or the other prototype enjoys sufﬁcient
+acceptance to be test marketed against the leading brand.
+Test objective. To measure the acceptability of the two prototypes and the market leader
+among users of high ﬁber cereals.
+Screen the samples. During a product review, several researchers, the brand marketing
+staff, and the sensory analyst taste the prototypes and competitive cereal that are to be
+submitted to a home-placement test.
+Test design. Each prototype is paired with the competitor in a separate sequential evalu-
+ation in which each product is used for one week. The prototypes and the competitive
+product are each ﬁrst evaluated in half of the test homes. Each of the 150 qualiﬁed subjects
+is asked to rate the products on the nine-point verbally anchored hedonic scale shown in
+Figure 12.2.
+Conduct test. One product (prototype or competition) is placed in the home of each
+prescreened subject for one week. After the questionnaire is completed and the ﬁrst
+product is removed, the second product is given to the subject to use for the second week.
+Thesecondquestionnaireandremainingsamplesarecollectedattheendofthesecondweek.
+Analyze results. Separate paired t-tests (see Chapter 13) are conducted for each prototype
+vs. the competition. The mean acceptability scores of the samples were as follows:
+Prototype
+Competition
+Difference
+Prototype 1
+6.6
+7.0
+K0.4
+Prototype 2
+7.0
+6.9
+C0.1
+Eight-point wonderful
+Six-point wonderful (unbalanced)
+Nine-point quartermaster (unbal.)
+Think it's wonderful
+Like it very much
+Think it's terrible
+Like it quite a bit
+Like it slightly
+Like strongly
+Like very well
+Like slightly
+Like fairly well
+Dislike it slightly
+Dislike slightly
+Dislike moderately
+Dislike intensely
+Dislike it quite a bit
+Dislike it very much
+Seven-point excellent
+Six-point excellent
+Five-point (unbalanced)
+Excellent
+Excellent
+Excellent
+Very good
+Very good
+Good
+Good
+Good
+Fair
+Fair
+Fair
+Poor
+Poor
+Poor
+Very poor
+Terrible
+Terrible
+Like moderately
+Like extremely
+Extremely good
+Wonderful, think it's great
+I like it very much
+I like it some what
+So-so, it's just fair
+I don't particularly like it
+I don't like it at all
+FIGURE 12.3
+Examples of hedonic scales that are unclear in balance or spacing.
+Affective Tests: Affective Methods: Quantitative
+277

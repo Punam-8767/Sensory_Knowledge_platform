@@ -1,0 +1,86 @@
+TABLE 15.1
+Types of Problems Encountered in Sensory Analysis
+Type of Problem
+Tests Applicable
+1. New product development: the product development team needs
+information on the sensory characteristics and also on consumer
+acceptability of experimental products as compared with existing
+products in the market
+All tests in this book
+2. Product matching: here, the accent is on proving that no difference
+exists between an existing and a developmental product
+Difference tests in similarity
+mode, Chapter 6
+3. Product improvement: step 1: deﬁne exactly what sensory
+characteristics need improvement; step 2: determine that the
+experimental product is indeed different; step 3: conﬁrm that the
+experimental product is liked better than the control
+All difference tests,
+Table 15.2; then affective
+tests, Table 15.4; see note
+4. Process change: step 1: conﬁrm that no difference exists; step 2: if a
+difference does exist, determine how consumers view the difference
+Difference tests in similarity
+mode, Chapter 6; affective
+tests, Table 15.4; see note
+5. Cost reduction and/or selection of new source of supply: step 1:
+conﬁrm that no difference exists; step 2: if a difference does exist,
+determine how consumers view the difference
+Difference tests in similarity
+mode, Chapter 6; affective
+tests, Table 15.4; see note
+6. Quality control: products sampled during production, distribution,
+and marketing are tested to ensure that they are as good as the
+standard; descriptive tests (well-trained panel) can monitor many
+attributes simultaneously
+Difference tests, Table 15.2;
+descriptive tests, Table 15.5
+7. Storage stability: testing of current and experimental products after
+standard aging tests; step 1: ascertain when difference becomes
+noticeable; step 2: descriptive tests (well-trained panel) can monitor
+many attributes simultaneously; step 3: affective tests can determine
+the relative acceptance of stored products
+Difference tests, Table 15.2;
+descriptive tests.
+Table 15.5; affective tests,
+Table 15.4
+8. Product grading or rating: used where methods of grading exist
+which have been accepted by agreement between producer and
+user, often with government supervision
+Grading, Chapter 5
+9. Uncovering consumer needs before product concept and product
+development
+Fuzzy front end techniques,
+Chapter 12
+10. Understanding consumer language, product usage and initial
+product prototype responses
+Focus groups, Chapter 12
+11. Consumer acceptance and/or opinions: after laboratory screening, it
+may be desirable to submit product to a central-location or home-
+placement test to determine consumer reaction; acceptance tests will
+indicate whether the current product can be marketed, or
+improvement is needed
+Affective tests, Table 15.4;
+Chapter 12
+12. Consumer preference: full-scale consumer preference tests are the
+last step before test marketing; employee preference studies cannot
+replace consumer tests, but can reduce their number and cost
+whenever the desirability of key attributes of the product is known
+from previous consumer tests
+Affective tests, Table 15.4;
+Chapter 12
+13. Panelist selection and training: an essential activity for any panel;
+may consist of (1) interview; (2) sensitivity tests; (3) difference tests;
+and (4) descriptive tests
+Chapter 9
+14. Correlation of sensory with chemical and physical tests: correlation
+studies are needed to (1) lessen the load of samples on the panel by
+replacing a part of the tests with laboratory analyses; (2) develop
+background knowledge of the chemical and physical causes of each
+sensory attribute
+Descriptive tests, Table 15.5;
+attribute difference tests,
+Table 15.3
+(continued)
+Sensory Evaluation Techniques, 4th Ed., Ch. 15
+408

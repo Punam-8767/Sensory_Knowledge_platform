@@ -1,0 +1,37 @@
+Analyze results: The table below shows the number of times (out of 12) each “row”
+sample was chosen as being thicker than each “column” sample. For example,
+when Sample B was presented with Sample D, it was perceived thicker by 2 of the
+12 subjects.
+Row Samples
+(Thicker)
+Column Samples (Thinner)
+A
+B
+C
+D
+A
+—
+0
+1
+0
+B
+12
+—
+6
+2
+C
+11
+6
+—
+7
+D
+12
+10
+5
+—
+The ﬁrst step in the Friedman analysis (Friedman 1937; Hollander and Wolfe 1973) is to
+compute the rank sum for each sample. In the present example, the rank of one is assigned
+FIGURE 7.2
+Worksheet for pairwise ranking test—Friedman analysis. Example 7.3: mouthfeel of corn syrup.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+110

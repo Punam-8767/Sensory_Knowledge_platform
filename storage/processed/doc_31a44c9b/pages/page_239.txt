@@ -1,0 +1,116 @@
+E. Intensity Scale Values (0–10) for Skinfeel Texture Attributes (continued)
+Scale Value
+Product
+Manufacturer
+5. Stickiness
+0.1
+Baby Oil
+Johnson & Johnson
+1.2
+Olay Classic Beauty Fluid
+Procter and Gamble
+2.6
+Vaseline Intensive Care
+Unilever
+4.3
+Jergens
+Kao Brands
+8.4
+Petrolatum
+Generic
+9.9
+Lanolin AAA
+Amerchol
+6. Cohesiveness
+0.2
+Noxzema Skin Care
+Procter and Gamble
+0.5
+Vaseline Intensive Care
+Unilever
+5.0
+Jergens
+Kao Brands
+7.9
+Zinc oxide
+Generic
+9.2
+Petrolatum
+Generic
+7. Peaking
+0
+Baby Oil
+Johnson & Johnson
+2.2
+Vaseline Intensive Care
+Unilever
+4.6
+Curel
+Kao Brands
+7.7
+Zinc oxide
+Generic
+9.6
+Petrolatum
+Generic
+8. Wetness
+0
+Talc
+Whitaker, Clark &
+Daniels, Inc.
+2.2
+Petrolatum
+Generic
+3.5
+Baby Oil
+Johnson & Johnson
+6.0
+Vaseline Intensive Care
+Unilever
+8.8
+Aloe Vera Gel
+Nature’s Family
+9.9
+Water
+—
+9. Spreadability
+0.2
+AAA Lanolin
+Amerchol
+2.9
+Petrolatum
+Generic
+6.9
+Vaseline Intensive Care
+Unilever
+9.7
+Baby Oil
+Johnson & Johnson
+10. Thickness
+0.5
+Isopropyl alcohol
+Generic
+3.0
+Petrolatum
+Generic
+6.5
+Vaseline Intensive Care
+Unilever
+8.7
+Neutrogena Hand Cream
+Johnson & Johnson
+11. Amount of Residue
+0
+Untreated skin
+—
+1.5
+Vaseline Intensive Care
+Unilever
+4.1
+Keri Lotion, Original
+Novartis Consumer Health
+8.5
+Petrolatum
+Generic
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+222

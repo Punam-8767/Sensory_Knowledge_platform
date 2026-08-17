@@ -1,0 +1,85 @@
+where P represents the sum function. The subscript (iZ1) and superscript (n) indicate the
+range over which the summing is to be done. Equation 13.1 indicates that the sum is taken
+over all n elements in the sample. The sample standard deviation is calculated as
+s Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+X
+n
+iZ1
+x2
+i K
+X
+n
+iZ1
+xi
+
+!2(
+n
+"
+#(
+ðnK1Þ:
+v
+u
+u
+t
+(13.2)
+These basic statistics can sometimes be misleading. Instances where they should be used
+with caution include cases where the data are multimodal (i.e., several groups of data
+clustered at different locations on the response scale) or where there are extreme values
+(i.e., outliers) in the data.
+Multimodal data may indicate the presence of several subpopulations with different
+mean values. In such situations, the sample mean of all the data may be meaningless, and,
+as a result, so might the sample standard deviation (since s measures the spread around
+the mean). Multimodal data should be examined further to determine if there is a way to
+break up the entire set into unimodal subgroups (e.g., by sex, age, geography, plant, batch,
+etc.). Separate sets of summary statistics could then be calculated within each subgroup. If
+it is not possible to break up the entire set, then the researcher must determine which
+summary statistics are still meaningful. For instance, the median divides the data in half
+with 50% of the observations falling below the median and 50% falling above it. This may
+be a meaningful way to identify the center of a set of multimodal data. Similarly, the
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0
+0
+0
+1
+2
+2
+3
+3
+3
+4
+4
+5
+5
+5
+6
+7
+8
+9
+9
+10
+16 15
+12
+24
+30
+30
+32
+Score
+Legend
+45 degrees
+90 degrees
+Dressing stored at 45 vs. 90 degrees and tested at 4 weeks
+frequency distribution of overall liking scores
+Percent of panelists
+FIGURE 13.1
+Histogram (with frequencies) of the overall liking scores for two samples of salad dressing.
+Basic Statistical Methods
+315

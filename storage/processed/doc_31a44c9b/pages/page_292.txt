@@ -1,0 +1,53 @@
+Chapter 7, pp. 105–128). Marketing wishes to conﬁrm that the prototype is indeed
+preferred to the current product that is enjoying large volume sales.
+Test objective. To determine whether the prototype is preferred over the current product.
+Test design. This test is one-sided as the prototype was developed to be more
+peanutty in response to consumer requests. A group of 100 subjects, prescreened as
+users of peanut butter, are selected and invited to a central location site where they
+receive the two samples in simultaneous presentation, half in the order A–B, the other
+half B–A. All samples are coded with three-digit random numbers. Subjects are
+encouraged
+to
+make
+a
+choice
+(see
+discussion
+of forced
+choice,
+Chapter
+7,
+Section 2.2). The scoresheet is shown in Figure 12.1. The null hypothesis is H0: the
+preference for the higher-peanut ﬂavor prototype is %50%. The alternative hypothesis
+is Ha: the preference for the prototype is O50%.
+Screen samples. Samples used are those already subjected to the attribute difference test
+described earlier, in which a higher level of peanut ﬂavor was conﬁrmed.
+Conduct test. The method described in Chapter 7, Section 2.4, was used; 62 subjects
+preferred the prototype. It is concluded from Table 17.8 that a signiﬁcant preference
+exists for the prototype over the current product.
+Interpret results. The new product can be marketed in place of the current with a label
+stating: “More Peanut Flavor.”
+12.6.3.2
+Acceptance Tests
+When a product researcher needs to determine the “affective status” of a product, i.e., how
+well it is liked by consumers, an acceptance test is the correct choice. The product is
+compared to a well-liked company product or that of a competitor, and a hedonic scale,
+such as those shown in Figure 12.2, is used to indicate degrees of unacceptable to accep-
+table, or dislike to like. The two lower scales, “KIDS” and “Snoopy,” are commonly used
+with children of grade-school age.
+Instructions
+1.
+Taste the product on the left first, and the product on the right second.
+Now that you've tasted both products, which one do you prefer? Please
+choose one:
+463
+189
+2.
+Please comment on the reasons for your choice:
+Name
+Date
+Peanut Butter
+FIGURE 12.1
+Score sheet for paired preference test for Example 12.1: improved peanut butter.
+Affective Tests: Affective Methods: Quantitative
+275

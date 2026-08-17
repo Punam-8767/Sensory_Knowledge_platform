@@ -1,0 +1,53 @@
+predictive model obtained by regression analysis is only just that. A highly accurate model
+does not imply that the independent variables drive the dependent variable. The
+researcher must provide the meaning behind data. It cannot be obtained from the numeri-
+cal analysis procedures used to analyze the data.
+Plotting data is essential to a successful regression analysis. For the same reasons noted
+in the discussion of correlation analysis, researchers could easily be misled by blindly
+applying computer programs to perform regression computations without ﬁrst examining
+plots of the dependent variable(s) vs. the independent variable(s) (see Figure 14.1). Other
+plots that are useful in determining the quality of the regression model are presented in the
+following subsections.
+14.2.2.1.1
+Simple Linear Regression
+In simple linear regression, the value of a single dependent variable, y, is predicted using
+the value of a single independent variable, x, using a linear model of the form:
+y Z b0 Cb1x C3
+(14.2)
+where b0 and b1 are parameters of the regression equation that will be estimated in the
+analysis and 3 is the unexplained deviation between the observed value of y and its
+predicted value, called a residual.
+The original units of measure do not have to be retained in simple linear regression. If
+examination of a plot of y vs. x reveals a nonlinear relationship, it is often possible to
+transform either x or y, or both, to obtain a straight-line relationship. These transformed
+values of y and x can then be substituted into Equation 14.2 to obtain estimates of b0 and b1
+(on the transformed scales). For example, the data in Figure 14.1c might be linearized by
+taking the logarithm of y.
+The coefﬁcients b1 and b0 are estimated by
+^b1 Z
+PðxiKxÞðyiKyÞ
+P ðxiKxÞ2
+:
+(14.3)
+and
+^b0 Z yKb1 x:
+(14.4)
+Based on the estimated regression coefﬁcients, the predicted (or expected) value of the
+dependent variable, y, is
+^yi Z ^b0 C ^b1xi:
+(14.5)
+The estimates in Equation 14.3 and Equation 14.4 are “best” in the sense that they
+minimize the sum of the squared differences between the observed and predicted
+values of y, i.e., they minimize the sum of the squared residuals:
+SSRes Z
+X
+ðyiK^yiÞ2 Z
+X ^32
+i :
+(14.6)
+This is what is meant when it is said that the regression equation was ﬁt to the data using
+the “method of least squares.”
+A fundamental criterion used to assess the quality of the regression equation is to
+determine if the ﬁtted line results in a substantial reduction in the variability of the
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+366

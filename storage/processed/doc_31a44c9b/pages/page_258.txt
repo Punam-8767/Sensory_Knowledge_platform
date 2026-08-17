@@ -1,0 +1,145 @@
+B. Toothpaste (continued)
+Standard Mint Paste
+Mint Gel
+2. Flavor
+2.1 First Foam
+Mint complex
+11
+6
+Peppermint/menthol
+0
+6
+Spearmint
+0
+0
+Wintergreen
+11
+0
+Brown spice complex
+3.5
+0
+Cinnamon
+1
+0
+Clove
+2
+0
+Anise
+0
+3.5
+Floral
+0
+2
+Base/chalky
+3.5
+3
+Soapy
+1.5
+2.5
+Sweet
+9
+9
+Salty
+2
+0
+Bitter
+3
+5
+Sour
+0
+0
+2.2 Expectorate Aromatics
+Minty
+7
+1.5
+Brown spice
+1
+0
+Floral
+0
+2
+Burn
+2
+4
+Cool
+9
+14
+Astringency
+4
+7
+Base
+1.5
+3
+2.3 Rinse
+Brown spice
+1.5
+0
+Fruity
+0
+0
+Minty
+3.5
+1.5
+Base
+1.5
+2
+Salty
+0
+0
+Sweet
+4
+4
+Burn
+1.5
+2.5
+Cool
+8
+11
+Bitter
+1.5
+4
+Soapy
+0
+1
+2.4 Five Minutes
+Fruity
+0
+0
+Minty
+3
+1
+Soapy
+1.5
+1
+Cool
+7
+6
+Bitter
+2
+5
+Brown spice
+0
+0
+Anise
+0
+3
+3. Texture
+3.1 Brush on front teeth 10!
+Firmness
+4.5
+6
+Sticky
+8
+9
+3.2 First Foam
+Amount of foam
+8
+7
+Slipperiness of foam
+7
+4
+Denseness of foam
+11
+9.5
+The Spectrume Descriptive Analysis Method: Appendix 11.5
+241

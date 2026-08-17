@@ -1,0 +1,100 @@
+B. Texture (continued)
+Partial compression
+Springiness
+12.0
+First bite
+Hardness
+4.5
+Uniformity of bite
+14.0
+Amount of crumbs
+2.0
+First chew
+Denseness
+7.0
+Cohesiveness
+4.0
+Chewdown (10)
+Moisture absorption
+13.0
+Cohesiveness of mass
+9.5
+Moistness of mass
+13.0
+Roughness of mass
+4.0 grainy
+Adhesiveness to palate
+2.0
+Residual
+Loose particles
+3.0
+Mouth coating
+6.0
+Oily/greasy
+3.0
+Tooth stick
+1.0
+3. Skippy Creamy Peanut Butter
+Surface roughness
+1.0
+Firmness
+11.0
+Cohesiveness
+7.0
+Denseness
+15.0
+Adhesiveness
+9.8
+Mixes with saliva
+7.2
+Adhesiveness of mass
+2.8
+Cohesiveness of mass
+4.1
+Roughness of mass
+1.0
+Residual
+Oily ﬁlm
+15.0
+Chalky ﬁlm
+1.1
+Grit between teeth
+1.5
+4. Hellmann’s Mayonnaise
+Adhesiveness to lips
+6.0
+Firmness
+3.0
+Denseness
+9.0
+Cohesiveness
+7.2
+Mixes with saliva
+12.0
+Cohesiveness of mass
+7.0
+Adhesiveness of mass
+7.0
+Oily ﬁlm
+5.0
+5. Land O’Lakes American Cheese
+Surface
+2.0
+Roughness
+2.0
+Wetness
+3.0
+Springiness
+1.6
+First bite/chew
+Hardness
+4.5
+Denseness
+15.0
+Cohesiveness
+5.0
+Chewdown
+Mixes with saliva
+5.5
+The Spectrume Descriptive Analysis Method: Appendix 11.3
+229

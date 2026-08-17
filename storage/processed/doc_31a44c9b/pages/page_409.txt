@@ -1,0 +1,73 @@
+experiments commonly occur toward the end of a research program when the objective is
+to decide which product should be selected for further development.
+In many experimental situations, however, the focus of the research is not on the
+speciﬁc samples but rather on the effects of some factor or factors that have been
+applied to the samples. For instance, a researcher may be interested in the effects that
+different ﬂour and sugar have on the ﬂavor and texture of a speciﬁc cake recipe, or he
+may be interested in the effects that cooking time and temperature have on the ﬂavor and
+appearance of a prepared meat. In situations such as these, there are speciﬁc plans
+available that provide highly precise and comprehensive comparisons of the effects of
+the factors, while at the same time minimize the total amount of experimental material
+required to perform the study.
+Two “multiway” treatment structures are discussed in this section. They are the factorial
+treatment structure (often called factorial experiments) and the response surface treatment
+structure (often called response surface methodology, or RSM).
+14.4.1
+Factorial Treatment Structures
+Researchers are often interested in studying the effects that two or more factors have on a
+set of responses. Factorial treatment structures are the most efﬁcient way to perform such
+1
+PLS2 (25% Consumer; 18% Sensory)
+PLS1 (55% Consumer; 53% Sensory)
+0
+0
+–1
+–1
+F
+B
+E
+APP sauce clarity
+APP potato AMT
+FL meat nonnatural
+D
+J
+C
+A
+G
+H
+I
+FL spice blend
+Sensory
+Samples
+Consumer
+TXT oily MF
+FL filler
+TXT sauce viscosity
+FL sour FL black pepper
+FL bitter
+APP surface oil
+FL wheat
+FL meat identity
+Segment 2
+1
+TXT potato firm
+APP potato size
+TXT meat firm
+Fl carrot
+Fl sweet
+TXT vegetable firm
+App solid size
+APP green herb AMT
+FL celery
+FL green herbs
+FL onion
+APP solid AMT
+Total
+FL brothy
+Segment 1
+FIGURE 14.21
+PLS map of prepared meals showing distribution of test products and difference between preference segments.
+Both segments like products A, C, and G. Segment 1 dislikes products B, E, and F. Segment 2 dislikes products
+H and I.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+392

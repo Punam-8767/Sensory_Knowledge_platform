@@ -1,0 +1,51 @@
+9.4.2.5
+Mock Panel
+Some companies further screen panelist candidates by inviting them to a “mock panel” at
+which they are asked to evaluate and comment on two or more products. Candidates are
+presented with the products, write down their perceptions (sensory parameters described
+by the session panel leader, e.g., “The ﬂavor and texture of these crackers”). The panel
+leader then directs a discussion of the results that provides each panelist a time to express
+his or her perceptions. Observation of the panelists’ behavior is helpful in deciding which
+candidates work best in a group, express concepts clearly, and participate in discussions of
+different perceptions.
+9.4.3
+Training for Descriptive Testing
+The important aspect of any training sequence is to provide a structured framework for
+learning based on demonstrated facts and to allow the students, in this case panelists, to
+grow in both skills and conﬁdence. Most descriptive panel training programs require
+between 40 and 120 h of training. The amount of time needed depends on the complexity
+of the product (wine, beer, and coffee panels require far more time than those evaluating
+lotions, creams or breakfast cereals), on the number of attributes to be covered (a short-
+version descriptive technique for quality control or storage studies, Chapter 11, p. 193,
+requires fewer and simpler attributes), and on the requirements for validity and reliability
+(a more experienced panel will provide greater detail with greater reproducibility).
+9.4.3.1
+Terminology Development
+The panel leader or panel trainer, in conjunction with the project team, must identify key
+product variables to be demonstrated to the panel during the initial stages of training. The
+project team should prepare a prototype or collect an array of products from commercially
+available samples as a frame of reference that represents as many of the attribute
+differences likely to be encountered in the product category as possible. The panel is
+ﬁrst introduced to the chemical (olfaction, taste, chemical feeling factors) and physical
+principles (rheological, geometrical, etc.) that govern or inﬂuence the perception of
+each product attribute. With these concepts and terms as a foundation, the panel then
+develops procedures for evaluation and terminology with deﬁnitions and references for
+the product class.
+Examples of this process are discussed by Szczesniak and Kleyn (1963) for oral texture,
+Schwartz (1975) and Civille and Dus (1991) for skincare products, McDaniel et al. (1987)
+for wines, Meilgaard and Muller (1987) for beer, Lyon (1987) for chicken, Johnsen et al.
+(1988) for peanuts, Johnsen and Civille (1986) for beef, and Johnsen, Civille, and Vercellotti
+(1987) for catﬁsh. Typically, the ﬁrst stage of training may require 15–20 h as panelists
+begin to develop an understanding of the broad array of descriptors that fall into the
+category being studied (appearance, ﬂavor, oral texture, etc.). This ﬁrst phase is designed
+to provide them with a ﬁrm background in the underlying modality and for them to begin
+to perceive the different characteristics as they are manifest in different product types.
+9.4.3.2
+Introduction to Descriptive Scaling
+The scaling method of choice may be introduced during the ﬁrst 10–20 h of training. By
+using a set of products or references that represent three to ﬁve different levels of each
+attribute, the panel leader reinforces both the sensory characteristic and the scaling
+method by demonstrating different levels or intensities across several attributes.
+Appendix 11.2 provides examples of different intensity levels of several sensory attributes
+Sensory Evaluation Techniques, 4th Ed., Ch. 9
+152

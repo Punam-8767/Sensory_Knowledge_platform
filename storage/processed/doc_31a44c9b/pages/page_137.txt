@@ -1,0 +1,58 @@
+Screen samples: Two experienced tasters evaluate the samples to make certain that they
+are representative of the type of beer to be produced and that there are no disturbing
+sensory differences in attributes other than hop character.
+Analyze results: The results of the evaluations are shown in Table 7.5 and the corre-
+sponding split-plot ANOVA in Table 7.6. The subject-by-sample interaction was not
+signiﬁcant:
+Finteraction Z 0:97;
+Pr F76;190R0:97
+
+'
+Z 0:56O0:05:
+The sample effect and the subject effect were both highly signiﬁcant:
+FSample Z 41:88Pr F4;8R41:88
+
+'
+!0:01:
+FSubject Z 17:79Pr F19;190R17:79
+
+'
+!0:01:
+Because the interaction was not signiﬁcant, it may be assumed that the subjects were
+consistent in their ratings of the samples. However, the signiﬁcance of the subject effect
+Name:
+Type of sample:
+Characteristic studied:
+Taste the samples from left to right and note the
+intensity of the characteristic studied. Rate each
+sample on the following scale:
+Imperceptible
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Slightly perceptible
+Moderately perceptible
+Strongly perceptible
+Extremely perceptible
+Code:
+Sample
+Rating:
+Comments:
+Instructions
+Beer
+Hop character
+Date:
+Multisample Comparisons Test
+FIGURE 7.5
+Scoresheet for multisample difference test
+(rating). Example 7.7: hop character in
+ﬁve beers.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+120

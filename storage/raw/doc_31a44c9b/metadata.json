@@ -1,0 +1,28 @@
+{
+  "document_id": "doc_31a44c9b",
+  "filename": "Carr, B. Thomas_ Civille, Gail Vance_ Meilgaard, Morten C - Sensory Evaluation Techniques, Fourth Edition-CRC Press (2006).pdf",
+  "document_type": "book",
+  "mime_type": "application/pdf",
+  "file_size_mb": 20.15,
+  "page_count": 466,
+  "checksum": "fb386b4acbb0cc8117b34cacad02e3967b12ac2302977f2fd4696b96233155e2",
+  "storage": {
+    "raw_file": "storage\\raw\\doc_31a44c9b\\original.pdf",
+    "metadata_file": ""
+  },
+  "pipeline_status": "CANONICAL_MAPPED",
+  "next_step": "/api/v1/documents/doc_31a44c9b/preview",
+  "progress": 50,
+  "current_stage": "LLM_EXTRACTION",
+  "completed_stages": [
+    "UPLOAD",
+    "OCR",
+    "IMAGE_EXTRACTION",
+    "TABLE_EXTRACTION",
+    "DOCUMENT_TREE"
+  ],
+  "remaining_stages": [
+    "CANONICAL_MAPPING",
+    "SCHEMA_MAPPING"
+  ]
+}

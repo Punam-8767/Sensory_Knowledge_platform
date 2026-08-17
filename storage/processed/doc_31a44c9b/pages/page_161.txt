@@ -1,0 +1,75 @@
+Suggested rules for evaluating the results are given at the end of each section. The
+analyst should consider that although candidates with high success rates may, on the
+whole, be satisfactory, the best panel will result if selection can be based on potential
+rather than on current performance.
+9.3.1.1
+Matching Tests
+Matching tests are used to determine a candidate’s ability to discriminate (and describe,
+if asked) differences among several stimuli presented at intensities well above threshold
+level. Familiarize candidates with an initial set of four to six coded, but unidentiﬁed,
+products. Then present a randomly numbered set of eight to ten samples, of which a
+subset is identical to the initial set. Ask candidates to identify on the scoresheet the
+familiar samples in the second set and to label them with the corresponding codes
+from the ﬁrst set.
+Table 9.1 contains a selection of samples suitable for matching tests. These may be
+common ﬂavor substances in water, common fragrances, lotions with different fat/oil
+systems, products made with pigments of different colors, fabrics of similar composition
+but differing in basis weight, etc. Care should be taken to avoid carryover effects, e.g.,
+samples must not be too strong. Table 9.2 shows an example of a scoresheet for matching
+fragrances at above threshold levels in a nonodorous diluent.
+9.3.1.2
+Detection/Discrimination Tests
+This selection test is used to determine a candidate’s ability to detect differences among
+similar products with ingredient or processing variables. Present candidates with a series
+TABLE 9.1
+Suggested Samples for Matching Tests
+Tastes, Chemical Feeling Factors
+Flavor
+Stimulus
+Concentration (g/L)a
+Sweet
+Sucrose
+20
+Sour
+Tartaric acid
+0.5
+Bitter
+Caffeine
+1.0
+Salty
+Sodium chloride
+2.0
+Astringent
+Alum
+10
+Aroma, Fragrances, Odorantsb
+Aroma Descriptors
+Stimulus
+Peppermint, minty
+Peppermint oil
+Anise, anethole, licorice
+Anise oil
+Almond, cherry
+Amaretto, benzaldehyde, oil of bitter almond
+Orange, orange peel
+Orange oil
+Floral
+Linalool
+Ginger
+Ginger oil
+Jasmine
+Jasmine-74-d-10%
+Green
+cis-3-Hexenol
+Vanilla
+Vanilla extract
+Cinnamon
+Cinnamaldehyde, cassia oil
+Clove, dentist’s ofﬁce
+Eugenol, oil of clove
+Wintergreen
+BenGay, methyl salicylate, oil of wintergreen
+a In tasteless and odorless water at room temperature.
+b Perfume blotters dipped in odorant, dried in hood 30 min, placed in wide-mouthed jar with tight cap.
+Sensory Evaluation Techniques, 4th Ed., Ch. 9
+144

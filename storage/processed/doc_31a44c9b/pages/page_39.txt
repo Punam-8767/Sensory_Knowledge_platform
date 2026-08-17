@@ -1,0 +1,48 @@
+consumer products manufacturers are concerned with sounds that their products produce
+and how humans respond to those sounds A summary of sensory methods applied to
+sound is given by Civille and Setsam (2003).
+2.4
+Perception at Threshold and Above
+Perhaps this is the place to warn the reader that a threshold is not a constant for a given
+substance, but rather, a constantly changing point on the sensory continuum from nonper-
+ceptible to easily perceptible (see Chapter 8). Thresholds change with moods, the time of
+the biorhythm, and with hunger and satiety. Compounds with identical thresholds can
+show very different rates of increase in intensity with concentration; therefore, the
+threshold’s use as a yardstick of intensity of perception must be approached with
+considerable caution (Bartoshuk 1978; Pangborn 1984). In practical studies involving
+products that emit mixtures of large numbers of ﬂavor-active substances where the
+purpose is to detect those compounds that play a role in the ﬂavor of the product,
+the threshold has some utility, provided the range covered does not extend too far from
+the threshold, e.g., from 0.5!threshold to 3!threshold. Above this range, intensity of
+odor or taste must be measured by scaling (see Chapter 5, p. 55).
+References
+L.K. Altman. 2004. “Unraveling enigma of smell wins Nobel for 2 Americans,” New York Times,
+September 28, via http://www.nytimes.com/search/avery
+M.A. Amerine, R.M. Pangborn, and E.B. Roessler. 1965. Principles of Sensory Evaluation of Food,
+New York: Academic Press.
+J.E. Amoore. 1977. “Speciﬁc anosmia and the concept of primary odors,” Chemical Senses and Flavor,
+2: 267–281.
+ASTM. 1968. Basic Principles of Sensory Evaluation, Standard Technical Publication 433, West
+Conshohocken, PA: ASTM International, p. 110.
+R. Axel. 1995. “The molecular logic of smell,” Scientiﬁc American, October, 154–159.
+L.M. Bartoshuk. 1978. “The psychophysics of taste,” American Journal of Clinical Nutrition,
+31: 1068–1077.
+M.G.J. Beets. 1978. Structure-Activity Relationships in Human Chemoreception, London: Applied
+Science.
+L.M. Beidler. 1960. “Physiology of olfaction and gustation,” Annals of Otology, Rhinology and Laryn-
+gology, 69: 398–409.
+J.C. Boudreau. 1986. “Neurophysiology and human taste sensations,” Journal of Sensory Studies,
+1:3/4, 185–202.
+L. Buck and R. Axel. 1991. “A novel multigene family may encode odorant receptors: A molecular
+basis for odor reception,” Cell, 65:1, 175–187.
+E. Carstens, M.I. Carstens, J.M. Dessirier, M. O’Mahony, C.T. Simons, M. Sudo, and S. Sudo. 2002. “It
+hurts so good: Oral irritation by spices and carbonated drinks and the underlying neural
+mechanisms,” Food Quality and Preference, 13: 431–443.
+J.F. Caul. 1957. “The proﬁle method of ﬂavor analysis,” Advances in Food Research, 7: 1–40.
+G.V. Civille and B.G. Lyon, eds. 1996. Aroma and Flavor Lexicon for Sensory Evaluation. Terms,
+Deﬁnitions, References, and Examples, ASTM data series publication DS 66, West Conshohocken,
+PA: ASTM International.
+G.V. Civille and J. Setsam. 2003. “Sensory evaluation methods applied to sound quality,” Noise
+Control Engineering Journal, 51:4, 262.
+Sensory Evaluation Techniques, 4th Ed., Ch. 2
+22

@@ -1,0 +1,117 @@
+persistence of sweet taste than samples A and C. Sample B is not signiﬁcantly different
+from D, nor A from C.
+Example 7.5: Bitterness in Beer Not Agreeing with Analysis
+Problem/situation: A manager of quality control at a brewery knows that the company’s
+brand P reads the same as the competition’s by the standard analysis method for hop bitter
+substances, yet he hears reports that it tastes more bitter. Before commencing an investi-
+gation into possible contamination by nonhop bitter substances, he wishes to conﬁrm that
+there is a difference in perceivable bitterness.
+Project/test objective: To taste beer P for bitterness against the competitive brands A, B,
+and C.
+Test design: The four samples are ranked by 12 subjects of proven ability to detect small
+differences in bitterness. The null hypothesis is H0: Bitterness PZ Bitterness A, B, or C; and
+the alternative hypothesis is Ha: Bitterness P s Bitterness A, B, or C, there being no
+advance information about any systematic difference between A, B, and C. The scoresheet
+used is patterned on Figure 7.4.
+Analyze results: See Table 7.2. Note that the experienced panelists were permitted to
+assign equal ranks or “ties” to the samples. The alternate form of the test statistic, T0 in
+Equation 13.16, must be used when ties are present in the data. To calculate the value of T0,
+the number of tied groups (gi) in each block (i) and the size of each tied group (ti,j) must be
+determined (each nontied sample is considered as a separate group of size ti,jZ1). Only
+blocks in which ties occur need to be considered because only these blocks affect the
+calculation of T0. According to Table 7.2, ties occur in blocks 1, 3, 8, and 10. The values
+of gi and ti,j for these blocks are
+g1 Z 3;
+t1;1 Z 1
+g3 Z 2;
+t3;1 Z 1
+g8 Z 3;
+t8;1 Z 1
+g10 Z 3;
+t10;1 Z 1
+t1;2 Z 2
+t3;2 Z 3
+t8;2 Z 1
+t10;2 Z 1
+t1;3 Z 1
+t8;3 Z 2
+t10;3 Z 2
+TABLE 7.2
+Table of Results for Example 7.5: Bitterness of Beer Not Agreeing
+with Analysis
+Sample
+Sample
+Sample
+Sample
+Subject No.
+A
+B
+C
+P
+1
+1
+2.5
+2.5
+4
+2
+2
+1
+4
+3
+3
+1
+3
+3
+3
+4
+2
+1
+3
+4
+5
+2
+3
+1
+4
+6
+2
+1
+4
+3
+7
+3
+1
+2
+4
+8
+1
+2
+3.5
+3.5
+9
+2
+3
+4
+1
+10
+2
+1
+3.5
+3.5
+11
+2
+3
+1
+4
+12
+2
+1
+4
+3
+Rank sum
+22
+22.5
+35.5
+40
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+116

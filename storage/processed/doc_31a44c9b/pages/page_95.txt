@@ -1,0 +1,38 @@
+Analyze results: The number of correct responses for the three test blends were
+Cell No. (of
+12 Subjects)
+Blend B
+Blend C
+Blend D
+1
+3
+6
+8
+2
+4
+5
+8
+3
+5
+7
+5
+4
+7
+7
+7
+5
+5
+5
+7
+Total
+24
+30
+35
+From her spreadsheet test-sensitivity analyzer, the analyst knows that 33 correct
+responses are necessary to conclude that a signiﬁcant difference exists at the a-risk
+chosen for the test (approximately 0.25), so 32 or fewer correct responses from the
+60-respondent test is evidence of adequate similarity.
+FIGURE 6.7
+Worksheet for duo–trio similarity test. Example 6.7: replacing coffee blend.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+78

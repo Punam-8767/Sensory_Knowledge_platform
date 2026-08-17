@@ -1,0 +1,38 @@
+should be plotted vs. the predicted values, ^y, and vs. the independent variable, x.
+The residuals should be randomly dispersed across the range of both the predicted
+values and the independent variable (see Figure 14.9a). Any apparent trends indicate
+that a simple linear regression is not sufﬁcient and that a more complex relationship
+exists between x and y. Higher-order terms (e.g., x2) may be needed (see Figure 14.9b)
+or data transformations may need to be performed (see Figure 14.9c). An individual point
+falling far from the rest in either the vertical or horizontal direction may be an outlier that
+is having an unreasonably large inﬂuence on the ﬁt of the model (see Figure 14.9d). Such
+observations should be examined and, when appropriate, eliminated from the data.
+14.2.2.1.2
+Multiple Linear Regression
+Sometimes more than one independent variable is needed to obtain an acceptable predic-
+tion of a response, y. It may be that a polynomial in a single variable, x, is needed because
+the relationship between x and y is not a straight line, such as in
+y Z b0 Cb1x Cb2x2 Cb3x3:
+In other cases, the response may be inﬂuenced by more than one independent variable
+such as in:
+y Z b0 Cb1x1 Cb2x2 Cb3x3
+Good
+Higher order
+term needed
+Transformation
+needed
+Two types of
+outliers
+(a)
+(b)
+(c)
+(d)
+Residual
+Residual
+Residual
+Residual
+FIGURE 14.9
+Plots of the residuals from a simple linear regression showing the desired, random arrangement in (a) and several
+undesirable patterns, i.e., plots (b), (c), and (d), along with their interpretation.
+Advanced Statistical Methods
+369

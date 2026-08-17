@@ -1,0 +1,47 @@
+(Dunnett 1955; 1984) for multiple comparisons with a control was applied to the sample
+means and revealed that both of the test samples were signiﬁcantly different from the
+blind control. It could also be concluded that product N is signiﬁcantly (p!0.05)
+more different from the control than product F based on an LSD multiple comparison
+(LSDZ0.4).
+Interpretation: Signiﬁcant differences were detected for both samples, and it is
+concluded that the two formulas are sufﬁciently different from the control to make it
+worthwhile to conduct attribute difference tests (see Chapter 15, Table 15.3, p. 410) or
+descriptive tests (see Chapter 11, pp. 202–205) for viscosity/thickness, skin heat, skin
+cool, and afterfeel.
+Example 6.13: Flavored Peanut Snacks
+Problem/situation: The quality assurance manager of a large snack processing plant needs
+to monitor the sensory variation in a line ofﬂavored peanut snacks and to set speciﬁcations
+for production of the snacks. The innate variations among batches of each of the
+added ﬂavors (honey, spicy, barbecue, etc.) preclude the use of the triangle, duo–trio, or
+same/different tests. In most overall difference tests such as these, if subjects can detect
+variations within a batch, then this severely reduces the chances of a test detecting
+batch-to-batch differences. What is needed is a test that allows for separation of the vari-
+ation within batches from the variation between batches.
+Project objective: To develop a test method suitable for monitoring batch-to-batch vari-
+ations in the production of ﬂavored peanut snacks. Ultimately to set QA/QC
+sensory speciﬁcations.
+Test objective: To measure the perceived difference within batches and between batches of
+ﬂavored peanuts of known origin.
+Test design: Samples from a recent control batch (normal production) are pulled from the
+warehouse. Jars from each of two lines are sampled and labeled control A and control B.
+These samples represent the variation within a batch. Samples are also pulled from a lot of
+production in which a different batch of peanuts served as the raw material. The sample is
+marked “test.” A difference-from-control test design is set up in which three pairs are
+tested:
+† Control A vs. control A (the blind control)
+† Control A vs. control B (the within batch measure)
+† Control A vs. test (the between batch measure)
+Fifty subjects are scheduled to participate in three separate tests (CA vs. CA; CA vs. CB;
+CA vs. test) over a three-day period. The pairs are randomized across subjects. In all pairs,
+CA is given ﬁrst as the control, and subjects rate the difference between the members of the
+pair on a scale of 0–10. The results are analyzed by the procedure of Aust et al. (1985),
+according to which the difference between the score for the blind control and that for the
+within batch measure is subtracted from the between batch measure to determine statisti-
+cal signiﬁcance for a difference.
+Screen samples: The samples are prescreened for ﬂavor, texture, and appearance by
+individuals from production, QA, marketing, and R&D who are familiar with the
+product, to determine that each sample is representative of the within and between
+batch variations for the product. Along with the sensory analyst, the group decides that
+for the test, only whole peanuts will be sampled and tested.
+Overall Difference Tests: Difference-from-Control Test
+97

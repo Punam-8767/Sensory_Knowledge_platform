@@ -1,0 +1,74 @@
+from the ANOVA, and ni and nj are the number of observations that went into the calcu-
+lation of xi and xj, respectively. If the sample sizes are the same for all x’s, then Equation
+13.11 reduces to
+LSDa Z ta=2;dfE
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2MSE=n
+p
+;
+(13.12)
+where
+n
+is
+the
+common
+sample
+size.
+In
+the
+example,
+nZ30,
+so
+the
+LSD0:05Z1:96 ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2ð2:23Þ=30
+p
+Z0:76. Any two samples whose means differ by more than
+0.76 are signiﬁcantly different at the 5% level. As shown in Table 13.11, Chicago has a
+signiﬁcantly lower average value than the other three cities, and Boston has a signiﬁcantly
+lower average value than Denver.
+Completely randomized designs are seldom used in multisample studies involving
+sensory panels because it is inefﬁcient to have each panelist evaluate only a single
+sample, and yet it is recognized that different panelists might use different parts of the
+rating scales to express their perceptions. More elaborate panel designs are needed for
+such studies. Four of the most commonly used designs for sensory panels are discussed in
+the remainder of this section.
+13.5.3
+Randomized (Complete) Block Designs
+If the number of samples is sufﬁciently small such that sensory fatigue is not a concern,
+then a randomized (complete) block design is appropriate. Panelists are the “blocks”;
+samples are the “treatments.” Each panelist evaluates (either by rating or ranking) all of
+the samples (hence the term “complete block”).
+A randomized block design is effective when the sensory analyst is conﬁdent that the
+panelists are consistent in rating the samples but recognizes that panelists might use
+different parts of the scale to express their perceptions. The analysis applied to data
+from a randomized block design takes into account this type of judge-to-judge difference,
+yielding a more accurate estimate of experimental error and thus more sensitive tests of
+hypotheses than would otherwise be available.
+Independently replicated samples of the test products are presented to the panelists in a
+randomized order (using a separate randomization for each panelist). The data obtained
+from the panelists’ evaluations can be arranged in a two-way table as in Table 13.12.
+13.5.3.1
+Randomized Block Analysis of Ratings
+Data in the form of ratings from a randomized block design are analyzed by ANOVA. The
+form of the ANOVA table appropriate for a randomized block design is presented in
+Table 13.13. The null hypothesis is that the mean ratings for all of the samples are equal
+(H0: miZmj for all samples i and j) vs. the alternative hypothesis that the mean ratings of at
+least two of the samples are different (Ha: mismj for some pair of distinct samples i and j).
+TABLE 13.11
+Average Overall Liking Scores from the Multicity Monadic Consumer Test
+Data in Table 13.1
+City
+Atlanta
+Boston
+Chicago
+Denver
+Mean rating
+10.56B C
+10.29 B
+7.17 A
+11.12 C
+Note:
+Means not followed by the same letter are signiﬁcantly different at the 5% level.
+Basic Statistical Methods
+341

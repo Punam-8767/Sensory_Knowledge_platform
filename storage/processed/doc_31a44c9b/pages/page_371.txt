@@ -1,0 +1,59 @@
+consider the probability that at least three (i.e., three or more) assessors make the
+correct selections—i.e.,
+Pr½xR3	 Z 1KPr½x!3	 Z 1KPr½x%2	:
+(13.31)
+Thereore, enter the following in a cell in an Excel spreadsheet: Z1KBINOMDIST(2,
+16, 0.10, TRUE), and the resulting probability, 0.2108, will be displayed.
+Example 13.10: The Normal Approximation to the Binomial
+When a computerized spreadsheet with a binomial probability function is not available,
+approximate binomial probabilities can be calculated using the normal distribution. To use
+the methods of Section 13.5.1, one needs to know the values of m and s. For the number of
+successes, these are
+m Z np
+s Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+npð1KpÞ:
+p
+(13.32)
+Let nZ36 and pZ1/3 and consider the problem of calculating the probability of at least
+16 successes. For Equation 13.32, one computes:
+m Z ð36Þð1=3Þ Z 12
+s Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð36Þð1=3Þð1K1=3Þ
+p
+Z
+ﬃﬃ
+8
+p
+Z 2:828:
+Therefore, using the methods of Example 13.8:
+Pr xR16
+½
+	 Z Pr ðxK12Þ=2:828Rð16K12Þ=2:828
+½
+	
+Z Pr zR1:41
+½
+	
+Z 0:5KPr 0!z!1:41
+½
+	
+Z 0:50K0:4207
+Z 0:0793:
+One can also use the normal approximation to the binomial to calculate probabilities
+associated with the proportion of successes. For this case,
+m Z p
+s Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+pð1KpÞ=n:
+p
+(13.33)
+In most sensory evaluation tests the number of trials is large enough so that the normal
+approximation gives adequately accurate results. A common general rule is that
+the normal approximation to the binomial is sufﬁciently accurate if both npO5 and
+n(1Kp)O5; that is, for the normal approximation to be reasonably accurate, the sample
+size n should be sufﬁciently large so that one would expect to see at least ﬁve successes and
+at least ﬁve failures in the sample results.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+354

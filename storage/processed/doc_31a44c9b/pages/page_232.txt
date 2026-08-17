@@ -1,0 +1,125 @@
+B. Intensity Scales Values (0–15) for the Four Basic Tastes (continued)
+Sweet
+Salt
+Sour
+Bitter
+0.1% Citric acid/0.55% NaCl
+11
+6
+5% Sucrose/0.1% Citric acid/0.3% NaCl
+5
+5
+3.5
+5% Sucrose/0.1% Citric acid/0.55%
+NaCl
+4
+11
+6
+Caffeine, solution in water
+0.05%
+2
+0.08%
+5
+0.15%
+10
+0.20%
+15
+Celery seed
+9
+Chocolate bar (Hershey’s)
+10
+5
+4
+Citric acid, solution in water
+0.05%
+2
+0.08%
+5
+0.15%
+10
+0.20%
+15
+Coca-Cola Classic
+9
+Endive, raw
+7
+Fruit punch (Hawaiian)
+10
+3
+Grape juice (Welch’s Concord)
+6
+7
+2
+Grape Kool-Aid
+10
+1
+Kosher dill pickle (Vlasic)
+12
+10
+Lemon juice (ReaLemon)
+15
+Lemonade (Country Time)
+7
+5.5
+Mayonnaise (Hellmann’s)
+8
+3
+NaCl, solution in water
+0.2%
+2.5
+0.35%
+5
+0.5%
+8.5
+0.7%
+15
+Orange (fresh-squeezed juice)
+6
+7.5
+Soda (Orange Crush)
+10.5
+2
+Frozen orange concentrate (Minute
+Maid)—reconstituted
+8
+3.5
+Potato chips (Lay’s)
+4.5
+11
+Potato chips (Pringles)
+6
+13
+Snack cracker (Ritz)
+4
+8
+Soda cracker (Premium)
+5
+Spaghetti sauce (Ragu)
+8
+12
+Sucrose, solution in water
+2.0%
+2
+5.0%
+5
+10.0%
+10
+16.0%
+15
+Sweet pickle (Gherkin, Vlasic)
+8.5
+8
+Orange concentrate—reconstituted (Tang)
+11.5
+5
+Tea bags/1 h soak
+8
+V-8 vegetable juice (Campbell)
+8
+Wheatina cereal
+6
+2.5
+Whole grain wheat cracker (Triscuit)
+9.5
+The Spectrume Descriptive Analysis Method: Appendix 11.2
+215

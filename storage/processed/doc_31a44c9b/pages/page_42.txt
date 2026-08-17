@@ -1,0 +1,34 @@
+3
+Controls for Test Room, Products, and Panel
+3.1
+Introduction
+Many variables must be controlled if the results of a sensory test are to measure the true
+product differences under investigation. It is convenient to group these variables under
+three major headings:
+1. Test controls: the test room environment, the use of booths or a round table, the
+lighting, the room air, the preparation area, the entry and exit areas.
+2. Product controls: the equipment used, the way samples are screened, prepared,
+numbered, coded, and served.
+3. Panel controls: the procedure to be used by a panelist evaluating the sample
+in question.
+3.2
+Test Controls
+The physical setting must be designed to minimize the subjects’ biases, maximize their
+sensitivity, and eliminate variables that do not come from the products themselves. Panel
+tests are costly because of the high cost of panelists’ time. A high level of reduction of
+disturbing factors is easily justiﬁed. Dropoffs in panel attendance and panel motivation are
+universal problems, and management must clearly show the value it places on panel tests
+by the care and effort expended on the test area. The test area should be centrally located,
+easy to reach, and free of crowding and confusion, as well as comfortable, quiet, tempera-
+ture controlled, and above all, free from odors and noise.
+3.2.1
+Development of Test-Room Design
+Since the ﬁrst edition of this book (1987), test-room design has matured, as reﬂected in
+publications by national and international organizations (Eggert and Zook 1986; European
+Cooperation for Accreditation of Laboratories 1995; Chambers and Wolf 1996; Inter-
+national Organization for Standardization 1998). A move toward requiring accreditation
+of sensory services under ISO 9000 has accelerated a trend toward uniformly high stan-
+dards, e.g., with separate air exhausts from each booth.
+Early test rooms made allowance for six to ten subjects and consisted of a laboratory
+bench or conference table on which samples were placed. The need to prevent subjects
+25

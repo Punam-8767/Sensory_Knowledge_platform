@@ -1,0 +1,56 @@
+Example 12.7: Case Study: Relating Consumer Qualitative Information with Descriptive
+Analysis Data
+A manufacturer of sunscreens is developing a new body-lotion-sunscreen product. Results
+from the fuzzy front end research indicates that there is a prime opportunity to sell a sunsc-
+reenthatfeelslikeamoisturizerbutdeliverstheprotectionofasunscreen.Themanufacturer
+is looking for preliminary information and direction for the product developers.
+The ﬁrst step is to document a large array (15–30) of hand-lotion products in the market-
+place from which a diverse subset of (4–8) are selected for discussion with consumers.
+A trained Spectrum descriptive analysis panel documents the skinfeel properties of a
+large array (16–20) of lotions from the retail marketplace, thus deﬁning precisely what the
+products feel like as they are dispensed in the hand, and on the skin (see Chapter 11).
+Figure 12.8 shows the data range for the 16 samples for the initial rubout characteristics.
+The descriptive panel results are analyzed using multivariate statistical techniques,
+such as principle component analysis. Maps of the data permit the researchers to
+look into/onto the whole space that encompasses the commercial hand lotions. From
+the map, a diverse subset of ﬁve lotions is selected for discussion with consumers.
+Qualitative interviews are conducted with selected consumers. The consumers describe
+the optimum lotion-sunscreen as giving the skin a “soft, ﬂexible, cushion, and hydrated”
+feeling. These terms are used by the consumers to describe the samples that the descriptive
+analysis panel describes as being higher in skin suppleness, lower in skin-texture visibility,
+and having more of a silicone feeling than oily or greasy. By considering the known range
+of sensory intensities from the original array, the sensory scientists develop a guideline for
+intensity, providing a development direction. This is illustrated in Figure 12.9. The product
+developers are now able to create prototypes for further testing, whether it is consumer
+acceptance, preference, or perception of efﬁcacy.
+12.8.5
+Key Drivers, Preference Mapping, and Segmentation Analysis
+Key drivers analysis applies external preference mapping to identify the sensory attributes
+that are most important to consumers and to develop predicted sensory proﬁles of the
+Wetness
+Spreadability
+Thickness
+Oil
+Wax
+Grease
+Absorbency
+FIGURE 12.8
+Data range graph for descriptive analysis rub-out characteristics.
+Gloss
+Tautness
+Stickiness
+Moistness
+Slipperiness
+Occlusion
+Suppleness
+Dryness/Roughness
+Amount of residue
+Oil %
+Wax %
+Grease %
+Silicone %
+Skin texture visibility
+FIGURE 12.9
+Suggested direction for afterfeel characteristics.
+Affective Tests: Using Other Sensory Methods to Uncover Insights
+291

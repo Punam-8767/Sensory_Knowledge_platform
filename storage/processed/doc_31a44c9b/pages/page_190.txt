@@ -1,0 +1,49 @@
+10
+Descriptive Analysis Techniques
+10.1
+Deﬁnition
+All descriptive analysis methods involve the detection (discrimination) and the descrip-
+tion of both the qualitative and quantitative sensory aspects of a product by trained panels
+of 5–100 judges (subjects). Smaller panels of ﬁve to ten subjects are used for the typical
+product on the grocery shelf, whereas, the larger panels are used for products of mass
+production where small differences can be very important, i.e., beers and soft drinks.
+Panelists must be able to detect and describe the perceived sensory attributes of a
+sample. These qualitative aspects of a product combine to deﬁne the product and
+include all of the appearance, aroma, ﬂavor, texture, or sound properties of a product
+that differentiate it from others. In addition, panelists must learn to differentiate and rate
+the quantitative or intensity aspects of a sample and to deﬁne to what degree each charac-
+teristic or qualitative note is present in that sample. Two products may contain the same
+qualitative descriptors, but they may markedly differ in the intensity of each, therefore,
+resulting in quite different and easily distinctive sensory proﬁles or pictures of each
+product. The two samples below have the same qualitative descriptors, but they substan-
+tially differ in the amount of each characteristic (quantitatively). The numbers used
+represent intensity ratings on a 15-cm line scale where a zero means no detectable
+amount of the attribute and a 15 means a very large amount (Civille 1979).
+The two samples (385 and 408) below are commercially available potato chips.
+Characteristic
+385
+408
+Fried potato
+7.5
+4.8
+Raw potato
+1.1
+3.7
+Vegetable oil
+3.6
+1.1
+Salty
+6.2
+13.5
+Sweet
+2.2
+1.0
+Although these two samples of chips have the same attribute descriptors, they markedly
+differ by virtue of the intensity of each ﬂavor note. Sample 385 has distinct fried potato
+character with underlying oil, sweet, and raw potato notes. Sample 408 is dominated by
+saltiness with the potato, oil, and sweet notes of lower impact.
+10.2
+Field of Application
+Use descriptive tests to obtain detailed description of the aroma, ﬂavor, and oral texture of
+foods and beverages, skinfeel of personal care products, handfeel of fabrics and paper
+173

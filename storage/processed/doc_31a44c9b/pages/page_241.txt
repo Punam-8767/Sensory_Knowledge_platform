@@ -1,0 +1,107 @@
+F. Intensity Scale Values (0–15) for Fabricfeel Attributes (continued)
+Scale Value
+Fabric Type
+Testfabrics ID#a
+10.0
+Acetate satin bright ward, delustered ﬁlling
+105B
+15.0
+Cotton ﬂeece
+484
+12. Fuzzy
+0.7
+Dacron
+738
+3.6
+Cotton crinkle gauze
+472
+7.0
+Cotton T-shirt, tubular
+437W
+13.6
+Cotton ﬂeece
+484
+13. Hand Friction
+1.4
+Filament nylon 6.6 semidull taffeta
+306A
+3.5
+Bleached, mercerized combed broadcloth
+419
+7.2
+Cotton print cloth
+400
+10.0
+Cotton ﬂannel
+425
+15.0
+Bleached cotton terry cloth
+420BR
+14. Noise intensity
+1.6
+Cotton ﬂannel
+425
+2.7
+Cotton crinkle gauze
+472
+6.3
+Cotton organdy
+447
+14.5
+Dacron 56 taffeta
+738
+15. Noise Pitch
+1.5
+Cotton ﬂannel
+425
+2.5
+Cotton crinkle gauze
+472
+7.2
+Cotton organdy
+447
+14.5
+Dacron 56 taffeta
+738
+16. Gritty
+0.5
+Polyester/cotton 50/50 single knit tubular
+7421
+6.0
+Cotton cloth, greige
+400R
+10.0
+Cotton print cloth
+400
+11.5
+Cotton organdy
+447
+17. Grainy
+2.1
+Mercerized combed cotton poplin
+407
+4.9
+Carded cotton sateen bleached
+428
+9.5
+Cotton tablecloth fabric
+455-54
+13.6
+#8 Cotton duck greige
+474
+a Testfabrics identiﬁcation numbers are the product numbers of Testfabrics Inc., P.O. Box 26, West Pittston,
+PA 18643, www.testfabrics.com
+Appendix 11.3
+A Streamlined Approach to Spectrum References
+Central to the Spectrum Method is the use of intensity references. During training, Spec-
+trum panelists are typically oriented to dozens of intensity references for ﬂavor and
+texture. However, time or budget constraints often lead companies to seek ways to
+reduce the volume of references used, or panel leaders desire a smaller set of references
+for daily panel use. Also, many panels are more comfortable using references within
+product categories they typically evaluate. To address this, Sensory Spectrum has
+developed a streamlined approach to Spectrum references using one dozen foods
+commonly available in the United States. These 12 products can serve as the building
+blocks for ﬂavor and texture intensity references and provide a panel leader with readily
+available reference products requiring minimal preparation. A panel leader might select
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+224

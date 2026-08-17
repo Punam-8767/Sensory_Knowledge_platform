@@ -1,0 +1,53 @@
+Variability. With several evaluations of a blind control or reference, the panelist’s varia-
+bility about his/her own mean rating is calculated using the panelist’s standard deviation
+as follows:
+panelist SD; s Z
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+X
+n
+iZ1
+ðxiKxÞ2=ðnK1Þ:
+s
+(9.2)
+Good panelists have both low bias and low variability. The bias formula may be
+modiﬁed by removing the sign; this produces the absolute bias, calculated as
+panelist bias; jdj Z jxKmj;
+(9.3)
+so that large positive and negative deviations do not offset each other. Small values of
+absolute bias are desirable. The panelists’ statistics should be plotted over time to identify
+those panelists who need retraining or calibration.
+When split-plot analysis of variance is used for descriptive data analysis, the judge-
+by-sample interaction is part of the results. When this interaction is signiﬁcant, it is necess-
+ary to look at plots of the data to determine the source(s). Figure 9.2 shows three plots of
+judge-by-sample interactions. In each graph, each line represents one panelist’s
+average ratings for two samples. In the ﬁrst plot (A), the judge-by-sample interaction is
+not signiﬁcant. All judges tend to rate the samples in the same direction and with the same
+relative degrees of intensity. Thus the lines are in the same direction and similar in slope.
+The second plot (B) shows an extreme case of judge-by-sample interaction: Several
+samples are rated quite differently by some of the judges. Consequently, the lines run in
+different directions and have different slopes. The third plot (C) shows a few judges
+whose slopes differ from the rest. In this case, although the judge-by-sample interaction
+is statistically signiﬁcant, the problem is less extreme. It is one of slight differences in the use
+of scales rather than total reversals, as in plot B. Generally, a judge-by-sample interaction
+indicates the need for more training, more frequent use of reference scales, or review
+of terminology.
+9.5.2
+Panelist Maintenance, Feedback, Rewards, and Motivation
+One of the major sources of motivation for panelists is a sense of doing meaningful work.
+After a project is completed, panelists should be informed by letter or a posted circular of
+the project and test objectives, the test results, and the contribution made by the sensory
+results to the decision taken regarding the product. Immediate feedback after each test also
+tends to give the individual panelist a sense of “How am I doing?” The fears of some
+project leaders that panelists might become discouraged in tests with a low probability of
+success (a triangle test often has fewer than 50% correct responses) have proven ground-
+less. Panelists do take into account the complexity of the sample, the difﬁculty of the test,
+and the probability of success. Panelists do want to know about the test, and can indeed
+learn from past performance. Discussion of results after a descriptive panel session is
+highly recommended. The need to constantly reﬁne the terms, procedures, and deﬁnitions
+is best served by regular panel interaction after all the data have been collected.
+Feedback to panelists on performance can be provided with data regarding their indi-
+vidual performance over three to ﬁve repeat evaluations of the same product vis-a`-vis the
+panel as a whole. The data in Table 9.8 for a given sample indicates the mean and standard
+deviation for each panelist (numbers) for each attribute (letters), as well as the panel mean
+Selection and Training of Panel Members: Panel Performance and Motivation
+155

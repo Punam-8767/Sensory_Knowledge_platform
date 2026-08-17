@@ -1,0 +1,76 @@
+A two-tailed 95% conﬁdence interval on the mean is calculated as
+xGta=2;nK1s= ﬃﬃﬃn
+p ;
+where aZ0.05 and nZ30, so ta/2,n–1 is t0.025,29Z2.045, yielding
+10:56G2:045ð1:79Þ=
+ﬃﬃﬃﬃﬃ
+30
+p
+Z 10:56G0:67 or ð9:89;11:23Þ
+That is, the researcher is 95% sure that the true value of the mean overall liking rating in
+Atlanta lies somewhere between 9.89 and 11.23. In Figure 13.5, the sample means and their
+associated 95% conﬁdence intervals are presented for the overall liking data of each of the
+four cities presented in Table 13.1. The analyst can now begin to formulate some ideas
+about differences in average overall liking that may exist among the cities.
+Consider the consumer preference test discussed before where 86 of the 150 (^pZ0:573)
+consumers preferred sample A. To construct a 95% conﬁdence interval (two-tailed) on the
+true value of the population proportion, p, one uses Table 13.4 and Table 17.3 to obtain:
+^pGza=2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+^pð1K^pÞ=n
+p
+;
+where nZ150, aZ0.05, so za/2Zta/2,NZ1.96, yielding:
+0:573G1:96
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð0:573Þð0:427Þ=150
+p
+or ð0:494; 0:652Þ
+TABLE 13.4
+Computational Forms for Conﬁdence Intervals
+Parameter
+Type of Interval
+m
+p
+One-tailed upper
+xCta;nK1s= ﬃﬃﬃn
+p
+^pCza
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+^pð1K^pÞ=n
+p
+One-tailed lower
+xKta;nK1s= ﬃﬃﬃn
+p
+^pKza
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+^pð1K^pÞ=n
+p
+Two-tailed
+xGta=2;nK1s= ﬃﬃﬃn
+p
+^pGza=2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+^pð1K^pÞ=n
+p
+100
+80
+60
+40
+20
+0
+A
+B
+C
+D
+City
+100/200
+170/400
+75/100
+86/150
+Preference (%)
+FIGURE 13.4
+Bar chart of the preference results of a two-sample study conducted in four cities showing the relative difference
+from city to city. Actual preference results and total respondent base are included for each city.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+320

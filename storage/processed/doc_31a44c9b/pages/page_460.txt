@@ -1,0 +1,120 @@
+Data relationships, 357–375
+Data summary analysis, 314–323
+Data transformation, 322–323
+Decision rules, 335–337
+Degrees of freedom, 317
+Demographics, 259–263
+Dendograms, 386
+Dependent variables, 365–375, 399
+Descriptive analysis techniques, 173–186
+components, 174–178
+ﬁeld of application, 173–174
+panel data, 183–186
+see also Descriptive tests; Spectrum Descriptive
+Analysis
+Descriptive data, 283–284, 291
+Descriptive scaling, 152–153
+Descriptive tests
+commonly used methods, 178–183
+recruiting panelists, 147–148
+selecting panelists, 147–152
+technique choice guidelines, 412
+test rooms, 29
+training panelists, 152–153
+see also Spectrum Descriptive Analysis
+Design
+experimental designs, 314, 339–340, 391–404
+fuzzy front end research, 267
+protocol design, 273, 305–308
+quantitative affective tests, 272–273
+statistical design, 338–354
+study design 4, 169
+test rooms, 25–29, 31–34
+Detection tests, 144–145, 146
+Detection thresholds, 130
+Determining thresholds, 129–138
+Diads, 271
+Difference tests
+difference-from-control, 92–100
+directional difference, 105–108, 434–437
+existence of differences, 63–104
+selecting panelists, 143–146
+Spectrum descriptive analysis, 193–194
+statistical tables, 434–437
+training panelists, 146–147
+Triangle tests, 66–69
+uniﬁed approaches, 63–65
+see also Attribute difference tests; Overall difference
+tests
+Difference thresholds, 130
+Directional difference tests, 105–108, 434–437
+Discrimination tests
+advanced statistical methods, 374–375
+decision rules, 335–337
+selecting panelists, 144–145, 146
+uniﬁed approaches, 63–65
+Discussion guides, 298–299
+Distribution means, 327
+Dose-response curves, 136
+Dot plots, 316, 318
+Downtime, 168
+Dry hair, feel of, 207–208
+d’ statistic, 335, 337–338
+Dual ﬂow olfactometry, 16
+Dunnett’s tests, 96–97
+Duo-Trio tests, 72–80, 102–104, 322–323, 434–435
+E
+Ears, 21–22
+Eigenvalues, 382
+Elimination, 371
+Emergency calls, 170
+Emollients, 82–84
+Employees, 261–262
+Enhancement, 40
+Entrance areas, 30
+Environment factors, 38
+Equipment, product controls, 34
+Errors, 40–41, 42, 325–327, 339
+Estimates in statistics, 313
+Ethnography, 266
+Exact binomial probabilities, 353–354
+Excel (Microsoft) 332–334
+Existence of differences, 63–104, 409–410
+Exit areas, 30
+Expectation errors, 40–41
+Experimental designs, 314, 339–340, 391–404
+Experimental units, 339
+External preference mapping, 380–391
+Eyes, 12–13
+F
+Fabric feel, 158–159, 204–205, 223–224
+Face creams, 82–84
+Facial tissue fragrance, 74–76
+Facial wipes, 238–239
+Facility factors, 142
+Factorial treatment structures, 392–399
+Factor loadings, 383–384
+FCV see Fuzzy objective function
+F-distribution, 428–431
+Fechner’s law, 49–50
+Feedback, 155–157
+First order response surface experiments, 401–402
+Fisher’s least signiﬁcant difference, 340–341
+Fish ﬁngers, 122–125
+Flavor
+descriptive test methods, 178–179, 183–186
+difference-from-control tests, 97–100
+panel prescreening questionnaires, 159–160
+sensory attribute perception, 11
+Spectrum descriptive analysis, 195–197, 225–228,
+232–238
+threshold determination, 133–135
+Focus groups/panels, 270, 294–298
+Forced choice methods, 335
+Fractional factorials, 396–399
+Fragrance, 8–9, 74–76, 162–163
+Free-choice proﬁling, 182–183
+Friedman analysis, 109–112, 113–117, 122–125
+Friedman-type statistic, 342–343
+Index
+443

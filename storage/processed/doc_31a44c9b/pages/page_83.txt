@@ -1,0 +1,47 @@
+from left to right and select the odd sample. Count the number of correct replies and refer
+to Table 17.8* for interpretation.
+6.3.3
+Test Subjects
+Generally, 20–40 subjects are used for triangle tests, although as few as 12 may be
+employed when differences are large and easy to identify. Similarity testing, on the
+other hand, requires 50–100 subjects. At a minimum, subjects should be familiar with
+the triangle test (the format, the task, the procedure for evaluation), and with the
+product being tested, especially because ﬂavor memory plays a part in triangle testing.
+An orientation session is recommended prior to the actual taste test to familiarize
+subjects with the test procedures and product characteristics. Care must be taken to
+supply sufﬁcient information to be instructive and motivating, while not biasing subjects
+with speciﬁc information about treatment effects and product identity.
+6.3.4
+Test Procedure
+The test controls (explained in detail in Chapter 3) should include a partitioned test area in
+which each subject can work independently. Control of lighting may be necessary to
+reduce any color variables. Prepare and present samples under optimum conditions for
+the product type investigated, e.g., samples should be appetizing and well presented.
+Offer samples simultaneously, if possible; however, samples that are bulky, leave an
+aftertaste, or show slight differences in appearance may be offered sequentially without
+invalidating the test.
+Prepare equal numbers of the six possible combinations (ABB, BAA, AAB, BBA, ABA,
+and BAB) and present these at random to the subjects. Ask subjects to examine (taste, feel,
+smell, etc.) the samples in order from left to right, with the option of going back to repeat
+the evaluation of each while the test is in progress.
+The scoresheet, shown in Figure 6.1, could provide for more than one set of samples.
+However, this can only be done if sensory fatigue is minimal. Do not ask questions about
+preference, acceptance, degree of difference, or type of difference after the initial selection
+of the odd sample. This is because the subject’s choice of the odd sample may bias his/her
+responses to these additional questions. Responses to such questions may be obtained
+through additional tests. See Chapter 12 for preference and acceptance tests and Chapter 7
+for difference tests related to size or type (attribute) of difference.
+6.3.5
+Analysis and Interpretation of Results
+Count the number of correct responses (correctly identiﬁed odd samples) and the number
+of total responses. Determine if the number correct for the number tested is equal to or
+larger than the number indicated in Table 17.8.
+Do not count “no difference” replies as valid responses. Instruct subjects to guess if the
+odd sample is not detectable.
+Example 6.1: Triangle Difference Test—New Malt Supply
+A test beer “B” is brewed using a new lot of malt, and the sensory analyst wishes to know
+if it can be distinguished from control beer “A” taken from current production. A 5% risk
+of error is accepted and 12 trained assessors are available; 18 glasses of “A” and 18 glasses
+* See the ﬁnal chapter of the book, “Statistical Tables.” Tables are numbered Table 17.1 through Table 17.14.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+66

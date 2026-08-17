@@ -1,0 +1,52 @@
+the experimental error of the population of products. Often, measurement error, that is,
+judge-to-judge variability, is substituted for experimental error in the statistical analysis
+of sensory panel data. This is a very dangerous mistake because ignoring experimental
+error and replacing it with measurement error can lead an analyst to falsely conclude
+that signiﬁcant differences exist among the products when, in fact, no such differences
+exist. Evaluating a single batch of product ignores the batch-to-batch differences that
+may contribute substantially to product variability. Just as repeated measurements of
+one individual’s height tell us nothing about person-to-person differences, repeated
+evaluations of a single sample (regardless of the size of the panel) tell us nothing
+about product batch-to-batch variability.
+Measurement error is real (as sensory professionals are well aware). However, measure-
+ment error cannot be casually substituted for experimental error without incurring the
+large risk of obtaining misleading results from statistical analyses. If in a taste test, the
+contents of one jar of mayonnaise are divided into 20 servings and presented to panelists,
+or a single preparation of a sweetener solution is poured into 20 cups and served, then the
+results of the test are equivalent to the repeated measurements of an individual’s height.
+The variability estimate obtained from the study estimates measurement error. It is not a
+measure of the product variability (the valid experimental error) because the independent
+replicates (e.g., different batches) of the product were not presented. The only legitimate
+conclusion that could be drawn from such a study is whether the panelists were able to
+detect differences among the particular samples they evaluated. This is not the same as
+concluding that the products are different because there is no way to assess how constant
+any of the observed differences would be in future evaluations of different batches of the
+same products.
+To avoid confusing independent replications of a treatment with multiple observations,
+the sensory analyst must have a clear understanding of what population is being studied.
+If the objective of a study is to compare several brands of a product, then several units from
+each brand must be evaluated. If an ingredient is known to be extremely uniform, then at
+the very least, separate preparations of samples with that ingredient should be served to
+each judge. (For extremely uniform products, the major source of variability may well be
+the preparation-to-preparation differences).
+Suggesting that only one sample be taken from each jar of product or that each serving
+be prepared separately is undeniably more inconvenient than taking multiple obser-
+vations on a single jar. However, the sensory analyst must compare this inconvenience
+to the price paid when, for instance, a new product fails in the market because a prototype
+formulation was falsely declared to be signiﬁcantly superior to a current formulation
+based on the evaluation of a single batch of each product.
+13.5.2
+Blocking an Experimental Design
+The blocking structure of an experimental design is a description of how the treatments
+are applied to the experimental material. To understand blocking structure, two concepts
+must be understood: the “block” and the “experimental unit.” A block is simply a group of
+homogeneous experimental material. Theoretically, any unit within a block will yield the
+same response to the application of a given treatment. The level of the response may vary
+from block to block, but the difference between any two treatments applied within a block
+is constant for all blocks. The experimental material within a block is divided into small
+groups called experimental units. An experimental unit is that portion of the total experi-
+mental material to which a treatment is independently applied.
+The sensitivity of a study is increased by taking into account the block-to-block varia-
+bility that is known to exist prior to running the experiment. If the treatments are applied
+Basic Statistical Methods
+339

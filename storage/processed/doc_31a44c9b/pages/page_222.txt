@@ -1,0 +1,62 @@
+16. Fuzziness
+The amount of pile, ﬁber, fuzz on the surface:
+[Bald - - - - - - - - - - - - - - - - - - - - - - - Fuzzy/nappy]
+17. Thickness
+The perceived distance between thumb and ﬁngers:
+[Thin - - - - - - - - - - - - - - - - - - - - - - - - - - - - Thick]
+18. Moistness
+The amount of moistness on the surface and in the
+interior of the paper/fabric. Specify if the sample is oily
+vs. wet (water) if such a difference is detectable:
+[Dry - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Wet]
+19. Warmth
+The difference in thermal character between
+paper/fabric and hand:
+[Cool - - - - - - - - - - - - - - - - - - - - - - - - - - - - Warm]
+20. Noise intensity
+The loudness of the noise:
+[Soft - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Loud]
+21. Noise pitch
+Sound frequency of the noise:
+[Low/bass - - - - - - - - - - - - - - - - - - - - High/treble]
+G
+Terms Used to Describe the Feel of Hair (Wet and Dry)
+Wet Hair Evaluation Procedure
+1
+Preparation before Application
+Measure length of hair swatch from the end of the card to the end of the hair. Record the
+measurement. Pull hair swatch taut and measure as above. Record measurement.
+Usually evaluate for:
+a. Sheen
+Amount of reﬂected light:
+[Dull - - - - - - - - - - - - - - - - - - - - - - - - - - - - Shiny]
+Comb through swatch with rattail comb. At third stroke of combing, evaluate for:
+b. Combability (top
+half of swatch) (dry)
+Ease with which comb can be moved down hair shafts
+without resistance or hair tangling:
+[Difﬁcult - - - - - - - - - - - - - - - - - - - - - - - - - - - Easy]
+c. Combability
+(bottom half of
+Ease with which comb can be moved down hair shafts
+without resistance or hair tangling:
+swatch) (dry)
+[Difﬁcult - - - - - - - - - - - - - - - - - - - - - - - - - - - Easy]
+d. “Fly away” hair
+The tendency of the individual hairs to repel each other
+during combing after three strokes of combing down
+hair shafts:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - Much]
+2
+Application of Lotion
+Dip hair swatch into cup of room temperature (728F) tap water. Thoroughly wet hair
+swatch. Squeeze out excess water. Pipet 0.125 cc of hair lotion onto edge of palm of
+hand. Using opposite index and middle ﬁngers, rub onto edge of palm 2–3 times to
+distribute lotion. Pick up hair swatch by the card. Using long, even strokes, from the top
+to bottom, apply lotion to hair swatch, turning card after each stroke, rubbing ends of
+swatch with index and middle ﬁngers. Evaluate for:
+a. Ease of distribution
+Ease of rubbing product over hair:
+[Difﬁcult - - - - - - - - - - - - - - - - - - - - - - - - - - - Easy]
+The Spectrume Descriptive Analysis Method: Appendix 11.1
+205

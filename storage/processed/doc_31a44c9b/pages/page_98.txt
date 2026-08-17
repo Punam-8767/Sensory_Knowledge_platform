@@ -1,0 +1,61 @@
+As with the triangle test, the two-out-of-ﬁve test is effective in certain situations:
+1. To determine whether product differences result from a change in ingredients,
+processing, packaging, or storage.
+2. To determine whether an overall difference exists, where no speciﬁc attribute(s)
+can be identiﬁed as having been affected.
+3. To select and monitor panelists for ability to discriminate given differences in test
+situations where sensory fatigue effects are small.
+6.5.2
+Principle of the Test
+Present to each subject ﬁve coded samples. Instruct subjects that two samples belong to
+one type and three to another. Ask the subjects to taste (feel, view, examine) each product
+from left to right and select the two samples that are different from the other three. Count
+the number of correct replies and refer to Table 17.14 for interpretation.
+6.5.3
+Test Subjects
+Select, train, and instruct the subjects as described on p. 66. Generally, 10–20 subjects are
+used. As few as ﬁve to six may be used when differences are large and easy to identify. Use
+only trained subjects.
+6.5.4
+Test Procedure
+For test controls and product controls, see p. 66. Offer samples simultaneously if possible;
+however, samples that are bulky or show slight differences in appearance may be offered
+sequentially without invalidating the test. If the number of subjects is other than 20, select
+the combinations at random from the following, taking equal numbers of combinations
+with 3 A’s and 3 B’s:
+AAABB
+ABABA
+BBBAA
+BABAB
+AABAB
+BAABA
+BBABA
+ABBAB
+ABAAB
+ABBAA
+BABBA
+BAABB
+BAAAB
+BABAA
+ABBBA
+ABABB
+AABBA
+BBAAA
+BBAAB
+AABBB
+An example of a scoresheet is given in Figure 6.9. Count the number of correct responses
+and the number of total responses and refer to Table 17.14. Do not count “no difference”
+responses; subjects must guess if in doubt.
+Example 6.8: Comparing Textiles for Roughness
+Problem/situation: A textile manufacturer wishes to replace an existing polyester fabric with
+a polyester/nylon blend. He has received a complaint that the polyester/nylon blend has
+a rougher and scratchier surface.
+Project objective: To determine whether the polyester/nylon blend needs to be modiﬁed
+because it is too rough.
+Test objective: To obtain a measure of the relative difference in surface feel between the
+two fabrics.
+Test design: As sensory fatigue is not a large factor, the two-out-of-ﬁve test is the most
+efﬁcient for assessing differences. A small panel of 12 will be able to detect quite small
+differences. Choose, at random, 12 combinations of the two fabrics from the table of 20
+Overall Difference Tests: Two-out-of-Five Test
+81

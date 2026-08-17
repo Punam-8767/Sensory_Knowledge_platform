@@ -1,0 +1,83 @@
+The Friedman-type statistic for rank data, which takes the place of the F-statistic in the
+analysis of ratings, is
+T Z
+½12=btðt C1Þ	
+X
+t
+jZ1
+x:2
+j
+0
+@
+1
+AK3bðt C1Þ;
+(13.14)
+where b is the number of panelists, t is the number of samples, and x.j is the rank sum of
+sample j (i.e., the column total for sample j in Table 13.12). The “dot” in x.j indicates
+that summing has been done over the index replaced by the dot, i.e., x:jZP
+b
+iZ1
+xij.
+The test procedure is to reject the null hypothesis of no sample differences at the a-level
+of signiﬁcance if the value of T in Equation 13.14 exceeds c2
+a,tK1, and to accept H0: other-
+wise, where c2
+a,tK1is the upper-a percentile of the c2 distribution with tK1 degrees of
+freedom (see Table 17.5). The procedure assumes that a relatively large number of pane-
+lists participate in the study. It is reasonably accurate for studies involving 12 or
+more panelists.
+If the c2-statistic is signiﬁcant, then a multiple comparison procedure is performed to
+determine which of the samples differ signiﬁcantly. The nonparametric analog to Fisher’s
+LSD for rank sums from a randomized (complete) block design is
+LSDrank Z za=2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+btðt C1Þ=6
+p
+Z ta=2;N
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+btðt C1Þ=6
+p
+:
+(13.15)
+Two samples are declared to be signiﬁcantly different at the a-level if their rank sums
+differ by more than the value of LSDrank in Equation 13.15.
+If the panelists are permitted to assign equal ranks or ties to the samples, then a slightly
+more complicated form of the test statistic T0 must be used (see Hollander and Wolfe 1973).
+Assign the average of the tied ranks to each of the samples that could not be differentiated.
+For instance, in a four-sample test, if the middle two samples (normally of ranks 2 and 3)
+could not be differentiated, then assign both the samples the average rank of 2.5. Replace T
+in Equation 13.14 with
+T0 Z
+12 P
+t
+jZ1
+ðx:jKG=tÞ2
+btðt C1ÞK½1=ðtK1Þ	 P
+b
+iZ1
+P
+gi
+jZ1
+t3
+i;j
+
+!
+Kt
+"
+# ;
+(13.16)
+where GZbt(tC1)/2, gi is the number of tied groups in block i, and ti,j is the number of
+samples in the jth tied group in block i. (Nontied samples are each counted as a separate
+group of size ti,jZ1).
+13.5.4
+Balanced Incomplete Block Designs
+Balanced incomplete block (BIB) designs allow sensory analysts to obtain consistent,
+reliable data from their panelists even when the total number of samples in the study is
+greater than the number that can be evaluated before sensory fatigue sets in. In BIB
+designs, the panelists evaluate only a portion of the total number of samples (notationally,
+each panelist evaluates k of the total of t samples, k!t). The speciﬁc set of k samples that a
+panelist evaluates is selected such that, in a single repetition of a BIB design, every
+sample is evaluated an equal number of times (denoted by r), and all pairs of samples
+are evaluated together an equal number of times (denoted by l). The fact that r and l are
+Basic Statistical Methods
+343

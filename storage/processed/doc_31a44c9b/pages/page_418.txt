@@ -1,0 +1,37 @@
+average values, [lowChigh]/2). Typically, the center point is replicated several times (not
+less than three) to provide an independent estimate of experimental error (see
+Figure 14.28). The regular practice in an RSM experiment is to assign the low levels of
+all the factors the coded value of K1; the high levels are all assigned the coded value
+of C1; and the center point is assigned the coded value of zero.
+The treatment structure of an RSM experiment depicted in Figure 14.28 is called a ﬁrst-
+order RSM experiment. The full regression equation that can be ﬁt by the treatment structure
+has the form:
+y Z b0 Cb1x1 Cb2x2 C/Cbkxk;
+(14.14)
+where bi is the coefﬁcient of the regression equation to be estimated and xi is the coded
+level of the k-factors in the experiment. First-order RSM experiments are used to identify
+general trends and to determine if the correct ranges have been selected for the indepen-
+dent variables. The ﬁrst-order models are used early in a research program to identify the
+direction in which to shift the levels of the independent variables to affect a desirable
+change in the dependent variable (e.g., increase desirable response or decrease undesi-
+rable response).
+First-order models may not be able to adequately predict the response if there is a
+complex relationship between the dependent variable and the independent variables. A
+second-order RSM treatment structure is required for these situations. The full regression
+10.0
+9.3
+8.7
+8.0
+150
+150
+100
+100
+50 50
+Overall liking
+Sweetener (% of control)
+Flavor (% of control)
+FIGURE 14.26
+A response surface plot showing the predicted relationship between overall liking and the levels of sweetener and
+ﬂavor in the product.
+Advanced Statistical Methods
+401

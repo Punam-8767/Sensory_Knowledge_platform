@@ -1,0 +1,49 @@
+9.5
+Panel Performance and Motivation
+Any good measuring tool needs to be checked regularly to determine its ability to perform
+validly and consistently. In the case of a sensory panel, the individuals, as well as the panel
+as a whole, need to be monitored. Panels are comprised of human subjects who have other
+jobs and responsibilities in addition to their participation in the sensory program; it is
+necessary to ﬁnd ways to maintain the panelists’ interest and motivation over long periods
+of product testing.
+9.5.1
+Performance
+For both difference and descriptive panels, the sensory analyst needs to have a
+measure of the performance of each panelist and of the panel, in terms of validity
+and reproducibility. Validity is the correctness of the response. In certain difference
+tests, such as the triangle and duo-trio, and in some directional attribute tests, the
+analyst knows the correct answer (the odd sample, the coded reference, the sweeter
+sample) and can assess the number of correct responses over time. The percent of
+correct responses can be computed for each panelist on a regular monthly or bimonthly
+basis. Weighted scores can also be calculated, based on the difﬁculty of each test in
+which the panelist participated (Aust 1984). For the panel as a whole, validity can be
+measured by comparing panel results to other sensory test data, instrumental data, or
+the known variation in the stimulus, such as increased heat treatment, addition of a
+chemical, etc.
+Reliability, or the ability to reproduce results, can be easily assessed for the individual
+panelists and for the panel as a whole by replicating the test, using duplicate test samples,
+or using blind controls.
+For descriptive data that are analyzed statistically by the analysis of variance, the pane-
+lists’ performance can be assessed across each attribute as part of the data analysis (see
+ASTM (1981), or Lea, Næs, and Rødbottenm (1997) for a detailed description of this
+analysis applied to a set of QDA results). It is recognized and accepted in QDA that
+panelists will use different parts of the scale to express their perceptions of the same
+sample. It is the relative differences in their ratings and not their absolute values that
+are considered important. In other descriptive methods, such as Spectrum, panelists are
+calibrated through the use of references to use the same part of the scale when evaluating
+the same sample. A descriptive panel of this type is equivalent to an analytical instrument
+that requires regular calibration checks. Several approaches, in addition to the ASTM
+guideline just mentioned, are appropriate for monitoring the individual and combined
+performance of “calibrated” panelists. Two aspects of performance that require moni-
+toring are the panel’s accuracy (bias) and its precision (variability). See also Nielsen,
+Hyldig, and Sørensen (2005).
+Bias. To assess a panelist’s ability to be “on target,” the panel leader can determine
+the panelist’s ability to match the accepted intensity of the attributes of a control or
+reference. The statistical measure of difference from the target or control rating, called
+bias, is deﬁned as:
+panelist bias; d Z xKm;
+(9.1)
+where d is the deviation or bias, x is the observed panelist value, and m is the value for the
+control or target attribute.
+Sensory Evaluation Techniques, 4th Ed., Ch. 9
+154

@@ -1,0 +1,51 @@
+12.6.2
+Design of Quantitative Affective Tests
+12.6.2.1
+Quantitative Screener Development
+As with screening for qualitative discussion groups, understanding the research objective
+is crucial to identifying the population required for a quantitative study. Based on client
+input and what is known about the product category in general, screening criteria quotas
+can be established. For chocolate ﬂavored milk, the segment of the population that should
+be targeted is boys (50%) and girls (50%) between the ages of 5–10 (50%) and 11–16 (50%).
+Quantitative studies can require several days to complete for many reasons, such as the
+total number of samples in the study versus the number that can be tested in one session.
+Therefore, during the screening interview, a candidate must agree to participate and be
+willing to come to the facility for more that one session to complete the study. To avoid
+no-shows halfway through the study, participants are told that to receive compensation
+they must complete all required sessions.
+12.6.2.2
+Questionnaire Design
+In designing questionnaires for affective testing, the following guidelines are
+recommended:
+1. Keep the length of the questionnaire in proportion to the amount of time the
+subject expects to be in the test situation. Subjects can be contracted to spend
+hours testing several products with extensive questionnaires. At the other
+extreme, a few questions may be enough information for some projects.
+Design the questionnaire to ask the minimum number of questions to achieve
+the project objective; then construct the test so that the respondents expect to be
+available for the appropriate time span.
+2. Keep the questions clear and somewhat similar in style. Use the same type of
+scale—whether preference, hedonic, just about right, or intensity scale—within
+the same section of the questionnaire. Intensity and hedonic questions may be
+asked in the same questionnaire (see examples in Appendix 12.3), but should
+be clearly distinguished. The questions and their responses should follow the
+same general pattern in each section of the questionnaire. For consistency and
+to insure accurate responses, the scales should be designed to go in the same
+direction, e.g., [Too little//Too much], for each attribute, so that the subject
+does not have to stop and decode each question.
+3. Direct the questions to address the primary differences between/among the
+products in the test. Attribute questions should relate to the attributes that
+are detectable in the products and which differentiate among them. This can
+be determined by previously conducted descriptive tests. Subjects will not
+give clear answers to questions about attributes they cannot perceive or
+differences they cannot detect.
+4. Use only questions that are actionable. Do not ask questions to provide data
+for which there is no appropriate action. If one asks subjects to rate the
+attractiveness of a package and the answer comes back that the package is
+somewhat unattractive, does the researcher know what to “ﬁx” or change to
+alter that rating?
+5. Always provide spaces on a scoresheet for open-ended questions. For
+example, ask the reason a subject responded the way he/she did to a prefer-
+ence or acceptance question, immediately following that question.
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+272

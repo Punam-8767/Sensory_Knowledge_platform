@@ -1,0 +1,36 @@
+Because the standard normal distribution is symmetric about its mean, zero, it follows
+that Pr[Kc!z!0]ZPr[0!z!c] for any constant c. Therefore, by Table 17.2:
+Pr½K1!z!0	 Z Pr½0!z!1	 Z 0:3413
+(13.27)
+Therefore, Pr[45!x!50]Z0.3413.
+Finally, consider Pr[45!x!60] for the same random variable xwn(50, 5). This problem
+is solved as follows:
+Pr½45!x!60	 Z Pr½K1!z!2	
+ðStandardizing by ½13:26	Þ
+Z Pr½K1!z!0	 CPr½0!z!2	
+Z Pr½0!z!1	 CPr½0!z!2	
+ðby ½13:27	Þ
+Z 0:3413 C0:4772
+Z 0:8185:
+Example 13.8: Calculating Normal Tail Probabilities
+Tail probabilities are associated with the areas under the probability curve at the extremes
+of the distribution (see Figure 13.17). Notationally, tail probabilities are stated as Pr[xOc]
+or Pr[x!c] for some constant c. Tail probabilities are widely used in testing
+statistical hypotheses.
+Consider the problem of ﬁnding Pr[xO60], where xwn(50, 5). Noting that the total area
+(i.e., probability) under any probability curve is one, it follows from the symmetry of the
+normal distribution that Pr[x!m]ZPr[xOm]Z0.50. Therefore,
+Pr½xO60	 Z Pr½ðxK50Þ=5Oð60K50Þ=5	
+Z Pr½zO2	ðby½13:26	Þ
+Z 0:50KPr½0!z!2	
+Z 0:50K0:4772 ðfrom Example 13:7Þ
+Z 0:0228:
+(See the crosshatched area in Figure 13.16 for an understanding of the third step.)
+c1
+c2
+Pr (x<c1)
+Pr (x>c2)
+FIGURE 13.17
+Tail probabilities of a normal distribution.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+352

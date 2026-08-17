@@ -1,0 +1,49 @@
+roux (a cooked ﬂour-and-water base used for sauces), a fondant (sugared candy base), and
+sweetened milk (for vanilla and similar spices and ﬂavorings).
+Serving temperature. After the sample is distributed into each serving container, and just
+before serving, the product should be checked to determine if it is at the appropriate
+temperature. Most sensory laboratories develop standard preparation procedures that
+determine the needed temperature in the preparation container, which is necessary to
+ensure the required temperature after delivery to the tasting/smelling container. The use
+of standard procedures greatly reduces the need for monitoring of each individual portion.
+3.3.3.2
+Order, Coding, and Number of Samples
+As part of any test, the order, coding, and number of samples presented to each subject
+must be monitored.
+The order of presentation should be balanced so that each sample appears in a given
+position an equal number of times. For example, these are the possible positions for three
+products, A, B, and C, to be compared in a ranking test:
+ABC—ACB—BCA—BAC—CBA—CAB
+(3.1)
+Such a test should be set up with a number of subjects that is a multiple of six, so as to
+permit presentation of the six possible combinations an equal number of times (see
+Chapter 4). The presentation also should be random, which may be achieved by
+drawing sample cards from a bag or by using a compilation of random numbers (see
+Table 17.1). Labels can be printed from a computer to make the sample labeling easier.
+At no time should odorous tape or odorous markers be used to label sample containers.
+The codes assigned to each product can be biasing: for example, subjects may subcon-
+sciously choose samples marked A over those marked with other letters. Therefore, single
+and double letters and digits are best avoided. In addition, letters or numbers that rep-
+resent companies, area codes, and test numbers or samples should not be used. Most
+sensory analysts rely on the table of three-digit random numbers for product coding.
+Codes should not be very prominent, either on the product or on the scoresheet. They
+can be clearly yet discreetly placed on the samples and scoresheets to reduce confusion as
+to sample identiﬁcation, and to reduce potential biases at the same time.
+The number of samples that can be presented in a given session is a function of both
+sensory and mental fatigue in the subject. With cookies or biscuits, eight or ten may be the
+upper limit; with beer, six or eight. Products with a high carryover of ﬂavor, such as
+smoked or spicy meats, bitter substances, or greasy textures may allow only one or two
+per test. On the other hand, visual evaluations can be done on series of 20–30 samples,
+with mental fatigue as the limiting factor.
+3.3.4
+Product Sampling
+The sensory analyst should determine how much of a product is required and should
+know the history of the products to be tested. Information about prior handling of experi-
+mental and control samples is important in the design of the test and interpretation of
+the results. A log book should be kept in the sensory laboratory to record pertinent
+sample data:
+† The source of the product: when and where it was made. Sample identiﬁcation is
+necessary for laboratory samples (lab notebook number) as well as production
+samples (date and machine codes).
+Sensory Evaluation Techniques, 4th Ed., Ch. 3
+36

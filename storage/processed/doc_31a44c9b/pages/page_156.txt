@@ -1,0 +1,49 @@
+R.L. Doty and D.G. Laing, 2003. “Psychophysical measurement of human olfactory function,
+including odorant mixture assessment,” in Handbook of Olfaction and Gustation, 2nd Ed.,
+R.L. Doty, ed., New York: Marcel Dekker, pp. 203–228.
+R.L. Doty, T.P. Gregor, and R.G. Settle. 1986. “Inﬂuence of intertrial interval and sniff-bottle volume
+on phenyl alcohol detection thresholds,” Chemical Senses, 11:2, 259–264.
+F.A. Fazzalari, ed. 1978. Compilation of Odor and Taste Threshold Values Data, West Conshohocken, PA:
+ASTM International.
+J.E.R. Frijters. 1980. “Three-stimulus procedures in olfactory psychophysics. An experimental
+comparison of Thurstone–Ura and three-alternative forced-choice models of signal detection
+theory,” Perception & Psychophysics, 28:5, 390–397.
+D.G. Guadagni, S. Okano, R.G. Buttery, and H.K. Burr. 1966. “Correlation of sensory and gas–liquid
+chromatographic measurement of apple volatiles,” Food Technology, 30: 518.
+R.M. Hainer, A.G. Emslie, and A. Jacobson. 1954. “Basic odor research correlation,” Annals of The New
+York Academy of Sciences, 58: 158.
+M. Hangartner and M. Paduch. 1988. “Interface human nose—olfactometer,” in Measurement of Odor
+Emissions, Proceedings of Workshop, Annex V, 53, Commission of the EEC.
+ISO. 2002. Sensory Analysis—Methodology—General Guidance for Measuring Odour, Flavour, and Taste
+Detection Thresholds by a Three-Alternative Forced-Choice (3-AFC) Procedure, International Organiz-
+ation for Standardization, International Standard ISO 13301:2002, Switzerland: ISO.
+F.B. Kelly and H. Heymann. 1989. “Contrasting the effect of ingestion and expectoration in sensory
+difference tests,” Journal of Sensory Studies, 3:4, 249–255.
+J.W. Kling and L.A. Riggs eds. 1971. Woodworth & Schlosberg’s Experimental Psychology, 3rd Ed.,
+Chap. 2, New York: Holt, Rinehart and Winston.
+G.G. Laing. 1987. Optimum Perception of Odours by Humans, Vol. 8, Australia: CSIRO Division of Food
+Research.
+H.T. Lawless and H. Heymann. 1998. Sensory Evaluation of Food. Principles and Practices, Chap. 6,
+New York: Chapman and Hall.
+N.A. Macmillan and C.D. Creelman. 1991. Detection Theory, A User’s Guide, Vol. 391, Cambridge:
+Cambridge University Press.
+A.B. Marin, T.E. Acree, and J. Barnard. 1988. “Variation in odor detection thresholds determined by
+Charm Analysis,” Chemical Senses, 13:3, 435–444.
+M.C. Meilgaard. 1975. “Flavor chemistry of beer. Part I. Flavor interaction between principal
+volatiles,” Technical Quarterly of the Master Brewers Association of the Americas, 12: 107–117.
+M.C. Meilgaard. 1993. “Individual differences in sensory threshold for aroma chemicals added to
+beer,” Food Quality and Preference, 4: 153–167.
+G.R. Morrison. 1982. “Measurement of ﬂavor threshold,” Journal of the Institute of Brewing,
+88: 170–174.
+J.J. Powers and K. Shinholser. 1988. “Flavor thresholds for vanillin and predictions of higher or lower
+thresholds,” Journal of the Sensory Studies, 3:1, 49–61.
+J.J. Powers and G.O. Ware. 1976. “Comparison of sigmplot. Probit and extreme-value methods for
+the analysis of threshold data,” Chemical Senses and Flavor, 2:2, 241–253.
+J.C. Stevens, W.W. Cain, and R.J. Burke. 1988. “Variability of olfactory thresholds,” Chemical Senses,
+13:4, 643–653.
+J.A. Swets, 1964. “Is there a sensory threshold?,” in Signal Detection and Recognition by Human
+Observers, J.A. Swets, ed., New York: Wiley.
+L.J. Van Gemert and A.H. Nettenbreijer. 1984. Compilation of Odour Threshold Values in Air and Water,
+V. Zeist, The Netherlands: Central Institute for Nutrition and Food Research TNO, Supplement.
+Determining Threshold
+139

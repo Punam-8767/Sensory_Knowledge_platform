@@ -1,0 +1,55 @@
+Often, a researcher is interested in determining if a population possesses a speciﬁc
+characteristic (e.g., more people prefer product A than product B). There are risks associ-
+ated with drawing conclusions about the population as a whole when the only
+information available is that contained in a sample. Formal procedures, called tests of
+hypotheses, set limits on the probabilities of drawing incorrect conclusions. Then, based
+on the actual outcome of an experiment, the researcher’s risks are constrained within these
+known limits. Tests of hypotheses are a type of statistical inference that give sensory
+researchers greater assurance that correct decisions will be made.
+The amount of information required to draw sound statistical conclusions depends on
+several factors (e.g., the level of risk the researcher is willing to assume, the required
+precision of the information, the inherent variability of the population being studied,
+etc.). These issues need to be addressed and a plan of action, called the experimental
+design, should be developed before a study is undertaken. The experimental design,
+based on both technical and common sense principles, will insure that the experimental
+resources are focused on the critical issues in the study, that the correct information is
+collected, and that no excessive sampling of people or products occurs.
+The remainder of the chapter is devoted to the further development of the ideas just
+presented. Section 13.2 presents some basic techniques for summarizing data in tabular
+and graphical forms. Section 13.3 combines estimation with some fundamental concepts of
+probability to present some methods for testing statistical hypotheses. Section 13.4
+presents an introduction to the application of the Thurstonian model to sensory evalu-
+ation. The Thurstonian model provides an alternative approach for measuring differences
+among samples and provides unique insights on how the assessors are performing their
+evaluations. Section 13.5 covers the most commonly used experimental designs in sensory
+studies, including techniques for improving the sensitivity of panels for detecting
+differences among products. The basic techniques for calculating probabilities from
+some common distributions are presented in an appendix (see Section 13.6).
+13.2
+Summarizing Sensory Data
+The data from sensory panel evaluations should be summarized in both graphs and tables
+before formal statistical analyses (i.e., tests of hypotheses, etc.) are undertaken. Exami-
+nation of the graphs and tables may reveal features of the data that would be lost in the
+computation of test statistics and probabilities. In fact, features revealed in the tables and
+graphs may indicate that standard statistical analysis procedures would be inappropriate
+for the data at hand.
+Whenever a reasonably large number of observations are available, the ﬁrst step of any
+data analysis should be to develop the frequency distribution of responses (see
+Figure 13.1). Then a basic set of summary statistics should be calculated. Included in
+the basic set would be the arithmetic or sample mean, x, for estimating the center (or
+central tendency) of the distribution of responses and the sample standard deviation, s,
+for estimating the spread (or dispersion) of the data around the mean. The sample mean is
+calculated as
+x Z
+X
+n
+iZ1
+xi
+(
+n
+
+!
+Z ðx1 Cx2 C. CxnÞ=n;
+(13.1)
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+314

@@ -1,0 +1,51 @@
+Wysocki and Gilbert (1989), and Wysocki, Pierce, and Gilbert (1991). The lesson to be
+learned from this is that if the job is to characterize or identify a new odor, one needs as
+large a panel as possible if the results are to have any validity for the general population.
+A panel of one can be very misleading.
+2.3.3.2
+Retronasal Odor
+An important part of what is called ﬂavor-by-mouth is retronasal odor. When people chew
+and swallow, a portion of the volatiles in the mouth pass via the nasopharyngeal passage
+into the nose where they contact the olfactory epithelium, see Figure 2.4. For more detail,
+see Mozell et al. (1969).
+Retronasal perception is often responsible for one’s ability to identify an odor or a ﬂavor.
+As an example, Lawless et al. (2004) showed that the so-called metallic taste of solutions of
+FeSO4 disappears when both nares are blocked.
+2.3.3.3
+Odor Memory
+First encounters with an odor is often remembered over very long times. Factors that affect
+its acquisition and retention are discussed by Ko¨ster, Degel, and Piper (2002). Short-term
+and long-term odor memory are highly important for an animal’s survival in the wild as
+they are for a human subject’s performance on a panel, see Parr, Heatherbell, and White
+(2002). A comprehensive selection of odorants useful in panel selection and training are
+those of ISO Standards 5496 and 22935, Initiation and Training of Assessors in the Detec-
+tion and Recognition of Odours.
+A problem in odor memory is that, whereas perfectly remembering an odor, subjects
+tend to forget its name or to apply to it the name of a similar odor (Jo¨nsson and Olsson
+2003). Similarly, when subjects do recall a name but apply it to a different odor, they
+may mentally transfer characteristics associated with the name to the new odor (see
+Ko¨ster, Degel, and Piper 2002).
+2.3.4
+The Chemical/Trigeminal Sense
+Chemical irritants such as ammonia, ginger, horseradish, onion, chili peppers, menthol,
+etc. stimulate the trigeminal nerve ends (see Figure 2.5), causing perceptions of burn, heat,
+cold, pungency, etc. in the mucosa of the eyes, nose, and mouth. Subjects often have
+difﬁculty separating trigeminal sensations from olfactory and/or gustatory ones. Experi-
+ments that seek to determine olfactory sensitivity among subjects can be confounded by
+responses to trigeminal rather than olfactory sensations.
+For most compounds, the trigeminal response requires a concentration of the irritant that
+is orders of magnitude higher than one that stimulates the olfactory or gustatory receptors.
+Trigeminal effects assume practical signiﬁcance: (1) when the olfactory or gustatory
+threshold is high, e.g., for short-chain compounds such as formic acid or for persons with
+partial anosmia or ageusia, and (2) when the trigeminal threshold is low, e.g., for capsaicin.
+The trigeminal response to mild irritants (such as carbonation, mouthburn caused by
+high concentrations of sucrose and salt in confections and snacks, the heat of peppers and
+other spices) may contribute to, rather than distract from, acceptance of a product
+(Carstens et al. 2002).
+2.3.5
+The Sense of Gustation/Taste
+Like olfaction, gustation is a chemical sense (see review by Drewnowski 2001). It involves
+the detection of stimuli dissolved in water, oil, or saliva by the taste buds that are primarily
+located on the surface of the tongue as well as in the mucosa of the palate and areas of the
+Sensory Attributes and the Way We Perceive Them
+17

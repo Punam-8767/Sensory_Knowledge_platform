@@ -1,0 +1,54 @@
+spread of the data might be measured by the difference between the ﬁrst and third
+quartiles of the responses (i.e., the points that 25% and 75% of the values fall below,
+respectively). This difference is called the interquartile range.
+The sample mean, x, is sensitive to the presence of extreme values in the data.
+The median is less sensitive to extreme values, so it could again be used in place of
+the sample mean as the summary measure of the center of the data. Another option is
+a robust estimator of central tendency called the trimmed mean. The trimmed mean is
+calculated in the same way as the sample mean but after a speciﬁc proportion (e.g., 5%)
+of the highest and lowest data values have been eliminated. Various computerized statisti-
+cal analysis packages routinely compute a variety of measures of central tendency
+and dispersion.
+Many statistical analysis procedures assume that the data are normally distributed.
+If the raw data used to calculate x are normally distributed, then so is x. In fact, even if
+the raw data are not distributed as normal random variables, x is still approximately
+normal, provided that the sample size is greater than 25 or so. The mean of the distribution
+of x is the same as the mean of the distribution of the raw data, i.e., m, and if s is the
+standard deviation of the raw data, then s= ﬃﬃﬃn
+p the standard deviation of x. s= ﬃﬃﬃn
+p is called the
+standard error of the mean. Notice that as the sample size n increases, the standard error of
+the mean decreases. Therefore, as the sample size becomes larger, x is increasingly likely to
+take on a value close to the true value of m. The standard error (SE) of the mean is estimated
+by SEZs= ﬃﬃﬃn
+p , where s is the sample standard deviation calculated in Equation 13.2.
+13.2.1
+Summary Analysis of Data in the Form of Ratings
+The overall liking responses of 30 individuals in each of four cities are presented
+in Table 13.1. The frequency distributions of the responses are presented tabularly in
+Table 13.2 and graphically, using simple dot-plots, in Figure 13.2. There is no strong
+indication of multimodal behavior within a city. The summary statistics for these data
+are presented in Table 13.3. The box-and-whisker plots (see Danzart 1986) in Figure 13.3
+provide additional information about the distribution of ratings from city to city and,
+possibly, some minor concern about extreme observations.
+13.2.2
+Estimating the Proportion of a Population That Possesses a
+Particular Characteristic
+The statistic used to estimate the population proportion p of a binomial distribution is ^p
+(p-hat), where
+^p Z Number of "successes"
+Number of trials
+:
+(13.3)
+Suppose that 150 consumers participate in a preference test between two samples, A and
+B. Furthermore, suppose that 86 of the participants say that they prefer sample A. Prefer-
+ence for sample A was deﬁned as a success before the test was conducted, so from
+Equation 13.3, ^pZ86=150Z0:573. That is, 0.573% or 57.3%, of consumers preferred
+sample A. If a multicity test had been conducted, the estimated preferences for sample
+A could be represented graphically using a bar chart such as that in Figure 13.4.
+13.2.3
+Conﬁdence Intervals on m and p
+The previously calculated single-valued statistics, called point estimates, provide no infor-
+mation as to their own precision. Conﬁdence intervals supply this missing information.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+316

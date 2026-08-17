@@ -1,0 +1,52 @@
+chew, one manual squeeze), the subject induces the manifestation of only a limited number
+of attributes (hardness, denseness, deformation) at a time (Civille and Liska 1975).
+However, with the chemical senses (aroma and ﬂavor), the chemical composition of the
+sample and some of its physical properties (temperature, volume, concentration) may alter
+the order in which certain attributes are detected (IFT 1981). In some products such as
+beverages, the order of appearance of the characteristics is often as indicative of the
+product proﬁle as the individual aroma and ﬂavor notes and their respective intensities.
+Included as part of the treatment of the order of appearance of attributes is aftertaste or
+afterfeel that are those attributes that can still be perceived after the product or sample has
+been used or consumed. A complete picture of a product requires that all characteristics
+that are perceived after the product use should be individually mentioned and rated
+for intensity.
+Attributes described and rated for aftertaste or afterfeel do not necessarily imply a
+defect or negative note. For example, the cool aftertaste of a mouthwash or breath mint
+is a necessary and desirable property. On the other hand, a cola beverage’s metallic
+aftertaste may indicate a packaging contamination or a problem with a particular
+sweetener.
+When the intensity of one or more (usually not more than three) sensory properties is
+repeatedly tracked across a designated time span, the technique is called time–intensity
+analysis. A more detailed description of this technique is given on p. 181 of this chapter.
+10.3.4
+Overall Impression: The Integrated Aspect
+In addition to the detection and description of the qualitative, quantitative, and time
+factors that deﬁne the sensory characteristics of a product, panelists are capable of, and
+management is often interested in, some integrated assessment of the product properties.
+Ways such integration has been attempted include the following four:
+Total intensity of aroma or ﬂavor. A measure of the overall impact (intensity) of all the
+aroma components (perceived volatiles) or a measure of the overall ﬂavor impact that
+includes the aromatics, tastes, and feeling factors contributing to the ﬂavor. Such an
+evaluation can be important in determining the general fragrance or ﬂavor impact that
+a product delivers to the consumer who does not normally understand all of the nuances
+of the contributing odors or tastes that the panel describes. The components of texture are
+more functionally discrete, and “total texture” is not a property that can be determined.
+Balance/blend (amplitude). A well-trained descriptive panel is often asked to assess the
+degree to which various ﬂavor or aroma characteristics ﬁt together in the product. Such an
+evaluation involves a sophisticated understanding, half learned and half intuitive, of
+the appropriateness of the various attributes, their relative intensity in the complex, and
+the way(s) they harmonize in the complex. Evaluation of balance or blend (or amplitude as
+it is called in the Flavor Proﬁle method [Cairncross and Sjo¨strom 1950; Caul 1957; Keane
+1992]) is difﬁcult even for the highly trained panelist and should not be attempted with
+naı¨ve or less sophisticated subjects. In addition, care must be taken in the use of data on
+balance or blend. Often a product is not intended to be blended or balanced: a preponder-
+ance of spicy aromatics or toasted notes may be essential to the full character of a product.
+In some products, the consumer may not appreciate a balanced composition, despite its
+well-proportioned notes, as determined by the trained panel. Therefore, it is important to
+understand the relative importance of blend or balance among consumers for the product
+in question before measuring and/or using such data.
+Overall difference. In certain product situations, the key decisions involve determination
+of the relative differences between samples and some control or standard product.
+Although the statistical analysis of differences between products on individual attributes
+Descriptive Analysis Techniques
+177

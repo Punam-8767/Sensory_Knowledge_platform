@@ -1,0 +1,48 @@
+a category map. Using multivariate analysis techniques, the relative position of both the
+products and the attributes can be displayed in graphic form (see Chapter 14, p. 362). This
+permits researchers to learn (1) how products and attributes cluster within the product/
+attribute space, (2) where the opportunities may be in that space for new products, and (3)
+which attributes best deﬁne which products. A detailed example of a category appraisal is
+that of frankfurters by Mun˜oz, Chambers, and Hummer (1996), in which consumer data
+and descriptive panel data are related statistically.
+Additional testing of several of the same products with consumers can permit projection
+of other vectors into the space. These other vectors may represent consumers’ overall
+liking and/or consumers’ integrated terms, such as creamy, rich, fresh, or soft. The identiﬁ-
+cation of consumers segments based on patterns of liking for different products is also
+possible. Consumer liking within each segment is driven by speciﬁc key descriptive
+features of the product category being studied.
+12.1.6
+Support for Advertising Claims
+Product and service claims made in print, or on radio, TV, or the Internet, require valid
+data to support the claims. Sensory claims of parity (“tastes as good as the leading brand”)
+or superiority (“cleans windows better than the leading brand”) need to be based on
+consumer research and/or panel testing using subjects, products, and test designs that
+provide credible evidence of the claim. For speciﬁc information on the requirements and
+design considerations for this type of test, refer to ASTM (1998); see also Chapter 9 of
+Gacula (1993).
+12.1.7
+Uncovering Consumer Needs
+Working on projects that result in the creation of new unique opportunities or improved
+products that are speciﬁcally designed to meet a consumer need is a developing area for
+sensory evaluation. Understanding the consumers’ articulated and unarticulated needs,
+wants, wishes, and behaviors results in products designed to meet speciﬁc needs based on
+better target deﬁnitions for concept and product requirements, and stronger business
+cases developed based on facts and speciﬁc consumer directed information. Techniques
+used to collect this information are often focused in the qualitative area using observa-
+tional research, one-on-one interviews, point-of-purchase interviews, diaries, and home
+visits. Application of approaches uncovers how products within the category are “really”
+used and identiﬁes key sensory properties, including “must have” and “nice to
+have” features.
+12.2
+The Subjects/Consumers in Affective Tests
+12.2.1
+Sampling and Demographics
+Whenever a sensory test is conducted, a group of subjects is selected as a sample of some
+larger population, about which the sensory analyst hopes to draw some conclusion. In the
+case of discrimination tests (difference tests and descriptive tests), the sensory analyst
+samples individuals with average or above-average abilities to detect differences. It is
+assumed that if these individuals cannot “see” a difference, the larger human population
+will be unable to see it. In the case of affective tests, however, it is not sufﬁcient to merely
+select or sample from the vast human population. Consumer goods and services try to
+Affective Tests: The Subjects/Consumers in Affective Tests
+259

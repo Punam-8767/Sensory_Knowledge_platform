@@ -1,0 +1,56 @@
+11.2.2
+Myth 2: Concept Development Is Unnecessary in Training a Spectrum Panel
+Concept development for attributes is critical to lexicon stability. Lexicons are based on
+common terminology agreed upon by panelists. Clarifying the concept, through use of
+references and examples, stabilizes the communication among the panelists. Creating a
+“complex” concept allows panelists to account for parts of the whole that in turn allows
+the product developers to understand what attributes make up the whole concept.
+Examples of complexes are listed below:
+Total Corn Complex
+Total Amount of Residue
+Total Amount of Color
+Raw corn
+Oily
+Red
+Cooked corn
+Waxy
+Yellow
+Toasted corn
+Greasy
+Blue
+Masa
+Silicone
+Green
+11.2.3
+Myth 3: All Spectrum Training and Panels Are the Same; Anyone Can Do It
+Although knowledge and familiarity are important, to be an effective trainer, one must
+have both teaching and group dynamic skills. To maximize the panel’s learning, the
+trainer provides authority (clarifying technical issues) and structure (provide a framework
+for all panelists to learn). To develop the panel as an independent performing team, the
+trainer encourages growth and builds the panel’s conﬁdence. The success of the panel
+depends upon it.
+11.2.4
+Myth 4: Consumer Terms Are Better than Technical Terms
+It is not a question as to which is better—consumer terms or technical terms. The project
+objective dictates the type of terminology required. Consumer terms reﬂect the language
+of the user population (creamy, refreshing, soft). Technical terms provide direct feedback
+to product development (vanillin or vanilla). Technical terms can be directly related to the
+input of ingredients and process variables.
+11.2.5
+Myth 5: Spectrum Panelists Are Forced to Use Canned Lexicons
+Spectrum panelists discover the terms within the samples. The process with which Spec-
+trum panels develop lexicons is:
+1. Panelists experience the attributes in an array of products (taste, touch, smell, etc).
+2. Panelists report terms, interpret the experience, and record a draft lexicon.
+3. Panelists are exposed to attribute references for clariﬁcation.
+4. Panelists reﬁne the precise terminology and validate the lexicon with a pair
+of samples.
+11.2.6
+Myth 6: Spectrum Panelists Are Coerced into Intensity Calibration
+Providing intensity references increases panel reproducibility and communication.
+People look for boundaries in making decisions about amount (“Compared to
+what?”). The Spectrum method provides these boundaries by deﬁning the limits of
+the sensory experience. Providing a series of levels for different stimuli encourages
+panelists to be consistent from time to time and across panelists. In addition, using
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+190

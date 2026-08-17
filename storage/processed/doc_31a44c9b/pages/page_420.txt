@@ -1,0 +1,46 @@
+The addition of the squared and cross-product terms in the model allows the predicted
+response surface to “bend” and “ﬂex,” resulting in an improved prediction of
+complex relationships.
+A popular class of second-order RSM experiments is the central-composite, rotatable
+treatment structures. Central-composite experiments are developed by adding a set of
+axial or “star” points to a ﬁrst-order RSM treatment structure (see Figure 14.29). There
+are 2k axial points in a k-factor RSM experiment. Using the normal K1, 0, C1 coding for
+the factor levels, the axial points are (Ga, 0,., 0), (0, Ga, 0, ., 0), ., (0, 0, ., 0, Ga),
+where a is the distance from the axial point to the center of the experimental region (i.e.,
+the center point). The value of a is (F)1/4, where F is the number of noncenter factorial
+points in the ﬁrst-order experiment. For example, in a two-factor experiment, FZ4 and aZ
+(4)1/4Z1.414.
+Second-order RSM models have several advantages over ﬁrst-order models. As
+mentioned before, the second-order models are better able to ﬁt complex relationships
+between the dependent variable and the independent variables. In addition, second-order
+models can be used to locate the predicted maximum or minimum value of a response in
+terms of the levels of the independent variables.
+The recommended procedure for performing an RSM experiment is as follows (also see
+Carr 1989): First, the experimental samples should be prepared according to the RSM plan.
+Second, perform a regular BIB analysis of the samples from the RSM treatment structure,
+ignoring the association among the samples. (The BIB blocking structure is suggested
+because there are normally too many samples in an RSM experiment to evaluate at one
+sitting. If, however, it is possible to evaluate all of the samples together, then a randomized
+[complete] block design can be used.) The only output of interest from the BIB analysis is
+the set of adjusted sample means. The signiﬁcance (or lack of signiﬁcance) of the overall
+test statistic is of no interest. Next, submit the sample means to a stepwise regression
+analysis to develop the predictive equation that relates the value of the response to the
+levels of the experimental factors. The predictive equation is then used to generate a
+contour plot that provides a graphical depiction of the effects of the factors on the
+response. If there is only one response, the region where the response takes on acceptable
+values (or attains a minimum or maximum value) is apparent in the contour plot.
+(–1,+1)
+(–1,–1)
+(+1,–1)
+(+1,+1)
+(0,+a)
+(0,–a)
+(+a,0)
+(–a,0)
+(0,0)
+FIGURE 14.29
+Central composite RSM experiments. The ﬁgures illustrate the arrangement of the factorial, axial, and center
+points in an RSM experiment with two and three independent variables that permit estimation of a second-order
+regression model as in Equation 14.15.
+Advanced Statistical Methods
+403

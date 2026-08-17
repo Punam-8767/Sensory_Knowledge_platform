@@ -1,0 +1,92 @@
+When data is available for several samples (15–30) that span a range of intensities for
+several attributes (see the hand and body lotion example in Appendix 12.1 and Appendix
+12.2), it is possible to study relationships in the data using the statistical methods
+described in Chapter 14, pp. 357–375. Figure 12.5 shows four examples. Graph A shows
+how consumer overall acceptance varies with the intensity of a descriptive panel attribute
+(e.g., color intensity); this allows the researcher to understand the effect of different inten-
+sities of a characteristic and to identify acceptable limits. In Graph B, the abscissa depicts
+the intensity of an undesirable attribute, e.g., an off-ﬂavor, and the ordinate is consumer
+acceptance of ﬂavor; the steep slope indicates a strong effect on liking for one facet of the
+product. From the type of relationship in Graph C, the researcher can learn how consu-
+mers use certain words relative to the more technically precise descriptive terms; note that
+the descriptive panel’s rating for crispness correlates well with the consumer’s rating, but
+the latter rises less steeply. Finally, Graph D relates two consumer ratings, showing the
+range of intensities of an attribute that the consumer ﬁnds acceptable. Such a relationship
+is tantamount to a “just right” assessment.
+The data relationships in Figure 12.5 are univariate. Consumer data often shows
+interaction between several variables (products, subjects, and one or more attributes).
+This type of data requires multivariate statistical methods such as principal component
+analysis (PCA) or partial least squares (PLS) (see Mun˜oz, Chambers, and Hummer 1996
+and Chapter 14).
+8
+7
+6
+Consumer overall acceptance
+Descriptive attribute intensity
+5
+4
+4
+5
+6
+7
+8
+9
+10
+9
+8
+7
+6
+Consumer acceptance of flavor
+Descriptive attribute intensity
+5
+4
+3
+2
+1
+0
+0
+1
+2
+3
+4
+5
+6
+8
+7
+6
+Consumer intensity crispness
+Descriptive attribute intensity
+5
+4
+4
+5
+6
+7
+8
+9
+10
+8
+7
+6
+Consumer overall acceptance
+Consumer attribute intensity
+5
+4
+4
+5
+6
+7
+8
+9
+10
+(a)
+(b)
+(c)
+(d)
+FIGURE 12.5
+Examples of data relationships extracted from a consumer study. (a) (top left) consumer overall acceptance vs.
+descriptive attribute intensity (color intensity); (b) (top right) consumer acceptance for ﬂavor vs. descriptive
+attribute intensity (ﬂavor off-note); (c) (bottom left) consumer intensity crispness vs. descriptive attribute inten-
+sity (crispness); (d) (bottom right) consumer overall acceptance vs. consumer attribute intensity (sweetness).
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+284

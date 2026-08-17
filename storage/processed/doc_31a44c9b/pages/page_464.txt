@@ -1,0 +1,122 @@
+basic statistical methods, 314, 334–338
+exercises, 163–165
+measuring responses, 47, 55–60
+training panelists, 152–153
+Scheduling guidelines, 167–168
+Screening, 4
+affective tests, 270, 272
+consumer tests, 294–298
+fractional factorials, 396–399
+fuzzy front end research, 268
+selecting panelists, 146–147
+SDT see Signal detection theory
+Second order response surface experiments, 403–404
+Segmentation analysis, 291–294
+Segment identiﬁcation, 385–387
+Selecting panelists, 143–146, 147–152, 157–165
+Semisolid oral texture, 198–199, 216
+Sensory attributes, 7–22
+Sensory perception chain, 2
+Sensory testing development, 1–2
+Sensory verdict factors, 39–43
+Sequence mapping, 288–291
+Sequential tests, 100–104
+Serving matrices, 35–36
+Sesame cracker shelf-life, 285–287
+Shelf-life, 193–194, 285–287
+Signal detection theory (SDT) 132
+Similarity tests, 69–71, 77–80
+Simple difference tests, 84–88
+Simple linear regression, 366–369
+Simple ranking tests, 113–117
+Simultaneous multiple comparison procedures,
+349–350
+Size/shape, 195
+Skinfeel
+panel leadership guidelines, 168–171
+panel prescreening questionnaires, 158–159
+Spectrum descriptive analysis, 202–204, 208–213,
+221–222, 239
+Small product differences, 153
+Soap lather and skinfeel, 208–210
+Soft drinks, 72, 107–108, 183–186
+Solid antiperspirant skinfeel, 210–213
+Solid oral texture, 199–202, 217–221
+Somesthesis, 13
+see also Skinfeel
+Source of test subjects, 261–263
+Spaghetti sauce, 238, 243–244
+Species of ﬁsh, 122–125
+Spectrum descriptive analysis, 181, 189–252
+ﬂavor, 195–197, 225–228, 232–238
+full product descriptions, 239–245
+intensity, 190–191, 192, 213–232
+lexicons, 190, 232–239
+modiﬁed short-versions, 193–194
+myths, 189–191
+oral texture, 199–202, 217–221
+quality assurance, 193–194
+semisolid oral texture, 198–199, 216
+shelf-life studies, 193–194
+skinfeel, 202–204, 208–213, 221–222, 239
+solid oral texture, 199–202, 217–221
+streamlined approaches, 224–232
+terminology, 191–192, 194–213
+texture, 194–195, 198–202, 217–224, 228–232,
+233–239
+training, 190, 191, 245–252
+Split-plot designs, 118–122, 155, 347–349
+Squared terms, 403
+Standard deviations
+basic statistical methods, 315, 318, 320, 322
+statistical hypothesis testing, 329–330
+Thurstonian scaling, 335, 337–338
+Standard error of the mean, 316
+Standard normal distribution/deviate, 351, 420
+Standard normal variable critical values, 317–318
+Statistical design, 338–354
+Statistical methods see Advanced statistical methods;
+Basic statistical methods
+Statistical tables, 419–439
+Stepwise selection, 371
+Steven’s law, 50, 52
+Stimulus errors, 41
+Storage, 30–31
+Streamlined approaches, 224–232
+Studentized range, 422–425
+Student’s t distribution, 421
+Study design 4, 169
+Study scheduling, 167–168
+Subjects, affective tests, 259–263
+Sucrose, 90–92, 245–247
+Suggestion factors, 42–43
+Summary statistics, 314–323
+Sunstruck ﬂavor compound, 133–135
+Supplies, 34
+Suppression factors, 40
+Surface shine, 195
+Surface texture, 199–202
+Sweeteners, 90–92, 115–116
+Synergy, 40
+Syrup mouthfeel, 109–112
+T
+Tables of statistics, 419–439
+Tactile sensations, 13, 158–159
+Tail distributions, 351–352
+Talking, leadership guidelines, 169
+Target product reverse engineering, 388
+Tastes, 17–21, 197, 214–216, 245–247
+t-distribution, 317, 421
+Technique choice guidelines, 407–412
+acceptance tests, 411
+affective tests, 411
+attribute tests, 410
+descriptive tests, 412
+overall difference tests, 409–410
+Temperature considerations, 33, 36
+Terminal thresholds, 130
+Terminology, Spectrum descriptive analysis, 191–192,
+194–213
+Terminology development, 152
+Index
+447

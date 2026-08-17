@@ -1,0 +1,43 @@
+values for the proportion of distinguishers (pd!0). This is a logical impossibility that
+should not be used as the decision criterion in a test.
+In using the Test Sensitivity Analyzer for two-sided directional difference tests,
+researchers must remember to double the computed value for a-risk to account for the
+two-sided nature of the test.
+13.4
+Thurstonian Scaling
+Although the percent-distinguisher model is appealing for its ease of interpretation, it is
+not a theoretical model of human behavior. It is useful for planning discrimination tests
+but, in general, it over-simpliﬁes the behavior of sensory assessors. If individuals are truly
+either distinguishers or nondistinguishers, then in replicate triangle tests involving the
+same two samples, for example, one group of assessors should have 100% correct
+responses (the distinguishers) and another group should have 1/3 correct responses
+(the nondistinguishers). This is not what happens in practice. A more elaborate model
+of human behavior is necessary to better understand the results observed in discrimi-
+nation tests. Thurstonian scaling (Thurstone 1927) is one such model. The following
+overview of Thurstonian scaling is drawn largely from Ennis (2001) that was later rep-
+resented in ASTM (2003).
+13.4.1
+A Fundamental Measure of Sensory Differences
+The Thurstonian model is based on two assumptions. The ﬁrst assumption is that percep-
+tions have a probabilistic component that follows a normal probability rule. The second
+assumption is that assessors can faithfully execute the decision rule associated with the
+sensory task they are asked to perform.
+The Thurstonian model recognizes that perceptions vary when an assessor performs
+repeated evaluations of the same product. The variations may result from heterogeneity in
+the product or from momentary physiological or psychological changes in the assessor, or
+some combination of these. Regardless of the sources, perceptions vary from one evalu-
+ation to another. The Thurstonian model assumes that the changes in perception follow a
+normal probability distribution on a nonspeciﬁc dimension of sensory magnitude.
+Without loss of generality, the simplest Thurstonian model assumes that the distribution
+of perceptions fall about the sample’s average magnitude with a standard deviation of one
+(see Figure 13.10).
+Probability
+Below average
+Above average
+Average
+Sensory magnitude
+FIGURE 13.10
+Normal distribution of sensory perceptions. An assessor’s perceptions vary about the average of the product
+according to a normal probability distribution.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+334

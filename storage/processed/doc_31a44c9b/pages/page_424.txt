@@ -1,0 +1,34 @@
+15
+Guidelines for Choice of Technique
+15.1
+Introduction
+The ﬁve tables that follow are meant as memory joggers. They are not a substitute for
+study of the individual methods described in this book. However, after the methods have
+become familiar, preferably via practical hands-on testing of most of them, the tables can
+be used to check whether there might be a better way to attack a given problem. Most
+analysts give preference to a few trusted favorite tests, and perhaps bend the test objective
+a bit to allow their use—a dangerous habit.
+To avoid this practice or ﬁnd a way out of it, the authors suggest the following
+practical steps.
+15.1.1
+Deﬁne the Project Objective
+Read the text in Chapter 1, then refer to Table 15.1 to classify the type of project. Review the
+13 entries. Write down the project objective, then look up the test to which the table refers.
+15.1.2
+Deﬁne the Test Objective
+Four tables are available for this purpose:
+† Table 15.2: Difference tests—Does a sensory difference exist between samples?
+† Table 15.3: Attribute difference tests—How does attribute X differ between
+samples?
+† Table 15.4: Affective tests—Which sample is preferred? How acceptable is
+sample X?
+† Table 15.5: Descriptive tests—Document a product’s full complement
+of attributes.
+Write down the test objective and list the tests required. Then meet with the project
+leader and others involved in the project and discuss and reﬁne the design of the tests.
+15.1.3
+Reissue Project Objective and Test Objectives—Revise Test Design
+In sensory testing, a given problem frequently requires appreciable thought before the
+appropriate practical tests can be selected (IFT 1981). This is because the initial conception
+of the problem may require clariﬁcation. It is not unusual for problem and test objectives to
+407

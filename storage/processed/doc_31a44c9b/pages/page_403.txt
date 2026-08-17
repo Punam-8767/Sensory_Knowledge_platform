@@ -1,0 +1,40 @@
+and, as a result, the true preferences of individuals may be masked by averaging their
+liking ratings with those who have different product preferences. Therefore,
+before performing the analysis that links the sensory and consumer information, it is
+important to ensure that the average liking ratings of the products come from groups of
+consumers with similar preferences. Cluster analysis is the tool that is used to accomplish
+this task.
+As discussed in the previous section, several methods are available to perform cluster
+analyses and there are many variations within each of the major methods. In the analysis
+of the prepared meals data, hierarchical clustering using Ward’s method was applied. The
+data that were analyzed were the overall liking ratings of the consumers. The respondents
+formed the rows (observations) of the data set; the products formed the columns (vari-
+ables). The liking ratings were centered by subtracting each respondent’s average liking
+rating from each of his or her individual ratings. Centering removes scale-usage effects
+from the raw data. For example, two respondents may have the same preferences for the
+test products, but one respondent tends to use the middle part of the scale (4, 5, and 6) to
+rate the products, whereas the other respondent uses the high end of the scale (7, 8, and 9)
+to rate the products. Centering the liking ratings allows the cluster analysis to group the
+respondents based on their patterns of liking ratings across the products rather than on
+their absolute levels.
+The dendrogram in Figure 14.16 suggests that either two or four preference segments
+are present. The ﬁnal decision on how many preference segments to include on the
+preference map needs to balance the internal homogeneity of the segments against their
+size. Averaging liking ratings from fewer than 25 to 30 respondents should be avoided
+because averages from such small groups lack precision. In the present example, two of
+the four segments have fewer than 25 respondents in them. For that reason, two preference
+segments were chosen.
+The differences between the segments is illustrated in the graph of their average overall
+liking ratings (see Figure 14.17). Segment 1 exhibits a wide range of average ratings.
+Similarity
+–196.04
+–97.36
+1.32
+100.00
+Observations
+FIGURE 14.16
+The dendrogram of the consumers’ centered overall liking ratings suggests either two or four segments. The two
+segment solution was chosen because two of the segments in the four-segment solution have fewer than 25
+respondents in them.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+386

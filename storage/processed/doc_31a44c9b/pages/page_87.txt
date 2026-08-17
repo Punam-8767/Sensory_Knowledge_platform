@@ -1,0 +1,113 @@
+similarity, for example by setting b at 0.1% (i.e., bZ0.001) relative to the alternative
+hypothesis, that the true proportion of the population able to detect a difference
+between the samples is at least 20% (i.e., pdZ0.20). To preserve a modest a-risk of 0.10
+they need to have at least 260 assessors. They decide to compromise at aZ0.20, bZ0.01,
+and pdZ30%, which requires 64 assessors.
+Test design: The sensory analyst conducts a 66-response triangle test according to the
+established test protocol for blended table syrups. The sensory booths are prepared with
+red-tinted ﬁlters to mask color differences. Twelve panelists are scheduled for each of ﬁve
+consecutive sessions and six panelists are scheduled for the sixth and ﬁnal session.
+Figure 6.4 shows the analyst’s worksheet for a typical session.
+Analyze results: Out of 66 respondents, 21 correctly picked the odd sample. Referring to
+Table 17.8, in the row corresponding to nZ66 and the column corresponding to aZ0.20,
+one ﬁnds that the minimum number of correct responses required for signiﬁcance is 26.
+Therefore, with only 21 correct responses, it can be concluded that any sensory difference
+between the two syrups is sufﬁciently small to be ignored, i.e., the two samples are
+sufﬁciently similar to be used interchangeably.
+Post this sheet in the area where trays are prepared. Code
+scoresheets ahead of time. Label serving containers ahead of
+time.
+Blended table syrups
+Sample identification:
+Codes used for :
+Sets with
+2 A's
+587
+246
+365
+751
+413
+894
+A:
+Lab code 47-3651
+Lab code 026 (Control)
+Code serving containers as follows:
+Subject #
+1
+587
+587
+587
+587
+413
+413
+413
+413
+751
+751
+751
+751
+751
+246
+246
+246
+246
+246
+365
+365
+413
+413
+587
+587
+894
+894
+894
+894
+894 246
+751
+365
+365
+365
+365
+894
+AAB
+ABB
+BAB
+AAB
+BBA
+ABA
+ABB
+ABA
+BAA
+BBA
+BAA
+BAB
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Codes in order
+Underlying
+pattern*
+B:
+2 B's
+Sets with
+Triangle similarity test
+Type of samples :
+Type of test :
+Worksheet
+Date
+No. 35-0032-31
+11-5-98
+*Each pattern is repeated twice to allow for each code in each
+position.
+FIGURE 6.4
+Worksheet for triangle test for similarity. Example 6.3: blended table syrup.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+70

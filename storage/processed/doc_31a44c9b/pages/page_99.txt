@@ -1,0 +1,41 @@
+combinations previously presented. Ask the panelists: “Which two samples feel the same
+and different from the other three?”
+Conduct the test: Place each of the anchored or loosely mounted fabric swatches inside a
+cardboard tent in a straight line in front of each panelist (see Figure 6.10) who must be able
+to feel the fabrics but not see them. Assign sample codes from a list of random three-digit
+numbers (see Table 17.1). Use the scoresheet in Figure 6.11.
+Analyze results: Of the 12 subjects, 9 were able to correctly group the fabric samples.
+Reference to Table 17.14 shows that the difference in surface feel was detectable at a level of
+signiﬁcance of aZ0.001.
+Interpret results: The fabric manufacturer is informed that a difference in surface feel
+between the two fabric types is easily detectable.
+Example 6.9: Emollient in Face Cream
+Problem/situation: The substitution of one emollient for another in the formula for a face
+cream is desirable because of a signiﬁcant saving in cost of production. The substitution
+appears to reduce the surface gloss of the product.
+Project objective: The marketing group wishes to determine whether a visually detectable
+difference exists between the two formulas before going to consumers to determine any
+effect on acceptance.
+Comments
+Name:
+Two-out-of-five test
+1.
+Examine the samples from left to right. Two are of
+one type, and the other three of another.
+2.
+Identify the group of two samples by placing an X in
+the corresponding boxes.
+Type of sample:
+Instructions
+Date:
+Left
+Test 1
+Test 2
+Test 3
+Right
+Left
+Right
+FIGURE 6.9
+Scoresheet for three two-out-of-ﬁve tests.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+82

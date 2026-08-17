@@ -1,0 +1,44 @@
+† The testing needs: how much product will be required for all of the tests to be
+run, and possibly rerun, for this evaluation? All of the product representing a
+sample should come from one source (same place, same line, same date, etc.). If
+the product is not uniform, attempts should be made to blend and repackage the
+different batches.
+† The storage: where the sample has been and under what conditions. If two
+products are to be compared for a processing or ingredient variable, it is not
+possible to measure the treatment effect if there are differences in age, storage
+temperature and humidity, shipping storage and humidity, packaging
+differences, etc. that can cloud the measurement.
+3.4
+Panelist Controls
+The way in which a panelist interacts with the environment, the product, and the test
+procedure are all potential sources of variation in the test design. Control or regulation of
+these interactions is essential to minimizing the extraneous variables that may potentially
+bias the results.
+3.4.1
+Panel Training or Orientation
+Panelists, of course, need careful instruction with respect to the handling of samples, the
+use of the scoresheet, and the information sought in the test. The training of panelists is
+discussed in detail in Chapter 9. At a minimum, panelists must be prepared to participate
+in a laboratory sensory test with no instruction from the sensory analysts after the test has
+started. They should be thoroughly familiar with
+† The test procedures, such as the amount of sample to be tasted at one time,
+delivery system (spoon, cup, sip, slurp), the length of time of contact with the
+product (sip/spit, short sniff, one bite/chew), and the disposition of the product
+(swallow, expectorate, leave in contact with skin or remove from skin) must be
+predetermined and adhered to by all panelists.
+† The scoresheet design, including instructions for evaluation; questions, termi-
+nology, and scales for expressing judgment must be understood and familiar to
+all panelists.
+† The type of judgment/evaluation required (difference, description, preference,
+acceptance) should be understood by the panelists as part of their
+test orientation.
+† Kelly and Heymann (1989) found no signiﬁcant difference between ingestion
+and expectoration in tests, e.g., with added salt in kidney beans; ingestion did
+produce narrower conﬁdence limits.
+3.4.2
+Product/Time of Day
+With panelists who are not highly trained, it is wise to schedule the evaluation of certain
+product types at the time of day when that product is normally used or consumed. The
+tasting of highly ﬂavored or alcoholic products in the early morning is not recommended.
+Controls for Test Room, Products, and Panel
+37

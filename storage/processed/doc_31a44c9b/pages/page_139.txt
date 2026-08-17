@@ -1,0 +1,44 @@
+Sample 4 had a signiﬁcantly greater average rating than all of the other samples.
+Samples 2 and 5, with nearly identical average ratings, had signiﬁcantly less hop character
+than Sample 4 and signiﬁcantly more than Samples 1 and 3. Samples 1 and 3 showed
+signiﬁcantly less hop character than Samples 2, 4, and 5.
+Interpret and report results: The sensory analyst’s report to the brewer contains the table of
+sample means and the ANOVA table and concludes that, of the ﬁve samples tested,
+sample 4 produced a signiﬁcantly higher level of hop character. Sample 2, of a less
+expensive variety, also merits consideration.
+7.7
+Multisample Difference Test: BIB Ranking Test (Balanced
+Incomplete Block Design)—Friedman Analysis
+7.7.1
+Scope and Application
+Use this method when the test objective is to determine in which way a particular sensory
+attribute varies over a number of samples and there are too many samples to evaluate at
+any one time. Typically, the method is used when the number of samples to be compared is
+from 6 to 12 or, at most, 16.
+Choose the present method (ranking) when the panelists are relatively untrained for the
+type of sample and/or a relatively simple statistical analysis is preferred. Use the method
+described in Section 7.8 (rating) when panelists trained to use a rating scale are available.
+7.7.2
+Principle of the Test
+Instead of presenting all t samples as one large block, present them in a number of smaller
+blocks according to one of the designs of Cochran and Cox (1957) or e.g., Design Express
+(2003). Ask subjects to rank the samples according to the attribute of interest.
+7.7.3
+Test Subjects
+Select, train, and instruct the subjects as described on p. 66. Ascertain that subjects can
+recognize the attribute of interest, e.g., by training with sets of known intensity levels in
+the attribute, see p. 144 and pp. 213–224.
+7.7.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. Refer to p. 66 for details of the procedure. Make certain that
+order of presentation is truly random; subjects must not be led to suspect a regular pattern,
+as this will inﬂuence verdicts. For example, state only to “Rank the samples according to
+sweetness, giving rank 1 to the sample of lowest sweetness, rank 2 to the next lowest, etc.”
+Example 7.8: Species of Fish
+Problem/situation: Military ﬁeld ration XPQ-6 (ﬁsh ﬁngers in aspic) has been prepared in the
+past from 15 different species ofﬁsh. Serious complaints of “ﬁshy” ﬂavor have been traced to
+the use of some of these species. Those in command want to specify a limited number of
+species so as to be able to weigh availability and price against the probability of food riots.
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+122

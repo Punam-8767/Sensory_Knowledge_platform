@@ -1,0 +1,48 @@
+character, ﬂavor strength, mouthfeel—tend to be rated favorably as well. Conversely, if
+the product is not well liked, most of the attributes will be rated unfavorably. The
+remedy, when any particular variable is important, is to present separate sets of
+samples for evaluation of that characteristic.
+4.3.6
+Order of Presentation of Samples
+At least ﬁve types of bias may be caused by the order of presentation.
+Contrast effect. Presentation of a sample of good quality just before one of poor
+quality may cause the second sample to receive a lower rating than if it had
+been rated monadically (i.e., as a single sample). As an example, if one lives in
+Minneapolis in the winter and the thermometer hits 408F, the city is having a heat
+wave. If one lives in Miami and the thermometer registers 408F, the news media
+will report a severe cold spell. The converse is also true: a sample that follows a
+particularly poor one will tend to be rated higher.
+Group effect. One good sample presented in a group of poor samples will tend to be
+rated lower than if presented on its own. This effect is the opposite of the
+contrast effect.
+Error of central tendency. Samples placed near the center of a set tend to be preferred
+over those placed at the ends. In triangle tests, the odd sample is detected more
+often if it is in the middle position. (An error of central tendency is also found
+with scales and categories; see Chapter 5.)
+Pattern effect. Panelists will use all available clues (this, of course, is legitimate on
+their part) and are quick to detect any pattern in the order of presentation.
+Time error/positional bias. One’s attitude undergoes subtle changes over a series of
+tests, from anticipation or even hunger for the ﬁrst sample, to fatigue or indif-
+ference with the last. Often, the ﬁrst sample is abnormally preferred (or rejected).
+A short-term test (sip and evaluate) will yield a bias for the sample presented
+ﬁrst, whereas a long-term test (one-week home placement) will produce a bias
+for the sample presented last. Discrimination is greater with the ﬁrst pair in a set
+than with subsequent pairs.
+All of these effects must be minimized by the use of a balanced, randomized order of
+presentation. “Balanced” means that each of the possible combinations is presented an
+equal number of times. Each sample in a panel session should appear an equal number of
+times in ﬁrst, second . and nth position. If there are large numbers of samples to be
+presented, a balanced incomplete block design can be used (see Chapter 7, p. 122 and
+Chapter 13, p. 343).
+“Randomized” means that the order in which the selected combinations appear was
+chosen according to the laws of chance. In practice, randomization is obtained by drawing
+sample cards from a bag, or it may be planned with the aid of a compilation of random
+numbers (see Table 17.1, p. 419, also Product Controls in Chapter 3, p. 36).
+Computer programs for developing balanced randomized serving plans are also avai-
+lable, for example, from Qi Statistics (2001).
+4.3.7
+Mutual Suggestion
+The response of a panelist can be inﬂuenced by other panelists. Because of this, panelists
+are separated in booths, thus preventing a judge from reacting to the facial expression
+Sensory Evaluation Techniques, 4th Ed., Ch. 4
+42

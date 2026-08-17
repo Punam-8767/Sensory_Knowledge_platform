@@ -1,0 +1,96 @@
+constant for all the samples in a BIB design ensures that each sample mean is estimated
+with equal precision and that all pair-wise comparisons between two sample means are
+equally sensitive. The number of blocks required to complete a single repetition of a BIB
+design is denoted by b. Table 13.14 illustrates a typical BIB layout. A list of BIB designs,
+such as the one presented by Cochran and Cox (1957), is very helpful in selecting a speciﬁc
+design for a study.
+To obtain a sufﬁciently large number of total replications, the entire BIB design (b blocks)
+may have to be repeated several times. The number of repeats or repetitions of the funda-
+mental design is denoted by p. The total number of blocks is then pb, yielding a total of pr
+replications for every sample, and a total of pl for the number of times every pair of
+samples occurs in the total BIB design.
+Experience with 9-point category scales and unstructured line scales has shown that the
+total number of replications (pr) should be at least 18 to yield sufﬁciently precise estimates
+of the sample means. This is a general rule, suggested only to provide a starting point for
+determining how many panelists are required for a study. The total number of replications
+needed to ensure that meaningfully large differences among the samples are declared
+statistically signiﬁcant is inﬂuenced by many factors: the products, panelist acuity, level
+of training, etc. Only experience and trial and error can answer the question of how many
+replications are needed for any given study.
+There are two general approaches for administering a BIB design in a sensory study.
+First, if the number of blocks is relatively small (four or ﬁve, for example), it may be
+possible to have a small number of panelists (p in all) return several times until each
+panelist has completed an entire repetition of the design. (The order of presentation of
+the blocks should be randomized separately for each panelist, as should be the order
+of presentation of the samples within each block.) Second, for large values of b, the
+normal practice is to call upon a large number of panelists (pb in all) and to have each
+evaluate the samples in a single block. The block of samples that a particular panelist
+receives should be assigned at random. The order of presentation of the samples within
+each block should again be randomized in all cases.
+13.5.4.1
+BIB Analysis of Ratings
+ANOVA is used to analyze BIB data in the form of ratings (see Table 13.15). As in the case
+of a randomized (complete) block design, the total variability is partitioned into the separ-
+ate effects of blocks, samples, and errors. However, the formulas used to calculate the sum
+TABLE 13.14
+Data Table for a Balanced Incomplete Block Design (tZ7, kZ3, bZ7, rZ3, lZ1, pZ1)
+Sample
+Block
+1
+2
+3
+4
+5
+6
+7
+Block Total
+1
+X
+X
+X
+B1
+2
+X
+X
+X
+B2
+3
+X
+X
+X
+B3
+4
+X
+X
+X
+B4
+5
+X
+X
+X
+B5
+6
+X
+X
+X
+B6
+7
+X
+X
+X
+B7
+Treatment
+total
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+G
+Note:
+X, an individual observation; Bi, the sum of the observations in row i; Rj, the sum of the observations in
+column j; G, the sum of all of the observations.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+344

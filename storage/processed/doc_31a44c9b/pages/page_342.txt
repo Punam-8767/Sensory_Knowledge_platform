@@ -1,0 +1,46 @@
+two-sided alternatives. For example, in a triangle test, the null hypothesis is only rejected
+for large numbers of correct selections (i.e., a one-tailed test criterion). However, the
+alternative hypothesis is two-sided (i.e., Ha: The samples are perceivably different).
+Similar situations arise when c2 and F-tests are performed.
+In practice, researchers should express their interests (i.e., the null and alternative
+hypotheses) in their own words. If the researcher’s interests are clearly stated, it is easy
+to decide whether the alternative hypothesis is one-sided or two-sided. If not, then further
+probing is necessary. The sensory analyst should report the results of the study in terms of
+the researcher’s stated interests (one-sided or two-sided), irrespective of whether the
+statistical method is one-tailed or two-tailed.
+13.3.3
+Type-I and Type-II Errors
+In testing statistical hypotheses, some conclusion is drawn. The conclusion may be correct
+or incorrect. There are two ways in which an incorrect conclusion may be drawn. First, a
+researcher may conclude that the null hypothesis is false when, in fact, it is true (e.g., that
+a difference exists when it does not). Such an error is called a type-I error. Second, a
+researcher may conclude that the null hypothesis is true, or more correctly that the null
+hypothesis cannot be rejected, when, in fact, it is false (e.g., failing to detect a difference
+that exists). Such an error is called a type-II error (see Figure 13.7). The practical impli-
+cations of type-I and type-II errors are presented in Figure 13.8.
+The probabilities of making type-I and type-II errors are speciﬁed before the investi-
+gation is conducted. These probabilities are used to determine the required sample size for
+the study [see, for example, Snedecor and Cochran (1980: 102)]. The probability of making
+a type-I error is equal to a. The probability of making a type-II error is equal to b. Although
+a and b are probabilities (i.e., numbers), it is currently a common practice to use type-I
+error and a-error (as well as type-II error and b-error) interchangeably. This somewhat
+casual use of terminology causes little confusion in practice.
+Type I error
+Type II error
+Pr [type II error] = b
+Pr [type I error] = a
+Correct
+decision
+Correct
+decision
+Decision
+Reject H0
+Do not reject H0
+Truth
+H0 true
+H0 false
+FIGURE 13.7
+Type-I and type-II errors of size a
+and b.
+Basic Statistical Methods
+325

@@ -1,0 +1,34 @@
+6
+Overall Difference Tests: Does a Sensory Difference
+Exist between Samples?
+6.1
+Introduction
+Chapter 6 and Chapter 7 contain “cookbook-style” descriptions of individual difference
+tests, with examples. The underlying theory will be found in Chapter 5, Measuring
+Responses, and in Chapter 13, Basic Statistical Methods. Guidelines for the choice of a
+particular test will be found under “Scope and Application” for each test, and also in
+summary form in Chapter 15, Guidelines for Choice of Technique.
+Difference tests can be set up legitimately in hundreds of different ways, but in practice
+the procedures described here have acquired individual names and a history of use. There
+are two groups of difference tests with the following characteristics:
+Overall difference tests (Chapter 6): Does a sensory difference exist between samples?
+These are tests, such as the triangle and the duo–trio, which are designed to show
+whether subjects can detect any difference at all between samples.
+Attribute difference tests (Chapter 7): How does attribute X differ between samples?
+Subjects are asked to concentrate on a single attribute (or a few attributes), e.g.,
+“Please rank these samples according to sweetness.” All other attributes are
+ignored. Examples are the paired comparison tests, the n-AFC tests (alternative
+forced choice), and various types of multiple comparison tests. The intensity
+with which the selected attribute is perceived may be measured by any of the
+methods described in Chapter 5, e.g., ranking, line scaling, or magnitude esti-
+mation (ME).
+The 2- and 3-AFC tests are often used in threshold determinations (see Chapter 8).
+Affective tests (preference tests, e.g., consumer tests) are also attribute difference tests
+(see Chapter 12).
+6.2
+The Uniﬁed Approach to Difference and Similarity Testing
+Discrimination tests can be used to address a variety of practical objectives. In some cases,
+researchers are interested in demonstrating that two samples are perceptibly different. In
+other cases, researchers want to determine if two samples are sufﬁciently similar to be
+used interchangeably. In yet another set of cases, some researchers want to demonstrate a
+63

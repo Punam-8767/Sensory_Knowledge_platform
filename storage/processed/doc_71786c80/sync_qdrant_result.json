@@ -1,0 +1,62 @@
+{
+  "document_id": "doc_71786c80",
+  "pipeline_status": "QDRANT_SYNC_COMPLETED",
+  "message": "Qdrant sync completed. Canonical Concept DB rows are mirrored to vector DB.",
+  "overall": "10/10",
+  "architecture_rating": {
+    "overall": "10/10",
+    "score": 100,
+    "scope": "Concept DB MySQL to Qdrant mirror alignment",
+    "meaning": "This API runs only after canonical Concept DB commit. It mirrors eligible concepts into Qdrant and updates concepts.has_vector only after success."
+  },
+  "infrastructure": {
+    "qdrant_url": "http://localhost:6333",
+    "concepts_collection": "concepts_3072",
+    "terms_collection": "concept_terms_unified_3072",
+    "embedding_model": "text-embedding-3-large",
+    "embedding_dimension": 3072,
+    "max_concepts_per_run": 100
+  },
+  "sync_summary": {
+    "input_concepts": 1,
+    "synced": 1,
+    "failed": 0,
+    "skipped": 0,
+    "dry_run": 0
+  },
+  "results": [
+    {
+      "concept_uid": "SA_001",
+      "type_key": "sensory_attribute",
+      "collection": "concepts_3072",
+      "point_id": "e11d2b202c3e809d006dadce18660c02",
+      "queue_id": 10,
+      "status": "SYNCED",
+      "qdrant": {
+        "url": "http://localhost:6333",
+        "version": "1.19.0",
+        "collection_state": {
+          "collection": "concepts_3072",
+          "exists": false,
+          "created": true,
+          "vector_size": 3072
+        }
+      }
+    }
+  ],
+  "quality_gate": {
+    "status": "QDRANT_SYNC_COMPLETED",
+    "score": 100,
+    "architecture_rating": "10/10",
+    "reason": "Concept DB MySQL rows were mirrored to Qdrant successfully.",
+    "warnings": [],
+    "can_continue": true
+  },
+  "processing_time_seconds": 8.35,
+  "next_step": "/api/v1/knowledge/search",
+  "recommended_actions": [
+    "If using existing 1536d Qdrant collection, set EMBEDDING_MODEL=text-embedding-3-small and EMBEDDING_DIMENSION=1536.",
+    "If using text-embedding-3-large, set QDRANT_CONCEPTS_COLLECTION=concepts_3072 so a new 3072d collection is created.",
+    "After successful sync, verify concepts.has_vector=1."
+  ]
+}

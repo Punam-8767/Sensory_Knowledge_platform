@@ -1,0 +1,34 @@
+When several responses are being considered, the individual contour plots can be over-
+laid. Hopefully, a region where all of the responses take on acceptable values can be
+identiﬁed as in Figure 14.30.
+References
+M.J. Anderson and P.J. Whitcomb. 2005. RSM Simpliﬁed: Optimizing Processes Using Response Surface
+Methods for Design of Experiments, Connecticut: Productivity, Inc.
+J. Bezdek. 1981. Pattern Recognition with Fuzzy Objective Function Algorithms, New York: Plenum Press.
+G.E.P. Box and N.R. Draper. 1987. Empirical Model Building and Response Surfaces, New York: Wiley.
+B.T. Carr. 1989. “An integrated system for consumer-guided product optimization,” in Product
+Testing with Consumers for Research Guidance, L.S. Wu, ed., Philadelphia, PA: ASTM International,
+pp. 41–53.
+R.B. Cattell. 1966. “The screen test for the number of factors,” Multivariate Behavioral Research,
+1: 245–276.
+W.G. Cochran and G.M. Cox. 1957. Experimental Designs, 2nd Ed., New York: Wiley.
+H.R. Cooper, M.D. Earle, and C.M. Triggs. 1989. “Ratio of ideals—A new twist on an old idea,” in
+Product Testing with Consumers for Research Guidance, L.S. Wu, ed., Philadelphia, PA: ASTM
+International, pp. 54–63.
+N. Draper and H. Smith. 1981. Applied Regression Analysis, 2nd Ed., New York: Wiley.
+M. Giovanni. 1983. “Response surface methodology and product optimization,” Food Technology,
+37:11, 41–43.
+D.R. Godwin, R.E. Bargmann, and J.J. Powers. 1978. “Use of cluster analysis to evaluate sensory-
+objective relations of processed green beans,” Journal of Food Science, 43: 1229–1230.
+T. Jacobsen and R.W. Gunderson. 1986. “Applied cluster analysis,” in Statistical Procedures in Food
+Research, J.R. Piggott, ed., Essex, UK: Elsevier Science, pp. 361–408.
+Color = 6.0
+Cost = 1.10
+Liking = 7.0
+Flavor
+NutraSweet
+FIGURE 14.30
+Overlaid contour plots of the critical limits for several response variables showing the region of formula levels
+predicted to satisfy all of the constraints simultaneously.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+404

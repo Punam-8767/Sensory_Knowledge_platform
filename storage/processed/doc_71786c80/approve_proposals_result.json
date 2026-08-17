@@ -1,0 +1,43 @@
+{
+  "document_id": "doc_71786c80",
+  "pipeline_status": "PROPOSALS_APPROVED",
+  "message": "Human review completed. Approved proposals were marked APPROVED. No canonical Concept DB rows were created in this API.",
+  "overall": "10/10",
+  "architecture_rating": {
+    "overall": "10/10",
+    "score": 100,
+    "scope": "Concept DB human review / approval alignment",
+    "meaning": "This API only updates concept_proposals.proposal_status and attributes JSON. Approved proposals do not become canonical concepts here. Canonical insert happens only in commit-approved-concepts."
+  },
+  "review_summary": {
+    "input_proposals": 1,
+    "approved": 1,
+    "rejected": 0,
+    "requires_targets": 0,
+    "skipped": 0
+  },
+  "results": [
+    {
+      "proposal_uid": "CP_010E823492723488",
+      "proposed_type": "sensory_attribute",
+      "proposed_name": "Consistency and Texture",
+      "status": "APPROVED",
+      "stored_in": "concept_proposals.proposal_status + concept_proposals.attributes",
+      "next_step": "commit-approved-concepts"
+    }
+  ],
+  "quality_gate": {
+    "status": "PROPOSALS_REVIEWED",
+    "score": 100,
+    "architecture_rating": "10/10",
+    "reason": "Human review completed. This API only updated concept_proposals. No canonical Concept DB rows were inserted.",
+    "warnings": [],
+    "can_continue": true
+  },
+  "processing_time_seconds": 0.14,
+  "next_step": "/api/v1/documents/doc_71786c80/commit-approved-concepts",
+  "recommended_actions": [
+    "Run commit-approved-concepts to insert concepts, terms, fields, and relationships.",
+    "Run Qdrant sync only after canonical commit."
+  ]
+}

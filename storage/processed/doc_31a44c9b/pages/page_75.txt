@@ -1,0 +1,47 @@
+right end of the scale represents a large amount or a very strong level of the stimulus
+(Anderson 1970; Stone and Sidel 1992). In some cases, the scale is bipolar, i.e., opposite
+types of stimuli are used to anchor the endpoints.
+Panelists use the line scale by placing a mark on the scale to represent the perceived
+intensity of the attribute in question. The marks from line scales are converted to numbers
+by manually measuring the position of each mark on each scale using a ruler, a transparent
+overlay, or a digitizer that is interfaced to a computer or by direct data entry by stylus on a
+computer screen. The digitizer converts the position of the mark to a number, based on a
+preset program, and feeds the data to the computer for analysis.
+5.6.3
+Magnitude Estimation Scaling
+Magnitude estimation (Moskowitz 1977; Meilgaard and Reid 1979; ISO 1994; Doty and
+Laing 2003) or free number matching is a scaling technique based on Stevens’ law (see
+Section 5.2.2). The ﬁrst sample a panelist receives is assigned a freely chosen number (the
+number can be assigned by the experimenter, in which case it is referred to as a modulus; or
+the number can be chosen by the panelist). Panelists are then asked to assign all sub-
+sequent ratings of subsequent samples in proportion to the ﬁrst sample rating. If the
+second sample appears three times as strong as the ﬁrst, the assigned rating should be
+three times the rating assigned to the ﬁrst, or reference, stimulus. Panelists are instructed
+to keep the number ratings in proportion to the ratios between sensations.
+Examples:
+1. With a modulus: The ﬁrst cookie that you taste has an assigned “crispness”
+rating of 25. Rate all other samples for crispness in proportion to that 25. If the
+crispness of any sample is half that of the ﬁrst sample, assign it a crispness value
+of 12.5.
+First sample 25
+Sample 549 _____
+Sample 306 _____
+None
+Sweetness
+Lemony
+Moistness
+Roughness
+Hedonic
+Very
+None
+Strong
+Dry
+Very moist
+Smooth
+Rough
+Dislike
+Like
+FIGURE 5.6
+Typical line scales.
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+58

@@ -1,0 +1,57 @@
+13.2.4
+Other Interval Estimates
+Conﬁdence intervals state a range of values that have a known probability of containing
+the true value of a population parameter. The researcher may not always want to draw
+such a conclusion. There exist other types of statistical interval estimates.
+For instance, a prediction interval is a range of values that has a known probability of
+containing the average value of k future observations. The researcher may choose kZ1 to
+calculate an interval that has a known probability of containing the next observed value of
+some response (e.g., being 95% conﬁdent that the perceived saltiness of the next batch of
+potato chips will lie between 7.2 and 10.4). Two-sided prediction intervals are calculated as:
+xGta=2;nK1s
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð1=kÞ Cð1=nÞ
+p
+Another statistical interval, called a tolerance interval, is a range of values that has a known
+probability of containing a speciﬁed proportion of the population. An example of a one-
+sided tolerance interval is that the researcher is 95% sure that 90% of all batches have
+ﬁrmness ratings less than 6.3. Two-sided tolerance intervals can also be computed (see
+Dixon and Massey 1969).
+13.2.5
+Data Transformations
+At times, a researcher may want to transform the scale of measurement from the one used
+to collect the data to a more meaningful scale for presentation. This is easy to carry out for
+a transformation called a linear transformation. If the original variable, x, is transformed to a
+new variable, y, using yZa(x)Cb, then y is a linear transformation of x. Linear transfor-
+mations are limited to multiplying the original variable by a constant, a, and/or adding a
+constant, b. Raising the original variable to a power, taking its logarithm, sine, inverse, etc.
+are all nonlinear transformations. If x has mean value m and standard deviation s, then the
+mean and standard deviation of y are amCb and as, respectively. These equations for
+computing the mean and standard deviation of the transformed variable y apply only
+to linear transformations. The sample mean, y, and sample standard deviation, sy, are
+obtained by substituting x for m and sx for s.
+An example of this data transformation technique occurs in tests for overall differences
+such as triangle, duo–trio, and two-out-of-ﬁve tests where the original measurement is the
+proportion of correct responses, pc. Using the triangle test as an example, pc can be trans-
+formed to the proportion of the population that can distinguish the samples, pd, by using
+pdZ1.5(pc)K0.5. The expression for pd is obtained by inverting the equation for the prob-
+ability of obtaining a correct answer in a triangle test, pcZl(pd)C(1⁄3)(1Kpd); that is, the
+probability of a correct answer is the probability of selecting a distinguisher, pd (who will
+always give a correct answer), plus the probability of selecting a nondistinguisher (1Kpd),
+and having that person guess correctly (which has a probability of 1/3). Notice that when
+there are no perceptual differences between the samples in a triangle test, the expected
+proportion of correct answers is pcZ1⁄3, which transforms to the expected proportion of
+distinguisher pdZ0 (i.e., everyone is guessing).
+In a triangle test involving n respondents, if x people correctly select the odd sample,
+then the estimated value of pc is ^pcZx=n and the estimated standard deviation of pc is
+scZ
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+^pcð1K^pcÞ=n
+p
+. The estimated proportion of distinguishers is then ^pdZ1:5ðx=nÞK0:5,
+with an estimated standard deviation of sdZ1.5sc. These transformations are applied in
+several places in Chapter 6.
+These data transformations are particularly useful in the uniﬁed approach to discrimi-
+nation testing discussed in Chapter 6. Conﬁdence intervals can be constructed on the
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+322

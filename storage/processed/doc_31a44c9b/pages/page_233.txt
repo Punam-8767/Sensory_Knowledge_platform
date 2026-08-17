@@ -1,0 +1,126 @@
+C
+Intensity Scale Values (0–15) for Semisolid Oral Texture Attributes
+Scale Value
+Reference
+Brand/Type/Manufacturer
+Sample Size
+1. Slipperiness
+2.0
+Baby food—beef
+Gerber
+1 oz.
+3.5
+Baby food—peas
+Gerber
+1 oz.
+7.0
+Vanilla yogurt, lowfat
+Dannon
+1 oz.
+11.0
+Sour cream
+Breakstone
+1 oz.
+13.0
+Miracle Whip
+Kraft Foods
+1 oz.
+2. Firmness
+3.0
+Aerosol whipped cream
+Reddi-Wip
+1 oz.
+5.0
+Miracle Whip
+Kraft Foods
+1 oz.
+8.0
+Cheez Whiz
+Kraft Foods
+1 oz.
+11.0
+Peanut butter
+Unilever/Skippy
+1 oz
+14.0
+Cream cheese
+Kraft/Philadelphia
+1 oz.
+3. Cohesiveness
+1.0
+Instant gelatin dessert
+Jello, Kraft Foods
+1⁄2 in. cube
+5.0
+Instant vanilla pudding
+Jello, Kraft Foods
+1 oz.
+8.0
+Baby food—bananas
+Gerber or Beechnut
+1 oz.
+15.0
+Whole milk
+Mozzarella, warmed 1208F
+1 oz.
+4. Denseness
+1.0
+Aerosol whipped cream
+Reddi-wip
+1 oz.
+2.5
+Marshmallow ﬂuff
+Fluff
+1 oz.
+5.0
+Nougat center
+3 Musketeers Bar/Mars
+1⁄2 in. cube
+13.0
+Cream cheese
+Kraft/Philadelphia
+1⁄2 in. cube
+5. Particle amount
+0
+Miracle Whip
+Kraft Foods
+1 oz.
+5.0
+Sour cream & instant
+Cream of Wheat
+Breakstone/Nabisco
+1 oz.
+10.0
+Mayonnaise & ﬁne corn
+meal
+Hellmann’s & Quaker/Aunt
+Jemima
+1 oz.
+6. Particle size
+3.0
+Cornstarch
+Argo
+1 oz.
+10.0
+Sour cream & instant
+Cream of Wheat
+Breakstone/Nabisco
+1 oz.
+15.0
+Baby rice cereal
+Gerber
+1 oz.
+7. Mouth coating
+3.0
+Cooked cornstarch
+Argo
+1 oz.
+8.0
+Pureed potato
+1 oz.
+12.0
+Tooth powder
+Brand available
+1 oz.
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+216

@@ -1,0 +1,99 @@
+7.8
+Multisample Difference Test: BIB Rating Test (Balanced Incomplete
+Block Design)—Evaluation by Analysis of Variance
+7.8.1
+Scope and Application
+Use this method when the test objective is to determine in which way a particular sensory
+attribute varies over a number of samples and there are too many samples to evaluate at
+any one time. Typically, the method is used when the number of samples to be compared is
+from 6 to 12 or, at most, 16.
+Choose the present method (rating) when panelists trained to use a rating scale are
+available and results need to be as precise and actionable as possible. Use the method
+described in Section 7.7 (ranking) when panelists have less training and/or the ranking
+test gives sufﬁcient information.
+Note: In descriptive analysis (see Chapter 10), when the number of samples to be
+compared is large, the present method may be applied to each attribute.
+7.8.2
+Principle of the Test
+Instead of presenting all t samples as one large block, present them in a number of smaller
+blocks according to one of the designs of Cochran and Cox (1957) or e.g., Design Express
+(2003). Ask subjects to rate the intensity of the attribute of interest on a numerical intensity
+scale (see Chapter 5, pp. 55–60). Specify the scale to be used. Evaluate the results by the
+analysis of variance.
+7.8.3
+Test Subjects
+Select, train, and instruct the subjects as described on p. 66. Ascertain that subjects can
+recognize the attribute of interest, e.g., by training with sets of known intensity levels in
+TABLE 7.9
+Summary of Results and Statistical Analysis of the
+Data in Table 7.8: Fish Fingers in Aspic
+Sample/Species
+Rank Sum
+5
+28
+a
+15
+29
+a
+13
+34
+a
+b
+1
+35
+a
+b
+c
+6
+37
+a
+b
+c
+9
+37
+a
+b
+c
+14
+42
+b
+c
+d
+8
+42
+b
+c
+d
+4
+43
+b
+c
+d
+2
+45
+c
+d
+e
+11
+49
+d
+e
+10
+50
+d
+e
+12
+50
+d
+e
+3
+54
+e
+7
+55
+e
+Note:
+Means followed by the same letter are not signiﬁcantly
+different at the 5% signiﬁcance level (LSDrankZ10.74).
+Attribute Difference Tests: Multisample Difference Test: BIB Ranking Test
+125

@@ -1,0 +1,111 @@
+D. Intensity Scale Values (0–15) for Solid Oral Texture Attributes (continued)
+Scale Value
+Reference
+Brand/Type/Manufacturer
+Sample Size
+Deﬁnition:
+The degree to which chewed sample (at 10–15 chews) holds together in a mass.
+[Loose mass - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Tight mass]
+15. Standard Tooth Packing Scale
+0.0
+Mini-clams
+Geisha/Nozaki America
+3 pieces
+1.0
+Carrots
+Uncooked, fresh, unpeeled
+1⁄2 in. slice
+3.0
+Mushrooms
+Uncooked, fresh, unpeeled
+1⁄2 in. slice
+7.5
+Graham cracker
+Nabisco
+1⁄2 in. sq.
+9.0
+Cheese
+Yellow American pasteurized
+process-deli/Land O’Lakes
+1⁄2 in. cube
+11.0
+Cheese Snacks
+Wise-Borden Cheese Doodles
+5 pieces
+15.0
+Candy
+Jujubes
+3 pieces
+Technique:
+After sample is swallowed, feel the tooth surfaces with tongue.
+Deﬁnition:
+The degree to which product sticks on the surface of teeth.
+[None stuck - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Very much stuck]
+E. Intensity Scale Values (0–10) for Skinfeel Texture Attributes
+Scale Value
+Product
+Manufacturer
+1. Integrity of Shape (Immediate)
+0.7
+Baby Oil
+Johnson & Johnson
+4.0
+Keri Lotion, Original
+Novartis Consumer Health
+7.0
+Vaseline Intensive Care
+Unilever
+9.2
+Lanacane
+Combe Inc.
+2. Integrity of Shape (After 10 sec)
+0.3
+Baby Oil
+Johnson & Johnson
+3.0
+Keri Lotion, Original
+Novartis Consumer Health
+6.5
+Vaseline Intensive Care
+Unilever
+9.2
+Lanacane
+Combe Inc.
+3. Gloss
+0.5
+Gillette Foamy Reg. Shave
+Cream
+Gillette Co.
+3.6
+Fixodent
+Procter and Gamble
+6.8
+Neutrogena Hand Cream
+Johnson & Johnson
+8.0
+Vaseline Intensive Care
+Unilever
+9.8
+Baby Oil
+Johnson & Johnson
+4. Firmness
+0
+Baby Oil
+Johnson & Johnson
+1.3
+Olay Classic Beauty Fluid
+Procter and Gamble
+2.7
+Vaseline Intensive Care
+Unilever
+5.5
+Ponds Cold Cream
+Unilever
+8.4
+Petrolatum
+Generic
+9.8
+Lanolin AAA
+Amerchol
+The Spectrume Descriptive Analysis Method: Appendix 11.2
+221

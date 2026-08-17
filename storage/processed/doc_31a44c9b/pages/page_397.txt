@@ -1,0 +1,51 @@
+The orientation of the attributes with each other reveals their internal correlation
+structure. Attributes that fall close to each other on the map are positively correlated
+with each other. Attributes that fall on opposite sides of the map are negatively correlated
+with each other. Attributes that fall at nearly right angles to each other are not correlated.
+More importantly, the location of the attributes to the samples and to the clusters of
+respondents reveals the positive and negative drivers of acceptance. Attributes that fall
+close to a cluster of respondents are positive drivers for that cluster. Higher intensities are
+preferred over the lower intensities of such attributes. Attributes that fall on the opposite
+side of the map are negative drivers (lower intensities are preferred). Attributes that fall at
+right angles to the cluster are not key drivers for that segment. For example, in
+Figure 14.12d, the segment of respondents in the lower right quadrant prefer high inten-
+sities of green herbs, onion, celery, and carrot ﬂavors. They dislike a sauce with high
+clarity, an appearance dominated by potatoes, and a nonnatural meat ﬂavor.
+It is important to understand that in all forms of preference mapping, when it is said that
+consumers prefer “low” or “high” intensities of attributes, it should be interpreted as
+“low” or “high” in the range of intensities exhibited by the products in the study.
+“Low” or “high” in preference mapping does not mean the extremes of the rating scale
+used to evaluate the products. Attribute intensities for products from the same category
+may range over only 2–5 units on a 15-point scale. There can be a large difference in
+acceptance for a product with, for example, a 2.5 intensity as opposed to one with a 4.5
+intensity on a key attribute.
+14.3.2
+External Preference Mapping
+An external preference map is more complicated to construct than an internal preference
+map. Three statistical methods are used in the analysis. PCA (discussed in Section 14.2.1.2)
+is used to develop a perceptual map of the product space based only on the sensory
+characteristics of the products. Cluster analysis (discussed in Section 14.2.1.3) is used to
+identify preference segments among the consumers. A preference segment is a group of
+respondents who exhibit similar patterns of liking across the products in the test but
+whose pattern differs in some meaningful way from respondents in another preference
+segment. Lastly, regression analysis (discussed in Section 14.2.2.1) is used to link the
+sensory information to consumer acceptance through models that use the factor scores
+of the samples from the perceptual map to predict the acceptance ratings of the products
+from the total respondent base and any preference segments that were identiﬁed in the
+cluster analysis (see Figure 14.13).
+14.3.2.1
+Constructing the Perceptual Map of the Product Space
+The perceptual map of the product space is obtained from the PCA of the product-
+by-attribute data. The products form the rows (observations) of the dataset and the
+sensory attributes form the columns (variables). In keeping with the idea that a map
+is being created, the principal components obtained from the analysis are called the key
+sensory dimensions of the perceptual space.
+Before conducting the PCA, it must be decided if all of the products and all of the
+attributes should be included in the analysis. If only one product in the study possesses
+supra-threshold intensities of one or more attributes, the PCA is likely to create a factor
+dedicated entirely to distinguishing that product from all of the others. The creation of one
+or more of these “single-sample dimensions” has the negative side effect of masking
+otherwise meaningful differences among the other products in the study. For example,
+including one pepperoni pizza in a study with ten plain cheese pizzas might obscure some
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+380

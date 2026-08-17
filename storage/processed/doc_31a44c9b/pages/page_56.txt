@@ -1,0 +1,43 @@
+4
+Factors Inﬂuencing Sensory Verdicts
+4.1
+Introduction
+Good sensory measurements require that we look at the tasters as measuring instruments
+that are somewhat variable over time and among themselves, and are very prone to bias.
+To minimize variability and bias, the experimenter must understand the basic physiologi-
+cal and psychological factors that may inﬂuence sensory perception. Gregson (1963) notes
+that perception of the real world is not a passive process, but an active and selective one.
+An observer records only those elements of a complex situation that he can readily see and
+associate as meaningful. The rest he eliminates, even if it is staring him in the face. The
+observer must be put in a frame of mind to understand the characteristics that he or she is
+to measure. This is done through training (see Chapter 9), and by avoiding a number of
+pitfalls (Amerine, Pangborn, and Roessler 1965; Pangborn 1979; Poste et al. 1991; Lawless
+and Heymann 1998) inherent in the presentation of samples, the text of the questionnaire,
+and the handling of the participants.
+4.2
+Physiological Factors
+4.2.1
+Adaptation
+Adaptation is a decrease in or change in sensitivity to a given stimulus as a result of
+continued exposure to that stimulus or a similar one. In sensory testing, this effect is an
+important unwanted source of variability of thresholds and intensity ratings.
+In the following example of “cross-adaptation” (O’Mahony 1986), the observer in con-
+dition B is likely to perceive less sweetness in the test sample because the tasting of sucrose
+reduces his sensitivity to sweetness:
+Adapting Stimulus
+Test Stimulus
+Condition A
+H2O
+Aspartame
+Condition B
+Sucrose
+Aspartame
+The water used in condition A contains no sweetness and does not fatigue (or cause
+adaptation in the perception of sweet taste).
+Condition A
+H2O
+Quinine
+Condition B
+Sucrose
+Quinine
+39

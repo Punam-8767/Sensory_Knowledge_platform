@@ -1,0 +1,51 @@
+that the tests are appropriate and cost-effective. Appropriate use of consumer studies
+include product screening prior to larger scale market research tests, assessing the viability
+of new products unbranded for ingredient substitutions or cost reductions on major
+brands or gaining insights for product development. Inappropriate testing derives from
+poor testing systems (protocols), questionnaires, consumer screeners or the misuse of
+results based upon testing the wrong products, testing at the wrong time, or using
+testing as a substitute for market research studies.
+An example of a typical consumer study on carbonated beverages would require that it
+be conducted in two cities with recruitment of males 18–34 having purchased a carbonated
+beverage at a convenience store within the last two weeks. Potential respondents are
+screened by interview over the phone or in a shopping mall. Those selected and willing
+to participate are given a variety of beverages together with a scorecard requesting they
+rate their preference and state their reasons, along with requesting information on past
+buying habits and various demographic questions such as age, income, employment,
+ethnic background, etc. Results are calculated in the form of preference scores overall
+and for various subgroups.
+Consumer tests become more valuable when true insights are uncovered. Insights are
+the “ah ha’s” that were previously not known. Insights vary and can be identiﬁed from
+both quantitative and qualitative research. For example, insights may include the way a
+child opens the peanut butter jar and spreads the peanut butter on a piece of bread, or the
+sensory signal of freshness that is identiﬁed when seeing the steam from a hot cup of
+coffee. Insights ﬂow from new information that has not previously been heard or the way
+different sets of data are merged and mined.
+One exciting change in recent years in the ﬁeld of sensory consumer research involves
+working at the beginning of the product development process at the fuzzy front end. The
+advent of the fuzzy front end approach to creating new products has provided an oppor-
+tunity to uncover and discover unarticulated consumer needs and product dynamics early
+in the development process. Working at the fuzzy front end is further discussed in the
+following pages. For additional references about the Fuzzy Front End, see Appendix 12.5.
+Study designs need to be carefully tailored to the expected consumer group. The globa-
+lization of products often requires different study designs for different audiences. There
+has been a signiﬁcant increase in global research from a quantitative and qualitative
+perspective. As this is written, a task group of ASTM E18 is developing guidelines for
+consumer research across countries and cultures.
+The most effective tests for preference or acceptance are based on carefully designed test
+protocols run among carefully selected subjects with representative products. The choice
+of test protocol and subject is based on the project objective. Nowhere in sensory evalu-
+ation is the deﬁnition of the project objective more critical than with consumer tests that
+often cost from $10,000 to $100,000 or more. In-house affective tests are also expensive;
+the combined cost in salaries and overhead can run $400–$2000 for a 20-min test involving
+20–40 people.
+From a project perspective, the reasons for conducting consumer tests usually fall into
+one of the following categories:
+† Product maintenance
+† Product improvement/optimization
+† Development of new products
+† Assessment of market potential
+† Product category review
+† Support for advertising claims
+Sensory Evaluation Techniques, 4th Ed., Ch. 12
+256

@@ -1,0 +1,110 @@
+To construct a lower, one-tailed, 95% conﬁdence interval on the value of the population
+mean, one uses Table 13.4 and Table 17.3 to obtain:
+xKta;nK1s= ﬃﬃﬃn
+p ;
+where aZ0.05 and nZ30, so ta,n–1 is t0.05,29Z1.699, yielding
+10:56K1:699ð1:79Þ=
+ﬃﬃﬃﬃﬃ
+30
+p
+Z 10:56K0:56 Z 10:00
+The limit is interpreted to mean that the researcher is 95% sure that the true value of the
+mean overall liking rating in Atlanta is no less than 10.00.
+CITY
+Atlanta
+Boston
+Chicago
+Denver
+4.0
+6.0
+8.00
+10.0
+12.0
+14.0
+Overall
+liking
++
++
++
++
++
++
++
++
++
++
+*
+FIGURE 13.3
+Box-and-whisker plots of the overall liking scores from the multicity consumer test data in Table 13.1.
+TABLE 13.3
+Summary Statistics from the Multicity Consumer Test Data in Table 13.1
+Attribute: Overall Liking
+City
+n
+Mean
+Median
+Trimmed
+Mean
+Standard
+Deviation
+Standard
+Error
+Overall
+Atlanta
+30
+10.557
+10.200
+10.573
+1.793
+0.327
+liking
+Boston
+30
+10.290
+10.250
+10.273
+1.401
+0.256
+Chicago
+30
+7.173
+7.250
+7.146
+1.448
+0.264
+Denver
+30
+11.117
+11.300
+11.115
+1.276
+0.233
+City
+Min
+Max
+Q1
+Q3
+Overall
+Atlanta
+6.900
+15.000
+9.425
+11.825
+liking
+Boston
+7.400
+13.300
+9.200
+11.125
+Chicago
+4.000
+11.100
+6.250
+8.000
+Denver
+8.600
+14.400
+10.175
+11.950
+Basic Statistical Methods
+319

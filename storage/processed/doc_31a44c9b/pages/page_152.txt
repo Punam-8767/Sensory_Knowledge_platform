@@ -1,0 +1,54 @@
+Test report: Include the complete Table 8.1 and give demographics of the panelists.
+Example 8.2: Threshold of Isovaleric Acid in Air
+Problem/situation: A rendering plant produces air emissions containing isovaleric acid as
+the most ﬂavor-active component. The neighbors complain, and an ordinance is passed
+requiring a reduction below threshold.
+Project objective: To choose between various process alternatives and a higher chimney.
+Test objective: To determine the threshold of isovaleric acid in air.
+Test design: A fairly thorough method such as the ASTM Intermediate Method (E1432) or
+the second example of ISO Standard 13301 is suitable because of the economic conse-
+quences of the issue. Use a dynamic olfactometer (CEN 1997) and twenty panelists.
+Give each panelist 3-AFC tests six times at each of ﬁve or more concentrations spaced
+twofold apart and chosen in advance (see below). The apparatus contains three sniff ports;
+the panelist knows that two produce odor-free air and must choose the one that he believes
+to contain added isovaleric acid. The added concentration is at the lowest level in the ﬁrst
+test and increases by a constant factor in each subsequent test. From the percentage of
+correct results at each concentration, calculate each panelist’s threshold and from these,
+the group threshold.
+Screen samples: Ascertain that the air supply is free from detectable odors and that the
+isovaleric acid is of sensory purity and free from foreign odors. Check the reliability of the
+olfactometer by chemical analysis.
+Conduct the test: Test each panelist in turn at the chosen concentrations. Make this
+choice, in advance, by a single test (or a few tests) at each of a set of widely spaced
+concentrations (e.g., 2.5, 10, 40, 160, and 640 ppb). In the test, if a panelist should score
+100% correct at the lowest concentration, reschedule the concentration series with this
+as the highest. Likewise, if a panelist scores less than 80% correct at the highest
+concentration, continue the series by presenting higher concentrations until this no
+longer happens.
+Analyze the results: Plot the data as shown in Figure 8.4 in which the abscissa is the
+concentration, x (or log concentration) and the ordinate is the proportion distinguishers
+(or percent correct above chance), pd. pd is obtained from the proportion correct, pc, as
+follows:
+Test
+Formula
+Chance Level
+Triangle or 3-AFC
+pdZ1.5!pcK0.5
+0.333
+Paired comparison or 2-AFC
+pdZ2.0!pcK1.0
+0.500
+Two-out-of-ﬁve
+pdZ1.111!pcK0.111
+0.100
+Calculate the individual thresholds by one of the six curve-ﬁtting methods allowed
+by ASTM E1432 or ISO 13301 (e.g., by logistic regression using a computer package as
+shown in Figure 8.4). Plot the individual thresholds in a rank/probability graph, as shown
+in Figure 8.5, and obtain the group threshold as the 50% point. If a straight line can be
+drawn through the points, conclude that the panelists represent a normal distribution and
+that other points of interest can be read from the graph, e.g., that concentration that 10% of
+a population similar to the panel can detect.
+Test report: Include the information in Table 8.2 and Figure 8.5 and give demographics of
+the panelists.
+Determining Threshold
+135

@@ -1,0 +1,110 @@
+F-statistic, 96–97, 342
+Full product descriptions, 239–245
+Fuzzy front end research, 265–269, 308–309
+Fuzzy objective function (FCV) 363–364
+G
+Gel antiperspirant skinfeel, 210–213
+Gender factors, 261
+Grading, 47, 54–55
+Group effects, 42
+Group thresholds, 138
+Guidelines
+panel leadership, 165–171
+reporting results, 413–417
+technique choice, 407–412
+Gustation, 17–21
+H
+Habituation errors, 41
+Hair, feel of, 205–208
+Halo effect, 41–42
+Hand and body lotions, 294–299
+Handfeel, 204–205, 238
+Hearing, 21–22
+Hedonic ratings, 178
+Hierarchical cluster analysis algorithm, 363
+Histograms, 316, 318
+Historical overviews, 1–2
+Holistic prototyping/product development, 309
+Home use/placement tests (HUT) 264–265, 294–298
+Honestly signiﬁcant difference (HSD) 349–350,
+422–425
+Hops, 118–122, 393–395, 416–417
+HSD see Honestly signiﬁcant difference
+Human senses, 12–22
+Humidity, 33
+HUT see Home use/placement tests
+Hypothesis tests, 314, 323–334
+I
+Ice cream reference samples, 126–128
+Immersion, 266
+Importance scores, 293
+Income, 261
+Independent variables, 358–375, 399
+Individual attribute assessments, 279–280
+Individual respondents, 389
+In-house acceptance tests, 255–309
+see also Affective tests; Consumer tests
+Integrated aspects, 177–178
+Intensity, 145–147, 175–177, 190–192, 213–232
+Internal preference mapping, 376–380
+International Organization for Standardization (ISO)
+132–133
+Internet research, 281–283, 292–294
+Interpreting results, 4
+Interquartile range, 316
+Interval data, 45, 46
+Interval estimates, 316–322, 351–352
+Interviews, 151, 271, 298–299
+Invitations, 297–298
+ISO see International Organization for Standardization
+Isovaleric acid in air, 135–138
+J
+JND see Just-noticeable difference
+Judge and sample interaction plots, 156
+Just-noticeable difference (JND) 49–50, 130
+K
+Key drivers analysis, 291–294
+Key sensory dimensions, 380
+Kinesthesis, 13–14
+L
+Laboratory tests, 263
+Lather, 208–210
+Latin-square designs, 346–347
+Leadership advice/guidelines, 165–171
+Least signiﬁcant difference (LSD)
+balanced incomplete block design, 345–346
+basic statistical methods, 340–341
+Latin-square designs, 346
+randomized block analysis, 342, 343
+split-plot designs, 349
+Lemonade, 107–108
+Lexicons, 153, 190, 232–239
+Lighting factors, 31–33
+Linear regression, 366–371
+Linear transformation, 322
+Line scales, 57–58
+Loading factors, 361
+Local area residents, 262
+Location factors, 26, 263–265, 268
+Logical errors, 41
+Lotions, 202–204, 294–299
+LSD see Least signiﬁcant difference
+M
+Magnitude estimation scaling, 58–59
+Magnitude matching, 59–60
+Main effects, 393–394
+Maintenance, panelist performance, 155–157
+Mallow’s statistic, 370–371
+Malt supplies, 66–67
+Manipulation, 198
+Marinara sauce, 238, 243–244
+Market potential assessments, 258
+Mascara, 239
+Matching tests, 144, 145, 146
+Materials, 34
+Mayonnaise, 234–235, 243
+Means
+distribution means, 327
+residual mean square criteria, 370
+Sensory Evaluation Techniques, 4th Ed.
+444

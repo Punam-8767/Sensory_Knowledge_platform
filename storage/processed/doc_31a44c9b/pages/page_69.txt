@@ -1,0 +1,97 @@
+TABLE 5.1
+Representative Exponents of Power Functions for a Variety of Sensory
+Attributes
+Attribute
+Exponent
+Stimulus
+Bitter taste
+0.65
+Quinine, sipped
+0.32
+Quinine, ﬂowed
+Brightness
+0.33
+58 ﬁeld
+Cold
+1.0
+Metal on arm
+Duration
+1.1
+White noise
+Electric shock
+3.5
+Current through
+ﬁngers
+Hardness
+0.8
+Squeezed rubber
+Heaviness
+1.45
+Lifted weights
+Lightness (visual)
+1.20
+Gray papers
+Loudness
+0.67
+1000-Hz tone
+Salt taste
+1.4
+NaCl, sipped
+0.78
+NaCl, ﬂowed
+Smell
+0.55
+Coffee
+0.60
+Heptane
+Sour taste
+1.00
+HCl, sipped
+Sweet taste
+1.33
+Sucrose, sipped
+Tactual roughness
+1.5
+Emery cloths
+Thermal pain
+1.0
+Radiant heat on skin
+Vibration
+0.95
+60 Hz on ﬁnger
+0.6
+250 Hz on ﬁnger
+Viscosity
+0.42
+Stirring ﬂuids
+Visual area
+0.7
+Projected squares
+Visual length
+1.00
+Projected line
+Warmth
+1.6
+Metal on arm
+Source:
+From A.V. Cardello and O. Maller. 1987. Objective Methods in Food Quality
+Assessment, J.G. Kapsalis, ed., Boca Raton, FL: CRC Press. With permission.)
+1
+0.5
+00.01
+0.10
+1.0
+C
+R/R max
+10.0
+100
+FIGURE 5.5
+The sigmoidal relationship between
+taste response, R/Rmax, and stimulus
+concentration, C, as speciﬁed by the
+Beidler equation; k is set equal to 1
+for convenience. The inﬂexion point
+(maximum slope) of the curve occurs
+at RZ0.5Rmax, when CZk.
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+52

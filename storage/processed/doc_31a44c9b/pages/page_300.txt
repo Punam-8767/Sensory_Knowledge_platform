@@ -1,0 +1,50 @@
+consumer, again making them more likely to participate. Follow-ups can be conducted in
+various modes—phone, email, direct mail, etc.—and can remind a consumer that a survey
+has been sent to their email. These communication modes can also be used to thank a
+consumer for completing the survey.
+There are a number of steps to consider when designing research to be conducted via an
+Internet survey. The basic steps in the process of designing and implementing an online or
+Web-based survey are outlined below. The success of the research study is dependent
+upon all steps involved.
+1. Deﬁning the survey objectives, including
+† Specifying the population of interest (e.g., women age 35C or cat owners)
+† Delineating the type of data to be collected (quantitative or qualitative)
+† Determining the desired precision of the results
+2. Determining who will be sampled, e.g., the sample method to be used
+3. Creating and testing the instrument, including
+† Choosing the response mode (mail, Web, or other)
+† Drafting the questions
+† Pretesting and revising the survey instrument
+4. Contacting respondents throughout the survey process by:
+† Prenotiﬁcation that the survey is coming
+† Post-delivery reminder and thank-you
+† Nonresponse follow-up for those who do not return the survey
+5. Data collection, data reduction, and analysis
+12.8
+Using Other Sensory Methods to Uncover Insights
+12.8.1
+Relating Affective and Descriptive Data
+Product development professionals handling both the R&D and marketing aspects of a
+product cycle recognize that the consumer’s response in terms of overall acceptance
+and purchase intent is the bottom line in the decision to go or not go with a product or
+concept (Beausire, Norback, and Maurer 1988).
+Despite the recognition of the need for affective data, the product development team is
+generally unsure about what the consumer means when asked about actual sensory
+perceptions. When a consumer rates a product as “too dry” or “not enough chocolate
+taste,” is he really responding to perceived moistness/dryness or perceived chocolate
+ﬂavor? Or, is he responding to words that are associated in his mind with goodness or
+badness in the product? Too many researchers are taking the consumer’s response at face
+value (as the researcher uses the sensory terms) and these researchers end up “ﬁxing”
+attributes that may not be broken.
+One key to decoding consumer diagnostics and consumer acceptance is to measure the
+perceived sensory properties of a product using a more objective sensory tool (Shepherd,
+Grifﬁths, and Smith 1988). The trained descriptive or expert panel provides a thumbprint
+or spectrum of product sensory properties. This sensory documentation constitutes a list
+of real attribute characteristics or differences among products that can be used both to
+design relevant questionnaires and to interpret the resulting consumer data after the test is
+completed. By relating consumer data with panel data—and, when possible, with ingre-
+dient and processing variables—or with instrumental or chemical analyses, the researcher
+can discover the relationships between product attributes and the ultimate bottom line:
+consumer acceptance.
+Affective Tests: Using Other Sensory Methods to Uncover Insights
+283

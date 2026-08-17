@@ -1,0 +1,71 @@
+of all. The complete data in Table 14.6 and the plot of the interaction in Figure 14.23a show
+this would be an incorrect conclusion.
+The recommended procedure for applying factorial treatment structures in sensory
+evaluation is as follows. Prepare at least two independent replications of the full factorial
+experiment. Submit the resulting samples for panel evaluation using the appropriate
+blocking structure as described in Chapter 13, p. 339. Take the mean responses from the
+analysis of the panel data and use them as raw data in an ANOVA. The output of the
+ANOVA includes tests for main effects and interactions among the experimental
+factors (see Table 14.7). This procedure avoids confusing the measurement error, obtained
+from the analysis of the panel data, with the true experimental error that can only be
+obtained from the differences among the independently replicated treatment combinations.
+14.4.2
+Fractional Factorials and Screening Studies
+Early in a research program, many variables are proposed as possibly having meaningful
+effects on the important responses. To execute an efﬁcient research plan experimenters
+need an approach that will allow them to screen out the inﬂuential variables from those
+that have little or no impact on the responses. This determination must be done with a
+minimum amount of work so that sufﬁcient resources exist at the end of the program to do
+the necessary ﬁne-tuning and “ﬁnishing” work on the ﬁnal prototype. There are a class of
+experimental plans called fractional factorials that allow researchers to screen for the effects
+of many variables simultaneously with a minimum number of experimental samples.
+As the number of experimental variables grows in a factorial experiment, each main
+effect is estimated by an increasing number of “hidden replications.” For example, as
+noted in the previous section, in a 2!2 (or 22) factorial, each main effect is estimated by
+two differences (i.e., two hidden replications). In a 26 factorial (i.e., six factors, each with
+two levels), the number of hidden replications for estimating each main effect has grown to
+32. This may be excessive. A single replication of a 26 factorial consists of 64 experimental
+samples. If interest is primarily focused on identifying individual experimental variables
+with signiﬁcant main effects, then the number of hidden replications could safely be
+reduced to 16 or even 8 without excessively sacriﬁcing sensitivity. The number of experi-
+mental samples would be concurrently reduced to 32 or 16, thus yielding a manageable
+experiment. Figure 14.24 shows that the number of samples in a 23 factorial can be cut in
+half, from eight to four, while still providing two differences for estimating each
+main effect.
+TABLE 14.7
+ANOVA Table for a Factorial Experiment
+Source of
+Variation
+Degrees of
+Freedom
+Sum of
+Squares
+Mean Square
+F
+Total
+rabK1
+SST
+A
+aK1
+SSA
+MSAZSSA/(aK1)
+FAZMSA/MSE
+B
+bK1
+SSB
+MSBZSSB/(bK1)
+FBZMSB/MSE
+AB
+dfABZ(aK1) (bK1)
+SSAB
+MSABZSSAB/dfAB
+FABZMSAB/MSE
+Error
+dfEZab(rK1)
+SSE
+MSEZSSE/dfE
+Note:
+Factor A has “a” levels, factor B has “b” levels, and the entire experiment is replicated “r” times. The
+samples are prepared according to a completely randomized blocking structure.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+396

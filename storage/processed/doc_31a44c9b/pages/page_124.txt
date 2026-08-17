@@ -1,0 +1,46 @@
+aZ0.01 is to be obtained, while with 50 presentations, the same signiﬁcance can be
+obtained with 35 agreeing verdicts.
+7.2.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. Prepare equal numbers of the combinations AB and BA and
+allocate the sets at random among the subjects. Refer to p. 66 for details of procedure. A
+typical scoresheet is shown in Figure 7.1. Note that the scoresheet is the same whether the
+test is one- or two-sided, but the scoresheet must show whether “no difference” verdicts
+are permitted (or the subjects must know this). Space for several successive paired
+comparisons may be provided on a single scoresheet, but do not add supplemental ques-
+tions because these may introduce bias.
+Count the number of responses of interest. In a one-sided test, count the number of
+correct responses, or the responses in the direction of interest, and refer to Table 7.10. In a
+two-sided test, count the number of agreeing responses citing one sample more frequently,
+and refer to Table 7.12.
+Example 7.1: Directional Difference (Two-Sided)—Crystal Mix Lemonade
+Problem/situation: Consumer research on lemonades indicates that consumers are most
+interested in a lemon/lemonade ﬂavor most like “fresh-squeezed lemonade.” The
+company has developed two promising ﬂavor systems for a powdered mix. The deve-
+lopers wish to get some measure of whether one of these has more fresh-squeezed lemon
+character than the other.
+Directional Difference Test
+Name:
+Date:
+Type of sample:
+Characteristic studied:
+Instructions:
+Taste each pair from left to right and enter your verdict
+below.
+If no difference is apparent, enter your best guess,
+however uncertain. "No difference" verdicts are
+permitted, but only as a last resort.
+Test pairs
+Which sample is more
+Comments :
+FIGURE 7.1
+Example of scoresheet for directional
+difference
+test.
+Presentation:
+paired
+comparisons. “No difference” verdicts
+permitted.
+Attribute Difference Tests: Directional Difference Test
+107

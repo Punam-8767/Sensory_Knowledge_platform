@@ -1,0 +1,67 @@
+5
+Chew Down
+Chew sample with molars for a predetermined number of chews (enough to mix
+sample with saliva to form a mass):
+a. Moisture absorption
+Amount of saliva absorbed by product:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - - - All]
+b. Cohesiveness
+Degree to which sample holds together in a mass:
+of mass
+[Loose mass - - - - - - - - - - - - - - - - - Compact mass]
+c. Adhesiveness
+of mass
+Degree to which mass sticks to the roof of the mouth or
+teeth:
+[Not sticky - - - - - - - - - - - - - - - - - - - - - Very sticky]
+d. Flinty/glassy
+The amount of sharp abrasive pieces in the mass:
+[None - - - - - - - - - - - - - - - - - - - Very many pieces]
+6
+Rate of Melt (When Applicable):
+Amount of product melted after a certain number of chews:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - - - All]
+a. Geometrical in mass
+Roughness/graininess/lumpiness—amount of particles
+in mass:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - Many]
+b. Moistness of mass
+Amount of wetness/oiliness/moisture in mass:
+[Dry - - - - - - - - - - - - - - - - - - - - - - Moist/oily/wet]
+c. Number of chews
+Count number to disintegrate.
+7
+Residual
+Swallow or expectorate sample.
+a. Geometrical
+(Chalky, particles) amount of particles left in mouth:
+[None - - - - - - - - - - - - - - - - - - - - - - - - Very much]
+b. Oily mouth coating
+Amount of oil left on mouth surfaces:
+[None - - - - - - - - - - - - - - - - - - - - - - - - Very much]
+c. Sticky mouth
+coating
+Stickiness/tackiness of coating when tapping tongue on
+roof of mouth:
+[Not sticky - - - - - - - - - - - - - - - - - - - - - Very sticky]
+d. Tooth packing
+Amount of product left in the crevices of teeth:
+[None - - - - - - - - - - - - - - - - - - - - - - - - Very much]
+Example: Solid Texture Terminology of Oral Texture of Cookies
+1. Surface
+Place cookie between lips and evaluate for:
+Roughness—degree to which surface is uneven:
+[Smooth - - - - - - - - - - - - - - - - - - - - - - - - - - Rough]
+Loose particles—amount of loose particles on surface:
+[None - - - - - - - - - - - - - - - - - - - - - - - - - - - Many]
+Dryness—absence of oil on the surface:
+[Oily - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Dry]
+2. First bite
+Place one third of cookie between incisors, bite down,
+and evaluate for:
+Fracturability—force with which sample ruptures:
+[Crumbly - - - - - - - - - - - - - - - - - - - - - - - - - Brittle]
+Hardness—force required to bite through sample:
+[Soft - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Hard]
+The Spectrume Descriptive Analysis Method: Appendix 11.1
+201

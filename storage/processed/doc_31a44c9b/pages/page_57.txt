@@ -1,0 +1,48 @@
+Here, “cross-potentiation,” or facilitation, is likely to occur. In condition B, the observer
+perceives more bitterness in the test sample because the tasting of sucrose has heightened
+his sensitivity to quinine. A detailed discussion of adaptation phenomena in sensory
+testing is given by O’Mahony (1986).
+4.2.2
+Enhancement or Suppression
+Enhancement or suppression involves the interaction of stimuli presented simultaneously
+as mixtures.
+Enhancement. The effect of the presence of one substance increasing the perceived
+intensity of a second substance.
+Synergy. The effect of the presence of one substance increasing the perceived
+combined intensity of two substances, such that the perceived intensity of the
+mixture is greater than the sum of the intensities of the components.
+Suppression. The effect of the presence of one substance decreasing the perceived
+intensity of a mixture of two or more substances.
+Examples (see key below):
+1. Total perceived intensity of mixture
+Situation
+Name of Effect
+MIX!ACB (each alone)
+Mixture suppression
+MIXOACB (each alone)
+Synergy
+2. Components of analyzable mixture
+Situation
+Name of Effect
+A0!A
+Mixture suppression
+A0OA
+Enhancement
+Key: MIX, perceived intensity of mixture; A, perceived intensity of unmixed component A;
+A0, perceived intensity of component A in mixture.
+4.3
+Psychological Factors
+4.3.1
+Expectation Error
+Information given with the sample may trigger preconceived ideas. One usually ﬁnds
+what they expect to ﬁnd. In testing, such as the classic tests for threshold that consist of a
+series of ascending concentrations, the subject (through autosuggestion) anticipates the
+sensation and reports his response before it is applicable. A panelist who hears that an
+overage product has been returned to the plant will have a tendency to detect aged ﬂavors
+in the samples of the day. A beer taster’s verdict of bitterness will be biased if he knows the
+hop rate employed. Expectation errors can destroy the validity of a test and must be
+avoided by keeping the source of samples a secret and by not giving panelists any detailed
+information in advance of the test. Samples should be coded and the order of presentation
+should be random among the participants. It is sometimes argued that well-trained and
+Sensory Evaluation Techniques, 4th Ed., Ch. 4
+40

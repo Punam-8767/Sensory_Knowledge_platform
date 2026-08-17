@@ -1,0 +1,69 @@
+Sensitivity of the test: For planning future studies of this type, note that choosing 40
+subjects for a duo–trio test yields the following values for the test-sensitivity
+parameters:
+Proportion of
+Probability of Detecting
+Distinguishers (pd) %
+(1Lb) @ aZ0.05
+(1Lb) @ aZ0.10
+10
+0.13
+0.21
+15
+0.21
+0.32
+20
+0.32
+0.44
+25
+0.44
+0.57
+30
+0.57
+0.69
+35
+0.70
+0.80
+40
+0.81
+0.88
+45
+0.89
+0.94
+50
+0.95
+0.97
+For example, using 40 subjects and testing at the aZ0.05 level yields a test that has a 44%
+chance (1KbZ0.44) of detecting the situation where 25% of the population can detect a
+difference (pdZ25%). Increasing the number of subjects increases the likelihood of
+detecting any given value of pd. Testing at larger values of a also increases the chances
+of detecting a difference at a given pd.
+Example 6.6: Constant Reference—New Can Liner
+Problem/situation: A brewer is faced with two supplies of cans, “A” being the regular
+supply he has used for years and “B” a proposed new supply said to provide a slight
+advantage in shelf life. He wants to know whether any difference can be detected between
+the two cans. The brewer feels that it is important to balance the risk of introducing an
+unwanted change to his beer against the risk of passing up the extended shelf life offered
+by can “B.”
+Project objective: To determine if the package change causes any perceptible difference in
+the beer after shelf storage, as normally experienced in the trade.
+Test objective: To determine if any sensory difference can be perceived between the two
+beers after eight weeks of shelf storage at room temperature.
+Number of assessors: The brewer knows from past experience that if no more than pdZ
+30% of his panel can detect a difference then he assumes no meaningful risk in the market-
+place. He is slightly more concerned with introducing an unwanted difference than he is
+with passing up the slightly extended shelf life offered by can “B.” Therefore, he decides to
+set the b-risk at 0.05 and his a-risk at 0.10. Referring to Table 17.9 in the section for pdZ
+30%, the column for bZ0.05 and the row for aZ0.10, he ﬁnds that 96 respondents are
+required for the test.
+Test design: A duo–trio test in the constant reference mode is appropriate because the
+company’s beer in can “A” is familiar to the tasters. A separate test is conducted at each of
+the brewer’s three testing sites. Each test is set up with 32 subjects, with “A” as the
+reference; 64 glasses of beer “A” and 32 of beer “B” are prepared and served to the subjects
+in 16 combinations AAB and 16 combinations ABA, the left-hand sample being
+the reference.
+Analyze results: 18, 20, and 19 subjects correctly identiﬁed the sample that matched
+the reference. According to Table 17.10, signiﬁcance at the 10% level requires
+21 correct.
+Sensory Evaluation Techniques, 4th Ed., Ch. 6
+76

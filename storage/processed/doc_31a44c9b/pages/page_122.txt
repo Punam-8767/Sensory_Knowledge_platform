@@ -1,0 +1,51 @@
+7
+Attribute Difference Tests: How Does Attribute X
+Differ between Samples?
+7.1
+Introduction: Paired Comparison Designs
+Attribute difference tests measure a single attribute, e.g., sweetness, comparing one
+sample with one or several others. The lack of a difference between samples with
+regard to one attribute does not imply that no overall difference exists. Attribute difference
+tests involving two samples (Section 7.2) are simple regarding test design and statistical
+treatment; the main difﬁculty is that of determining whether test situations are one-sided
+or two-sided (see next page and Example 7.1 and Example 7.2).
+With more than two samples, some designs can be analyzed by the analysis of variance
+whereas others require specialized statistics. The degree of complexity increases rapidly
+with sample numbers, as does the economy of testing, which is possible by improved test
+designs. A description of the various multiple pair tests follows; multisample tests and
+their designs are discussed in Section 7.4.
+In Section 7.3 and Section 7.4, the subjects are asked to compare each sample with every
+other sample. Such paired comparisons provide good measures for the intensity of the
+attribute of interest for each sample on a meaningful scale and they have the advantage
+that a measure is obtained of the relative intensity of the attribute within each pair that can
+be formed. However, the number of possible pairs increases polynomially with the
+number of samples:
+Number of samples, t
+3
+4
+5
+6
+7
+8
+9
+Number of possible
+pairs, NZ t (tK1)/2
+3
+6
+10
+15
+21
+28
+36
+In Section 7.3 and Section 7.4, the question “Which sample is sweeter (fresher,
+preferred)?” is asked. This approach is based on rank data (e.g., the sweeter sample is
+assigned rank 2 and the other sample, rank 1), which introduces a degree of artiﬁciality; no
+measure of the degree of difference is obtained directly from each respondent. In return,
+the statistics are simpler. With rating data, specialized statistics become necessary.
+7.2
+Directional Difference Test: Comparing Two Samples
+7.2.1
+Scope and Application
+Use this method when the test objective is to determine in which way a particular sensory
+characteristic differs between two samples (e.g., which sample is sweeter). In this mode,
+105

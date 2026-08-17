@@ -1,0 +1,49 @@
+is possible with many descriptive techniques, project leaders are often concerned with just
+how different a sample or prototype is from the standard. The determination of an overall
+difference (see difference-from-control test, Chapter 6, Section 6.8) allows the project
+management to make decisions regarding disposition of a sample based on its relative
+distance from the control; the accompanying descriptive information provides insight into
+the source and size of the relative attributes of the control and the sample.
+Hedonic ratings. It is a temptation to ask the descriptive panel, once the description has
+been completed, to rate the overall acceptance of the product. In most cases, this temp-
+tation is to be resisted, as the panel, through its training process, has been removed from
+the world of consumers and is no longer representative of any section of the general
+public. Training tends to change the personal preferences of panelists. As they become
+more aware of the various attributes of a product, panelists tend to differently weigh
+attributes from the way a regular consumer would in terms of each attribute’s contribution
+to the overall quality, blend, or balance.
+10.4
+Commonly Used Descriptive Test Methods
+Over the last 40 years, many descriptive analysis methods have been developed, and some
+have gained and maintained popularity as standard methods (ASTM 1992, 1996). The fact
+that these methods are described below is a reﬂection of their popularity, but it does not
+constitute a recommendation for use. On the contrary, a sensory analyst who needs to
+develop a descriptive system for a speciﬁc product and project application should study
+the literature on descriptive methods and should review several methods and combi-
+nations of methods before selecting the descriptive analysis system that can provide the
+most comprehensive, accurate, and reproducible description of each product and the best
+discrimination between products. See ASTM (1992) that also contains case studies of four
+methods, and review the IFT Sensory Evaluation Guide (IFT 1981) that contains 109
+references from different ﬁelds. A recent review of the literature and presentations in
+sensory science reveals no new descriptive analysis methods. Modiﬁcations of already-
+existing methods are common and encouraged in customizing a descriptive analysis
+method and panel to document the sensory properties of a product or product category.
+10.4.1
+The Flavor Proﬁle Method
+The ﬂavor proﬁle method was developed by Arthur D. Little, Inc. in the late 1940s (Keane
+1992). It involves the analysis of a product’s perceived aroma and ﬂavor characteristics,
+their intensities, order of appearance, and aftertaste by a panel offour to six trained judges.
+An amplitude rating (see previous page) is generally included as part of the proﬁle.
+Panelists are selected on the basis of a physiological test for taste discrimination, taste
+intensity discrimination, and olfactory discrimination and description. A personal inter-
+view is conducted to determine interest, availability, and potential for working in a
+group situation. For training, panelists are provided with a broad selection of reference
+samples representing the product range as well as examples of ingredient and processing
+variables for the product type. Panelists, with the panel leader’s help in providing and
+maintaining reference samples, develop and deﬁne the common terminology to be used
+by the entire panel. The panel also develops a common frame of reference for the use of the
+seven-point Flavor Proﬁle intensity scale shown in Chapter 5, p. 57.
+The panelists, seated at a round or hexagonal table, individually evaluate one sample at
+a time for both aroma and ﬂavor, and they record the attributes (called “character notes”),
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+178

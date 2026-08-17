@@ -1,0 +1,64 @@
+the critical value of c2 with (tK1) degrees offreedom (see Table 7.5). In the present case, the
+critical T’s are
+Level of signiﬁcance, a
+0.10
+0.05
+0.01
+Critical T
+6.25
+7.81
+11.3
+The results can be shown on a rank sum scale of thick vs. thin:
+40
+50
+60
+70
+Thin
+Thick
+A
+B
+C
+D
+On the same scale, the HSD value (see Chapter 13, p. 349) for comparing two rank sums
+(aZ0.05) looks like this:
+HSD Z qa;t;N
+ﬃﬃﬃﬃﬃﬃﬃﬃ
+pt=4
+p
+Z 3:63
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ð12Þð4Þð4Þ=4
+p
+Z 12:6
+where the value qa,t,N is found in Table 7.4. The difference between A and B is much larger
+than 12.6, i.e., A is signiﬁcantly thinner and thus more desirable than the group formed by
+B, C, and D.
+7.4
+Introduction: Multisample Difference Tests—Block Designs
+The tests described in Section 7.1 through Section 7.3 dealt with pairwise comparison of
+samples according to one selected attribute. The tests in the next four sections are based on
+groups of more than two samples, again compared according to one selected attribute
+(such as sweetness, freshness, or preference) and using the blocking designs discussed in
+Chapter 13, p. 338.
+7.4.1
+Complete Block Designs
+The simplest design is to rank all of the samples simultaneously (see Section 7.6), but
+results are not as precise or actionable as those of more complex tests. The next simplest is
+to compare all samples together, using a rating scale. We can compare all samples in one
+complete block (Section 7.6, Multisample Difference Test), or we can limit the load on the
+taste buds (or other sensory organs) and the short-term memory of the panelists, by
+splitting the comparison into several smaller blocks (balanced incomplete block [BIB]
+designs, Section 7.7 and Section 7.8).
+7.4.2
+Balanced Incomplete Block (BIB) Designs
+In the complete block designs, the size of each block (row) equals the number of treatments
+being studied. A block in the present context is identiﬁed by the set of samples served to
+one panelist. Generally, the panelist cannot evaluate more than four to six samples in a
+single sitting. If the number of samples (treatments) to be compared is larger, for example,
+7–12, a BIB design can be used. Instead of presenting all the t samples in one large block,
+the experimenter presents them in b smaller blocks, each of which contains k!t samples.
+The k samples that form each block must be selected so that all the samples are evaluated
+an equal number of times and so that all pairs of samples appear together in the b
+blocks an equal number of times. Cochran and Cox (1957) present an extensive list of
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+112

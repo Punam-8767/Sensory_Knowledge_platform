@@ -1,0 +1,19 @@
+# Web Framework & Server
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+
+# Configuration & Data Validation
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Async File I/O
+aiofiles>=23.2.1
+
+# Document Processing (for initial metadata extraction like page counts)
+PyMuPDF>=1.23.0
+pdfplumber
+openai
+qdrant-client
+
+pytesseract

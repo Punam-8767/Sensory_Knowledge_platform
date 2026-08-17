@@ -1,0 +1,32 @@
+14.2.1.2
+Principal Components Analysis
+An initial correlation analysis might identify one or more groups of variables that are highly
+correlated with each other (and not highly correlated with variables from other groups).
+This suggests that variables in each group contain related information and that possibly a
+smaller number of unobserved (or “latent”) variables would provide an adequate summary
+of the total variability. PCA is the statistical technique used to identify the smallest number
+of latent variables, called “principal components,” that explain the greatest amount of
+observed variability. It is often possible to explain as much as 75–90% of the total variability
+in a data set consisting of 25–30 variables with as few as 2–3 principal components.
+Computer programs that extract the principal components from a set of multivariate
+data are widely available so theoretical and computational details are not included in the
+following discussion. Those interested in a more analytical discussion of PCA are referred
+to Piggott and Sharman (1986).
+PCA analyzes the correlation structure of a group of multivariate observations and
+identiﬁes the axis along which the maximum variability in the data occurs. This axis is
+called the ﬁrst principal component. The second principal component is the axis along which
+the greatest amount of remaining variability lays subject to the constraint that the axes
+must be perpendicular (at right angles) to each other (i.e., orthogonal or uncorrelated).
+Each additional principal component is selected to be orthogonal to all others and such
+that each successive principal component explains as much of the remaining unexplained
+variability as possible. The number of principal components can never be larger than the
+number of observed variables and, in practice, is often much less. The process of extracting
+principal components ends either when a prespeciﬁed amount of the total variability has
+been explained (this quantity is always included in the computer output of a PCA) or
+when extraction of another principal component would add only trivially to the explained
+variability. This situation is depicted graphically by the ﬂattening out of the scree plot
+(Cattell 1966) in Figure 14.3.
+FIGURE 14.2
+Scatterplot matrix of multiple responses useful for identifying correlated or otherwise related pairs of variables.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+360

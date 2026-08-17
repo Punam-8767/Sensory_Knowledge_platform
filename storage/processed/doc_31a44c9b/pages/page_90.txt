@@ -1,0 +1,43 @@
+simple and easily understood. Compared with the paired comparison test, it has the
+advantage that a reference sample is presented that avoids confusion with respect to
+what constitutes a difference, but a disadvantage is that three samples, rather than two,
+must be tasted.
+Use this method when the test objective is to determine whether a sensory difference
+exists between two samples. This method is particularly useful in situations
+1. To determine whether product differences result from a change in ingredients,
+processing, packaging, or storage
+2. To determine whether an overall difference exists, where no speciﬁc attributes
+can be identiﬁed as having been affected
+The duo–trio test has general application whenever more than 15, and preferably
+more than 30, test subjects are available. Two forms of the test exist: the constant
+reference mode, in which the same sample, usually drawn from regular production, is
+always the reference, and the balanced reference mode, in which both of the samples
+being compared are used at random as the reference. Use the constant reference mode
+with trained subjects whenever a product well known to them can be used as the
+reference. Use the balanced reference mode if both samples are unknown or if
+untrained subjects are used.
+If there are pronounced aftertastes, the duo–trio test is less suitable than the paired
+comparison test (see Chapter 7.2).
+6.4.2
+Principle of the Test
+Present to each subject an identiﬁed reference sample, followed by two coded samples,
+one of which matches the reference sample. Ask subjects to indicate which coded sample
+matches the reference. Count the number of correct replies and refer to Table 17.10
+for interpretation.
+6.4.3
+Test Subjects
+Select, train, and instruct the subjects as described under Section 6.3.3. As a general rule,
+the minimum is 16 subjects, but for less than 28, the b-error is high. Discrimination is much
+improved if 32, 40, or a larger number can be employed.
+6.4.4
+Test Procedure
+For test controls and product controls, see p. 66. Offer samples simultaneously, if
+possible, or else sequentially. Prepare equal numbers of the possible combinations
+(see examples) and allocate the sets at random among the subjects. An example of
+a scoresheet (which is the same in the balanced reference and constant reference
+modes) is given in Figure 6.5. Space for several duo–trio tests may be provided on
+the scoresheet, but do not ask supplementary questions (e.g., the degree or type of
+difference or the subject’s preference) as the subject’s choice of matching sample may
+bias his response to these additional questions. Count the number of correct
+Overall Difference Tests: Duo–Trio Test
+73

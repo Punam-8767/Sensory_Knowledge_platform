@@ -1,0 +1,48 @@
+samples they require. The number of samples in a Plackett–Burman experiment is always
+a multiple of four. The number of experimental variables that can be screened with a
+Plackett–Burman experiment is, at most, one less than the number of samples (i.e., 4, 5,
+6, or 7 variables can be screened with 8 samples; 8, 9, 10, or 11 variables can be screened
+with 12 samples; etc.) Box and Draper (1987) present the construction of Plackett–Burman
+experiments covering the range from 4 to 27 experimental factors (i.e., for studies involv-
+ing 8–28 experimental samples).
+14.4.2.3
+Analysis of Screening Studies
+Both fractional factorials and Plackett–Burman experiments can be analyzed by ANOVA.
+However, because of the small number of samples involved, it is sometimes impossible to
+compute F-ratios to test for the signiﬁcance of the effects. This happens because, in some
+screening experiments, there are no degrees of freedom available for estimating experi-
+mental error. Regardless, even when the ANOVA computations can be performed, the
+tests are not very sensitive, so that the possibility of missing a real effect (i.e., a type-II
+error) is relatively high.
+A graphical technique for analyzing screening experiments allows the researcher more
+input into the decisions on which variables are affecting the response. The technique is
+motivated by the logic that if none of the variables have an impact on the response, then
+the values of their estimated effects are actually just random observations from a distri-
+bution (assumed to be normal) with a mean of zero. If these estimated effects are plotted
+against their corresponding normal random deviates, they should form a straight line
+(in the absence of any real effects). If, however, some of the variables affect the response,
+then the estimated effects are more than random observations. Real effects will fall off the
+line in the plot, either high and to the right (for positive effects) or low and to the left
+(for negative effects). The researcher can examine the “normal probability plot” of the
+estimated effects, such as presented in Figure 14.25, to decide which variables actually
+affect the response.
+Constructing a normal probability plot is a four-step process:
+1. Estimate the effects of the experimental variables using ANOVA.
+2. Rank the estimated effects in increasing order from iZ1 to n.
+3. Pair the ordered estimates with the new variable zZFK1[p], where
+pZ(3iK1)/(3nC1) and FK1 is the inverse of the standard normal distribution
+function. Many statistical computer packages contain a function for computing
+the value of z from p (sometimes called “PROBIT”).
+4. Plot z vs. the estimated effects using a standard plotting routine, ﬁt (by eyeball) a
+straight line to the data, and look for points that fall high and to the right or low
+and to the left. These identify the “signiﬁcant” variables.
+14.4.3
+Response Surface Methodology
+The treatment structure known as RSM is essentially a designed regression analysis (see
+Montgomery 1976; Giovanni 1983). Unlike factorial treatment structures, where the objec-
+tive is to determine if (and how) the factors inﬂuence the response, the objective of an RSM
+experiment is to predict the value of a response variable (called the dependent variable)
+based on the controlled values of the experimental factors (called independent variables). All
+of the factors in an RSM experiment must be quantitative.
+Advanced Statistical Methods
+399

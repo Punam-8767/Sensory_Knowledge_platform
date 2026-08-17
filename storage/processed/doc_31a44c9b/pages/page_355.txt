@@ -1,0 +1,61 @@
+The calculation of d0 from full category scale data is too complicated to explain here.
+However, ASTM (2003) presents a rapid, table look-up approach that applies the tech-
+nique used for the “A”–“not A” test to category-scale data that has been collapsed into two
+categories (irrespective of how many categories there were on the physical scale used to
+collect the data). Detail is lost due to the collapsing but the values of d0 and its variance are
+still accurate.
+13.5
+The Statistical Design of Sensory Panel Studies
+In this section, experimental designs that are commonly used in sensory evaluation are
+presented. The discussion is structured to avoid much of the confusion that often
+surrounds this topic. In Section 13.5.1, independent replications of an experiment are
+distinguished from multiple observations of a single sample. It is shown that confusing
+replications with multiple observations, which results directly from failing to recognize
+the population of interest, can lead to the incorrect use of measurement error in place of
+experimental error in the statistical analysis of sensory data. When this occurs, samples are
+often declared to be signiﬁcantly different when they are not. In Section 13.5.2, the most
+commonly used designs for sensory panel studies are presented. These include random-
+ized (complete) block designs, balanced incomplete block designs, Latin-square designs,
+and split-plot designs.
+13.5.1
+Sampling: Replication vs. Multiple Observations
+The fundamental intent of the statistical analysis of a designed experiment is to
+generate an accurate and precise estimate of the experimental error. All tests of
+hypotheses and conﬁdence statements are based on this. Experimental error is the
+unexplainable, natural variability of the population being studied. Experimental error
+is expressed quantitatively as the variance or as the standard deviation of the popu-
+lation. One measurement taken on one unit from a population provides no means for
+estimating experimental error. In fact, multiple observations of the same unit provide
+no means to estimate experimental error, either. The differences among the multiple
+observations taken on a single unit result from measurement error. Several units from
+the same population need to be sampled to develop a valid estimate of experimental
+error. The measurements taken on different units are called replications. It is the unit-
+to-unit (or “rep-to-rep”) differences that contain the information about the variability of
+the population (i.e., experimental error).
+A common objective of sensory studies is to differentiate products based on
+differences in the perceived intensities of some attributes. If only a single sample
+(batch, jar, preparation, etc.) of each product is evaluated, there is no way to estimate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+c1
+c2 c3
+c4
+c5
+c6
+c7
+c8
+FIGURE 13.13
+Multiple c criteria form the boundaries of
+the scale categories. In order to receive a
+rating of 5, the perceived intensity of a
+sample must be greater than c4 but less
+than c5.
+Sensory Evaluation Techniques, 4th Ed., Ch. 13
+338

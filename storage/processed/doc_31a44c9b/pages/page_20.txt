@@ -1,0 +1,47 @@
+For these reasons and others, it is very important for the sensory analyst to be
+actively involved in the development of the scales used to measure the panelists’
+responses. A good scale requires much study, must be based on a thorough under-
+standing of the physical and chemical factors that govern the sensory variable in
+question, and requires several reference points and thorough training of the panel. It
+is unreasonable to expect that even an experienced panelist would possess the necess-
+ary knowledge and skill to develop a scale that is consistently accurate and precise.
+Only through the direct involvement of a knowledgeable sensory professional in the
+development of scales can one obtain descriptive analyses, e.g., that will mean the same
+in six months’ time as they do today.
+1.3.1
+The Chain of Sensory Perception
+When sensory analysts study the relationship between a given physical stimulus and the
+subject’s response, the outcome is often regarded as a one-step process. In fact, there are at
+least three steps in the process, as shown below. The stimulus hits the sense organ and is
+converted to a nerve signal that travels to the brain. With previous experiences in memory,
+the brain then interprets, organizes, and integrates the incoming sensations into percep-
+tions. Finally, a response is formulated based on the subject’s perceptions (Schiffman 1996).
+In dealing with the fact that humans often yield varied responses to the same stimulus,
+sensory professionals need to understand that differences between two people’s verdicts
+can be caused either by a difference in the sensation they receive because their sense
+organs differ in sensitivity or by a difference in their mental treatment of the sensation,
+e.g., because of a lack of knowledge of the particular odor, taste, etc. or because of lack of
+training in expressing what they sense in words and numbers. Through training and the
+use of references, sensory professionals can attempt to shape the mental process so that
+subjects move toward showing the same response to a given stimulus.
+A commendable critical review of the psychophysical measurement of human olfactory
+function (with 214 references) can be found in Chapter 10 of Doty and Laing (2003).
+1.4
+Conducting a Sensory Study
+The best products are developed in organizations where the sensory professional is more
+than the provider of a specialized testing service. Only through a process of total involve-
+ment can he or she be in the position of knowing what tests are necessary and appropriate
+at every point during the life of a research project. The sensory professional (like the
+statistician) must take an active role in developing the research program, collaborating
+with the other involved parties on the development of the experimental designs that
+ultimately will be used to answer the questions posed. Erhardt (1978) divides the role
+of the sensory analyst into the following seven practical tasks:
+1. Determine the project objective. Deﬁning the needs of the project leader is the most
+important requirement for conducting the correct test. Were the samples
+submitted as a product improvement, to permit cost reduction or ingredient
+substitution, or as a match of a competitor’s product? Is one sample expected
+to be similar or different from others, preferred or at parity, variable in one or
+more attributes? If this critical step is not carried out, the sensory analyst is
+unlikely to use the appropriate test or to interpret the data correctly.
+Introduction to Sensory Techniques
+3

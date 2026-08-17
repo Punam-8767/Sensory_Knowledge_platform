@@ -1,0 +1,37 @@
+5
+Measuring Responses
+5.1
+Introduction
+This chapter describes the various ways in which sensory responses can be measured. The
+purpose is to present the principle of each method of measuring responses and to discuss
+its advantages and disadvantages. For a detailed critical review of this point, see Doty and
+Laing (2003).
+In the simplest of worlds, if tasters were really measuring instruments, they could be set
+up with a range of 0–100 and be supplied a couple of calibration points (doctored samples)
+for each attribute to be rated. Unfortunately, the real world of testing is not simple, and a
+much more varied approach is needed. The degree of complexity is such that the
+psychology departments of major universities maintain laboratories of psychophysics
+(see Doty 2003; Moskowitz 2002; Lawless and Heymann 1998; Laming 1994; Sekuler
+and Blake 1990; Cardello and Maller 1987; Baird and Noma 1978; Anderson 1974; Kling
+and Riggs 1971). Some of the factors to consider are outlined in this chapter.
+When panelists are asked to assign numbers or labels to sensory impressions, they may
+do this in at least four ways (see Figure 5.1):
+† Nominal data: (Latin: nomenZname). The items examined are placed in two or
+more groups that differ in name but do not obey any particular order or any
+quantitative relationship, e.g., the numbers worn by football players.
+† Ordinal data: (Latin: ordinalisZorder). The panelist places the items examined
+into two or more groups that belong to an ordered series, e.g., slight,
+moderate, strong.
+† Interval data: (Latin: inter vallumZspace between ramparts). Panelists place the
+items into numbered groups separated by a constant interval, e.g., three, four,
+ﬁve, six.
+† Ratio data. Panelists use numbers that indicate how many times the stimulus in
+question is stronger (or saltier, or more irritating) than a reference stimulus
+presented earlier.
+Nominal data contains the least information. Ordinal data carries more information and
+can be analyzed by most nonparametric statistical tests. Interval and ratio data are even
+better because they can be analyzed by all nonparametric methods. and often by para-
+metric methods. Ratio data is preferred by some because it is free from end-of-scale
+distortions; however, in practice, interval data, which is easier to collect, appears to give
+equal results (see Section 5.6.3).
+45

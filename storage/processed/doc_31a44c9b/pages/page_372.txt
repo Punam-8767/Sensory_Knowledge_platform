@@ -1,0 +1,31 @@
+References
+ASTM. 2003. “Standard practice for estimating Thurstonian discriminal distances,” in Standard
+Practice E2262-03, West Conshohocken, PA: ASTM International.
+J. Bi, D.M. Ennis, and M. O’Mahony. 1997. “How to estimate and use the variance of d’ from
+difference tests,” Journal of Sensory Studies, 12: 87–104.
+W.G. Cochran and G.M. Cox. 1957. Experimental Designs, 2nd Ed., New York: Wiley.
+M. Danzart. 1986. “Univariate procedures,” in Statistical Procedures in Food Research, J.R. Piggott, ed.,
+Essex, UK: Elsevier Applied Science, pp. 19–60.
+W.J. Dixon and F.J. Massey. 1969. Introduction to Statistical Analysis, New York: McGraw-Hill.
+J. Durbin. 1951. “Incomplete blocks in ranking experiments,” British Journal of Mathematics and
+Statistical Psychology, 4: 85–92.
+P.B. Elliot. 1964. “Tables of d’,” in Signal Detection and Recognition by Human Observers, J.A. Swet, ed.,
+New York: Wiley, pp. 651–684.
+D.M. Ennis. 1993. “The power of sensory discrimination methods,” Journal of Sensory Studies,
+8: 353–370.
+D.M. Ennis. 2001. IFPrograms User Guide, Version 7, Richmond, VA: The Institute for Perception.
+J.E.R. Frijters. 1979. “The paradox of discriminatory nondiscriminators resolved,” in Chemical Senses
+and Flavor, 4: 355–358.
+M.C. Gagula and J. Singh. 1984. Statistical Methods in Food and Consumer Research, Orlando,
+FL: Academic Press.
+M. Hollander and D.A. Wolfe. 1973. Nonparametric Statistical Methods, New York: Wiley.
+M. O’Mahony. 1986. Sensory Evaluation of Food: Statistical Methods and Procedures, New York:
+Marcel Dekker.
+H.H. Skillings and G.A. Mack. 1981. “On the use of a Friedman type statistic in balanced and
+unbalanced block designs,” Technometrics, 23: 171–177.
+G.L. Smith. 1988. “Statistical analysis of sensory data,” in Sensory Analysis of Foods, J.R. Piggott, ed.,
+Essex, UK: Elsevier Applied Science, pp. 335–379.
+G.W. Snedecor and W.G. Cochran. 1980. Statistical Methods, Ames, IA: Iowa State University Press.
+L.L. Thurstone. 1927. “A law of comparative judgment,” Psychological Review, 34: 273–286.
+Basic Statistical Methods
+355

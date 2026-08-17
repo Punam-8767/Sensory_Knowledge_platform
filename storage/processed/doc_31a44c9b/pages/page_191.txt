@@ -1,0 +1,46 @@
+products, and the appearance and sound of any product. These sensory proﬁles are used in
+research and development (Meilgaard and Muller 1987) and in manufacturing to:
+† Deﬁne the sensory properties of a target product for new product development
+(Szczesniak, Loew, and Skinner 1975).
+† Deﬁne the characteristics/speciﬁcations for a control or standard for QA/QC and
+R&D applications.
+† Document product attributes before a consumer test to help in the selection of
+attributes to be included in the consumer questionnaire and to help in an expla-
+nation of the results of the consumer test.
+† Track a product’s sensory changes over time with respect to understanding shelf
+life, packaging, etc.
+† Map perceived product attributes for the purpose of relating them to instru-
+mental, chemical, or physical properties (Bargmann, Wu, and Powers 1976;
+Moskowitz 1979).
+† Measure short-term changes in the intensity of speciﬁc attributes over time (time–
+intensity analysis).
+10.3
+Components of Descriptive Analysis
+10.3.1
+Characteristics: The Qualitative Aspect
+Those perceived sensory parameters that deﬁne the product are referred to by various
+terms such as attributes, characteristics, character notes, descriptive terms, descriptors, or
+terminology (Johnsen et al. 1988).
+These qualitative factors (that are the same as the parameters discussed under classi-
+ﬁcation, Chapter 5, p. 53) include terms that deﬁne the sensory proﬁle or picture or
+thumbprint of the sample. An important aspect is that panelists, unless well trained,
+may have very different concepts of what a term means. The question of concept formation
+is reviewed in detail by Lawless and Heymann (1998). The selection of sensory attributes
+and the corresponding deﬁnition of these attributes should be related to the real chemical
+and physical properties of a product that can be perceived (Civille and Lawless 1986).
+Adherence to an understanding of a product’s actual rheology or chemistry make the
+descriptive data easier to interpret and more useful for decision making. Statistical
+methods such as ANOVA and multivariate analysis can be used to select the more discri-
+minating terms (Jeltema and Southwick 1986; ISO 1994).
+The components of a number of different descriptive proﬁles are given below (examples
+of each are shown in parentheses). Note that this list is also the key to a more complete
+list of descriptive terms given in Chapter 11, Appendix 11.1 through Appendix 11.3.
+The repeat appearance of certain properties and examples is intentional.
+1. Appearance characteristics
+a. Color (hue, chroma, uniformity, depth)
+b. Surface texture (shine, smoothness/roughness)
+c. Size and shape (dimensions and geometry)
+d. Interactions among pieces or particles (stickiness, agglomeration, loose
+particles)
+Sensory Evaluation Techniques, 4th Ed., Ch. 10
+174

@@ -1,0 +1,47 @@
+BIB designs that can be used in most test situations. Computer programs, such as Design
+Express (2003), also can be used to generate BIB designs.
+7.5
+Simple Ranking Test: Friedman Analysis—Randomized
+(Complete) Block Design
+7.5.1
+Scope and Application
+Use this method when the test objective is to compare several samples according to
+a single attribute, e.g., sweetness, freshness, preference. Ranking is the simplest way to
+perform such comparisons, but the data are merely ordinal, and no measure of the degree
+of difference is obtained from each respondent. Consecutive samples that differ widely, as
+well as those that differ slightly, will be separated by one rank unit. A good, detailed
+discussion of the virtues and limitations of rank data is given by Pangborn (1984).
+Ranking is less time-consuming than other methods and is particularly useful when
+samples are to be presorted or screened for later analysis.
+7.5.2
+Principle of the Test
+Present the set of samples to each subject in balanced, random order. Ask subjects to rank
+them according to the attribute of interest. Calculate the rank sums and evaluate them
+statistically with the aid of Friedman’s test, as described in Chapter 13, p. 342.
+7.5.3
+Test Subjects
+Select, train, and instruct the subjects as described on p. 66. Use no fewer than 8 subjects;
+discrimination is much improved if 16 or more can be used. Subjects may require special
+instruction or training to enable them to recognize the attribute of interest reproducibly
+(see Chapter 9, p. 144). Depending on the test objective, subjects may be selected on the
+basis of proven ability to detect small differences in the attribute.
+7.5.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. The subject receives the set of t samples in balanced random
+order; the task is to rearrange them in rank order. The set may be presented once or several
+times with different coding. Accuracy is much improved if the set can be presented two or
+more times. In preference tests, instruct subjects to assign rank 1 to the preferred sample,
+rank 2 to the next preferred, etc. For intensity tests, instruct subjects to assign rank 1 to the
+lowest intensity, rank 2 to the next lowest, etc.
+Recommend that subjects arrange the samples in a provisional order based upon a ﬁrst
+trial of each and then verify or change the order based on further testing. Instruct subjects
+to make a “best guess” about adjacent samples, even if they appear to be the same;
+however, if a subject declines to guess, he or she should indicate under “comments” the
+samples considered identical. Assign the average rank to each of the identical samples for
+statistical analysis. For example, in a four-sample test, if a panelist cannot differentiate the
+two middle samples, assign the average rank of 2.5 to each, i.e., (2C3)/2.
+If a rank order for more than one attribute of the same set of samples is needed, carry out
+the procedure separately for each attribute, using new samples coded differently so that
+Attribute Difference Tests: Simple Ranking Test
+113

@@ -1,0 +1,75 @@
+These values are used to calculate the second term in the denominator of T0 in
+Equation 13.16 as
+T0 Z
+12
+X
+t
+jZ1
+ðXjKG=tÞ2
+2
+4
+3
+5
+,
+btðt C1ÞKð1= tK1
+ð
+ÞÞ
+X
+b
+iZ1
+X
+gi
+iZ1
+t3
+i;j
+
+!
+Kt
+
+!
+"
+#
+Z 12 ð22K30Þ2 Cð22:5K30Þ2 Cð35:5K30Þ2 Cð40K30Þ2
+
+'
+ð12Þð4Þð5ÞKð1=3Þð6 C24 C6 C6Þ
+Z 13:3:
+The value of T0Z13.3 exceeds the upper 5% critical value of a c2 with three degrees of
+freedom (c2
+0.05,3Z7.81); therefore, differences exist among the samples.
+Only comparisons of samples A, B, and C vs. sample P are of interest. Therefore, the
+multiple comparison procedure for comparing test samples to a control or standard
+sample, appropriate for rank data, is used (see Hollander and Wolfe 1973). The upper
+5% (one-sided) critical value of the multiple comparison is 13.1. The rank sum of sample P
+is more than 13.1 units higher than the rank sums of samples A and B.
+Test report: The QA manager concludes that the company’s sample P is signiﬁcantly
+more bitter than the competition’s beers A and B; he therefore commences an investigation
+of possible contamination of P with extraneous bitter-tasting substances.
+7.6
+Multisample Difference Test: Rating Approach—Evaluation by
+Analysis of Variance (ANOVA)
+7.6.1
+Scope and Application
+Use this method when the test objective is to determine in which way a particular sensory
+attribute varies over a number of t samples, where t may vary from 3 to 6 or, at most, 8, and
+it is possible to compare all t samples as one large set.
+Note: In descriptive analysis (see Chapter 10), when several samples are compared, the
+present method may be applied to each attribute.
+7.6.2
+Principle of the Test
+Subjects rate the intensity of the selected attribute on a numerical intensity scale, e.g.,
+a category scale (see pp. 55–60). Specify the scale to be used. Evaluate the results by the
+analysis of variance.
+7.6.3
+Test Subjects
+Select, train, and instruct the subjects as described on p. 66. Use no fewer than 8 subjects;
+discrimination is much improved if 16 or more can be used. Subjects may require special
+instruction to enable them to recognize the attribute of interest reproducibly (see Chapter
+9, pp. 144). Depending on the test objective, subjects may be selected who show high
+discriminating ability in the attribute.
+7.6.4
+Test Procedure
+For test controls and product controls, see pp. 25 and 34. Offer samples simultaneously if
+possible, or else sequentially. The subject receives the set of t samples in balanced
+Attribute Difference Tests: Multisample Difference Test: Rating Approach
+117

@@ -1,0 +1,43 @@
+2. Sample preparation. The equipment and methods of sample preparation should
+be described (time, temperature, any carrier used). Identify and describe raw
+materials and formulations if applicable.
+3. Sample presentation. The description should enable the reader to judge the
+degree of bias likely to be contained in the results and may include any of the
+following capable of inﬂuencing them:
+† Whether panelists work individually or as a group
+† Lighting used if different from normal
+† Sample quantity, container, utensils, temperature
+† Order of presentation (randomized, balanced)
+† Coding of sample containers, e.g., three-digit random numbers
+† Any special instructions such as mouth rinsing, information about the identity
+of samples or variable under test; time intervals between samples; samples
+being swallowed or expectorated
+† Any other variable that could inﬂuence the results, e.g., time of day, high or
+low humidity, age of samples, etc.
+Statistical techniques. The manner in which the data reported were derived from actual
+test responses should be deﬁned, e.g., conversion of scores to ranks. The type of statis-
+tical analysis used and the degree to which underlying assumptions (e.g., normality)
+are met should be discussed, as should the null hypothesis and alternate hypothesis, if
+not trivial.
+16.5
+Results and Discussion
+Results should be presented concisely in the form of tables and ﬁgures, and enough data
+should be given to justify conclusions. However, the same information should not be
+presented in both forms. Tabular data generally are more concise, except for trends and
+interactions that may be easier to see from ﬁgures.
+The results section should summarize the relevant collected data and the statistical
+analyses. All results should be shown, including those that run counter to the
+hypotheses. Reports of tests of signiﬁcance (F, c 2, t, r, etc.) should list the probability
+level, the degrees of freedom if applicable, the obtained value of the test statistic, and the
+direction of the effect.
+In the discussion section, the theoretical and practical signiﬁcance of the results
+should be pointed out and related to previous knowledge. The discussion should
+begin by brieﬂy stating whether the results support or fail to support any original
+hypothesis. The interpretation of data should be logically organized and should follow
+the design of the experiment. The results should be interpreted, compared, and
+contrasted (with limitations indicated), and the report should end with clear-
+cut conclusions.
+See Table 16.1 and Chapter 11, which illustrate the development of terminology and
+scales for a descriptive study.
+Guidelines for Reporting Results
+415

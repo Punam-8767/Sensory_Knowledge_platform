@@ -1,0 +1,49 @@
+(if directed to the project leader) should state and explain the test objective; if the report
+covers a complete project, it should state and explain the project objective as well as the
+objective of each test that formed part of the project.
+In some cases, e.g., if the report is for publication, the explanation should take the form
+of an introduction that includes a review, with references, of pertinent previous work. This
+should be followed by a brief deﬁnition of the problem. It is of great importance to state
+the approach that was taken to solve the problem; Chapter 15, Table 15.1, which follows
+the IFT (1981), should assist in this regard. If the study is based on a hypothesis, this
+hypothesis should be made evident to the reader in the introduction. Subsequent sections
+of the report should provide the test of the hypothesis.
+16.4
+Experimental
+The experimental section should provide sufﬁcient detail to allow the work to be repeated.
+Accepted methods should be cited by adequate references. It is sometimes overlooked that
+subheadings in the experimental section help the reader ﬁnd speciﬁc information. The
+section should describe the important steps in collecting the sensory data and will usually
+include the following:
+Experimental design. Assuming that the objective was clearly stated previously, the text
+should now explain the “layout” of the experiment in terms of the objective. If there are
+major and minor objectives, the report should show how this is reﬂected in the design. If
+an advanced design is used (randomized complete block, balanced incomplete block,
+Latin-square, etc.), it can be described by reference to the appropriate section of
+Cochran and Cox (1957: 469). Next, state the measurements made (e.g., sensory, physical,
+chemical), sample variables and level of the variables (where appropriate), number of
+replications, and limitations of the design (e.g., lots available for sampling, nature and
+number of samples evaluated in a test session). Describe the efforts made to reduce the
+experimental error.
+Sensory methods. When describing the methods employed, use the terminology in this
+book (see Chapter 15, Table 15.2 through Table 15.5), which is the same as that of the
+International Standards Organization (1985, 2004) and the IFT (1981).
+The panel. The number of panelists for each experimental condition should be stated
+as it inﬂuences the statistical signiﬁcance of the results obtained. If too few panelists
+are used, large differences are required for statistical signiﬁcance, whereas if too many
+are used (e.g., 1000 for a triangle test), statistical signiﬁcance may result when the
+actual difference is too small to have practical meaning. Changes in the panel during
+the course of the experiments should be avoided, but if they do occur, they must be
+fully described. The extent of previous training and the methods used to prepare the
+panelists for the current tests, including a full description of any reference standards
+used, are important information needed to judge the validity of the results. The
+composition of the panel (age, sex, etc.) should be described if any affective tests
+were part of the experiment.
+Conditions of the test. The physical conditions of the test area as well as the way samples
+are prepared and presented are important variables that inﬂuence both reliability and
+validity of the results. The report should contain the following information:
+1. Test area. The location of the test area (booth, store, home, bus) should be stated,
+and any distractions present (odors, noise, heat, cold, lighting) should be
+described together with efforts made to minimize their inﬂuence.
+Sensory Evaluation Techniques, 4th Ed., Ch. 16
+414

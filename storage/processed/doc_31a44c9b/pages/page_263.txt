@@ -1,0 +1,89 @@
+5. Evaluation Set
+Contents
+Code
+5% Sucrose/0.1% Citric Acid
+232
+5% Sucrose/0.2% Citric Acid
+715
+10% Sucrose/0.1% Citric Acid
+115
+5% Sucrose/0.3% NaCl
+874
+5% Sucrose/0.55% NaCl
+903
+10% Sucrose/0.3% NaCl
+266
+0.1% Citric Acid/0.3% NaCl
+379
+0.2% Citric Acid/0.3% NaCl
+438
+0.1% Citric Acid/0.55% NaCl
+541
+5% Sucrose/0.1% Citric Acid/0.3% NaCl
+627
+10% Sucrose/0.2% Citric Acid/0.55% NaCl
+043
+10% Sucrose/0.1% Citric Acid/0.3% NaCl
+210
+5% Sucrose/0.2% Citric Acid/0.3% NaCl
+614
+5% Sucrose/0.1% Citric Acid/0.55% NaCl
+337
+Prepare solutions by mixing equal quantities of the appropriate reference solu-
+tions. Solutions may be prepared 24–36 h prior to use. Refrigerate prepared samples.
+On day of evaluation, allow to warm to 708F and serve 10 ml per participant.
+BASIC TASTE COMBINATIONS EXERCISE:
+COMPOSITION OF EVALUATION SET
+CODE
+% SUCROSE
+% CITRIC ACID
+% NaCl
+232
+5
+0.10
+715
+5
+0.20
+115
+10
+0.10
+874
+5
+0.3
+903
+5
+0.55
+266
+10
+0.3
+379
+0.10
+0.3
+438
+0.20
+0.3
+541
+0.10
+0.55
+627
+5
+0.10
+0.3
+043
+10
+0.20
+0.55
+210
+10
+0.10
+0.3
+614
+5
+0.20
+0.3
+337
+5
+0.10
+0.55
+Sensory Evaluation Techniques, 4th Ed., Ch. 11
+246

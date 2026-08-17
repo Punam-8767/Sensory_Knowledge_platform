@@ -1,0 +1,124 @@
+observation for every one of the prespeciﬁed number of clusters. Instead of reassigning
+observations to different clusters, adjustment of the membership weights continues until
+the convergence criteria are met (e.g., minimal shift in the locations of the centers of the
+clusters).
+FCV offers the advantage of distinguishing observations that are strongly linked to a
+particular cluster (i.e., with membership weights close to C1.0) from those observations
+that have some association with more than one cluster (i.e., with membership weights
+nearly equal for two or more clusters). In addition, Jacobsen and Gunderson (1986) present
+a discussion of some approaches for determining the discriminatory importance of the
+original variables using an FCV clustering example of Norwegian beers based on gas-
+chromatographic data.
+An application of cluster analysis particularly important in sensory acceptance testing is
+that of identifying groups of respondents that have different patterns of liking across
+products. While some respondents may favor an increasing intensity of some ﬂavor note,
+others may ﬁnd it objectionable. Merging such distinct groups may lead to a misunder-
+standing of the acceptability of a product because, in statistical terms, failing to
+recognize the clusters leads to computing the mean of a multimodal set of data. The
+center of such a set of observations may not represent any real group of respondents
+and, thus, is an inappropriate summary measure of overall liking (see Figure 14.6).
+Control likers
+Dislikers
+Test likers
+3
+3
+3
+3
+3
+3 3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+Like test products
+Like control product
+FIGURE 14.6
+A plot of three clusters of respondents grouped by their patterns of overall liking for a group of yogurt products.
+The plot shows how the overall mean of the three groups would be a poor summary of the “average” liking for a
+product.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+364

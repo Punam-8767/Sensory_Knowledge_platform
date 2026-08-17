@@ -1,0 +1,60 @@
+signiﬁcance, an error frequently committed (Laing 1987). As a rule, one ﬁnds a typical
+Gaussian dose–response curve from which the 50%-point can be accurately determined
+after transformation of the experimental percentage points by one of the methods
+described in Example 8.2.
+To get from a collection of personal thresholds to a group threshold, it is noted that the
+frequency distribution tends to be bell-shaped for the majority (Meilgaard 1993).
+However, the curve’s right-hand tail tends to be longer than the left (see Figure 8.3)
+because most groups contain a proportion of individuals who show very low sensitivity
+to the stimulus in question. The measure of central tendency that makes most sense for
+such a group of observers may be the geometric mean as it gives less weight to the
+highest thresholds. A rank probability graph (Figure 8.5) is a useful tool for testing if a set
+of individual thresholds are normally distributed. This is determined to be true if a good
+0.2
+0
+50
+100
+Threshold
+level
+Proportion of yes responses
+1
+5
+ppm Exhaust in air
+25
+125
+×
+×
+×
+×
+×
+×
+×
+FIGURE 8.2
+Typical data from determination of personal
+threshold (for diesel exhaust in air).
+0.2
+0
+50
+100
+Threshold
+level
+Proportion of yes responses
+1
+5
+ppm Exhaust in air
+25
+125
+×
+×
+×
+×
+×
+FIGURE 8.1
+Conventional
+notion
+of
+the
+absolute
+threshold (for diesel exhaust in air).
+Determining Threshold
+131

@@ -1,0 +1,109 @@
+By choosing the treatment combinations that have the same sign for the coefﬁcients of
+the three-way interaction, any ability to estimate the magnitude of this effect has been
+sacriﬁced. ABC is called the deﬁning contrast because it is the criterion that was used to split
+the factorial into two 1⁄2-replications.
+Notice in Table 14.8 that within each group there are two C’s and two K’s for estimating
+each effect. These are the hidden replications that remain even when only half of the full
+factorial is run. Suppose that the ﬁrst group offour treatment combinations was selected to
+be run (i.e., the ABCC group). Then the main effect of variable A would (apart from a
+divisor of 2) be estimated by
+A Z abc CaKbKc:
+However, the estimate of the two-way interaction BC is also
+BC Z abc CaKbKc:
+The main effect of A is said to be aliased with the two-way interaction BC, notationally
+denoted as AZBC. Similarly, BZAC and CZAB. In practical terms, if two factorial effects
+are aliased, then it is impossible to separate their individual impacts on the responses of
+interest. The apparent effect of A may be really due to A or due to BC, or possibly even due
+to a combination of the two.
+The aliasing of main effects with interactions is the price paid for fractionalizing a
+factorial experiment. Typically, it is reasonable to assume that the magnitudes of the
+main effects are larger than the magnitudes of the interactions and, in such cases, fractional
+factorials can be used safely to screen for important experimental variables. If, however,
+large interactive effects are present, then a researcher may be misled into concluding that a
+variable has an important inﬂuence on the response when, in fact, it does not. This caution
+is not intended to frighten researchers away from using fractional factorials, but rather
+only to make them aware of the issue because it may serve to explain otherwise incon-
+gruous results that arise as a research program progresses.
+14.4.2.2
+Plackett–Burman Experiments
+Fractional factorials are not the only plans that can be used to screen for inﬂuential vari-
+ables. Plackett–Burman (1946) experiments are even more economical in the number of
+TABLE 14.8
+Factorial Effects in a 23 Factorial Experiment Arranged as Two 1⁄2-Replicate Fractional
+Factorial Experiments (ABCC and ABCK)
+Treatment
+Factorial Effects
+Combination
+A
+B
+C
+AB
+AC
+BC
+ABC
+a
+C
+K
+K
+K
+K
+C
+C
+b
+K
+C
+K
+K
+C
+K
+C
+c
+K
+K
+C
+C
+K
+K
+C
+abc
+C
+C
+C
+C
+C
+C
+C
+(I)
+K
+K
+K
+C
+C
+C
+K
+ab
+C
+C
+K
+C
+K
+K
+K
+ac
+C
+K
+C
+K
+C
+K
+K
+bc
+K
+C
+C
+K
+K
+C
+K
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+398

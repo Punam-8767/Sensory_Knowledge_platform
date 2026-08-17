@@ -1,0 +1,54 @@
+stimuli using chemical, common, or related terms and should at least attempt to describe
+the remainder with less speciﬁc terms (e.g., sweet, brown spice, hot spice).
+9.4.2.3
+Ranking/Rating Screening Tests for Descriptive Analysis
+Having passed the prescreening tests and acuity tests, the candidate is ready for screening
+with the actual product class and/or sensory attribute for which the panel is being
+selected. A good example for a Camembert cheese panel is given by Issanchou,
+Lesschaeve, and Ko¨ster (1995). Candidates should rank or rate a number of products on
+a selection of key attributes, using the technique of the future panel. These tests can be
+supplemented with a series of samples that demonstrate increasing intensity of certain
+attributes, such as tastes and odors (see Table 9.4), or oral texture properties (Appendix
+11.2, Texture Section D, Scale 5 is suitable, containing hardness standards from cream
+cheeseZ1.0 to hard candyZ14.5; also Scale 10 that contains standards for crispness
+from Granola Bar at 2.0 to cornﬂakes at 14.0). A questionnaire such as Table 9.7 is suitable.
+For certain skinfeel and fabric feel properties, use Appendix 11.2E or Appendix 11.2F, or
+reference samples may need to be selected from among commercial products and labora-
+tory prototypes that represent increasing intensity levels of selected attributes. Choose
+candidates who can rate all samples in the correct order for 80% of the attributes scaled.
+Allow for reversal of adjacent samples only, and check that candidates use most of the
+scale for at least 50% of the attributes tested.
+9.4.2.4
+Personal Interview
+Especially for descriptive panels, a personal interview is necessary to determine whether
+candidates are well suited to the group dynamics and analytical approach. Generally,
+candidates who have passed the prescreening questionnaire and all of the acuity tests
+are interviewed individually by the panel trainer or panel leader. The objective of the
+interview is to conﬁrm the candidate’s interest in the training and work phases of the
+panel, including his/her availability with respect to work load, supervisor, and travel, and
+also communication skills and general personality. Candidates who express little interest
+in the sensory programs as a whole, and in the descriptive panel in particular, should be
+excused. Individuals with very hostile or very timid personalities may also be excluded, as
+they may detract from the needed positive input of each panelist.
+TABLE 9.7
+Scoresheet Containing Two Ranking Tests Used to Screen Candidates for a Texture Panel
+Descriptive Texture Panel Screening
+1. Place one piece of each product between molars; bite through once; evaluate for hardness. Rank the
+samples from least hard to most hard
+Least hard
+_______________
+_______________
+_______________
+_______________
+Most hard
+_______________
+2. Place one piece of each product between molars; bite down once and evaluate for crispness (crunchiness)
+Least crisp
+_______________
+_______________
+_______________
+_______________
+Most crisp
+_______________
+Selection and Training of Panel Members: Descriptive Testing
+151

@@ -1,0 +1,117 @@
+Personnel, 142
+Physical condition factors, 43
+Physiological sensory verdict factors, 39–40
+Pick up, 202–203
+Plackett–Burman experiments, 398–399
+PLS see Partial least squares
+Point estimates, 316
+Populations, 313, 316, 329–332
+Positional bias, 42
+Potato chips, 234
+Power law, 50, 52
+Power of the statistical test, 326–327
+Practice scheduling, 167–168
+Practice stages, 153
+Prediction intervals, 322
+Preference mapping, 375–391
+affective tests, 291–294
+perceptual maps, 387–388
+segment identiﬁcation, 385–387
+Preference tests, 274–275
+Preparation areas, 30, 32
+Preparation procedures, 35
+Prescreening questionnaires, 150, 157–165
+Presentation factors, 42
+Presentation procedures, 35–36
+Principal component regression (PCR) 371–372
+Principal components analysis (PCA) 185, 360–362,
+376–389
+Probability, 325–327, 350–354
+Probability points, 421, 426–427, 428–431
+Problems, solution guidelines, 408–409
+Product controls, 34–37
+Product development, 258
+Product improvement/optimization, 257–258
+Product maintenance, 257
+Product orientation scheduling, 167–168
+Product space, 380–385
+Product-speciﬁc scaling, 56
+Project objectives, 407, 412
+Proportions, 316, 330–332
+Proprioception, 13
+Protocol design, 273, 305–308
+Prototype development, 287–288, 309
+Psychoacoustics, 21–22
+Psychological sensory verdict factors, 40–43
+Psychophysical theory, 48–53
+Published references and terms, 191
+Q
+QDA see Quantitative Descriptive Analysis
+Qualitative affective tests, 269–271, 291, 294–298
+Qualitative aspects, 174–175
+Quality assurance, 193–194
+Quality limits, 285–287
+Quantitative affective tests, 271–281
+Quantitative aspects, 175–176
+Quantitative Descriptive Analysis (QDA) 180–181
+Questionnaires, 150, 157–165, 272–273, 300–304
+R
+Randomized block analysis, 113–117, 340–343
+Randomized complete block design, 113–117
+Random number generation, 419
+Rank data, 342–343, 345–346
+Ranking
+difference tests, 122–125
+measuring responses, 47, 55
+selecting panelists, 145–146, 147, 151
+Rank probability graphs, 138
+Rapid prototype development, 287–288
+Rating approach, 117–122
+Ratings
+balanced incomplete block design, 344–345
+data summary analysis, 316, 318–319
+difference tests, 125–128
+multisample difference tests, 117–122, 125–128
+randomized block analysis, 341–342
+selecting panelists, 145–146, 147, 151
+split-plot designs, 348–349
+Ratio data, 45, 46
+Recruiting panelists, 147–148, 165
+Recruitment, 147–148, 165, 268
+Regression analysis, 365–374
+Rejection vs. acceptance tests, 101–102
+Relative humidity (RH) 33
+Reporting results, 4, 413–417
+Residual mean square criteria, 370
+Residuals, 201, 202, 366
+Respondents, 389
+Response surface methodology (RSM) 370, 392,
+399–404
+Result reporting guidelines, 413–417
+Retronasal odor, 17
+Reverse engineering, 388
+Rewards, 155–157
+RH (Relative humidity) 33
+Roll on antiperspirant skinfeel, 210–213
+Roughness tests, 81–82, 83
+RSM see Response surface methodology
+Rub-out, 203
+S
+Salaries, 168
+Salt, 245–247
+Same/different tests, 84–88
+Sampling
+comparison tests, 105–108
+consumer affective tests, 259–263
+product controls, 36–37
+replication, 338–339
+sample mean, 314–315, 318, 320
+sample preparation, 34
+sample presentation, 35–36, 42
+sample sizes, 35, 332–334
+sample standard deviation, 315, 318, 320, 322
+Satisfaction scores, 293
+Sauces, 85–88
+Scaling
+Sensory Evaluation Techniques, 4th Ed.
+446

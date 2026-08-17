@@ -1,0 +1,54 @@
+In other words, a power function has been obtained that describes the intensity of
+sourness, and the exponent of the function is equal to the ratio of the original exponents
+(Cardello and Maller 1987; Lawless and Heymann 1998; Marks et al. 1988). The advantage
+of this approach is that no numbers are assigned, so it gets around the tendency of subjects
+to use numbers differently, as mentioned on p. 51.
+References
+J.E. Amoore. 1977. “Speciﬁc anosmia and the concept of primary odors,” Chemical Senses and Flavor,
+2: 267–281.
+N.H. Anderson. 1970. “Functional measurement and psychological judgment,” Psychological Review,
+77: 153–170.
+N.H. Anderson. 1974. “Algebraic models in perception,” in Psychophysical Judgment and Measurement,
+Vol. 2 of Handbook of Perception, E.C. Carterette and M.P. Friedman, eds, New York: Academic
+Press, pp. 215–298.
+J.C. Baird and E. Noma. 1978. Fundamentals of Scaling and Psychophysics, New York:
+Wiley–Interscience.
+L.M. Beidler. 1954. “A theory of taste stimulation,” Journal of General Physiology, 38: 133–139.
+L.M. Beidler. 1974. “Biophysics of sweetness,” in Symposium: Sweeteners, G.E. Inglett, ed., Westport,
+CT: Avi Publishing, p. 10.
+G. Borg, H. Diamant, L. Strom, and Y. Zotterman. 1967. “The relation between neural and perceptual
+intensity: A comparative study on the neural and psychophysical responses to gustatory stimuli,”
+Journal of Physiology, 13: 192.
+G. Butler, L.M. Poste, M.S. Wolynetz, V.E. Ayar, and E. Larmond. 1987. “Alternative analyses of
+magnitude estimation data,” Journal of Sensory Studies, 2:4, 243–257.
+A.V. Cardello and O. Maller. 1987. “Psychophysical bases for the assessment of food quality,” in
+Objective Methods in Food Quality Assessment, J.D. Kapsalis, ed., Boca Raton, FL: CRC Press,
+pp. 61–125.
+M. Chastrette, T. Thomas-Danguin, and E. Rallet. 1998. “Modelling the human olfactory stimulus—
+response function,” Chemical Senses, 23: 181–196.
+R.L. Doty, ed. 2003. Handbook of Gustation and Olfaction, Section B: Human Psychophysics and Measure-
+ment of Odor-Induced Responses, New York: Marcel Dekker.
+R.L. Doty and D.G. Laing. 2003. “Psychophysical measurement of human olfactory function,
+including odorant mixture assessment,” in Handbook of Olfaction and Gustation, 2nd Ed.,
+R.L. Doty, ed., New York: Marcel Dekker, pp. 203–228.
+M.A. Einstein. 1976. “Use of linear rating scales for the evaluation of beef ﬂavor by consumers,”
+Journal of Food Science, 41: 383.
+G.T. Fechner. 1860. Elemente der Psychophysik, Leipzig: Breitkopf und Hartel.
+M.E. Giovanni and R.M. Pangborn. 1983. “Measurement of taste intensity and degree of liking of
+beverages by graphic scales and magnitude estimation,” Journal of Food Science, 48: 1175–1182.
+ISO. 1994. Sensory Analysis—Methodology—Magnitude Estimation, International Standard ISO 11056,
+available from International Organization for Standardization, Case Postale 56, 1rue Varembe´,
+CH1211 Ge´ne´ve 20, or from American National Standards Institute, 11 West 42nd St., New York,
+NY 10036.
+ISO. 1999. Sensory Analysis—Guidelines for the Use of Quantitative Response Scales, Draft International
+Standard ISO CD 4121, available from ISO, c/o AFNOR, Tour Europe, Cedex 7, 92049 Paris La
+De´fense.
+C.E. James, D.G. Laing, A.L. Jinks, N. Oram, and I. Hutchinson. 2003. “Taste response functions of
+adults and children using different rating scales,” Food Quality & Preference, 15: 77–82.
+J.W. Kling and L.A. Riggs, eds. 1971. Woodworth & Schlosberg’s Experimental Psychology,
+3rd Ed.,
+New York: Holt, Rinehart & Winston.
+D. Laming. 1994. “Psychophysics,” in Companion Encyclopedia of Psychology, A.M. Colman, ed.,
+London: Routledge, pp. 251–277.
+Sensory Evaluation Techniques, 4th Ed., Ch. 5
+60

@@ -1,0 +1,47 @@
+the method is also called the paired comparison test or the 2-AFC (2-alternative forced
+choice) test. It is one of the simplest and most used sensory tests that is often used ﬁrst to
+determine if other more sophisticated tests should be applied. Other forms of paired
+comparisons of two samples are the same/different test (see Chapter 6, p. 84) and the
+paired preference test (see Chapter 12, p. 274).
+When using a paired comparison test, it is necessary from the outset to distinguish
+between two-sided applications (bilateral, the most common) and one-sided applications
+(unilateral, when only one reply is of interest or only one reply is correct). (See Chapter 13,
+p. 324 and the note on p. 108).
+The uniﬁed approach also applies to the paired comparison test. The number of respon-
+dents required for the test is affected by (1) whether the test is one-sided (use Table 7.9) or
+two-sided (use Table 7.11); and (2) by the values chosen for the test-sensitivity parameters
+a, b, and pmax. In paired comparison tests, the parameter pmax replaces the parameter pd
+from the overall difference methods discussed in Chapter 6. pmax is the departure from
+equal intensity (i.e., a 50:50 split of opinion among respondents) that represents a mean-
+ingful difference to the researcher. For example, if the researcher considers a 60:40 split in
+the population of respondents to be a meaningfully large departure from equal intensity,
+then pmaxZ0.60 and the researcher ﬁnds the number of respondents in that section of the
+appropriate Table 7.9 or Table 7.11 for the chosen values of a and b. As a rule of thumb:
+† pmax!55% represents small departures from equal intensity
+† 55%%pmax%65% represents medium departures
+† pmaxO65% represents large departures
+7.2.2
+Principle
+Present to each subject two coded samples. Prepare equal numbers of the combinations AB
+and BA and allot them at random among the subjects. Ask the subject to taste the products
+from left to right and ﬁll in the scoresheet. Clearly inform the subject whether “no
+difference” verdicts are permitted.
+Only the “forced choice technique” is amenable to formal statistical analysis. However,
+in some cases subjects may object quite strenuously to inventing a difference when none is
+perceived. The sensory analyst must then decide whether to (1) divide their scores evenly
+over the two samples or (2) ignore them. Procedure (1) decreases the probability of ﬁnding
+a difference while procedure (2) increases it; hence, the analyst must face the temptation to
+inﬂuence the results one way or the other. In practice, about one-half of analysts prohibit
+“no difference” verdicts. The other half, having found that a happy panel is a better panel,
+most frequently use procedure (1).
+7.2.3
+Test Subjects
+Because of the simplicity of the test, it can be conducted with subjects who have received
+a minimum of training; it is sufﬁcient that subjects are completely familiar with the attri-
+bute under test. Or, if a test is of particular importance (e.g., an off-ﬂavor in a product
+already on the market), highly trained subjects may be selected who have shown special
+acuity for the attribute.
+Because the chance of guessing is 50%, fairly large numbers of test subjects are required.
+Table 7.12 shows that, e.g., with 15 presentations, 13 must agree if a signiﬁcance level of
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+106

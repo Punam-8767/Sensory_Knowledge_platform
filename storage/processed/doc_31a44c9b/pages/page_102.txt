@@ -1,0 +1,43 @@
+that need to be applied to the skin in half-face tests, and samples that are very complex
+stimuli and are mentally confusing to the panelists.
+As with other overall difference tests, the same/different test is effective in situations:
+1. To determine whether product differences result from a change in ingredients,
+processing, packaging, or storage.
+2. To determine whether an overall difference exists, where no speciﬁc attribute(s)
+can be identiﬁed as having been affected.
+This test is somewhat time consuming because the information on possible product
+differences is obtained by comparing responses obtained from different pairs (A/B and
+B/A) with those obtained from matched pairs (A/A and B/B). The presentation of the
+matched pair enables the sensory analyst to evaluate the magnitude of the “placebo effect”
+of simply asking a difference question.
+6.6.2
+Principle of the Test
+Present each subject with two samples, asking whether the samples are the same or
+different. In half of the pairs, present the two different samples; in half of the pairs,
+present a matched pair (the same sample, twice). Analyze results by comparing the
+number of “different” responses for the matched pairs to the number of “different”
+responses for the different pairs, using the c2-test.
+6.6.3
+Test Subjects
+Generally, 20–50 presentations of each of the four sample combinations (A/A, B/B, A/B,
+B/A) are required to determine differences. Up to 200 different subjects can be used, or 100
+subjects may receive two of the pairs. If the same/different test has been chosen because of
+the complexity of the stimuli, then no more than one pair should be presented to any one
+subject at a time. Subjects may be trained or untrained but panels should not consist of
+mixtures of the two.
+6.6.4
+Test Procedure
+For test controls and product controls, see p. 66. Offer samples simultaneously if possible,
+or else successively. Prepare equal numbers of the four pairs and present them at random
+to the subjects, if each is to evaluate only one pair. If the test is designed such that each
+subject is to evaluate more than one pair (one matched and one different or all four
+combinations), then records of each subject’s test scores must be kept. Typical worksheets
+and scoresheets are given in Example 6.10.
+6.6.5
+Analysis and Interpretation of Results
+See Example 6.10.
+Example 6.10: Replacing a Processing Cooker for Barbecue Sauce
+Problem/situation: In an attempt to modernize a condiment plant a manufacturer must
+replace an old cooker used to process barbecue sauce. The plant manager would like to
+Overall Difference Tests: Same/Different Test (or Simple Difference Test)
+85

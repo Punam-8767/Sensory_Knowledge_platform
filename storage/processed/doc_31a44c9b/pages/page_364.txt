@@ -1,0 +1,94 @@
+13.5.6
+Split-Plot Designs
+In randomized-block and balanced-incomplete-block designs, panelists are treated as a
+blocking factor; that is, it is assumed that the panelists are an identiﬁable source of varia-
+bility that is known to exist before the study is run and, therefore, should be compensated
+for in the design of the panel. In ANOVA the effects of environmental factors (e.g., judges)
+and treatment factors (e.g., products) are assumed to be additive. In practice, this assump-
+tion implies that although panelists may use different parts of the sensory rating scales to
+express their perceptions, the size and direction of the differences among the samples are
+perceived and reported in the same way by all of the panelists. Of course, the data actually
+collected in a study diverge slightly from the assumed pattern due to experimental error.
+Another way of stating this assumption is that there is no “interaction” between blocks
+and treatments (e.g., judges and samples) in a randomized-block or BIB design. For a
+group of highly trained, motivated, and “calibrated” panelists, the assumption of no
+Serving order
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+Session
+S1
+S1
+S1
+S1
+S1
+S2
+S2
+S2
+S2
+S2
+S3
+S3
+S3
+S3
+S3
+S4
+S4
+S4
+S4
+S4
+S5
+S5
+S5
+S5
+S5
+FIGURE 13.14
+The Latin-square arrangement of serving
+orders by sessions for one judge and a
+ﬁve-sample study. The sample codes S1,
+S2,.,S5 are assigned randomly to the
+samples in the study. The serving orders
+and session orders are randomly permuted
+for each judge individually.
+TABLE 13.16
+ANOVA Table for Latin-Square Designs Using Ratings
+Source of
+Variability
+Degrees of
+Freedom
+Sum of
+Square
+Mean
+Squares
+F
+Total
+pt2K1
+SST
+Judges
+pK1
+SSJ
+Sessions (within
+judge)
+p(tK1)
+SSP
+Order (within judge)
+p(tK1)
+SSO
+Samples
+dfSZtK1
+SSS
+MSSZSSS/dfS
+MSS/MSE
+Error
+dfEZ(ptKpK1)(tK1)
+SSE
+MSEZSSE/dfE
+Basic Statistical Methods
+347

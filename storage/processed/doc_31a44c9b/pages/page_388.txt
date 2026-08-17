@@ -1,0 +1,53 @@
+observations in the data set is greater than the number of independent variables.
+For instance, if the number of descriptive attributes is greater than the number of
+samples, then Mallow’s Cp criterion could not be used.
+Another group of variable selection procedures used in multiple regression is the
+forward inclusion, backward elimination, and stepwise selection procedures. These use
+similar criteria for deciding if an independent variable should be included in the model or
+not. Forward inclusion starts by adding to the model the independent variable that maxi-
+mizes the reduction in the unexplained variability, measured by the residual sum of
+squares (SSRes). Additional terms are added based on the additional reduction in SSRes
+that occurs as a result of their inclusion. Computer packages use an “F-to-enter” statistic to
+determine if adding a particular term will result in a statistically signiﬁcant reduction in
+the unexplained variability. The independent variable with the largest F-to-enter value
+is the next term added to the model. The F-to-enter value can be set to correspond
+to the analyst’s desired signiﬁcance level. For example, a value of 4.0 corresponds
+roughly to aZ0.05 for data sets containing 30–50 observations. The forward inclusion
+procedure continues to add terms until none of the F-to-enter values are large enough
+(compared to the value set in the program).
+Backward elimination starts with all of the independent variables in the model and
+proceeds to eliminate terms based on how little of the variability in the dependent variable
+they explain. Computer packages use an “F-to-remove” statistic to measure how unim-
+portant a particular term is. The term with the smallest F-to-remove is the next one to be
+excluded from the model. Once again, the analyst can select the value for F-to-remove, and
+the procedure will continue to remove terms until none of the F-to-removes are too small
+(4.0 is also a good initial value for F-to-remove).
+Stepwise selection is the recommended variable selection procedure for building
+multiple linear regression models. Stepwise selection combines forward inclusion with
+backward elimination by allowing for either the addition or removal of a term at each step
+of the procedure (starting after two terms have been added). Terms are initially added to
+the model using the F-to-enter criteria from forward selection. Because of multicolinearity,
+the importance of each term in the model changes depending on which other terms are
+also in the model. A term in the model may become redundant as others are added.
+Stepwise selection allows for such a term to be removed, using the F-to-remove criteria
+from backward elimination. The values of F-to-enter and F-to-remove are recomputed for
+each independent variable at each step of the procedure. The analysis ends when none of
+the statistics satisfy the values set by the analyst.
+All of the diagnostics used to assess the quality of the model in simple linear regression
+should be used to determine the goodness of ﬁt of the multiple linear regression model.
+These include R2 (now also including R2
+adj), MSRes, conﬁdence intervals on the individual
+coefﬁcients, and most importantly, plots of the residuals. The potential for missing
+nonlinear relationships or outliers is higher in multiple linear regression because of the
+difﬁculty of visualizing in more than three dimensions. Plots of the residuals vs. the
+independent variables is the easiest way to explain problems and/or to determine if
+further improvements in the model are possible.
+14.2.2.2
+Principal Component Regression
+A weakness of multiple linear regression is the manner in which it deals with correlated
+predictor variables (i.e., the x variables), a problem called multicolinearity. As noted in
+the previous section, if two highly correlated predictor variables are included in the
+regression model, the size and even the sign of the slope coefﬁcients can be misleading.
+The problem is overcome to some degree by using one of the variable selection
+Advanced Statistical Methods
+371

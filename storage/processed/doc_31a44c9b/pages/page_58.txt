@@ -1,0 +1,47 @@
+well-motivated panelists should not let themselves be inﬂuenced by accidental knowledge
+about a sample; in practice, however, the subject does not know how much to adjust his
+verdict for the expected autosuggestion, and it is much better for him/her to be ignorant of
+the history of the sample.
+4.3.2
+Error of Habituation
+Humans have been described as creatures of habit. This description holds true in the
+sensory world and leads to an error, the error of habituation. This error results from a
+tendency to continue to give the same response when a series of slowly increasing or
+decreasing stimuli are presented, for example, in quality control from day to day. The
+panelist tends to repeat the same scores and hence to miss any developing trend or even
+accept an occasional defective sample. Habituation is common and must be counteracted
+by varying the types of product or presenting doctored samples.
+4.3.3
+Stimulus Error
+This error is caused when irrelevant criteria, such as the style or color of the container,
+inﬂuence the observer. If the criteria suggest differences, the panelist will ﬁnd them even
+when they do not exist. For example, Amerine, Pangborn, and Roessler (1965) presented
+an example in which tasters, knowing that wines in screw-capped bottles were, at that
+time, usually less expensive, may produce lower ratings when served from such bottles
+than if served from cork-closure bottles. Urgently-called panel sessions may trigger
+reports of known production defects. Samples served late in a test may be rated more
+ﬂavorful because panelists know that the panel leader will present light-ﬂavored samples
+ﬁrst to minimize fatigue. The remedies in these cases are obvious: avoid leaving irrelevant
+(as well as relevant) cues, schedule panel sessions regularly, and make frequent and
+irregular departures from any usual order or manner of presentation.
+4.3.4
+Logical Error
+Logical errors occur when two or more characteristics of the samples are associated in the
+minds of the assessors. Knowledge that a darker beer tends to be more ﬂavorful, or that
+darker mayonnaise tends to be stale, causes the observer to modify his verdict, thus dis-
+regarding his own perceptions. Logical errors must be minimized by keeping the samples
+uniform and by masking differences with the aid of colored glasses, colored lights, etc.
+Certain logical errors cannot be masked but may be avoided in other ways; for example,
+a more bitter beer will always tend to receive a higher score for hop aroma. With trained
+panelists, the leader may attempt to break the logical association by occasionally doctoring a
+sample with quinine to produce high bitterness combined with low hop aroma.
+4.3.5
+Halo Effect
+When more than one attribute of a sample is evaluated, the ratings will tend to inﬂu-
+ence each other (halo effect). Simultaneous scoring of various ﬂavor aspects along with
+overall acceptability can produce different results than if each characteristic is evaluated
+separately. For example, in a consumer test of orange juice, subjects are asked not only
+to rate their overall liking, but also to rate speciﬁc attributes. When the product is
+generally well liked, all of its various aspects—sweetness, acidity, fresh orange
+Factors Inﬂuencing Sensory Verdicts
+41

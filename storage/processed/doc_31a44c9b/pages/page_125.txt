@@ -1,0 +1,55 @@
+Project objective: To develop a product that is high in fresh-squeezed lemon character.
+Test objective: To determine which, if either, of the two ﬂavor systems tastes more like
+fresh-squeezed lemonade.
+Test design: As different people may have different ideas of fresh-squeezed ﬂavor, a large
+panel is needed, but training is not a strong requirement. A paired comparison test with 40
+subjects and an a-error of 5%, i.e., aZ0.05, is deemed suitable. The null hypothesis is H0:
+Freshness AZ Freshness B. The alternative hypothesis is Ha: Freshness AsFreshness B;
+either outcome is of interest, hence the test is two-sided. The samples are coded “691” and
+“812,” and the scoresheet shown in Figure 7.1 is used to collect the data.
+Screen samples: Taste samples in advance to conﬁrm that the intensity of lemon ﬂavors is
+similar in the two samples.
+Analyze results: Sample 812 is chosen by 26 subjects as having more fresh-squeezed
+lemon ﬂavor. Four subjects report “no difference” and are divided between the two
+samples. From Table 7.12, conclude that, with 28 out of 40 choosing 812, the number is
+sufﬁcient to constitute a signiﬁcant difference.
+Interpret results: Suggest that formulation 812 is used in the future, as it has signiﬁcantly
+more fresh-squeezed lemon character in the opinion of this test panel.
+Example 7.2: Directional Difference (One-Sided)—Beer Bitterness
+Problem/situation: A brewer receives reports from the market that his beer “A” is deemed
+insufﬁciently bitter, and a test brew “B” is made using a higher hop rate.
+Project objective: To produce a beer that is perceptibly more bitter, but not excessively so.
+Test objective: To compare beers A and B to determine whether a small but signiﬁcant
+increase in bitterness has been attained.
+Test design: A paired-comparison/directional difference test is chosen because the point
+of interest is the increase in bitterness, nothing else. The project leader opts for a high
+degree of certainty, i.e., aZ0.01. The sensory analyst codes the beers “452” and “603” and
+offers them to a panel of 30 subjects of proven ability to detect small changes in bitterness.
+The scoresheet asks “Which sample is more bitter?” (not “Is 603 more bitter than 452?”) so
+as not to bias the subjects.
+Screen samples: The samples are tasted by a small panel of six to make certain that
+differences other than bitterness are minimal.
+Analyze results: Sample B is selected by 22 subjects. The null hypothesis is H0: Bitterness
+AZ Bitterness B, but the alternate hypothesis is Ha: Bitterness BOBitterness A, making the
+test one-sided. The analyst concludes from Table 7.10 that a difference in bitterness was
+perceived at a Z 0.008. The test brew was successful.
+Note: The important point in deciding whether a paired-comparison test is one- or
+two-sided is whether the alternative hypothesis is one- or two-sided, not whether the
+question asked of the subjects has one or two replies. One-sided test situations occur
+mainly where the test objective is to conﬁrm a deﬁnite “improvement” or treatment effect
+(see also Chapter 13, p. 324). Some examples of one- and two-sided test situations are:
+One-Sided
+Two-Sided
+Conﬁrm that test brew is more bitter
+Decide which test brew is more bitter
+Conﬁrm that test product is preferred
+(as we had prior reason to expect)
+Decide which product is preferred
+In training tasters: which sample is
+more fruity (doctored samples used)
+Most other test situations—whenever
+the alternative hypothesis is that the
+samples are different, rather than
+“one is more than the other”
+Sensory Evaluation Techniques, 4th Ed., Ch. 7
+108

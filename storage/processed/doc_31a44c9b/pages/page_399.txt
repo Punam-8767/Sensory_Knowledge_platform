@@ -1,0 +1,80 @@
+Any elimination of products or attributes needs to be carried out with caution. When-
+ever possible, conduct the analyses with all products and attributes, then repeat the
+analysis with larger and larger groups of products and attributes eliminated. The multiple
+analyses often reveal interesting insights concerning the unique products and attributes,
+as well as clearer understanding about what is driving liking in the category as a whole.
+A preliminary screening of the candidate products can be used to determine how well
+the products ﬁll the sensory space of the category. The researcher may decide to eliminate
+extreme products, or products that possess unique attributes, to obtain a more uniform
+coverage of the new, more narrowly deﬁned category. Alternatively, additional products
+or speciﬁcally formulated prototypes could be added to the study to ﬁll any “gaps” in the
+sensory space. This screening also provides some context for the researcher when the data
+is analyzed and mined for information and insights.
+For the prepared meals data, the attributes potato ﬂavor, red bell pepper ﬂavor, and sweet-
+ness were eliminated because of trivial variability. Corn ﬂavor was eliminated because only
+sample D had a supra-threshold intensity, and preliminary correlation analyses revealed
+that corn ﬂavor had no signiﬁcant impact on acceptance. The remaining 26 attributes were
+submitted to a PCA.
+The ﬁrst decision that must be made in the development of the perceptual map is how
+many dimensions (i.e., factors) to include on the map. Three criteria are used to make this
+decision. The ﬁrst is to determine when there are no more large big drops in the magnitudes
+of the eigenvalues. Eigenvalues measure the amount of variability each dimension explains.
+If adding another dimension to the map does not substantially increase the amount of
+variability being explained, it may be time to stop. This criterion is best assessed graphically
+through the use of a scree plot. When the eigenvalues in the plot begin to ﬂatten out, it is time
+to quit adding dimensions (see Figure14.14). The second criterion is to stop once at least 75%
+of the total variability in the data has been explained. The third criterion is to stop adding
+dimensions when the individual eigenvalues fall below 1.0. All standard PCA output
+includes these two pieces of information (see Table 14.3).
+Examination of Figure 14.14 reveals that the eigenvalues begin to ﬂatten out at the third
+dimension. Examination of Table 14.3 reveals that 75% of the variability is explained by
+just two dimensions and that the individual eigenvalues fall below 1.0 at six dimensions. It
+was decided to ﬁt two-, three- and four-dimensional solution and to examine the resulting
+factor loadings to see which made the most sense from the sensory and product points of
+TABLE 14.3
+Summary of Eigenvalues and Explained Variability from the PCA
+Factor
+Eigenvalue
+Variability
+Explained (%)
+Cumulative (%)
+1
+14.98
+58
+58
+2
+4.59
+18
+75
+3
+2.22
+9
+84
+4
+1.41
+5
+89
+5
+1.23
+5
+94
+6
+0.76
+3
+97
+7
+0.44
+2
+99
+8
+0.24
+1
+100
+9
+0.12
+0
+100
+Seventy-ﬁve percent of the variability is explained by the ﬁrst two factors. Eigenvalues are
+greater than one up to factor 5.
+Sensory Evaluation Techniques, 4th Ed., Ch. 14
+382
